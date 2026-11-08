@@ -4,7 +4,8 @@ let quiz = [];
 fetch("questions.json")
   .then(response => response.json())
   .then(data => {
-    quiz = data;
+    // Normalise "correct" en tableau (accepte 2 ou [2] dans le JSON)
+    quiz = data.map(q => ({ ...q, correct: Array.isArray(q.correct) ? q.correct : [q.correct] }));
   })
   .catch(error => {
     console.error("Error loading quiz questions:", error);
@@ -22,41 +23,13 @@ let markedQuestions = JSON.parse(localStorage.getItem('markedQuestions')) || [];
 let exerciseResults = JSON.parse(localStorage.getItem('exerciseResults')) || {};
 let currentRangeKey = ''; // Pour suivre la plage actuelle
 
-function chooseExamRange() {
-  window.scrollTo(0,0);
-  hideAll();
-  document.getElementById("examRangePage").classList.remove("hidden");
-}
-
 function startExam() {
   window.scrollTo(0,0);
   mode = 'exam';
   timeLeft = 120 * 60;
   
-  // Limiter aux questions 1-210 uniquement
-  const rangeQuestions = quiz.slice(0, 210);
-  numQuestions = Math.min(75, rangeQuestions.length);
-  
-  // Mélanger les questions de manière aléatoire dans la plage 1-210
-  shuffledQuiz = [...rangeQuestions].sort(() => Math.random() - 0.5).slice(0, numQuestions);
-  
-  hideAll();
-  document.getElementById("game").classList.remove("hidden");
-  document.getElementById("timer").classList.remove("hidden");
-  document.getElementById("score").classList.remove("hidden");
-  currentQuestion = 0;
-  score = 0;
-  showQuestions();
-  startTimer();
-}
-
-function startExamRange(start, end) {
-  window.scrollTo(0,0);
-  mode = 'exam';
-  timeLeft = 120 * 60;
-  
-  // Limiter aux questions de la plage sélectionnée
-  const rangeQuestions = quiz.slice(start - 1, end);
+  // Tirer parmi toutes les questions disponibles
+  const rangeQuestions = quiz;
   numQuestions = Math.min(75, rangeQuestions.length);
   
   // Mélanger les questions de manière aléatoire
@@ -303,6 +276,14 @@ function nextQuestion() {
   showQuestion();
 }
 
+function showExplanation(questionDiv, q) {
+  if (!q.explanation || questionDiv.querySelector(".explanation")) return;
+  const explanationElem = document.createElement("p");
+  explanationElem.className = "explanation";
+  explanationElem.textContent = q.explanation;
+  questionDiv.appendChild(explanationElem);
+}
+
 function checkAnswer(questionIndex) {
   const q = shuffledQuiz[questionIndex];
   const questionDiv = document.querySelector("#questions .question:nth-child(1)");
@@ -334,6 +315,7 @@ function checkAnswer(questionIndex) {
     messageElem.textContent = "Attention il y a plusieurs bonnes réponses";
     questionDiv.appendChild(messageElem);
   }
+  showExplanation(questionDiv, q);
   const correctSelected = candidateSelected.filter(ans => q.correct.includes(ans)).length;
   const incorrectSelected = candidateSelected.length - correctSelected;
   if (correctSelected === q.correct.length && incorrectSelected === 0) {
@@ -382,7 +364,8 @@ function endExam() {
       messageElem.textContent = "Attention il y a plusieurs bonnes réponses";
       questionDiv.appendChild(messageElem);
     }
-    
+    showExplanation(questionDiv, q);
+
     // Calculer le score
     const correctSelected = candidateSelected.filter(ans => q.correct.includes(ans)).length;
     const incorrectSelected = candidateSelected.length - correctSelected;
