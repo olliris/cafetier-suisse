@@ -1,0 +1,2924 @@
+[
+    {
+        "question": "4.1.1. Quelles sont les principales références légales qui régissent l'hygiène alimentaire ?",
+        "answers": [
+            "La Loi sur les Denrées Alimentaires et les Objets Usuels (LDAl)",
+            "Les ordonnances du Conseil Fédéral",
+            "Le Code Civil",
+            "La Déclaration des Droits de l'Homme"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Parmi les principales références légales, on trouve : Loi sur les Denrées Alimentaires et les Objets Usuels (LDAl) : Cette loi établit les normes de sécurité et d'hygiène applicables aux denrées alimentaires. Ordonnances du Conseil Fédéral : Elles précisent les exigences d'hygiène pour le personnel, les locaux et les denrées alimentaires."
+    },
+    {
+        "question": "4.1.2. Quelles sont les mesures essentielles pour garantir l'hygiène professionnelle ?",
+        "answers": [
+            "Séparation des zones propres et sales",
+            "Utilisation de matériaux faciles à nettoyer",
+            "Formation du personnel aux normes d'hygiène",
+            "Port obligatoire de bijoux pour le personnel"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "L'hygiène professionnelle englobe l'ensemble des mesures mises en place pour assurer un environnement de travail sain et sécurisé dans le secteur alimentaire. Voici quelques éléments clés : 1. Séparation des zones : Il est crucial de distinguer les zones propres des zones sales pour éviter toute contamination croisée. 2. Matériaux adaptés : Les surfaces doivent être faciles à nettoyer, hydrofuges et résistantes à l'abrasion. 3. Formation du personnel : Chaque employé doit être formé aux normes d'hygiène et aux procédures de nettoyage."
+    },
+    {
+        "question": "4.1.3. Quels sont les moments où il est impératif de se laver les mains ?",
+        "answers": [
+            "Avant de commencer à travailler",
+            "Après avoir utilisé les toilettes",
+            "Après avoir éternué ou toussé",
+            "Avant de quitter le lieu de travail"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Il est impératif de se laver les mains dans les situations suivantes : Avant de commencer à travailler, Après avoir utilisé les toilettes, Après avoir éternué ou toussé, Avant de passer d'une tâche à une autre."
+    },
+    {
+        "question": "4.1.4. Quelles sont les trois fréquences auxquelles les nettoyages sont effectués ?",
+        "answers": [
+            "Nettoyage courant",
+            "Nettoyage quotidien",
+            "Nettoyage périodique",
+            "Nettoyage annuel"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "On procède aux nettoyages à des fréquences variables : 1. Nettoyage courant : Réalisé entre les différentes étapes de travail pour maintenir un environnement propre. 2. Nettoyage quotidien : Effectué après l'utilisation des machines et des appareils pour éviter l'accumulation de salissures. 3. Nettoyage périodique : Un nettoyage en profondeur des cuisines et des zones sensibles, à réaliser régulièrement pour garantir une hygiène optimale."
+    },
+    {
+        "question": "4.1.5. Quels éléments doivent figurer dans un plan de nettoyage documenté ?",
+        "answers": [
+            "La description des tâches de nettoyage",
+            "La fréquence des nettoyages",
+            "Les noms des employés responsables",
+            "Les recettes des plats préparés"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Un plan de nettoyage documenté doit être établi et respecté. Ce plan doit être : Documenté : Chaque tâche de nettoyage doit être clairement décrite, incluant la fréquence et les méthodes à utiliser. Contrôlé : Des feuilles de contrôle doivent être utilisées pour attester que les tâches de nettoyage ont été effectuées. Ces documents doivent être archivés pendant au moins un an."
+    },
+    {
+        "question": "4.1.6. Quels sont les objectifs de l'autocontrôle dans un établissement alimentaire ?",
+        "answers": [
+            "Maîtriser les risques en matière d'hygiène alimentaire",
+            "Garantir la sécurité des consommateurs",
+            "Réduire les coûts de nettoyage",
+            "Éviter les inspections des autorités"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les buts de l'autocontrôle sont la maîtrise des risques en matière d'hygiène alimentaire à tous les stades de la réception, de l'entreposage, de la manipulation, de la transformation et de la remise des denrées alimentaires aux consommatrices et consommateurs."
+    },
+    {
+        "question": "4.1.7. Vrai ou Faux : Les employés peuvent porter des bijoux s'ils respectent les autres normes d'hygiène.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "Les employés ne doivent pas porter de montres ni de bijoux qui pourraient contaminer les aliments."
+    },
+    {
+        "question": "4.1.8. Vrai ou Faux : La formation du personnel en matière d'hygiène est une obligation légale.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "En matière d'hygiène professionnelle, la formation des collaboratrices et collaborateurs est une obligation légale."
+    },
+    {
+        "question": "4.1.9. Vous êtes responsable d'un établissement de restauration. Lors d'un audit interne, vous constatez que le plan de nettoyage n'a pas été mis à jour depuis plus d'un an et que certaines tâches ne sont pas documentées. Quelle est la meilleure action à entreprendre pour remédier à cette situation ?",
+        "answers": [
+            "Mettre à jour immédiatement le plan de nettoyage en incluant toutes les tâches nécessaires, leur fréquence et les responsables.",
+            "Former ou rappeler aux employés les procédures de nettoyage et l'importance de la documentation.",
+            "Continuer à utiliser l'ancien plan de nettoyage jusqu'au prochain audit externe.",
+            "Réaliser uniquement un nettoyage en profondeur pour compenser le manque de documentation."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Un plan de nettoyage documenté et mis à jour est essentiel pour garantir des conditions d'hygiène optimales et respecter les obligations légales. Il est également crucial de former les employés pour s'assurer qu'ils comprennent et appliquent correctement les procédures. Continuer avec un plan obsolète ou compenser par un nettoyage ponctuel ne répond pas aux exigences légales ni aux bonnes pratiques."
+    },
+    {
+        "question": "4.1.10. Un employé de cuisine est surpris en train de manipuler des aliments prêts à consommer sans s'être lavé les mains après avoir manipulé des produits crus. Quelle est la meilleure manière de gérer cette situation ?",
+        "answers": [
+            "Lui rappeler immédiatement l'importance de se laver les mains entre la manipulation de produits crus et prêts à consommer, et lui demander de le faire sur-le-champ.",
+            "Organiser une session de rappel sur les bonnes pratiques d'hygiène pour tout le personnel.",
+            "Ignorer l'incident car il s'agit d'une erreur isolée.",
+            "Sanctionner l'employé sans explication pour éviter que cela ne se reproduise."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Il est crucial de rappeler immédiatement les bonnes pratiques d'hygiène pour éviter tout risque de contamination croisée. Une formation ou un rappel collectif permet de renforcer les connaissances de l'équipe et de prévenir d'autres incidents. Ignorer ou sanctionner sans explication ne contribue pas à une amélioration durable des pratiques."
+    },
+    {
+        "question": "4.2.1. Quelles sont les mesures essentielles pour prévenir les risques d'incendie en cuisine professionnelle ?",
+        "answers": [
+            "Établir un plan d'alarme incendie",
+            "Nettoyer régulièrement les hottes de ventilation",
+            "Utiliser des huiles inflammables sans précaution",
+            "Obstruer les sorties de secours"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "La prévention des risques d'incendie inclut : établir un plan d'alarme incendie, nettoyer régulièrement les hottes de ventilation et les aérations pour éviter l'accumulation de graisse."
+    },
+    {
+        "question": "4.2.2. Quels équipements de protection individuelle (EPI) sont recommandés pour minimiser les risques de blessures en cuisine ?",
+        "answers": [
+            "Chaussures antidérapantes",
+            "Gants de protection",
+            "Sandales ouvertes",
+            "Lunettes de soleil"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les employés doivent porter des vêtements appropriés, tels que des chaussures antidérapantes et des gants de protection, pour minimiser les risques de blessures."
+    },
+    {
+        "question": "4.2.3. Quels éléments doivent être vérifiés régulièrement pour garantir la sécurité en cuisine ?",
+        "answers": [
+            "Équipements de sécurité (extincteurs, détecteurs)",
+            "Équipements électriques",
+            "Décorations murales",
+            "Plantes d'intérieur"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les équipements de sécurité doivent être vérifiés mensuellement, et les équipements électriques trimestriellement."
+    },
+    {
+        "question": "4.2.4. Quelles sont les bonnes pratiques pour éviter les coupures en cuisine ?",
+        "answers": [
+            "Utiliser le couteau approprié pour chaque tâche",
+            "Ranger les couteaux dans des supports de protection",
+            "Laisser les couteaux immergés dans un évier",
+            "Utiliser un couteau pour ouvrir une boîte de conserve"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Pour éviter les coupures, il est essentiel d'utiliser le couteau approprié pour chaque tâche et de ranger les couteaux dans des supports de protection."
+    },
+    {
+        "question": "4.2.5. Quelles mesures doivent être prises pour prévenir les brûlures en cuisine ?",
+        "answers": [
+            "Utiliser des gants de cuisine pour manipuler des plats chauds",
+            "Remuer les liquides avec des ustensiles à long manche",
+            "Toucher directement les surfaces chaudes",
+            "Porter des vêtements amples près des flammes"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les précautions incluent l'utilisation de gants de cuisine, de maniques, et d'ustensiles à long manche pour manipuler des liquides chauds."
+    },
+    {
+        "question": "4.2.6. Quels sont les éléments essentiels d'une pharmacie de cuisine ?",
+        "answers": [
+            "Compresses stériles",
+            "Gel pour brûlures",
+            "Parfum",
+            "Crème solaire"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Une pharmacie de cuisine bien équipée inclut des compresses stériles, du gel pour brûlures, et d'autres articles essentiels pour les premiers secours."
+    },
+    {
+        "question": "4.2.7. Quelles sont les bonnes pratiques pour éviter les chutes en cuisine ?",
+        "answers": [
+            "Nettoyer immédiatement les sols glissants",
+            "Porter des chaussures fermées avec semelles antidérapantes",
+            "Encombrer les voies de passage",
+            "Ignorer les déversements de liquides"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Pour éviter les chutes, il est crucial de nettoyer immédiatement les sols glissants et de porter des chaussures adaptées."
+    },
+    {
+        "question": "4.2.8. Que faut-il faire en cas de brûlure grave ?",
+        "answers": [
+            "Rafraîchir la zone brûlée avec de l'eau fraîche",
+            "Couvrir la plaie avec un tissu propre",
+            "Percer les cloques",
+            "Appliquer de l'huile ou du beurre sur la brûlure"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "En cas de brûlure, il faut rafraîchir la zone avec de l'eau fraîche et couvrir la plaie avec un tissu propre, mais ne jamais percer les cloques ou appliquer des substances inappropriées."
+    },
+    {
+        "question": "4.2.9. Quelles sont les étapes à suivre en cas d'accident électrique en cuisine ?",
+        "answers": [
+            "Couper l'alimentation électrique",
+            "Utiliser un isolant avant de toucher la victime",
+            "Toucher immédiatement la victime",
+            "Ignorer les lésions internes possibles"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "En cas d'accident électrique, il est essentiel de couper l'alimentation électrique et d'utiliser un isolant avant tout contact avec la victime."
+    },
+    {
+        "question": "4.2.10. Quels sont les principes de base des premiers secours en cas d'urgence ?",
+        "answers": [
+            "Annoncer l'accident en appelant les numéros d'urgence",
+            "Contrôler la situation avant d'agir",
+            "Ignorer les consignes données par les secours",
+            "Raccrocher immédiatement après avoir appelé"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les principes de base incluent l'annonce de l'accident, le contrôle de la situation, et l'application des consignes données par les secours."
+    },
+    {
+        "question": "4.2.11. Vrai ou Faux : Les issues de secours doivent toujours être dégagées et accessibles.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les sorties de secours doivent être dégagées et facilement accessibles à tout moment."
+    },
+    {
+        "question": "4.2.12. Vrai ou Faux : Il est recommandé de ranger les couteaux dans un évier pour éviter les accidents.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "Les couteaux ne doivent jamais être laissés dans un évier, mais rangés dans des supports de protection."
+    },
+    {
+        "question": "4.2.13. Vrai ou Faux : En cas de brûlure, il est conseillé d'appliquer de l'eau glacée pour soulager la douleur.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "Il faut rafraîchir les brûlures avec de l'eau fraîche, mais surtout pas glacée, pour éviter une vasoconstriction qui pourrait aggraver la brûlure."
+    },
+    {
+        "question": "4.2.14. Vous êtes en train de nettoyer une zone de travail dans la cuisine lorsqu'un collègue renverse une grande quantité d'huile sur le sol. Que devez-vous faire immédiatement pour éviter un accident ?",
+        "answers": [
+            "Placer un panneau de signalisation pour indiquer le danger",
+            "Nettoyer immédiatement le sol avec un équipement adapté",
+            "Ignorer le déversement et continuer votre tâche",
+            "Attendre que le responsable de la cuisine arrive pour gérer la situation"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "En cas de déversement de liquide ou d'huile, il est crucial de nettoyer immédiatement la zone pour éviter les risques de glissade. Placer un panneau de signalisation est également essentiel pour avertir les autres employés du danger. Ignorer le problème ou attendre l'intervention d'un responsable pourrait entraîner des accidents graves."
+    },
+    {
+        "question": "4.2.15. Un collègue se coupe profondément en manipulant un couteau. Il saigne abondamment. Quelle est la meilleure façon de réagir ?",
+        "answers": [
+            "Mettre des gants jetables avant d'intervenir",
+            "Installer la victime dans une posture adéquate et appliquer un pansement compressif",
+            "Utiliser un remède de grand-mère comme de la farine pour arrêter le saignement",
+            "Ignorer la coupure et demander à la victime de continuer à travailler"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Lorsqu'une personne se coupe profondément, il est essentiel de porter des gants jetables pour éviter tout risque de contamination. Installer la victime dans une position confortable, surélever le membre si nécessaire, et appliquer un pansement compressif sont des étapes cruciales pour arrêter le saignement. Les remèdes non professionnels ou l'inaction peuvent aggraver la situation."
+    },
+    {
+        "question": "4.2.16. Un incendie se déclare dans la cuisine à proximité des friteuses. Quelle est la meilleure réaction à adopter ?",
+        "answers": [
+            "Donner l'alarme et évacuer les lieux",
+            "Utiliser un extincteur adapté si cela peut être fait en toute sécurité",
+            "Essayer d'éteindre le feu avec de l'eau",
+            "Ignorer l'incendie et continuer à travailler"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "En cas d'incendie, il est primordial de donner l'alarme et d'évacuer les lieux pour assurer la sécurité de tous. Si cela est possible et sans danger, utiliser un extincteur adapté peut aider à maîtriser le feu. Il est important de ne jamais utiliser de l'eau sur un feu causé par des huiles ou des matières inflammables, car cela pourrait aggraver la situation."
+    },
+    {
+        "question": "4.3.1. Quelles qualités personnelles sont essentielles pour exceller en tant que cuisinier ?",
+        "answers": [
+            "Créativité",
+            "Fiabilité",
+            "Adaptabilité",
+            "Indifférence",
+            "Désorganisation"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Outre les compétences techniques, certaines qualités personnelles sont indispensables pour exceller en tant que cuisinier : créativité, tolérance, respect, fiabilité, propreté, adaptabilité, capacité à prendre des décisions."
+    },
+    {
+        "question": "4.3.2. Quels sont les certificats de formation de base pour devenir cuisinier ?",
+        "answers": [
+            "AFP",
+            "CFC",
+            "MBA",
+            "HES"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Pour devenir cuisinier, il est essentiel de suivre une formation professionnelle, généralement sous la forme d'un AFP (Attestation Fédérale de Formation Professionnelle) ou d'un CFC (Certificat Fédéral de Capacité)."
+    },
+    {
+        "question": "4.3.3. Quels sont les départements clés dans une cuisine professionnelle ?",
+        "answers": [
+            "Cuisine",
+            "Service",
+            "Administration",
+            "Marketing",
+            "Logistique"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Dans une cuisine professionnelle, l'organisation des départements est cruciale. Les départements clés incluent : cuisine, service, administration, housekeeping."
+    },
+    {
+        "question": "4.3.4. Quelles sont les responsabilités principales d'un cuisinier ?",
+        "answers": [
+            "Préparation des plats",
+            "Gestion des stocks",
+            "Respect des normes d'hygiène",
+            "Gestion des finances",
+            "Service direct aux clients"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les responsabilités d'un cuisinier incluent : la préparation et la présentation des plats, la gestion des stocks et des denrées alimentaires, le respect des normes d'hygiène et de sécurité."
+    },
+    {
+        "question": "4.3.5. Quels sont les avantages de la cuisson sous vide ?",
+        "answers": [
+            "Préservation des saveurs",
+            "Réduction du risque de surcuisson",
+            "Préparation à l'avance",
+            "Cuisson rapide",
+            "Nécessité d'un équipement minimal"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "La cuisson sous vide présente plusieurs avantages : préservation des saveurs, réduction du risque de surcuisson, efficacité (préparation à l'avance)."
+    },
+    {
+        "question": "4.3.6. Quels sont les systèmes de cuisson modernes ?",
+        "answers": [
+            "Cuisson à la vapeur",
+            "Cuisson sous vide",
+            "Friture à basse température",
+            "Cuisson au charbon",
+            "Cuisson au feu de bois"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les systèmes de cuisson modernes incluent : cuisson à la vapeur, cuisson sous vide, friture à basse température."
+    },
+    {
+        "question": "4.3.7. Quels sont les types d'établissements de restauration collective ?",
+        "answers": [
+            "Hôpitaux",
+            "Maisons de retraite",
+            "Restaurants universitaires",
+            "Fast-foods",
+            "Traiteurs"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "La restauration collective inclut les établissements qui fournissent des repas aux hôpitaux, maisons de retraite, restaurants universitaires ou d'entreprise."
+    },
+    {
+        "question": "4.3.8. Quels sont les critères pour obtenir un brevet fédéral en cuisine ?",
+        "answers": [
+            "Un CFC en cuisine",
+            "Une expérience pratique dans le domaine",
+            "Un diplôme universitaire",
+            "Une formation en gestion"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les brevets fédéraux sont des qualifications reconnues. Les conditions d'admission incluent : un CFC en cuisine et une expérience pratique dans le domaine."
+    },
+    {
+        "question": "4.3.9. Quels sont les objectifs de l'organisation d'une cuisine ?",
+        "answers": [
+            "Efficience",
+            "Rationalisation de la production",
+            "Bon ratio qualité/prix",
+            "Réduction des effectifs",
+            "Simplification des menus"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les objectifs de l'organisation de la cuisine incluent : efficience, optimisation du travail, rationalisation de la production et de la finition, bon ratio qualité/prix."
+    },
+    {
+        "question": "4.3.10. Quels sont les types de chaleur utilisés en cuisine professionnelle ?",
+        "answers": [
+            "Chaleur par conduction",
+            "Chaleur par induction",
+            "Chaleur par rayonnement",
+            "Chaleur par friction",
+            "Chaleur par compression"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les types de chaleur incluent : chaleur par conduction, chaleur par induction, chaleur par rayonnement."
+    },
+    {
+        "question": "4.3.11. Quels sont les avantages des systèmes de refroidissement en cuisine ?",
+        "answers": [
+            "Préservation des nutriments",
+            "Réduction du gaspillage",
+            "Conformité aux normes de sécurité alimentaire",
+            "Réduction des coûts énergétiques",
+            "Cuisson plus rapide"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les avantages des systèmes de refroidissement incluent : préservation des nutriments, réduction du gaspillage, conformité aux normes de sécurité alimentaire."
+    },
+    {
+        "question": "4.3.12. Quels sont les principaux types de coûts dans une entreprise de restauration ?",
+        "answers": [
+            "Coûts des marchandises",
+            "Frais de personnel",
+            "Frais généraux d'exploitation",
+            "Frais de marketing uniquement",
+            "Coûts de transport"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les principaux types de coûts incluent : coûts des marchandises, frais de personnel, frais généraux d'exploitation."
+    },
+    {
+        "question": "4.3.13. Quels sont les éléments essentiels pour garantir l'hygiène en cuisine ?",
+        "answers": [
+            "Nettoyage régulier",
+            "Contrôle des températures",
+            "Formation du personnel",
+            "Réduction des effectifs",
+            "Simplification des recettes"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les normes d'hygiène incluent : nettoyage régulier, contrôle des températures, formation du personnel."
+    },
+    {
+        "question": "4.3.14. Quels sont les types d'établissements d'hébergement ?",
+        "answers": [
+            "Hôtel Wellness",
+            "Hôtel d'affaires",
+            "Hôtel de vacances",
+            "Hôtel de luxe uniquement",
+            "Hôtel de transit"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les types d'établissements incluent : hôtel Wellness, hôtel d'affaires, hôtel de vacances."
+    },
+    {
+        "question": "4.3.15. Quels sont les avantages de la cuisson à la vapeur ?",
+        "answers": [
+            "Préservation des nutriments",
+            "Conservation de la texture des aliments",
+            "Cuisson rapide",
+            "Nécessité d'un équipement minimal"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "La cuisson à la vapeur préserve les nutriments et la texture des aliments."
+    },
+    {
+        "question": "4.3.16. Quels sont les rôles typiques dans une brigade de cuisine ?",
+        "answers": [
+            "Chef de cuisine",
+            "Sous-chef",
+            "Chefs de partie",
+            "Directeur marketing",
+            "Responsable des finances"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les rôles typiques incluent : chef de cuisine, sous-chef, chefs de partie."
+    },
+    {
+        "question": "4.3.17. Vrai ou Faux : La formation CFC dure généralement 3 ans.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "CFC : D'une durée de 3 ans, le CFC combine une formation pratique en entreprise avec des cours théoriques."
+    },
+    {
+        "question": "4.3.18. Vrai ou Faux : La cuisson sous vide permet de réduire les pertes à la cuisson.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "La cuisson sous vide minimise les pertes à la cuisson et préserve la qualité d'origine des aliments."
+    },
+    {
+        "question": "4.3.19. Vrai ou Faux : Les normes d'hygiène incluent le nettoyage régulier des surfaces de travail.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les normes d'hygiène incluent : nettoyage régulier des surfaces de travail, des équipements et des ustensiles."
+    },
+    {
+        "question": "4.3.20. Vrai ou Faux : Les hôtels Garni proposent uniquement l'hébergement avec petit déjeuner.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Hôtel Garni : Établissement hôtelier qui ne propose que l'hébergement avec petit déjeuner et boissons."
+    },
+    {
+        "question": "4.3.21. Vrai ou Faux : La gestion des stocks est une responsabilité clé d'un cuisinier.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les responsabilités d'un cuisinier incluent : la gestion des stocks et des denrées alimentaires."
+    },
+    {
+        "question": "4.3.22. Vrai ou Faux : La cuisson à la vapeur est une méthode moderne qui préserve les nutriments.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "La cuisson à la vapeur préserve les nutriments et la texture des aliments."
+    },
+    {
+        "question": "4.3.23. Vous êtes responsable de la cuisine dans un restaurant de taille moyenne. Lors de la réception des marchandises, vous remarquez que certains produits frais, comme le poisson, ne sont pas à la température requise de 0°C. Que faites-vous ?",
+        "answers": [
+            "Refuser la livraison des produits non conformes et informer immédiatement le fournisseur.",
+            "Accepter les produits et les stocker rapidement dans la chambre froide.",
+            "Cuire immédiatement les produits pour éviter qu'ils ne se détériorent.",
+            "Mélanger les produits non conformes avec ceux déjà stockés pour minimiser les pertes."
+        ],
+        "correct": 0,
+        "explanation": "Il est essentiel de refuser les produits qui ne respectent pas les normes de température pour garantir la sécurité alimentaire et éviter tout risque pour la santé des clients. Informer le fournisseur permet de résoudre le problème et d'éviter qu'il ne se reproduise."
+    },
+    {
+        "question": "4.3.24. Un client demande un plat spécifique adapté à un régime sans sel strict. Cependant, ce plat n'est pas prévu dans le menu. Comment réagissez-vous ?",
+        "answers": [
+            "Proposez de modifier un plat existant pour répondre aux besoins du client, en respectant les normes de diététique.",
+            "Refusez la demande en expliquant que le menu ne peut pas être modifié.",
+            "Préparez le plat demandé sans vérifier les besoins spécifiques du régime.",
+            "Ajoutez simplement moins de sel dans un plat standard sans ajuster les autres ingrédients."
+        ],
+        "correct": 0,
+        "explanation": "L'adaptabilité est une qualité essentielle pour un cuisinier. Répondre aux besoins spécifiques des clients, tout en respectant les normes diététiques, améliore leur satisfaction et montre un haut niveau de professionnalisme."
+    },
+    {
+        "question": "4.3.25. Lors d'un service très chargé, un membre de votre brigade oublie de respecter les portions définies pour un plat, ce qui entraîne un gaspillage important. Quelle est la meilleure approche pour gérer cette situation ?",
+        "answers": [
+            "Discuter calmement avec le membre de la brigade après le service pour lui rappeler l'importance de respecter les portions et proposer une formation si nécessaire.",
+            "Ignorer l'erreur pour ne pas perturber le service.",
+            "Réprimander le membre de la brigade devant toute l'équipe pour éviter que cela ne se reproduise.",
+            "Réduire les portions des plats suivants pour compenser le gaspillage."
+        ],
+        "correct": 0,
+        "explanation": "Il est important de gérer les erreurs de manière constructive. Une discussion après le service permet de corriger le problème sans perturber l'équipe, tout en renforçant les bonnes pratiques."
+    },
+    {
+        "question": "4.3.26. Vous êtes en charge de la planification des menus pour un banquet. Comment vous assurez-vous que la production et la finition des plats se déroulent efficacement ?",
+        "answers": [
+            "Planifiez les étapes de production et de finition en fonction des recettes et des quantités nécessaires, tout en utilisant des techniques comme le 'cook & chill' pour optimiser le temps.",
+            "Préparez tous les plats le jour même pour garantir leur fraîcheur.",
+            "Laissez chaque membre de l'équipe décider de son propre planning pour plus de flexibilité.",
+            "Concentrez-vous uniquement sur la production et laissez la finition se faire au dernier moment."
+        ],
+        "correct": 0,
+        "explanation": "Une planification rigoureuse, incluant des techniques modernes comme le 'cook & chill', permet d'optimiser le temps et les ressources tout en garantissant la qualité des plats."
+    },
+    {
+        "question": "4.3.27. Un apprenti de votre brigade ne respecte pas les normes d'hygiène en cuisine, ce qui a été remarqué par d'autres membres de l'équipe. Quelle est la meilleure façon de gérer cette situation ?",
+        "answers": [
+            "Organisez une session de formation sur les normes d'hygiène et rappelez à toute l'équipe leur importance, en incluant l'apprenti.",
+            "Ignorez le problème pour ne pas démotiver l'apprenti.",
+            "Sanctionnez immédiatement l'apprenti sans explication.",
+            "Demandez à un autre membre de l'équipe de surveiller l'apprenti en permanence."
+        ],
+        "correct": 0,
+        "explanation": "Former et sensibiliser l'ensemble de l'équipe permet de renforcer les bonnes pratiques sans stigmatiser un individu. Cela favorise un environnement de travail positif et respectueux."
+    },
+    {
+        "question": "4.3.28. Vous remarquez que les pertes alimentaires dans votre cuisine sont élevées, notamment à cause d'une mauvaise gestion des stocks. Quelle mesure prenez-vous en priorité ?",
+        "answers": [
+            "Mettez en place un système de gestion des stocks basé sur le principe 'First In, First Out' (FIFO) et effectuez des contrôles réguliers.",
+            "Réduisez les commandes de produits frais pour limiter les pertes.",
+            "Demandez à l'équipe de cuisiner les produits en surplus sans planification.",
+            "Ignorez le problème en espérant qu'il se résolve avec le temps."
+        ],
+        "correct": 0,
+        "explanation": "La mise en place d'un système FIFO et des contrôles réguliers permet de réduire les pertes en s'assurant que les produits les plus anciens sont utilisés en premier. Cela garantit également une meilleure rotation des stocks."
+    },
+    {
+        "question": "4.4.1. Quels sont les métaux purs couramment utilisés dans la restauration ?",
+        "answers": [
+            "Fer",
+            "Cuivre",
+            "Aluminium",
+            "Nickel",
+            "Laiton",
+            "Fonte"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "explanation": "Les métaux purs couramment utilisés sont : Fer, Cuivre, Aluminium et Nickel."
+    },
+    {
+        "question": "4.4.2. Quelles sont les caractéristiques principales du cuivre ?",
+        "answers": [
+            "Excellent conducteur de chaleur",
+            "Utilisé pour des casseroles haut de gamme",
+            "Léger",
+            "Résistant à la rouille"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Le cuivre est un excellent conducteur de chaleur, souvent utilisé pour des casseroles haut de gamme."
+    },
+    {
+        "question": "4.4.3. Quels sont les avantages des alliages dans la restauration ?",
+        "answers": [
+            "Résistance accrue",
+            "Conductivité thermique améliorée",
+            "Esthétique",
+            "Fragilité accrue"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les alliages offrent une meilleure résistance à la corrosion, une conductivité thermique améliorée et un aspect esthétique."
+    },
+    {
+        "question": "4.4.4. Quels matériaux sont considérés comme cassables ?",
+        "answers": [
+            "Verre",
+            "Céramique",
+            "Porcelaine",
+            "Plastique",
+            "Émail"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les matériaux cassables incluent le verre, la céramique et la porcelaine."
+    },
+    {
+        "question": "4.4.5. Quels sont les inconvénients des matériaux synthétiques ?",
+        "answers": [
+            "Sensible à la chaleur",
+            "Sensible à l'abrasion",
+            "Résistant à la chaleur",
+            "Très durable"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les matériaux synthétiques sont sensibles à la chaleur et à l'abrasion."
+    },
+    {
+        "question": "4.4.6. Quels types de batteries de cuisine permettent une distribution uniforme de la chaleur ?",
+        "answers": [
+            "Batterie avec fond compensatoire",
+            "Batterie avec fond en sandwich",
+            "Batterie avec revêtement antiadhésif",
+            "Batterie en plastique"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les batteries avec fond compensatoire et fond en sandwich sont conçues pour une distribution uniforme de la chaleur."
+    },
+    {
+        "question": "4.4.7. Quels sont les avantages des batteries multicouches ?",
+        "answers": [
+            "Conductivité thermique améliorée",
+            "Durabilité accrue",
+            "Polyvalence",
+            "Fragilité accrue"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les batteries multicouches offrent une meilleure conductivité thermique, une durabilité accrue et une polyvalence."
+    },
+    {
+        "question": "4.4.8. Quels appareils de cuisson utilisent la chaleur par contact ?",
+        "answers": [
+            "Griddle",
+            "Gril",
+            "Four traditionnel",
+            "Combisteamer"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Le griddle et le gril utilisent la chaleur par contact pour cuire les aliments."
+    },
+    {
+        "question": "4.4.9. Quels sont les avantages de l'induction ?",
+        "answers": [
+            "Économie d'énergie",
+            "Température réglée rapidement",
+            "Facile à nettoyer",
+            "Prix d'achat bas"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "L'induction permet une économie d'énergie, un réglage rapide de la température et est facile à nettoyer."
+    },
+    {
+        "question": "4.4.10. Quels sont les principes d'une alimentation saine ?",
+        "answers": [
+            "Équilibre nutritionnel",
+            "Variété des aliments",
+            "Limitation des matières grasses, sucre et sel",
+            "Consommation excessive de protéines"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Une alimentation saine repose sur l'équilibre nutritionnel, la variété des aliments et la limitation des matières grasses, sucre et sel."
+    },
+    {
+        "question": "4.4.11. Quels sont les avantages de l'alimentation méditerranéenne ?",
+        "answers": [
+            "Réduction des maladies cardiovasculaires",
+            "Riche en fruits et légumes",
+            "Utilisation d'huiles végétales",
+            "Consommation élevée de viande"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "L'alimentation méditerranéenne réduit les maladies cardiovasculaires, est riche en fruits et légumes, et privilégie les huiles végétales."
+    },
+    {
+        "question": "4.4.12. Quels sont les matériaux utilisés pour les récipients au format Gastronorme ?",
+        "answers": [
+            "Métal",
+            "Plastique",
+            "Verre",
+            "Porcelaine",
+            "Bois"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "explanation": "Les récipients au format Gastronorme sont fabriqués en métal, plastique, verre ou porcelaine."
+    },
+    {
+        "question": "4.4.13. Quels sont les avantages des aliments fonctionnels ?",
+        "answers": [
+            "Renforcement de la flore intestinale",
+            "Prévention de certaines maladies",
+            "Remplacement complet d'une alimentation équilibrée"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les aliments fonctionnels renforcent la flore intestinale et peuvent prévenir certaines maladies."
+    },
+    {
+        "question": "4.4.14. Quels sont les objectifs de l'alimentation à valeur intégrale ?",
+        "answers": [
+            "Renforcer le système immunitaire",
+            "Consommer des aliments peu transformés",
+            "Préférer les aliments locaux et de saison",
+            "Consommer principalement des aliments transformés"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "L'alimentation à valeur intégrale vise à renforcer le système immunitaire, consommer des aliments peu transformés et privilégier les produits locaux et de saison."
+    },
+    {
+        "question": "4.4.15. Quels sont les besoins spécifiques des personnes âgées en alimentation ?",
+        "answers": [
+            "Réduction des calories vides",
+            "Attention aux protéines, vitamines et minéraux",
+            "Augmentation des graisses animales"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les personnes âgées doivent réduire les calories vides et veiller à un apport suffisant en protéines, vitamines et minéraux."
+    },
+    {
+        "question": "4.4.16. Quels sont les avantages des appareils de cuisson à basse température ?",
+        "answers": [
+            "Cuisson délicate",
+            "Maintien au chaud des préparations",
+            "Cuisson rapide à haute température"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les appareils de cuisson à basse température permettent une cuisson délicate et le maintien au chaud des préparations."
+    },
+    {
+        "question": "4.4.17. Quels sont les avantages des machines de cuisine comme le cutter ?",
+        "answers": [
+            "Préparation de farces",
+            "Réduction en purée",
+            "Cuisson des aliments"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Le cutter est utilisé pour préparer des farces et réduire les aliments en purée."
+    },
+    {
+        "question": "4.4.18. Vrai ou Faux : Le lait est une source importante de calcium et de vitamine D.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Le lait est riche en calcium et en vitamine D, essentiels pour la santé des os."
+    },
+    {
+        "question": "4.4.19. Vrai ou Faux : Les alliages comme l'acier chrome-nickel sont résistants à la corrosion.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "L'acier chrome-nickel est résistant à la corrosion grâce au chrome et au nickel."
+    },
+    {
+        "question": "4.4.20. Vrai ou Faux : Les aliments surgelés contiennent généralement plus de vitamines que les conserves.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les aliments surgelés conservent généralement plus de vitamines que ceux conservés par d'autres modes."
+    },
+    {
+        "question": "4.4.21. Vrai ou Faux : Les batteries de cuisine avec fond en sandwich sont idéales pour la cuisson à induction.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les batteries avec fond en sandwich sont adaptées à l'induction grâce à leur conductivité thermique."
+    },
+    {
+        "question": "4.4.22. Vrai ou Faux : Les fruits et légumes frais sont une source importante de fibres alimentaires.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les fruits et légumes frais contiennent beaucoup de fibres alimentaires, essentielles pour la digestion."
+    },
+    {
+        "question": "4.4.23. Vous travaillez dans une cuisine professionnelle et remarquez que les casseroles en aluminium utilisées pour des préparations acides commencent à montrer des signes d'usure. Quelle est la meilleure action à entreprendre ?",
+        "answers": [
+            "Remplacer les casseroles en aluminium par des casseroles en acier inoxydable pour les préparations acides.",
+            "Continuer à utiliser les casseroles en aluminium en ajoutant un revêtement antiadhésif.",
+            "Utiliser les casseroles en aluminium uniquement pour des préparations à haute température.",
+            "Appliquer une couche d'huile sur les casseroles pour éviter l'usure."
+        ],
+        "correct": 0,
+        "explanation": "L'aluminium est sensible aux acides, ce qui peut entraîner une usure rapide et des réactions chimiques indésirables. L'acier inoxydable est une alternative plus durable et résistante pour les préparations acides."
+    },
+    {
+        "question": "4.4.24. Un client se plaint que les aliments cuits dans des plats en verre attachent facilement. Quelle solution pouvez-vous lui proposer ?",
+        "answers": [
+            "Recommander l'utilisation de plats en céramique ou en acier inoxydable pour éviter que les aliments n'attachent.",
+            "Conseiller de cuire à des températures plus élevées pour éviter que les aliments n'attachent.",
+            "Suggérer de ne pas utiliser de matières grasses pour la cuisson dans des plats en verre.",
+            "Proposer de remplacer les plats en verre par des plats en plastique."
+        ],
+        "correct": 0,
+        "explanation": "Le verre, bien qu'esthétique et salubre, a tendance à faire attacher les aliments. Les plats en céramique ou en acier inoxydable sont mieux adaptés pour éviter ce problème."
+    },
+    {
+        "question": "4.4.25. Vous êtes responsable de l'entretien des machines de cuisine. Après une journée d'utilisation intensive, que devez-vous faire pour garantir la longévité d'une cellule de refroidissement ?",
+        "answers": [
+            "Nettoyer l'intérieur de la cellule avec un chiffon humide et vérifier qu'aucun résidu alimentaire ne reste à l'intérieur.",
+            "Laisser la cellule ouverte pour qu'elle sèche naturellement.",
+            "Utiliser des produits abrasifs pour nettoyer les parois internes.",
+            "Éteindre la cellule sans la nettoyer pour économiser de l'énergie."
+        ],
+        "correct": 0,
+        "explanation": "Un nettoyage régulier et non abrasif est essentiel pour maintenir la performance et l'hygiène de la cellule de refroidissement. Les résidus alimentaires peuvent entraîner des problèmes d'hygiène et de fonctionnement."
+    },
+    {
+        "question": "4.4.26. Un cuisinier utilise une poêle en fonte pour une cuisson rapide à haute température, mais se plaint que la poêle est difficile à entretenir. Quelle recommandation lui donneriez-vous ?",
+        "answers": [
+            "Expliquer que la fonte nécessite un entretien particulier, comme le huilage après chaque utilisation, pour éviter la rouille et prolonger sa durée de vie.",
+            "Recommander de laver la poêle en fonte au lave-vaisselle pour un nettoyage plus facile.",
+            "Suggérer de remplacer la poêle en fonte par une poêle en plastique pour un entretien plus simple.",
+            "Conseiller de ne pas utiliser de matières grasses pour la cuisson dans une poêle en fonte."
+        ],
+        "correct": 0,
+        "explanation": "La fonte est idéale pour les cuissons à haute température, mais elle nécessite un entretien spécifique, comme le huilage, pour éviter la rouille et maintenir ses propriétés de cuisson."
+    },
+    {
+        "question": "4.4.27. Un collègue utilise une plaque à induction mais se plaint que certaines casseroles ne chauffent pas correctement. Quelle pourrait être la cause du problème ?",
+        "answers": [
+            "Vérifier si le fond des casseroles est ferromagnétique, car seules ces casseroles fonctionnent avec l'induction.",
+            "Suggérer d'augmenter la puissance de la plaque à induction.",
+            "Recommander d'utiliser des casseroles en aluminium sans revêtement.",
+            "Proposer de remplacer la plaque à induction par une plaque électrique."
+        ],
+        "correct": 0,
+        "explanation": "Les plaques à induction nécessitent des casseroles avec un fond ferromagnétique pour fonctionner. Si le fond n'est pas compatible, la chaleur ne sera pas générée."
+    },
+    {
+        "question": "4.5.1. Quels sont les objectifs des prescriptions légales sur les denrées alimentaires ?",
+        "answers": [
+            "Protéger la santé publique",
+            "Garantir la qualité des denrées alimentaires",
+            "Assurer la traçabilité des produits",
+            "Réduire les coûts de production",
+            "Augmenter les profits des entreprises"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les prescriptions légales sur les denrées alimentaires visent à garantir la sécurité, la qualité et la traçabilité des produits tout au long de la chaîne alimentaire. Ces règles sont essentielles pour protéger les consommateurs et assurer une gestion responsable des marchandises."
+    },
+    {
+        "question": "4.5.2. Quelles sont les obligations légales des professionnels de la filière alimentaire ?",
+        "answers": [
+            "Maintenir des conditions d'hygiène strictes",
+            "Documenter l'origine et le parcours des produits",
+            "Vérifier la conformité des produits à la réception",
+            "Réduire les prix des produits",
+            "Éviter les inspections des autorités"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les professionnels de la filière alimentaire doivent respecter plusieurs obligations légales pour garantir la sécurité et la qualité des denrées alimentaires. Ces obligations couvrent différents aspects : hygiène, traçabilité, contrôle des marchandises, stockage."
+    },
+    {
+        "question": "4.5.3. Quels critères sont essentiels pour choisir un fournisseur ?",
+        "answers": [
+            "Fiabilité",
+            "Qualité des produits",
+            "Réputation",
+            "Proximité géographique uniquement",
+            "Prix le plus bas sans considération de qualité"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Voici les critères essentiels à prendre en compte : fiabilité, qualité des produits, prix, service client, réputation."
+    },
+    {
+        "question": "4.5.4. Quelles actions sont nécessaires lors du contrôle à la réception des marchandises ?",
+        "answers": [
+            "Comparer le bulletin de livraison avec le bon de commande",
+            "Vérifier la température des denrées périssables",
+            "Inspecter visuellement les produits",
+            "Signer immédiatement le bulletin de livraison sans vérification",
+            "Stocker les produits sans inspection préalable"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Le contrôle des livraisons implique : comparer le bulletin de commande avec le bulletin de livraison, juger de l'acceptabilité de la marchandise en termes de qualité, contrôler la température et la relever sur le formulaire correspondant."
+    },
+    {
+        "question": "4.5.5. Vrai ou Faux : Les professionnels de la filière alimentaire doivent former leur personnel aux règles d'hygiène et de sécurité.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Responsabilités des professionnels : Formation du personnel : garantir que les employés connaissent et appliquent les règles d'hygiène et de sécurité."
+    },
+    {
+        "question": "4.5.6. Vrai ou Faux : La méthode FIFO (First In, First Out) est utilisée pour éviter le gaspillage alimentaire.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Méthode FIFO (First In, First Out) : Les produits les plus anciens doivent être utilisés en premier pour éviter le gaspillage."
+    },
+    {
+        "question": "4.5.7. Vous êtes responsable de la réception des marchandises dans un restaurant. Une livraison de produits frais arrive, mais vous remarquez que la température des produits est de 8 °C, alors qu'elle devrait être entre 0 et 4 °C. Que faites-vous ?",
+        "answers": [
+            "Refuser la livraison et informer immédiatement le fournisseur de la non-conformité.",
+            "Accepter la livraison et stocker les produits immédiatement au réfrigérateur pour les refroidir.",
+            "Accepter la livraison mais noter l'incident sans en informer le fournisseur.",
+            "Accepter la livraison et utiliser les produits rapidement pour éviter tout problème."
+        ],
+        "correct": 0,
+        "explanation": "Il est essentiel de refuser toute marchandise qui ne respecte pas les normes de température pour garantir la sécurité alimentaire et éviter les risques sanitaires. Informer le fournisseur permet de maintenir des standards de qualité et de traçabilité."
+    },
+    {
+        "question": "4.5.8. Lors de la réception d'une commande, vous remarquez que les emballages de plusieurs produits sont endommagés et que certaines dates limites de consommation (DLC) sont dépassées. Quelle est la meilleure action à entreprendre ?",
+        "answers": [
+            "Refuser les produits non conformes et documenter les problèmes constatés sur le bulletin de livraison.",
+            "Accepter les produits endommagés pour éviter un retard dans la production.",
+            "Accepter les produits et les utiliser en priorité pour limiter les pertes.",
+            "Stocker les produits endommagés séparément et les utiliser uniquement en cas de besoin urgent."
+        ],
+        "correct": 0,
+        "explanation": "Refuser les produits non conformes est une obligation légale pour garantir la sécurité et la qualité des denrées alimentaires. Documenter les problèmes permet de maintenir une traçabilité et de signaler les non-conformités au fournisseur."
+    },
+    {
+        "question": "4.6.1. Vous êtes responsable de la cuisine dans un restaurant. Un fournisseur vous livre des champignons de Paris. Vous remarquez que certains champignons sont gluants et présentent des marques de pression. Que faites-vous ?",
+        "answers": [
+            "Refuser les champignons et demander un remplacement immédiat au fournisseur.",
+            "Les utiliser immédiatement pour éviter le gaspillage.",
+            "Les laver abondamment pour enlever les marques et les cuisiner.",
+            "Les mélanger avec d'autres champignons pour masquer leur état."
+        ],
+        "correct": 0,
+        "explanation": "Les champignons gluants ou présentant des marques de pression sont impropres à la consommation. Il est essentiel de garantir la sécurité alimentaire en refusant ces produits et en demandant un remplacement."
+    },
+    {
+        "question": "4.6.2. Un client vous demande si les morilles qu'il souhaite acheter peuvent être consommées crues. Quelle est la meilleure réponse à lui donner ?",
+        "answers": [
+            "Expliquer que les morilles crues sont toxiques et doivent être cuites ou séchées avant consommation.",
+            "Lui dire que les morilles peuvent être consommées crues si elles sont bien lavées.",
+            "Lui conseiller de les consommer crues en petite quantité pour éviter tout risque.",
+            "Lui dire que cela dépend de la variété de morilles."
+        ],
+        "correct": 0,
+        "explanation": "Toutes les variétés de morilles sont toxiques à l'état cru. La cuisson ou le séchage est nécessaire pour neutraliser cette toxicité et garantir leur sécurité."
+    },
+    {
+        "question": "4.6.3. Vous travaillez dans une poissonnerie. Un client vous demande comment vérifier la fraîcheur d'un poisson. Que lui répondez-vous ?",
+        "answers": [
+            "Vérifiez que la peau est brillante, les branchies rouges, les yeux bombés et la chair ferme.",
+            "Regardez uniquement si le poisson a une odeur agréable.",
+            "Assurez-vous que les écailles sont faciles à retirer.",
+            "Vérifiez que le poisson est bien emballé, peu importe son aspect."
+        ],
+        "correct": 0,
+        "explanation": "La fraîcheur d'un poisson se reconnaît à plusieurs indices : peau brillante, branchies rouges, yeux bombés, chair ferme et une odeur fraîche. Ces critères garantissent la qualité du produit."
+    },
+    {
+        "question": "4.6.4. Un client vous demande comment conserver des champignons séchés qu'il vient d'acheter. Quelle est la meilleure recommandation ?",
+        "answers": [
+            "Les conserver dans un endroit sec et à l'abri de l'humidité.",
+            "Les placer au réfrigérateur pour prolonger leur durée de vie.",
+            "Les conserver dans un sac plastique hermétique.",
+            "Les laisser à l'air libre dans la cuisine."
+        ],
+        "correct": 0,
+        "explanation": "Les champignons séchés doivent être conservés dans un endroit sec et à l'abri de l'humidité pour éviter qu'ils ne se détériorent. Le réfrigérateur ou un sac plastique hermétique ne sont pas adaptés."
+    },
+    {
+        "question": "4.6.5. Vous êtes responsable d'un rayon poissonnerie. Un client vous demande pourquoi certains poissons d'élevage ont les yeux troubles et les branchies grises. Que lui répondez-vous ?",
+        "answers": [
+            "Cela est dû au mode de mise à mort des poissons d'élevage, mais cela n'affecte pas leur qualité.",
+            "Cela signifie que le poisson n'est pas frais.",
+            "Cela indique que le poisson a été mal transporté.",
+            "Cela est un signe que le poisson est impropre à la consommation."
+        ],
+        "correct": 0,
+        "explanation": "Les poissons d'élevage peuvent avoir les yeux troubles et les branchies grises en raison de leur mode de mise à mort. Cela n'affecte pas leur qualité ni leur sécurité alimentaire."
+    },
+    {
+        "question": "4.6.6. Un client vous demande pourquoi il est important de cuire la volaille de part en part. Quelle est la meilleure explication à lui donner ?",
+        "answers": [
+            "La cuisson complète permet de neutraliser les bactéries pathogènes comme les salmonelles.",
+            "Cela améliore uniquement le goût de la volaille.",
+            "Cela permet de conserver la volaille plus longtemps après cuisson.",
+            "Cela est nécessaire uniquement pour les volailles congelées."
+        ],
+        "correct": 0,
+        "explanation": "La volaille peut être porteuse de bactéries pathogènes comme les salmonelles. Une cuisson complète est essentielle pour garantir la sécurité alimentaire et éviter les contaminations."
+    },
+    {
+        "question": "4.6.7. Quels sont les indices de qualité d'un poisson frais ?",
+        "answers": [
+            "La peau doit être brillante, de couleur naturelle et vive.",
+            "Les branchies doivent être rouge clair et non collées.",
+            "Les yeux doivent être bombés, clairs et brillants.",
+            "La chair doit être molle et marquée par la pression du doigt.",
+            "Les écailles doivent être absentes pour garantir la fraîcheur."
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Peau : Brillante, de couleur naturelle et vive, non abîmée, humide, mucus clair. Branchies : Rouge clair et non collées. Yeux : Bombés, clairs et brillants."
+    },
+    {
+        "question": "4.6.8. Quels sont les critères de qualité pour les œufs ?",
+        "answers": [
+            "La coquille doit être intacte et propre.",
+            "Le jaune doit être globuleux.",
+            "L'œuf doit être exempt de germe ou de sang.",
+            "Le blanc doit être liquide et fluide.",
+            "L'œuf doit avoir une odeur marquée pour prouver sa fraîcheur."
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Indices de qualité des œufs : Coquille intacte et propre, Jaune globuleux, blanc épais. Exempt de germe ou de sang, franc à l'odeur."
+    },
+    {
+        "question": "4.7.1. Qu'est-ce qu'un menu selon la définition donnée ?",
+        "answers": [
+            "Une suite de mets proposés à un prix fixe",
+            "Une liste de tous les mets disponibles",
+            "Une offre commerciale sans prix fixe",
+            "Une carte des mets avec des choix libres"
+        ],
+        "correct": 0,
+        "explanation": "Menu : Une suite de mets proposés à un prix fixe."
+    },
+    {
+        "question": "4.7.2. Quelle information doit être incluse dans l'affichage des prix des menus ?",
+        "answers": [
+            "La TVA",
+            "Les prix doivent être affichés clairement et visiblement",
+            "Les prix peuvent être modifiés après affichage",
+            "Les prix doivent être cachés pour éviter les confusions"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les prix doivent être affichés clairement et visiblement, incluant la TVA."
+    },
+    {
+        "question": "4.7.3. Quelle est une pratique recommandée pour gérer les allergènes dans les menus ?",
+        "answers": [
+            "Identifier les 14 allergènes majeurs",
+            "Former le personnel sur la gestion des allergènes",
+            "Ne pas afficher les allergènes pour éviter la confusion",
+            "Proposer uniquement des plats sans allergènes"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Identifier les 14 allergènes majeurs (ex. : gluten, fruits à coque, lait) présents dans les plats."
+    },
+    {
+        "question": "4.7.4. Quels sont les avantages d'utiliser des produits locaux et de saison ?",
+        "answers": [
+            "Réduire l'empreinte carbone",
+            "Soutenir l'économie locale",
+            "Augmenter les coûts de transport",
+            "Utiliser des produits importés pour plus de variété"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Réduire l'empreinte carbone en minimisant le transport des aliments. Promouvoir des pratiques durables et responsables auprès des clients."
+    },
+    {
+        "question": "4.7.5. Quels éléments doivent être pris en compte lors de la rédaction des menus ?",
+        "answers": [
+            "La provenance des viandes et poissons",
+            "La présence d'allergènes",
+            "Ignorer les tendances alimentaires",
+            "Modifier les prix fréquemment"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Dénomination spécifique des mets, provenance des viandes et des poissons, composition des préparations, signaler la présence d'allergènes."
+    },
+    {
+        "question": "4.7.6. Quels sont les principes d'un menu équilibré ?",
+        "answers": [
+            "Inclure une variété de groupes alimentaires",
+            "Adapter la teneur énergétique aux besoins des clients",
+            "Ignorer les besoins nutritionnels",
+            "Proposer uniquement des plats riches en glucides"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Un menu équilibré doit inclure une variété de groupes alimentaires : protéines, glucides, légumes, et fruits."
+    },
+    {
+        "question": "4.7.7. Quels sont les types de menus ?",
+        "answers": [
+            "Menus du jour",
+            "Menus de banquets",
+            "Menus sans prix",
+            "Menus uniquement végétaliens"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Menus du jour dans la restauration, menus pour la restauration collective, menus de banquets."
+    },
+    {
+        "question": "4.7.8. Quels outils peuvent être utilisés pour planifier les menus ?",
+        "answers": [
+            "Statistiques de ventes",
+            "Collections de menus et de recettes",
+            "Ignorer les réactions des clients",
+            "Éviter les listes de prix"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Aides disponibles pour la planification : listes de prix, collections de menus et de recettes, littérature spécialisée, réactions des hôtes, évaluations, statistiques."
+    },
+    {
+        "question": "4.7.9. Vrai ou Faux : Les informations sur les allergènes doivent être accessibles uniquement oralement.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "Les informations affichées doivent être écrites et visibles pour les clients."
+    },
+    {
+        "question": "4.7.10. Vrai ou Faux : La planification des menus doit inclure des produits locaux et de saison.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Favoriser l'utilisation de produits de saison et locaux pour garantir la fraîcheur et soutenir l'économie locale."
+    },
+    {
+        "question": "4.7.11. Vous êtes responsable d'un restaurant et un client vous informe qu'il a une allergie sévère aux fruits à coque. Il demande des informations sur les plats qu'il peut consommer en toute sécurité. Cependant, vous remarquez que le menu ne mentionne pas clairement la présence d'allergènes. Quelle est la meilleure façon de gérer cette situation ?",
+        "answers": [
+            "Informer le client que vous allez vérifier avec la cuisine et lui fournir des informations précises sur les plats sans fruits à coque.",
+            "Proposer au client de poser toutes ses questions au personnel, qui a été formé pour répondre aux demandes concernant les allergènes.",
+            "Dire au client que vous ne pouvez pas garantir l'absence de fruits à coque et lui suggérer de ne pas commander.",
+            "Ignorer la demande du client et lui dire de choisir un plat au hasard."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Il est essentiel de fournir des informations claires et précises sur les allergènes pour garantir la sécurité des clients et respecter la législation. En vérifiant avec la cuisine et en proposant une assistance personnalisée, vous montrez votre engagement envers la satisfaction et la sécurité du client. Ignorer ou refuser de répondre à la demande pourrait entraîner des risques pour la santé et nuire à la réputation de l'établissement."
+    },
+    {
+        "question": "4.7.12. Un client se plaint que le prix affiché sur le menu ne correspond pas à celui facturé sur son addition. Après vérification, vous constatez que le prix sur le menu a été modifié manuellement avec un autocollant. Comment réagissez-vous ?",
+        "answers": [
+            "S'excuser auprès du client pour l'erreur et ajuster le prix facturé pour qu'il corresponde à celui affiché sur le menu.",
+            "Informer la direction de l'erreur et suggérer de mettre à jour les menus pour éviter de futurs malentendus.",
+            "Expliquer au client que le prix facturé est correct et que l'autocollant est une mise à jour temporaire.",
+            "Ignorer la plainte du client et insister pour qu'il paie le montant indiqué sur l'addition."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "La législation impose que les prix affichés sur le menu soient clairs, visibles et incluent la TVA. Toute modification, comme des surimpressions ou des autocollants, est interdite. En ajustant le prix facturé et en signalant l'erreur à la direction, vous respectez la loi et maintenez la confiance du client envers votre établissement."
+    },
+    {
+        "question": "4.8.1. Quel est le principe de base du développement durable ?",
+        "answers": [
+            "Allier écologie et économie",
+            "Réduire uniquement les coûts économiques",
+            "Se concentrer uniquement sur l'écologie",
+            "Ignorer les besoins économiques"
+        ],
+        "correct": 0,
+        "explanation": "Le développement durable est un concept qui lie l'écologie et l'économie, soulignant l'importance d'une approche équilibrée pour préserver notre environnement tout en répondant aux besoins économiques."
+    },
+    {
+        "question": "4.8.2. Que signifie 'penser globalement, agir localement' ?",
+        "answers": [
+            "Prendre en compte l'impact global tout en agissant localement",
+            "Agir uniquement à l'échelle mondiale",
+            "Ignorer les impacts locaux",
+            "Se concentrer uniquement sur les solutions globales"
+        ],
+        "correct": 0,
+        "explanation": "Ce principe encourage les restaurateurs à prendre en compte l'impact de leurs actions sur l'environnement à une échelle mondiale tout en mettant en œuvre des solutions adaptées à leur contexte local."
+    },
+    {
+        "question": "4.8.3. Quelles sont les actions recommandées pour réduire la consommation d'énergie en cuisine ?",
+        "answers": [
+            "Utiliser des équipements écoénergétiques",
+            "Former le personnel sur les économies d'énergie",
+            "Laisser les plaques de cuisson allumées inutilement",
+            "Ignorer la chaleur résiduelle"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Installer des équipements écoénergétiques, optimiser l'utilisation de la chaleur résiduelle, et former le personnel sur les économies d'énergie."
+    },
+    {
+        "question": "4.8.4. Quels sont les avantages des produits locaux et de saison ?",
+        "answers": [
+            "Réduction des émissions de CO2 liées au transport",
+            "Soutien à l'économie locale",
+            "Produits toujours moins chers",
+            "Réduction de la qualité nutritionnelle"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Privilégier les produits locaux et de saison permet une réduction des émissions de CO2 liées au transport, un soutien à l'économie locale, et des produits souvent plus frais et nutritifs."
+    },
+    {
+        "question": "4.8.5. Quels sont les domaines d'application des pratiques éco-responsables en cuisine ?",
+        "answers": [
+            "Énergie",
+            "Achats",
+            "Nettoyage",
+            "Élimination des déchets",
+            "Publicité"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "explanation": "Dans la cuisine, plusieurs domaines d'application permettent de mettre en œuvre des pratiques éco-responsables : énergie, achats, nettoyage, et élimination des déchets."
+    },
+    {
+        "question": "4.8.6. Quelle est la répartition de la consommation d'énergie en restauration ?",
+        "answers": [
+            "Cuisiner : 40 %",
+            "Installations de refroidissement : 20 %",
+            "Éclairage : 40 %",
+            "Aération : 20 %"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "La répartition de la consommation d'énergie en restauration est : cuisiner (40 %), installations de refroidissement (20 %), entretien/lingerie (17 %), éclairage (10 %), aération (7 %), divers (6 %)."
+    },
+    {
+        "question": "4.8.7. Quelles sont les méthodes recommandées pour économiser l'eau en cuisine ?",
+        "answers": [
+            "Installer des réducteurs de débit",
+            "Utiliser des lave-vaisselle uniquement lorsqu'ils sont pleins",
+            "Laver la vaisselle sous l'eau courante",
+            "Ignorer les plans de nettoyage"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Pour économiser l'eau, il est recommandé d'installer des réducteurs de débit sur les robinets et de n'utiliser les lave-vaisselle que lorsqu'ils sont pleins."
+    },
+    {
+        "question": "4.8.8. Quels sont les critères à évaluer pour choisir des fournisseurs éthiques ?",
+        "answers": [
+            "Conditions de travail des employés",
+            "Pratiques agricoles durables",
+            "Prix le plus bas uniquement",
+            "Absence de labels"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les entreprises doivent prendre en compte les conditions de travail de leurs employés et l'impact de leurs pratiques sur les communautés locales. Cela inclut le choix de fournisseurs qui respectent des normes éthiques."
+    },
+    {
+        "question": "4.8.9. Quels sont les avantages de l'aquaculture durable ?",
+        "answers": [
+            "Préservation des écosystèmes",
+            "Soutien aux communautés locales",
+            "Utilisation excessive d'antibiotiques",
+            "Production de déchets polluants"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les avantages de la pêche et de l'aquaculture durables incluent la préservation des écosystèmes, la réduction de la surpêche, et le soutien aux communautés locales."
+    },
+    {
+        "question": "4.8.10. Quels sont les principes fondamentaux de la gestion des déchets ?",
+        "answers": [
+            "Réduction à la source",
+            "Séparation des déchets",
+            "Recyclage",
+            "Ignorer les déchets dangereux"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les principes fondamentaux de la gestion des déchets incluent la réduction à la source, la séparation des déchets, la réutilisation, et le recyclage."
+    },
+    {
+        "question": "4.8.11. Vrai ou Faux : La cuisine est le domaine qui consomme le plus d'énergie en restauration.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "C'est la cuisine qui consomme le plus d'énergie (40 %)."
+    },
+    {
+        "question": "4.8.12. Vrai ou Faux : Les produits locaux et de saison réduisent les émissions de CO2 liées au transport.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Privilégier les produits locaux et de saison permet une réduction des émissions de CO2 liées au transport."
+    },
+    {
+        "question": "4.8.13. Vrai ou Faux : L'utilisation de produits de nettoyage écologiques contribue à réduire l'impact environnemental.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Le nettoyage écologique est essentiel pour réduire l'impact environnemental des établissements de restauration."
+    },
+    {
+        "question": "4.8.14. Vous êtes responsable d'une cuisine dans un restaurant et vous remarquez que les plaques de cuisson restent allumées même lorsqu'elles ne sont pas utilisées. Cela entraîne une consommation d'énergie inutile. Quelle action immédiate devriez-vous prendre pour réduire cette consommation ?",
+        "answers": [
+            "Former le personnel sur l'importance d'éteindre les plaques de cuisson lorsqu'elles ne sont pas utilisées",
+            "Anticiper l'extinction des plaques de cuisson et utiliser la chaleur résiduelle",
+            "Remplacer toutes les plaques de cuisson par des modèles plus récents sans évaluer leur efficacité énergétique",
+            "Laisser les plaques allumées pour éviter de perdre du temps à les rallumer"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Pour réduire la consommation d'énergie, il est essentiel de sensibiliser le personnel à l'importance d'éteindre les plaques inutilisées et d'utiliser la chaleur résiduelle. Ces actions simples permettent de diminuer les coûts énergétiques et l'impact environnemental sans nécessiter d'investissements immédiats."
+    },
+    {
+        "question": "4.8.15. Un fournisseur vous propose des légumes importés à un prix très compétitif, mais vous savez qu'ils ont été transportés sur de longues distances, ce qui augmente leur empreinte carbone. Quelle serait la meilleure décision à prendre ?",
+        "answers": [
+            "Privilégier des légumes locaux et de saison pour réduire les émissions de CO2 liées au transport",
+            "Vérifier si le fournisseur respecte des normes environnementales et sociales avant de prendre une décision",
+            "Accepter l'offre pour réduire les coûts immédiats sans considérer l'impact environnemental",
+            "Refuser tous les produits importés sans évaluer leur qualité ou leur impact global"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Privilégier les produits locaux et de saison est une pratique éco-responsable qui réduit l'empreinte carbone et soutient l'économie locale. Il est également important de s'assurer que les fournisseurs respectent des normes éthiques et environnementales avant de collaborer avec eux."
+    },
+    {
+        "question": "4.8.16. Lors d'une inspection, vous constatez que les déchets organiques de votre restaurant ne sont pas correctement triés et sont mélangés avec d'autres types de déchets. Quelle serait la meilleure approche pour résoudre ce problème ?",
+        "answers": [
+            "Mettre en place des bacs spécifiques pour les déchets organiques avec des couvercles adaptés",
+            "Former le personnel sur l'importance du tri des déchets et les bonnes pratiques de gestion des déchets organiques",
+            "Ignorer le problème car le tri des déchets demande trop de temps et d'efforts",
+            "Jeter tous les déchets dans une seule poubelle pour simplifier le processus"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "La mise en place de bacs spécifiques pour les déchets organiques et la formation du personnel sont des étapes essentielles pour une gestion efficace des déchets. Cela permet de réduire l'impact environnemental, de faciliter le compostage ou la valorisation des déchets, et de respecter les réglementations locales."
+    },
+    {
+        "question": "5.1.1. Quelles sont les catégories principales de boissons ?",
+        "answers": [
+            "Boissons sans alcool",
+            "Boissons alcooliques",
+            "Boissons énergétiques",
+            "Boissons synthétiques"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les boissons peuvent être classées en plusieurs catégories, notamment : Boissons sans alcool et Boissons alcooliques."
+    },
+    {
+        "question": "5.1.2. Quels sont des exemples de boissons sans alcool ?",
+        "answers": [
+            "Thé",
+            "Jus de fruits",
+            "Limonade",
+            "Vin",
+            "Bière"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les boissons sans alcool comprennent le thé, les infusions, le café, les jus de fruits et de légumes, les nectars, les sirops et les limonades."
+    },
+    {
+        "question": "5.1.3. Quels sont les principaux pays producteurs de café ?",
+        "answers": [
+            "Brésil",
+            "Colombie",
+            "Éthiopie",
+            "L'Italie",
+            "La Suisse",
+            "Togo",
+            "Inde"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            5,
+            6
+        ],
+        "explanation": "Les principaux pays producteurs incluent : Brésil, Colombie, Éthiopie, Guatemala, Vietnam, Togo, Inde."
+    },
+    {
+        "question": "5.1.4. Quelles sont les caractéristiques principales du café Arabica ?",
+        "answers": [
+            "Très aromatique",
+            "Doux",
+            "Altitude de culture entre 600 et 2000 mètres",
+            "Goût âpre",
+            "Teneur en caféine entre 2,4 et 4,4 %"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Arabica : Très aromatique, doux, avec un goût rond et agréable. Altitude de culture : Entre 600 et 2000 mètres."
+    },
+    {
+        "question": "5.1.5. Quelles sont les étapes principales de la production du café ?",
+        "answers": [
+            "Récolte",
+            "Torréfaction",
+            "Triage",
+            "Extraction",
+            "Filtration"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "La production du café comprend plusieurs étapes clés : Récolte, traitement, triage, torréfaction, mélange."
+    },
+    {
+        "question": "5.1.6. Quels sont les types de machines à café ?",
+        "answers": [
+            "Machine à café à levier",
+            "Machine à café semi-automatique",
+            "Cafetière italienne (Moka)",
+            "Machine à café à pression hydraulique",
+            "Machine à café solaire"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Voici les principaux types de machines à café : Machine à café à levier, semi-automatique, entièrement automatique, cafetière italienne (Moka), cafetière filtre."
+    },
+    {
+        "question": "5.1.7. Quelles sont les méthodes de préparation du café ?",
+        "answers": [
+            "Café filtre",
+            "Cafetière italienne (Moka)",
+            "Espresso",
+            "Infusion à froid",
+            "Extraction sous vide"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Il existe plusieurs méthodes de préparation du café : Café filtre, cafetière italienne (Moka), café à la presse française, espresso."
+    },
+    {
+        "question": "5.1.8. Quelles sont les spécialités de café à base de lait ou de crème ?",
+        "answers": [
+            "Cappuccino",
+            "Latte macchiato",
+            "Café viennois",
+            "Irish Coffee",
+            "Café Fertig"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les spécialités de café à base de lait ou de crème incluent : Cappuccino, Latte macchiato, Café viennois."
+    },
+    {
+        "question": "5.1.9. Quelles sont les caractéristiques du café décaféiné ?",
+        "answers": [
+            "Taux de caféine inférieur à 0,1 %",
+            "Convient aux personnes sensibles à la caféine",
+            "Contient plus de caféine que le café classique",
+            "Produit uniquement par torréfaction"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Le café décaféiné convient aux personnes sensibles à la caféine. Son taux résiduel ne doit pas dépasser 0,1 % de la masse par rapport à la matière sèche."
+    },
+    {
+        "question": "5.1.10. Vrai ou Faux : Le Robusta contient plus de caféine que l'Arabica.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Robusta : Teneur en caféine entre 2,4 et 4,4 %. Arabica : Teneur en caféine entre 1,1 et 1,7 %."
+    },
+    {
+        "question": "5.1.11. Vrai ou Faux : La machine à café entièrement automatique nécessite un savoir-faire spécifique pour être utilisée.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "L'utilisation de cette machine est simple et ne demande aucun savoir-faire spécifique."
+    },
+    {
+        "question": "5.1.12. Vrai ou Faux : Le café filtre contient plus de caféine que le café obtenu avec une machine à café.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Le café filtre contient plus de caféine et d'impuretés qu'un café obtenu avec une machine à café."
+    },
+    {
+        "question": "5.1.13. Un client demande un café avec une saveur douce et aromatique, mais il insiste pour que la teneur en caféine soit faible. Vous avez à disposition des grains d'Arabica et de Robusta. Quel café recommanderiez-vous ?",
+        "answers": [
+            "Arabica",
+            "Robusta",
+            "Mélange Arabica-Robusta",
+            "Café lyophilisé"
+        ],
+        "correct": 0,
+        "explanation": "L'Arabica est connu pour sa saveur douce et aromatique, avec une teneur en caféine plus faible (entre 1,1 % et 1,7 %) par rapport au Robusta (entre 2,4 % et 4,4 %). Il répond donc parfaitement aux attentes du client."
+    },
+    {
+        "question": "5.1.14. Vous êtes en train de préparer un cappuccino pour un client. Après avoir chauffé le lait avec la buse vapeur, vous remarquez que la mousse contient de grosses bulles d'air. Que devez-vous faire pour obtenir une mousse compacte et ferme ?",
+        "answers": [
+            "Taper deux à trois fois le pot à lait sur le comptoir pour éclater les bulles d'air",
+            "Ajouter plus de lait froid et recommencer",
+            "Chauffer le lait à une température plus élevée",
+            "Mélanger la mousse avec une cuillère pour la rendre homogène"
+        ],
+        "correct": 0,
+        "explanation": "Pour obtenir une mousse compacte et ferme, il est recommandé de taper légèrement le pot à lait sur le comptoir après avoir chauffé le lait. Cela permet d'éclater les grosses bulles d'air et d'améliorer la texture de la mousse."
+    },
+    {
+        "question": "5.1.15. Un client souhaite un café avec une giclée de grappa. Il demande si vous pouvez lui préparer un 'café coretto'. Quelle est la meilleure façon de répondre à sa demande ?",
+        "answers": [
+            "Préparer un ristretto et ajouter une giclée de grappa",
+            "Préparer un espresso et ajouter une dose de kirsch",
+            "Préparer un café lyophilisé et ajouter une dose de grappa",
+            "Préparer un café au lait et ajouter une dose de grappa"
+        ],
+        "correct": 0,
+        "explanation": "Le café coretto est traditionnellement un ristretto complété par une giclée de grappa. Si un autre alcool est utilisé, il est important de le préciser au client. Cette préparation respecte la demande spécifique du client."
+    },
+    {
+        "question": "5.2.1. Quelle est la principale différence entre le thé noir et le thé vert ?",
+        "answers": [
+            "Le thé noir subit une oxydation complète",
+            "Le thé vert préserve la couleur verte grâce à un apport de chaleur",
+            "Le thé noir est moins transformé que le thé vert",
+            "Le thé vert contient plus de caféine que le thé noir"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Le thé noir subit une oxydation complète, ce qui lui confère sa couleur sombre et son goût riche. L'oxydation du thé vert est stoppée par un apport de chaleur, ce qui préserve la couleur verte des feuilles."
+    },
+    {
+        "question": "5.2.2. Quel type de thé est souvent considéré comme le plus coûteux ?",
+        "answers": [
+            "Le thé blanc",
+            "Le thé noir",
+            "Le thé vert",
+            "Le thé Oolong"
+        ],
+        "correct": 0,
+        "explanation": "Le thé blanc est le moins transformé, fait uniquement de bourgeons et de jeunes feuilles. Il a un goût délicat et est souvent plus coûteux."
+    },
+    {
+        "question": "5.2.3. Quels pays sont les principaux producteurs de thé dans le monde ?",
+        "answers": [
+            "Chine",
+            "Inde",
+            "Kenya",
+            "Argentine"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "La production mondiale de thé est dominée par quelques pays, avec la Chine et l'Inde en tête."
+    },
+    {
+        "question": "5.2.4. Quelle région est surnommée le 'champagne des thés' ?",
+        "answers": [
+            "Darjeeling",
+            "Assam",
+            "Fujian",
+            "Shizuoka"
+        ],
+        "correct": 0,
+        "explanation": "La région de Darjeeling en Inde est souvent appelée le 'champagne des thés' en raison de la qualité exceptionnelle de son thé noir."
+    },
+    {
+        "question": "5.2.5. Quelle étape de transformation du thé libère les huiles essentielles des feuilles ?",
+        "answers": [
+            "Le roulage",
+            "Le flétrissage",
+            "L'oxydation",
+            "Le séchage"
+        ],
+        "correct": 0,
+        "explanation": "Le roulage consiste à donner une forme aux feuilles et à libérer leurs huiles essentielles."
+    },
+    {
+        "question": "5.2.6. Quel type de thé est exclusivement produit au Japon ?",
+        "answers": [
+            "Thé vert",
+            "Thé noir",
+            "Thé blanc",
+            "Thé Oolong"
+        ],
+        "correct": 0,
+        "explanation": "Le Japon produit exclusivement du thé vert, en particulier dans la région de Shizuoka et sur l'île de Kyushu."
+    },
+    {
+        "question": "5.2.7. Quelles sont les conditions idéales pour le stockage du thé ?",
+        "answers": [
+            "Endroit sec",
+            "Température constante",
+            "Endroit humide",
+            "Près des épices ou du chocolat"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Le thé doit être conservé dans un endroit sec, à température constante, ni trop chaud ni trop froid. Il faut éviter de le stocker près de denrées alimentaires telles que les épices, le café ou le chocolat."
+    },
+    {
+        "question": "5.2.8. Quelle est la température idéale pour préparer du thé vert ?",
+        "answers": [
+            "70-80°C",
+            "90-100°C",
+            "80-90°C",
+            "60-70°C"
+        ],
+        "correct": 0,
+        "explanation": "La température idéale pour préparer du thé vert est de 70-80°C."
+    },
+    {
+        "question": "5.2.9. Quels sont les bienfaits de l'infusion de camomille ?",
+        "answers": [
+            "Anti-inflammatoire",
+            "Favorise le sommeil",
+            "Riche en vitamine C",
+            "Aide à la digestion après un repas copieux"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "L'infusion de camomille est apaisante, anti-inflammatoire et favorise le sommeil."
+    },
+    {
+        "question": "5.2.10. Quelle infusion est riche en vitamine C ?",
+        "answers": [
+            "Infusion de cynorrhodon",
+            "Infusion de menthe",
+            "Infusion de tilleul",
+            "Infusion de rooibos"
+        ],
+        "correct": 0,
+        "explanation": "L'infusion de cynorrhodon est riche en vitamine C et prévient les refroidissements."
+    },
+    {
+        "question": "5.2.11. Quelle est la différence entre une infusion et une tisane ?",
+        "answers": [
+            "La tisane a un caractère médical",
+            "Les infusions contiennent de la caféine",
+            "Les tisanes sont servies dans les restaurants",
+            "Les infusions sont extraites uniquement de fleurs"
+        ],
+        "correct": 0,
+        "explanation": "La tisane est extraite de plantes dont l'effet est principalement pharmacologique. Elle a un caractère médical et ne peut être servie dans les entreprises de l'hôtellerie-restauration."
+    },
+    {
+        "question": "5.2.12. Quel type de thé est le plus exporté dans le monde ?",
+        "answers": [
+            "Thé noir",
+            "Thé vert",
+            "Thé blanc",
+            "Thé Oolong"
+        ],
+        "correct": 0,
+        "explanation": "Le thé noir est le plus exporté des thés."
+    },
+    {
+        "question": "5.2.13. Quels sont les effets de la caféine dans le thé ?",
+        "answers": [
+            "Action stimulante si infusion courte",
+            "Action apaisante si infusion courte",
+            "Action stimulante si infusion longue",
+            "Action apaisante si infusion longue"
+        ],
+        "correct": 0,
+        "explanation": "La caféine, aussi appelée théine, a une action stimulante sur le corps humain si le temps d'infusion se situe entre deux et trois minutes."
+    },
+    {
+        "question": "5.2.14. Vrai ou Faux : Le thé blanc est le moins transformé des thés.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Le thé blanc est le moins transformé, fait uniquement de bourgeons et de jeunes feuilles."
+    },
+    {
+        "question": "5.2.15. Vrai ou Faux : Les infusions contiennent de la caféine.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "Contrairement au thé, les infusions ne contiennent pas de caféine."
+    },
+    {
+        "question": "5.2.16. Vrai ou Faux : Le thé Oolong est partiellement oxydé.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Le thé Oolong est partiellement oxydé, se situant entre le thé noir et le thé vert en termes de goût et de couleur."
+    },
+    {
+        "question": "5.2.17. Vous êtes responsable de la préparation des boissons dans un restaurant. Un client commande un thé vert et insiste pour qu'il soit préparé avec de l'eau bouillante. Comment réagissez-vous ?",
+        "answers": [
+            "Vous expliquez au client que l'eau bouillante altère les arômes délicats du thé vert et proposez de le préparer avec une eau à 70-80°C pour une meilleure expérience gustative.",
+            "Vous préparez le thé vert avec de l'eau bouillante comme demandé par le client.",
+            "Vous refusez de préparer le thé vert et demandez au client de choisir une autre boisson.",
+            "Vous préparez le thé vert avec de l'eau froide pour éviter tout problème."
+        ],
+        "correct": 0,
+        "explanation": "Le thé vert doit être préparé avec de l'eau à une température idéale de 70-80°C pour préserver ses arômes et ses bienfaits. L'eau bouillante peut dénaturer le goût du thé et réduire ses propriétés antioxydantes. Il est important d'expliquer cela au client pour garantir une expérience optimale."
+    },
+    {
+        "question": "5.2.18. Un client se plaint que son thé noir servi est trop amer et demande une explication. Que lui répondez-vous ?",
+        "answers": [
+            "Vous expliquez que l'amertume peut être due à un temps d'infusion trop long et proposez de préparer un nouveau thé avec un temps d'infusion de 3 à 5 minutes.",
+            "Vous lui dites que l'amertume est normale pour le thé noir et refusez de refaire la préparation.",
+            "Vous proposez de rajouter du sucre pour masquer l'amertume.",
+            "Vous lui servez un autre type de thé sans lui donner d'explication."
+        ],
+        "correct": 0,
+        "explanation": "Le thé noir, lorsqu'il est infusé trop longtemps, libère des tannins qui peuvent donner un goût amer. En respectant un temps d'infusion de 3 à 5 minutes, on obtient un équilibre entre les saveurs robustes et les propriétés apaisantes des tannins. Il est important de communiquer cette information au client et de lui proposer une solution adaptée."
+    },
+    {
+        "question": "5.2.19. Vous êtes chargé de stocker une nouvelle livraison de thés dans votre établissement. Vous remarquez que les thés sont placés à côté de sacs de café et d'épices. Que faites-vous ?",
+        "answers": [
+            "Vous déplacez les thés dans un endroit sec, à température constante, loin des denrées odorantes, et dans des récipients opaques et étanches.",
+            "Vous laissez les thés à leur emplacement actuel, car ils sont bien emballés.",
+            "Vous placez les thés dans un réfrigérateur pour garantir leur fraîcheur.",
+            "Vous les stockez dans des sacs en plastique transparents pour les protéger."
+        ],
+        "correct": 0,
+        "explanation": "Le thé est très sensible aux odeurs et à l'humidité. Il doit être conservé dans un endroit sec, à température constante, dans des récipients opaques et étanches, loin des denrées odorantes comme le café ou les épices. Cela permet de préserver ses arômes et ses qualités pendant un à deux ans."
+    },
+    {
+        "question": "5.3.1. Quels sont les principaux ingrédients nécessaires à la fabrication de la bière ?",
+        "answers": [
+            "Eau",
+            "Malt",
+            "Houblon",
+            "Levures",
+            "Sucre",
+            "Lait",
+            "Vinaigre"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "explanation": "Les principaux ingrédients de la bière sont eau, malt, houblon et levures."
+    },
+    {
+        "question": "5.3.2. Quel est le rôle du houblon dans la bière ?",
+        "answers": [
+            "Apporter de l'amertume",
+            "Favoriser la conservation",
+            "Permettre la formation de mousse",
+            "Ajouter du sucre",
+            "Réduire l'acidité",
+            "Augmenter la teneur en alcool"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Le houblon confère à la bière son agréable amertume, assure son aptitude à la garde et permet à la mousse de se former et de tenir."
+    },
+    {
+        "question": "5.3.3. Quelle est la température idéale pour entreposer la bière ?",
+        "answers": [
+            "Entre 6 et 9 °C",
+            "Entre 0 et 3 °C",
+            "Entre 10 et 15 °C",
+            "Entre 20 et 25 °C"
+        ],
+        "correct": 0,
+        "explanation": "Une température constante (entre 6 et 9 °C) est recommandée pour l'entreposage de la bière."
+    },
+    {
+        "question": "5.3.4. Quels types de levures sont utilisés pour la fabrication de la bière ?",
+        "answers": [
+            "Levures à fermentation basse",
+            "Levures à fermentation haute",
+            "Levures à fermentation moyenne",
+            "Levures à fermentation rapide"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "On utilise surtout deux types de levures pour la production de bière : les levures à fermentation basse et les levures à fermentation haute."
+    },
+    {
+        "question": "5.3.5. Quelle étape du processus de fabrication transforme l'amidon en sucre ?",
+        "answers": [
+            "Le brassage",
+            "La garde",
+            "La filtration",
+            "Le conditionnement"
+        ],
+        "correct": 0,
+        "explanation": "Lors du brassage, la soupe ou 'maïsche' est chauffée à feu doux jusqu'à 76 °C environ, afin de transformer l'amidon du malt en sucre de malt."
+    },
+    {
+        "question": "5.3.6. Quelle est la teneur maximale en alcool pour une bière sans alcool ?",
+        "answers": [
+            "0,5 %",
+            "1 %",
+            "3 %",
+            "5 %"
+        ],
+        "correct": 0,
+        "explanation": "La bière sans alcool est définie comme ayant une teneur en alcool ne dépassant pas 0,5 % du volume."
+    },
+    {
+        "question": "5.3.7. Quels sont les types de bières selon la méthode de fermentation ?",
+        "answers": [
+            "Bière à fermentation basse",
+            "Bière à fermentation haute",
+            "Bière à fermentation rapide",
+            "Bière à fermentation lente"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les types de bières selon la fermentation incluent la bière à fermentation basse et la bière à fermentation haute."
+    },
+    {
+        "question": "5.3.8. Quels sont les critères pour un bon service de la bière pression ?",
+        "answers": [
+            "Rincer le verre à l'eau froide",
+            "Incliner le verre sous le robinet",
+            "Ouvrir le robinet à fond",
+            "Remplir le verre en plusieurs étapes",
+            "Utiliser un verre chaud",
+            "Ajouter du sucre avant de servir"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Pour servir une bière pression, il faut rincer le verre à l'eau froide, incliner le verre sous le robinet et ouvrir le robinet à fond."
+    },
+    {
+        "question": "5.3.9. Quels sont les types de bières non filtrées ?",
+        "answers": [
+            "Bière blanche",
+            "Bière de froment",
+            "Bière brune",
+            "Bière spéciale"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les bières non filtrées incluent la bière blanche et la bière de froment."
+    },
+    {
+        "question": "5.3.10. Quels sont les effets d'une température trop élevée lors du service de la bière ?",
+        "answers": [
+            "Perte de gaz carbonique",
+            "Mousse trop abondante",
+            "Arômes mieux exprimés",
+            "Formation de levures"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Une température trop élevée entraîne une perte de gaz carbonique et une mousse trop abondante."
+    },
+    {
+        "question": "5.3.11. Quels sont les accords mets-bières recommandés pour une bière brune ?",
+        "answers": [
+            "Viandes grillées",
+            "Desserts au chocolat",
+            "Fruits de mer",
+            "Salades légères"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "La bière brune se marie avec des viandes grillées et des desserts au chocolat."
+    },
+    {
+        "question": "5.3.12. Vrai ou Faux : La bière est composée de plus de 90 % d'eau.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "L'eau constitue plus de 90 % du produit fini."
+    },
+    {
+        "question": "5.3.13. Vrai ou Faux : Les fleurs mâles du houblon sont utilisées pour la fabrication de la bière.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "Ce sont uniquement les fleurs femelles non fécondées (les cônes) qui sont sélectionnées pour la fabrication de la bière."
+    },
+    {
+        "question": "5.3.14. Vrai ou Faux : La fermentation basse se fait à une température d'environ 10 °C.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les levures à fermentation basse travaillent à des températures d'environ 10 °C."
+    },
+    {
+        "question": "5.3.15. Vrai ou Faux : Une bière spéciale a une teneur en moût d'origine de 11,5 à 14 % de la masse.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "La bière spéciale a une teneur en moût d'origine de 11,5 à 14 % de la masse."
+    },
+    {
+        "question": "5.3.16. Vous travaillez dans un bar et un client demande une bière pression. Cependant, le fût vient d'être livré il y a moins de 12 heures. Que faites-vous ?",
+        "answers": [
+            "Informer le client que le fût n'est pas encore prêt à être utilisé et lui proposer une alternative en bouteille.",
+            "Servir la bière immédiatement, même si cela risque de produire une mousse excessive.",
+            "Secouer le fût pour accélérer l'intégration du gaz carbonique.",
+            "Ajouter de l'eau pour réduire la mousse."
+        ],
+        "correct": 0,
+        "explanation": "Après la livraison, il est recommandé de laisser reposer les fûts entre 24 et 48 heures avant utilisation. Cela permet au gaz carbonique libéré lors du transport de se réintégrer à la bière, évitant ainsi une mousse excessive et des pertes."
+    },
+    {
+        "question": "5.3.17. Un client commande une bière de froment en bouteille. Vous remarquez un dépôt de levure au fond de la bouteille. Quelle est la meilleure façon de servir cette bière ?",
+        "answers": [
+            "Faire tourner doucement la bouteille pour remettre la levure en suspension avant de compléter le service.",
+            "Secouer vigoureusement la bouteille avant de la servir.",
+            "Filtrer la bière pour retirer le dépôt de levure avant de la servir.",
+            "Servir la bière sans toucher au dépôt de levure."
+        ],
+        "correct": 0,
+        "explanation": "Les bières de froment non filtrées contiennent un dépôt de levure qui doit être remis en suspension avant le service. Cela garantit une répartition homogène des saveurs et respecte les caractéristiques de ce type de bière."
+    },
+    {
+        "question": "5.3.18. Un client se plaint que la bière pression qu'il a commandée a une mousse trop abondante. Quelle pourrait être la cause de ce problème ?",
+        "answers": [
+            "Le fût n'a pas été laissé au repos suffisamment longtemps après la livraison.",
+            "La bière a été servie à une température trop basse.",
+            "Le verre utilisé n'a pas été rincé à l'eau froide avant le service.",
+            "Le robinet a été ouvert et fermé plusieurs fois pendant le tirage."
+        ],
+        "correct": 0,
+        "explanation": "Une mousse excessive peut être causée par un fût qui n'a pas reposé suffisamment après la livraison. Le gaz carbonique libéré lors du transport n'a pas eu le temps de se réintégrer à la bière, ce qui entraîne une mousse abondante lors du tirage."
+    },
+    {
+        "question": "5.3.19. Vous êtes responsable du stockage des bières dans un restaurant. Quelle est la meilleure façon de garantir la qualité des bières entreposées ?",
+        "answers": [
+            "Stocker les bières à une température constante entre 6 et 9 °C, dans un endroit obscur et propre.",
+            "Stocker les bières près des produits de nettoyage pour optimiser l'espace.",
+            "Entreposer les bières dans un endroit lumineux pour faciliter leur identification.",
+            "Laisser les fûts ouverts pour éviter une accumulation de gaz."
+        ],
+        "correct": 0,
+        "explanation": "Pour préserver la qualité des bières, elles doivent être stockées à une température constante entre 6 et 9 °C, dans un endroit obscur, propre et exempt d'odeurs fortes. La lumière et une température inappropriée peuvent altérer le goût et l'arôme de la bière."
+    },
+    {
+        "question": "5.4.1. Quelle est la première étape de la vinification ?",
+        "answers": [
+            "Récolte",
+            "Égrappage",
+            "Foulage",
+            "Fermentation"
+        ],
+        "correct": 0,
+        "explanation": "La première étape consiste à récolter les raisins, généralement à la main ou à l'aide de machines."
+    },
+    {
+        "question": "5.4.2. Quel est le rôle de l'égrappage dans la vinification ?",
+        "answers": [
+            "Séparer les grains de raisin de leur rafle",
+            "Libérer le jus des raisins",
+            "Ajouter des levures",
+            "Vieillir le vin en fût"
+        ],
+        "correct": 0,
+        "explanation": "Cette étape consiste à séparer les grains de raisin de leur rafle, afin d'éviter l'introduction de tanins indésirables dans le vin."
+    },
+    {
+        "question": "5.4.3. Quel cépage est connu pour ses arômes de cassis et de poivron ?",
+        "answers": [
+            "Cabernet Sauvignon",
+            "Chardonnay",
+            "Merlot",
+            "Sauvignon Blanc"
+        ],
+        "correct": 0,
+        "explanation": "Le Cabernet Sauvignon est corsé, tannique, avec des arômes de cassis et de poivron."
+    },
+    {
+        "question": "5.4.4. Quelle méthode de vinification est utilisée pour produire des vins effervescents de haute qualité ?",
+        "answers": [
+            "Méthode traditionnelle (champenoise)",
+            "Méthode Charmat",
+            "Ajout de gaz carbonique",
+            "Thermovinification"
+        ],
+        "correct": 0,
+        "explanation": "La méthode traditionnelle (ou champenoise) est utilisée pour produire des vins effervescents de haute qualité, avec une complexité des arômes très élevée."
+    },
+    {
+        "question": "5.4.5. Quel processus transforme le sucre en alcool lors de la vinification ?",
+        "answers": [
+            "Fermentation alcoolique",
+            "Macération",
+            "Pressurage",
+            "Soutirage"
+        ],
+        "correct": 0,
+        "explanation": "Les levures transforment le sucre du raisin en alcool, créant ainsi le vin."
+    },
+    {
+        "question": "5.4.6. Quel type de vin est produit à partir de raisins rouges mais sans macération des peaux ?",
+        "answers": [
+            "Blanc de Noir",
+            "Blanc de Blanc",
+            "Rosé",
+            "Vin effervescent"
+        ],
+        "correct": 0,
+        "explanation": "Des raisins rouges peuvent produire du vin blanc. On appelle alors ces vins, des Blancs de Noir ."
+    },
+    {
+        "question": "5.4.7. Quelle méthode de vinification permet de produire rapidement de grandes quantités de vin rouge ?",
+        "answers": [
+            "Thermovinification",
+            "Fermentation en cuve",
+            "Méthode champenoise",
+            "Méthode Charmat"
+        ],
+        "correct": 0,
+        "explanation": "Le chauffage (entre 60 et 80 °C) de la vendange raccourcit considérablement le temps de macération (entre cinq et quinze heures) et neutralise les éventuels effets indésirables dus aux microorganismes."
+    },
+    {
+        "question": "5.4.8. Quel est le rôle du pigeage dans la vinification des vins rouges ?",
+        "answers": [
+            "Immerger le chapeau sous la surface du moût",
+            "Ajouter des levures",
+            "Séparer les grains de la rafle",
+            "Filtrer le vin"
+        ],
+        "correct": 0,
+        "explanation": "Le pigeage consiste à faire couler le chapeau sous la surface du moût pour assurer une extraction optimale des couleurs et des tanins."
+    },
+    {
+        "question": "5.4.9. Quel type de vin muté est vieilli sous voile en Espagne ?",
+        "answers": [
+            "Sherry Fino",
+            "Porto",
+            "Marsala",
+            "Madère"
+        ],
+        "correct": 0,
+        "explanation": "Le Sherry Fino est un vin sec, vieilli sous un voile, issu du cépage Palomino uniquement."
+    },
+    {
+        "question": "5.4.10. Quel apéritif à base de vin est aromatisé avec des plantes comme l'absinthe et le génépi ?",
+        "answers": [
+            "Vermouth",
+            "Bitter",
+            "Anisé",
+            "Alcopop"
+        ],
+        "correct": 0,
+        "explanation": "Le vermouth est un vin aromatisé avec des plantes et des épices, comme l'absinthe, le clou de girofle ou le génépi."
+    },
+    {
+        "question": "5.4.11. Quelle est la teneur en alcool typique des alcopops ?",
+        "answers": [
+            "Inférieure à 15 % vol",
+            "Entre 15 % et 22 % vol",
+            "Supérieure à 22 % vol",
+            "Entre 40 % et 45 % vol"
+        ],
+        "correct": 0,
+        "explanation": "Les alcopops sont des boissons alcoolisées sucrées dont la teneur en alcool est inférieure à 15 % du volume."
+    },
+    {
+        "question": "5.4.12. Quel cépage est utilisé pour produire le vin doux Samos en Grèce ?",
+        "answers": [
+            "Muscat",
+            "Chardonnay",
+            "Cabernet Sauvignon",
+            "Pinot Noir"
+        ],
+        "correct": 0,
+        "explanation": "À la base du Samos, le cépage Muscat produit sur l'île grecque de Samos."
+    },
+    {
+        "question": "5.4.13. Quel processus est utilisé pour clarifier le vin après fermentation ?",
+        "answers": [
+            "Collage",
+            "Macération",
+            "Sulfitage",
+            "Égrappage"
+        ],
+        "correct": 0,
+        "explanation": "Le collage consiste à utiliser des protéines telles que du blanc d'œuf ou de colle de poisson pour agglutiner les particules en suspens dans le vin."
+    },
+    {
+        "question": "5.4.14. Quel type de vin est produit par la méthode de saignée ?",
+        "answers": [
+            "Vin rosé",
+            "Vin rouge",
+            "Vin blanc",
+            "Vin effervescent"
+        ],
+        "correct": 0,
+        "explanation": "La macération s'effectue dans la cuve. On ne prélève que la quantité destinée à la production de rosé, alors que ce qui reste dans la cuve deviendra du vin rouge."
+    },
+    {
+        "question": "5.4.15. Vrai ou Faux : Les raisins rouges peuvent produire du vin blanc.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Des raisins rouges peuvent produire du vin blanc. On appelle alors ces vins, des Blancs de Noir ."
+    },
+    {
+        "question": "5.4.16. Vrai ou Faux : La méthode Charmat est utilisée pour produire des vins effervescents haut de gamme.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "La méthode Charmat est plus rapide et donne des vins plus fruités et accessibles, mais elle est moins complexe que la méthode traditionnelle."
+    },
+    {
+        "question": "5.4.17. Vrai ou Faux : Les alcopops contiennent plus d'alcool que la bière.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les alcopops contiennent plus d'alcool que la bière."
+    },
+    {
+        "question": "5.4.18. Vrai ou Faux : Le Porto est un vin muté produit exclusivement à partir de raisins rouges.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "Le Porto est produit à partir de raisins blancs et rouges, vendangés et vinifiés séparément."
+    },
+    {
+        "question": "5.4.19. Vous êtes responsable de la récolte dans un domaine viticole. Les raisins semblent mûrs, mais vous n'êtes pas certain de leur maturité optimale. Que faites-vous pour garantir la qualité du vin produit ?",
+        "answers": [
+            "Utiliser un réfractomètre pour mesurer le taux de sucre des raisins et vérifier leur degré Oechsle.",
+            "Récolter immédiatement les raisins pour éviter qu'ils ne se détériorent.",
+            "Attendre quelques jours sans effectuer de contrôle pour voir si les raisins mûrissent davantage.",
+            "Récolter uniquement les grappes qui semblent visuellement mûres."
+        ],
+        "correct": 0,
+        "explanation": "Le contrôle de maturité est une étape essentielle avant la récolte. Utiliser un réfractomètre permet de mesurer précisément le taux de sucre des raisins et de déterminer leur degré de maturité. Cela garantit que les raisins sont récoltés au moment optimal pour produire un vin de qualité."
+    },
+    {
+        "question": "5.4.20. Lors de la vinification d'un vin blanc, vous remarquez que le moût contient des particules en suspension. Quelle est la meilleure action à entreprendre pour obtenir un vin clair et pur ?",
+        "answers": [
+            "Effectuer un débourbage pour clarifier le moût avant la fermentation.",
+            "Ajouter directement des levures au moût sans le clarifier.",
+            "Passer directement à la fermentation malolactique pour adoucir le vin.",
+            "Ajouter du sucre pour masquer les particules en suspension."
+        ],
+        "correct": 0,
+        "explanation": "Le débourbage est une étape clé pour clarifier le moût en éliminant les matières en suspension. Cela permet d'obtenir un vin blanc limpide et de qualité. Ajouter des levures ou passer à la fermentation sans cette étape pourrait compromettre la pureté du vin."
+    },
+    {
+        "question": "5.4.21. Lors de la fermentation d'un vin rouge, vous remarquez que le chapeau formé par les peaux de raisin reste à la surface du moût. Quelle est la meilleure action à entreprendre pour garantir une extraction optimale des couleurs et des tanins ?",
+        "answers": [
+            "Procéder au pigeage pour immerger régulièrement le chapeau sous la surface du moût.",
+            "Laisser le chapeau flotter sans intervention pour éviter de perturber la fermentation.",
+            "Retirer le chapeau pour éviter qu'il n'altère le goût du vin.",
+            "Ajouter de l'eau pour diluer le moût et faciliter la fermentation."
+        ],
+        "correct": 0,
+        "explanation": "Le pigeage est une étape essentielle dans la vinification des vins rouges. Il permet d'immerger le chapeau formé par les peaux de raisin, favorisant ainsi une meilleure extraction des couleurs et des tanins, qui sont essentiels pour la structure et la qualité du vin rouge."
+    },
+    {
+        "question": "5.4.22. Vous êtes en charge de la production d'un vin effervescent selon la méthode traditionnelle. Après la prise de mousse, vous remarquez des dépôts dans les bouteilles. Quelle est la meilleure méthode pour les éliminer ?",
+        "answers": [
+            "Effectuer un remuage pour déplacer les dépôts vers le goulot, suivi d'un dégorgement pour les éliminer.",
+            "Filtrer le vin directement dans une nouvelle bouteille pour éliminer les dépôts.",
+            "Ajouter une liqueur de tirage pour dissoudre les dépôts.",
+            "Secouer les bouteilles pour mélanger les dépôts au vin."
+        ],
+        "correct": 0,
+        "explanation": "Dans la méthode traditionnelle, le remuage est utilisé pour déplacer les dépôts vers le goulot de la bouteille. Ensuite, le dégorgement permet d'éliminer ces dépôts solidifiés grâce à la pression interne de la bouteille. Cela garantit un vin effervescent clair et de qualité."
+    },
+    {
+        "question": "5.5.1. Quels sont les ingrédients possibles pour produire des spiritueux ?",
+        "answers": [
+            "Fruits",
+            "Céréales",
+            "Plantes",
+            "Métaux",
+            "Plastique"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les spiritueux peuvent être produits à partir de diverses matières premières, notamment des fruits, des céréales, des légumes, et même des plantes."
+    },
+    {
+        "question": "5.5.2. Quelle est la teneur en alcool typique des spiritueux ?",
+        "answers": [
+            "Supérieure à 15 % vol.",
+            "Inférieure à 10 % vol.",
+            "Entre 5 % et 10 % vol.",
+            "Exactement 12 % vol."
+        ],
+        "correct": 0,
+        "explanation": "Les spiritueux se caractérisent par une teneur en alcool généralement supérieure à 15 % vol."
+    },
+    {
+        "question": "5.5.3. Quelles étapes sont nécessaires pour produire des spiritueux à partir de céréales ?",
+        "answers": [
+            "Saccharification",
+            "Fermentation",
+            "Distillation",
+            "Extraction mécanique",
+            "Pressage direct"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Dans le cas des céréales, une étape de saccharification est nécessaire pour convertir les amidons en sucres fermentescibles. Ensuite, les matières premières sont fermentées grâce à des levures, puis distillées."
+    },
+    {
+        "question": "5.5.4. Quels spiritueux sont classés comme eaux-de-vie de vin ?",
+        "answers": [
+            "Cognac",
+            "Armagnac",
+            "Brandy",
+            "Vodka",
+            "Gin"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les eaux-de-vie de vin incluent le Cognac, l'Armagnac et le Brandy, obtenus par distillation de vin."
+    },
+    {
+        "question": "5.5.5. Quels sont les types de distillation ?",
+        "answers": [
+            "Distillation simple",
+            "Distillation multiple",
+            "Distillation par évaporation naturelle",
+            "Distillation par congélation"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Le texte mentionne deux types de distillation : la distillation simple et la distillation multiple."
+    },
+    {
+        "question": "5.5.6. Quels spiritueux sont produits à partir de canne à sucre ?",
+        "answers": [
+            "Rhum",
+            "Cachaça",
+            "Whisky",
+            "Vodka"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Le rhum et la cachaça sont produits à partir de canne à sucre ou de ses dérivés."
+    },
+    {
+        "question": "5.5.7. Quels sont les exemples de liqueurs crémeuses ?",
+        "answers": [
+            "Baileys",
+            "Liqueur de café",
+            "Chartreuse",
+            "Sambuca"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les liqueurs crémeuses, comme le Baileys et la liqueur de café, mélangent de l'alcool avec des produits laitiers, créant une texture riche et onctueuse."
+    },
+    {
+        "question": "5.5.8. Quels spiritueux sont vieillis en fûts de chêne ?",
+        "answers": [
+            "Whisky",
+            "Cognac",
+            "Armagnac",
+            "Vodka",
+            "Gin"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "De nombreux spiritueux, comme le whisky, le cognac et l'armagnac, sont stockés en fûts de chêne pour une période de maturation."
+    },
+    {
+        "question": "5.5.9. Quels sont les exemples d'eaux-de-vie de fruits ?",
+        "answers": [
+            "Kirsch",
+            "Calvados",
+            "Eau-de-vie de poire",
+            "Vodka",
+            "Bourbon"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les eaux-de-vie de fruits incluent le Kirsch (cerise), le Calvados (pomme) et l'eau-de-vie de poire Williams."
+    },
+    {
+        "question": "5.5.10. Vrai ou Faux : La distillation permet de séparer l'alcool de l'eau grâce à leurs points d'ébullition différents.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "La distillation sépare l'alcool de l'eau en exploitant leurs points d'ébullition différents. L'alcool s'évapore à environ 78 °C, tandis que l'eau bout à 100 °C."
+    },
+    {
+        "question": "5.5.11. Vrai ou Faux : Les liqueurs contiennent toujours une quantité significative de sucre.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les liqueurs contiennent une quantité significative de sucre, ce qui leur confère une douceur caractéristique."
+    },
+    {
+        "question": "5.5.12. Vous travaillez dans une distillerie spécialisée dans les eaux-de-vie de fruits. Un client vous demande pourquoi le Kirsch qu'il a acheté a un goût plus intense que celui qu'il avait goûté l'année dernière. Quelle est la meilleure explication à lui donner ? (plusieurs réponses possibles)",
+        "answers": [
+            "Le goût du Kirsch peut varier en fonction de la qualité et de la maturité des cerises utilisées chaque année.",
+            "Les variations dans le processus de fermentation ou de distillation peuvent également influencer le profil aromatique.",
+            "Le goût est toujours identique car les cerises sont standardisées et le processus est entièrement automatisé.",
+            "Le goût intense est dû à l'ajout d'arômes artificiels pour renforcer la saveur."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Le Kirsch est une eau-de-vie de cerises, et son goût peut varier en fonction de la qualité des fruits utilisés, des conditions climatiques de l'année, ainsi que des ajustements dans le processus de fermentation ou de distillation. Aucun arôme artificiel n'est ajouté dans les eaux-de-vie traditionnelles."
+    },
+    {
+        "question": "5.5.13. Un client dans un bar vous demande pourquoi le Cognac qu'il a commandé est servi à température ambiante, alors que d'autres spiritueux comme le Gin sont servis frais. Quelle est la meilleure réponse à lui donner ? (plusieurs réponses possibles)",
+        "answers": [
+            "Le Cognac est servi à température ambiante pour permettre aux arômes complexes de se développer pleinement.",
+            "Contrairement au Gin, qui est souvent utilisé dans des cocktails, le Cognac est conçu pour être dégusté pur, ce qui nécessite une température ambiante.",
+            "Le Cognac est servi à température ambiante car il ne supporte pas le froid.",
+            "Le Cognac est toujours servi ainsi pour respecter une tradition sans lien avec ses arômes."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Le Cognac, en tant qu'eau-de-vie de vin, possède des arômes complexes qui se révèlent mieux à température ambiante. Cela permet de profiter pleinement de ses notes florales, fruitées et épicées. En revanche, des spiritueux comme le Gin sont souvent servis frais pour s'intégrer dans des cocktails ou pour atténuer leur intensité."
+    },
+    {
+        "question": "5.6.1. Quelle région viticole suisse est connue pour le cépage Chasselas ?",
+        "answers": [
+            "Suisse romande",
+            "Suisse alémanique",
+            "Suisse italienne",
+            "Tessin"
+        ],
+        "correct": 0,
+        "explanation": "La Suisse romande est connue pour ses cépages blancs, notamment le Chasselas."
+    },
+    {
+        "question": "5.6.2. Quel est le plus grand canton viticole de Suisse ?",
+        "answers": [
+            "Le canton du Valais",
+            "Le canton de Vaud",
+            "Le canton de Genève",
+            "Le canton du Tessin"
+        ],
+        "correct": 0,
+        "explanation": "Le Valais est le plus grand canton viticole de Suisse, il représente environ 33 % de la production viticole nationale."
+    },
+    {
+        "question": "5.6.3. Quels cépages rouges sont emblématiques du canton de Genève ?",
+        "answers": [
+            "Gamay",
+            "Garanoir",
+            "Merlot",
+            "Riesling-Sylvaner"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les cépages rouges principaux de Genève sont le Gamay et le Garanoir."
+    },
+    {
+        "question": "5.6.4. Quelle région viticole suisse est classée au patrimoine mondial de l'UNESCO ?",
+        "answers": [
+            "Le Lavaux",
+            "La Côte",
+            "Le canton du Valais",
+            "Le pays des Trois Lacs"
+        ],
+        "correct": 0,
+        "explanation": "Le canton de Vaud est célèbre pour ses paysages viticoles spectaculaires, notamment dans la région du Lavaux, classée au patrimoine mondial de l'UNESCO."
+    },
+    {
+        "question": "5.6.5. Quel cépage est le plus cultivé dans le canton du Tessin ?",
+        "answers": [
+            "Le Merlot",
+            "Le Gamay",
+            "Le Pinot Noir",
+            "Le Chasselas"
+        ],
+        "correct": 0,
+        "explanation": "Le Merlot est le cépage emblématique du Tessin, il produit des vins riches et veloutés."
+    },
+    {
+        "question": "5.6.6. Quels cépages sont utilisés pour produire le vin 'Esprit de Genève' ?",
+        "answers": [
+            "Gamay",
+            "Garanoir",
+            "Gamaret",
+            "Merlot",
+            "Riesling-Sylvaner"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "L'Esprit de Genève est élaboré avec au moins 50 % de Gamay et 20 % de Garanoir ou de Gamaret."
+    },
+    {
+        "question": "5.6.7. Quel canton est le deuxième plus grand producteur de vin en Suisse ?",
+        "answers": [
+            "Le canton de Vaud",
+            "Le canton du Valais",
+            "Le canton de Genève",
+            "Le canton du Tessin"
+        ],
+        "correct": 0,
+        "explanation": "Le canton de Vaud est le deuxième plus grand canton viticole, représentant environ 26 % de la production."
+    },
+    {
+        "question": "5.6.8. Quels cépages sont typiques de la région du Pays des Trois Lacs ?",
+        "answers": [
+            "Chasselas",
+            "Pinot Noir",
+            "Gamay",
+            "Merlot",
+            "Riesling-Sylvaner"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les cépages principaux du Pays des Trois Lacs sont le Chasselas, le Pinot Noir et le Gamay."
+    },
+    {
+        "question": "5.6.9. Quel cépage blanc est le plus cultivé en Suisse alémanique ?",
+        "answers": [
+            "Riesling-Sylvaner",
+            "Chasselas",
+            "Sauvignon Blanc",
+            "Pinot Gris"
+        ],
+        "correct": 0,
+        "explanation": "Le Riesling-Sylvaner est un cépage blanc très répandu en Suisse alémanique."
+    },
+    {
+        "question": "5.6.10. Quel vin rosé est produit exclusivement à partir de Pinot Noir ?",
+        "answers": [
+            "Œil-de-Perdrix",
+            "Dôle",
+            "Federweiser",
+            "Weissherbst"
+        ],
+        "correct": 0,
+        "explanation": "L'Œil-de-Perdrix est un vin rosé issu de cépage 100 % Pinot Noir."
+    },
+    {
+        "question": "5.6.11. Quelle région viticole suisse produit des vins sous l'appellation DOC ?",
+        "answers": [
+            "Tessin",
+            "Valais",
+            "Vaud",
+            "Genève"
+        ],
+        "correct": 0,
+        "explanation": "Les vins du Tessin sont souvent classés sous l'appellation DOC (Denominazione di Origine Controllata)."
+    },
+    {
+        "question": "5.6.12. Quels cépages rouges sont cultivés dans le canton de Vaud ?",
+        "answers": [
+            "Pinot Noir",
+            "Gamay",
+            "Merlot",
+            "Cabernet Sauvignon"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les cépages rouges principaux du canton de Vaud sont le Pinot Noir et le Gamay."
+    },
+    {
+        "question": "5.6.13. Vrai ou Faux : Le canton de Genève est le plus grand producteur de vin en Suisse.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "Le Valais est le plus grand canton viticole de Suisse, représentant environ 33 % de la production."
+    },
+    {
+        "question": "5.6.14. Vrai ou Faux : Le cépage Bondola est autochtone du Tessin.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Le Bondola est un cépage autochtone du Tessin, il donne le 'Nostrano', un vin du pays traditionnel."
+    },
+    {
+        "question": "5.6.15. Vrai ou Faux : Le Lavaux est une région viticole située dans le canton de Genève.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "Le Lavaux est une région viticole située dans le canton de Vaud."
+    },
+    {
+        "question": "5.6.16. Vrai ou Faux : Le Pinot Noir est le cépage rouge le plus cultivé en Suisse alémanique.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Le Pinot Noir est le cépage rouge le plus cultivé en Suisse alémanique."
+    },
+    {
+        "question": "5.6.17. Vous êtes sommelier dans un restaurant haut de gamme. Un client demande un vin suisse qui accompagnerait parfaitement une fondue au fromage. Parmi les options suivantes, lequel recommanderiez-vous ?",
+        "answers": [
+            "Un Fendant (Chasselas) du Valais",
+            "Un Merlot du Tessin",
+            "Un Pinot Noir de Genève",
+            "Un Œil-de-Perdrix de Neuchâtel"
+        ],
+        "correct": 0,
+        "explanation": "Le Fendant, issu du cépage Chasselas, est particulièrement adapté pour accompagner une fondue au fromage grâce à sa fraîcheur et son équilibre. Les autres options, bien que de qualité, ne sont pas les plus adaptées à ce type de plat."
+    },
+    {
+        "question": "5.6.18. Un client dans une cave à vin vous demande un vin suisse rouge léger et fruité pour accompagner un apéritif. Quelle serait votre meilleure recommandation ?",
+        "answers": [
+            "Un Gamay de Genève",
+            "Un Merlot du Tessin",
+            "Un Pinot Noir du Valais",
+            "Un Garanoir de Vaud"
+        ],
+        "correct": 0,
+        "explanation": "Le Gamay est connu pour ses vins légers et fruités, parfaits pour un apéritif. Les autres options, bien que de qualité, sont généralement plus riches ou structurées, ce qui les rend moins adaptées pour un apéritif."
+    },
+    {
+        "question": "5.6.19. Vous organisez une dégustation de vins suisses pour un groupe de touristes. Ils souhaitent découvrir un vin emblématique de la région de Lavaux, classée au patrimoine mondial de l'UNESCO. Quel vin leur proposez-vous ?",
+        "answers": [
+            "Un Chasselas AOC Lavaux",
+            "Un Sauvignon Blanc de Genève",
+            "Un Merlot du Tessin",
+            "Un Pinot Noir de Schaffhouse"
+        ],
+        "correct": 0,
+        "explanation": "Le Chasselas est le cépage emblématique de la région de Lavaux. Il reflète parfaitement le terroir unique de cette région, avec des vins souvent minéraux et aromatiques. Les autres options ne sont pas représentatives de Lavaux."
+    },
+    {
+        "question": "5.6.20. Un client souhaite acheter un vin suisse rouge de garde, avec une belle structure, pour accompagner un plat de viande rôtie. Quelle serait votre recommandation ?",
+        "answers": [
+            "Un Pinot Noir du Valais",
+            "Un Gamay de Genève",
+            "Un Riesling-Sylvaner de Zurich",
+            "Un Chasselas de Vaud"
+        ],
+        "correct": 0,
+        "explanation": "Le Pinot Noir du Valais est réputé pour sa structure et sa capacité de garde, ce qui en fait un excellent choix pour accompagner des plats de viande rôtie. Les autres options ne possèdent pas les caractéristiques nécessaires pour ce type d'accord."
+    }
+]
