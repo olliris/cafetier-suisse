@@ -99,6 +99,12 @@ body {
   color: blue;
   font-style: italic;
 }
+.explanation {
+  margin-top: 10px;
+  padding: 10px;
+  background: #f4f4f4;
+  border-left: 4px solid #4a90d9;
+}
 .hidden {
   display: none;
 }
