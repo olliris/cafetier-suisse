@@ -1,0 +1,19 @@
+# Autoriser les fichiers JSON à être lus par le navigateur
+<FilesMatch "\.json$">
+    Header set Access-Control-Allow-Origin "*"
+    Header set Content-Type "application/json"
+</FilesMatch>
+
+# Empêcher l'exécution des fichiers potentiellement dangereux
+<FilesMatch "\.(htaccess|htpasswd|ini|log|sh|cgi|pl|py)$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+# Sécurité : empêcher l'indexation du dossier
+Options -Indexes
+
+# Autoriser le chargement depuis d'autres origines (si nécessaire)
+Header always set Access-Control-Allow-Origin "*"
+Header always set Access-Control-Allow-Methods "GET, OPTIONS"
+Header always set Access-Control-Allow-Headers "X-Requested-With, Content-Type"

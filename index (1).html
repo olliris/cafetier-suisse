@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" href="Ambulance.ico" type="image/x-icon">
+  <title>Préparation Technicien Ambulancier</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="quiz-container">
+    <img src="Ambulance.png" style="height: 100px">
+    <h1>Préparation Technicien Ambulancier</h1>
+    <p>Choisir un mode de jeu</p>
+    <button onclick="startExam()">Examen 120 min</button>
+    <button onclick="chooseExerciseRange()">Mode Exercice</button>
+    <button onclick="showHistory()">Historique</button>
+    <button onclick="showFlashcards()">Flashcards</button>
+    <button onclick="showSchemas()">Schémas</button>
+  </div>
+
+  <div id="game" class="hidden">
+    <p id="timer" class="hidden"></p>
+    <div id="questions"></div>
+    <p id="feedback" class="feedback-text hidden"></p>
+    <p id="score" class="hidden"></p>
+    <button id="endButton" class="hidden" onclick="endExam()">Soumettre</button>
+  </div>
+
+  <div id="exerciseRangePage" class="hidden">
+    <h2>Mode Exercice</h2>
+    <div id="exerciseMarkedRow"></div>
+    <div id="exerciseRangeOptions"></div>
+    <button onclick="goBackToHome()">Retour</button>
+  </div>
+
+  <div id="historyPage" class="hidden">
+    <h2>Historique des examens</h2>
+    <div id="historyContent"></div>
+    <button id="resetCacheButton" onclick="resetCache()">Réinitialiser le cache</button>
+    <button onclick="goBackToHome()">Retour</button>
+  </div>
+
+  <div id="flashcardsPage" class="hidden">
+    <h2>Flashcards</h2>
+    <div id="flashcardsFolders"></div>
+    <button onclick="goBackToHome()">Retour</button>
+  </div>
+
+  <div id="flashcardDeckPage" class="hidden">
+    <div id="flashcardDeckContent"></div>
+    <button onclick="backToFlashcards()">Retour</button>
+  </div>
+
+  <div id="schemasPage" class="hidden">
+    <h2>Schémas</h2>
+    <div id="schemasFolders"></div>
+    <button onclick="goBackToHome()">Retour</button>
+  </div>
+
+  <div id="schemasCategoryPage" class="hidden">
+    <h2 id="schemasCategoryTitle"></h2>
+    <div id="schemasGrid"></div>
+    <button onclick="backToSchemasCategories()">Retour</button>
+  </div>
+
+  <div id="schemaDetailPage" class="hidden">
+    <div id="schemaDetailContent"></div>
+    <button onclick="backToSchemasGrid()">Retour</button>
+  </div>
+
+  <footer id="footer">
+    Créé par Olivier Van Isacker<br>
+    erreurs: quiz-ta@cern.ch
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
