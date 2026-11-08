@@ -93,7 +93,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 1,
+        "correct": [1],
         "explanation": "Les employés ne doivent pas porter de montres ni de bijoux qui pourraient contaminer les aliments."
     },
     {
@@ -102,7 +102,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "En matière d'hygiène professionnelle, la formation des collaboratrices et collaborateurs est une obligation légale."
     },
     {
@@ -279,7 +279,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Les sorties de secours doivent être dégagées et facilement accessibles à tout moment."
     },
     {
@@ -288,7 +288,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 1,
+        "correct": [1],
         "explanation": "Les couteaux ne doivent jamais être laissés dans un évier, mais rangés dans des supports de protection."
     },
     {
@@ -297,7 +297,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 1,
+        "correct": [1],
         "explanation": "Il faut rafraîchir les brûlures avec de l'eau fraîche, mais surtout pas glacée, pour éviter une vasoconstriction qui pourrait aggraver la brûlure."
     },
     {
@@ -598,7 +598,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "CFC : D'une durée de 3 ans, le CFC combine une formation pratique en entreprise avec des cours théoriques."
     },
     {
@@ -607,7 +607,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "La cuisson sous vide minimise les pertes à la cuisson et préserve la qualité d'origine des aliments."
     },
     {
@@ -616,7 +616,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Les normes d'hygiène incluent : nettoyage régulier des surfaces de travail, des équipements et des ustensiles."
     },
     {
@@ -625,7 +625,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Hôtel Garni : Établissement hôtelier qui ne propose que l'hébergement avec petit déjeuner et boissons."
     },
     {
@@ -634,7 +634,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Les responsabilités d'un cuisinier incluent : la gestion des stocks et des denrées alimentaires."
     },
     {
@@ -643,7 +643,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "La cuisson à la vapeur préserve les nutriments et la texture des aliments."
     },
     {
@@ -654,7 +654,7 @@
             "Cuire immédiatement les produits pour éviter qu'ils ne se détériorent.",
             "Mélanger les produits non conformes avec ceux déjà stockés pour minimiser les pertes."
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Il est essentiel de refuser les produits qui ne respectent pas les normes de température pour garantir la sécurité alimentaire et éviter tout risque pour la santé des clients. Informer le fournisseur permet de résoudre le problème et d'éviter qu'il ne se reproduise."
     },
     {
@@ -665,7 +665,7 @@
             "Préparez le plat demandé sans vérifier les besoins spécifiques du régime.",
             "Ajoutez simplement moins de sel dans un plat standard sans ajuster les autres ingrédients."
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "L'adaptabilité est une qualité essentielle pour un cuisinier. Répondre aux besoins spécifiques des clients, tout en respectant les normes diététiques, améliore leur satisfaction et montre un haut niveau de professionnalisme."
     },
     {
@@ -676,7 +676,7 @@
             "Réprimander le membre de la brigade devant toute l'équipe pour éviter que cela ne se reproduise.",
             "Réduire les portions des plats suivants pour compenser le gaspillage."
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Il est important de gérer les erreurs de manière constructive. Une discussion après le service permet de corriger le problème sans perturber l'équipe, tout en renforçant les bonnes pratiques."
     },
     {
@@ -687,7 +687,7 @@
             "Laissez chaque membre de l'équipe décider de son propre planning pour plus de flexibilité.",
             "Concentrez-vous uniquement sur la production et laissez la finition se faire au dernier moment."
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Une planification rigoureuse, incluant des techniques modernes comme le 'cook & chill', permet d'optimiser le temps et les ressources tout en garantissant la qualité des plats."
     },
     {
@@ -698,7 +698,7 @@
             "Sanctionnez immédiatement l'apprenti sans explication.",
             "Demandez à un autre membre de l'équipe de surveiller l'apprenti en permanence."
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Former et sensibiliser l'ensemble de l'équipe permet de renforcer les bonnes pratiques sans stigmatiser un individu. Cela favorise un environnement de travail positif et respectueux."
     },
     {
@@ -709,7 +709,7 @@
             "Demandez à l'équipe de cuisiner les produits en surplus sans planification.",
             "Ignorez le problème en espérant qu'il se résolve avec le temps."
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "La mise en place d'un système FIFO et des contrôles réguliers permet de réduire les pertes en s'assurant que les produits les plus anciens sont utilisés en premier. Cela garantit également une meilleure rotation des stocks."
     },
     {
@@ -967,7 +967,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Le lait est riche en calcium et en vitamine D, essentiels pour la santé des os."
     },
     {
@@ -976,7 +976,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "L'acier chrome-nickel est résistant à la corrosion grâce au chrome et au nickel."
     },
     {
@@ -985,7 +985,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Les aliments surgelés conservent généralement plus de vitamines que ceux conservés par d'autres modes."
     },
     {
@@ -994,7 +994,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Les batteries avec fond en sandwich sont adaptées à l'induction grâce à leur conductivité thermique."
     },
     {
@@ -1003,7 +1003,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Les fruits et légumes frais contiennent beaucoup de fibres alimentaires, essentielles pour la digestion."
     },
     {
@@ -1014,7 +1014,7 @@
             "Utiliser les casseroles en aluminium uniquement pour des préparations à haute température.",
             "Appliquer une couche d'huile sur les casseroles pour éviter l'usure."
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "L'aluminium est sensible aux acides, ce qui peut entraîner une usure rapide et des réactions chimiques indésirables. L'acier inoxydable est une alternative plus durable et résistante pour les préparations acides."
     },
     {
@@ -1025,7 +1025,7 @@
             "Suggérer de ne pas utiliser de matières grasses pour la cuisson dans des plats en verre.",
             "Proposer de remplacer les plats en verre par des plats en plastique."
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Le verre, bien qu'esthétique et salubre, a tendance à faire attacher les aliments. Les plats en céramique ou en acier inoxydable sont mieux adaptés pour éviter ce problème."
     },
     {
@@ -1036,7 +1036,7 @@
             "Utiliser des produits abrasifs pour nettoyer les parois internes.",
             "Éteindre la cellule sans la nettoyer pour économiser de l'énergie."
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Un nettoyage régulier et non abrasif est essentiel pour maintenir la performance et l'hygiène de la cellule de refroidissement. Les résidus alimentaires peuvent entraîner des problèmes d'hygiène et de fonctionnement."
     },
     {
@@ -1047,7 +1047,7 @@
             "Suggérer de remplacer la poêle en fonte par une poêle en plastique pour un entretien plus simple.",
             "Conseiller de ne pas utiliser de matières grasses pour la cuisson dans une poêle en fonte."
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "La fonte est idéale pour les cuissons à haute température, mais elle nécessite un entretien spécifique, comme le huilage, pour éviter la rouille et maintenir ses propriétés de cuisson."
     },
     {
@@ -1058,7 +1058,7 @@
             "Recommander d'utiliser des casseroles en aluminium sans revêtement.",
             "Proposer de remplacer la plaque à induction par une plaque électrique."
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Les plaques à induction nécessitent des casseroles avec un fond ferromagnétique pour fonctionner. Si le fond n'est pas compatible, la chaleur ne sera pas générée."
     },
     {
@@ -1131,7 +1131,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Responsabilités des professionnels : Formation du personnel : garantir que les employés connaissent et appliquent les règles d'hygiène et de sécurité."
     },
     {
@@ -1140,7 +1140,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Méthode FIFO (First In, First Out) : Les produits les plus anciens doivent être utilisés en premier pour éviter le gaspillage."
     },
     {
@@ -1151,7 +1151,7 @@
             "Accepter la livraison mais noter l'incident sans en informer le fournisseur.",
             "Accepter la livraison et utiliser les produits rapidement pour éviter tout problème."
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Il est essentiel de refuser toute marchandise qui ne respecte pas les normes de température pour garantir la sécurité alimentaire et éviter les risques sanitaires. Informer le fournisseur permet de maintenir des standards de qualité et de traçabilité."
     },
     {
@@ -1162,7 +1162,7 @@
             "Accepter les produits et les utiliser en priorité pour limiter les pertes.",
             "Stocker les produits endommagés séparément et les utiliser uniquement en cas de besoin urgent."
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Refuser les produits non conformes est une obligation légale pour garantir la sécurité et la qualité des denrées alimentaires. Documenter les problèmes permet de maintenir une traçabilité et de signaler les non-conformités au fournisseur."
     },
     {
@@ -1173,7 +1173,7 @@
             "Les laver abondamment pour enlever les marques et les cuisiner.",
             "Les mélanger avec d'autres champignons pour masquer leur état."
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Les champignons gluants ou présentant des marques de pression sont impropres à la consommation. Il est essentiel de garantir la sécurité alimentaire en refusant ces produits et en demandant un remplacement."
     },
     {
@@ -1184,7 +1184,7 @@
             "Lui conseiller de les consommer crues en petite quantité pour éviter tout risque.",
             "Lui dire que cela dépend de la variété de morilles."
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Toutes les variétés de morilles sont toxiques à l'état cru. La cuisson ou le séchage est nécessaire pour neutraliser cette toxicité et garantir leur sécurité."
     },
     {
@@ -1195,7 +1195,7 @@
             "Assurez-vous que les écailles sont faciles à retirer.",
             "Vérifiez que le poisson est bien emballé, peu importe son aspect."
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "La fraîcheur d'un poisson se reconnaît à plusieurs indices : peau brillante, branchies rouges, yeux bombés, chair ferme et une odeur fraîche. Ces critères garantissent la qualité du produit."
     },
     {
@@ -1206,7 +1206,7 @@
             "Les conserver dans un sac plastique hermétique.",
             "Les laisser à l'air libre dans la cuisine."
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Les champignons séchés doivent être conservés dans un endroit sec et à l'abri de l'humidité pour éviter qu'ils ne se détériorent. Le réfrigérateur ou un sac plastique hermétique ne sont pas adaptés."
     },
     {
@@ -1217,7 +1217,7 @@
             "Cela indique que le poisson a été mal transporté.",
             "Cela est un signe que le poisson est impropre à la consommation."
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Les poissons d'élevage peuvent avoir les yeux troubles et les branchies grises en raison de leur mode de mise à mort. Cela n'affecte pas leur qualité ni leur sécurité alimentaire."
     },
     {
@@ -1228,7 +1228,7 @@
             "Cela permet de conserver la volaille plus longtemps après cuisson.",
             "Cela est nécessaire uniquement pour les volailles congelées."
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "La volaille peut être porteuse de bactéries pathogènes comme les salmonelles. Une cuisson complète est essentielle pour garantir la sécurité alimentaire et éviter les contaminations."
     },
     {
@@ -1271,7 +1271,7 @@
             "Une offre commerciale sans prix fixe",
             "Une carte des mets avec des choix libres"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Menu : Une suite de mets proposés à un prix fixe."
     },
     {
@@ -1378,7 +1378,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 1,
+        "correct": [1],
         "explanation": "Les informations affichées doivent être écrites et visibles pour les clients."
     },
     {
@@ -1387,7 +1387,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Favoriser l'utilisation de produits de saison et locaux pour garantir la fraîcheur et soutenir l'économie locale."
     },
     {
@@ -1426,7 +1426,7 @@
             "Se concentrer uniquement sur l'écologie",
             "Ignorer les besoins économiques"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Le développement durable est un concept qui lie l'écologie et l'économie, soulignant l'importance d'une approche équilibrée pour préserver notre environnement tout en répondant aux besoins économiques."
     },
     {
@@ -1437,7 +1437,7 @@
             "Ignorer les impacts locaux",
             "Se concentrer uniquement sur les solutions globales"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Ce principe encourage les restaurateurs à prendre en compte l'impact de leurs actions sur l'environnement à une échelle mondiale tout en mettant en œuvre des solutions adaptées à leur contexte local."
     },
     {
@@ -1562,7 +1562,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "C'est la cuisine qui consomme le plus d'énergie (40 %)."
     },
     {
@@ -1571,7 +1571,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Privilégier les produits locaux et de saison permet une réduction des émissions de CO2 liées au transport."
     },
     {
@@ -1580,7 +1580,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Le nettoyage écologique est essentiel pour réduire l'impact environnemental des établissements de restauration."
     },
     {
@@ -1775,7 +1775,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Robusta : Teneur en caféine entre 2,4 et 4,4 %. Arabica : Teneur en caféine entre 1,1 et 1,7 %."
     },
     {
@@ -1784,7 +1784,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 1,
+        "correct": [1],
         "explanation": "L'utilisation de cette machine est simple et ne demande aucun savoir-faire spécifique."
     },
     {
@@ -1793,7 +1793,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Le café filtre contient plus de caféine et d'impuretés qu'un café obtenu avec une machine à café."
     },
     {
@@ -1804,7 +1804,7 @@
             "Mélange Arabica-Robusta",
             "Café lyophilisé"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "L'Arabica est connu pour sa saveur douce et aromatique, avec une teneur en caféine plus faible (entre 1,1 % et 1,7 %) par rapport au Robusta (entre 2,4 % et 4,4 %). Il répond donc parfaitement aux attentes du client."
     },
     {
@@ -1815,7 +1815,7 @@
             "Chauffer le lait à une température plus élevée",
             "Mélanger la mousse avec une cuillère pour la rendre homogène"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Pour obtenir une mousse compacte et ferme, il est recommandé de taper légèrement le pot à lait sur le comptoir après avoir chauffé le lait. Cela permet d'éclater les grosses bulles d'air et d'améliorer la texture de la mousse."
     },
     {
@@ -1826,7 +1826,7 @@
             "Préparer un café lyophilisé et ajouter une dose de grappa",
             "Préparer un café au lait et ajouter une dose de grappa"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Le café coretto est traditionnellement un ristretto complété par une giclée de grappa. Si un autre alcool est utilisé, il est important de le préciser au client. Cette préparation respecte la demande spécifique du client."
     },
     {
@@ -1851,7 +1851,7 @@
             "Le thé vert",
             "Le thé Oolong"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Le thé blanc est le moins transformé, fait uniquement de bourgeons et de jeunes feuilles. Il a un goût délicat et est souvent plus coûteux."
     },
     {
@@ -1876,7 +1876,7 @@
             "Fujian",
             "Shizuoka"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "La région de Darjeeling en Inde est souvent appelée le 'champagne des thés' en raison de la qualité exceptionnelle de son thé noir."
     },
     {
@@ -1887,7 +1887,7 @@
             "L'oxydation",
             "Le séchage"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Le roulage consiste à donner une forme aux feuilles et à libérer leurs huiles essentielles."
     },
     {
@@ -1898,7 +1898,7 @@
             "Thé blanc",
             "Thé Oolong"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Le Japon produit exclusivement du thé vert, en particulier dans la région de Shizuoka et sur l'île de Kyushu."
     },
     {
@@ -1923,7 +1923,7 @@
             "80-90°C",
             "60-70°C"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "La température idéale pour préparer du thé vert est de 70-80°C."
     },
     {
@@ -1948,7 +1948,7 @@
             "Infusion de tilleul",
             "Infusion de rooibos"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "L'infusion de cynorrhodon est riche en vitamine C et prévient les refroidissements."
     },
     {
@@ -1959,7 +1959,7 @@
             "Les tisanes sont servies dans les restaurants",
             "Les infusions sont extraites uniquement de fleurs"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "La tisane est extraite de plantes dont l'effet est principalement pharmacologique. Elle a un caractère médical et ne peut être servie dans les entreprises de l'hôtellerie-restauration."
     },
     {
@@ -1970,7 +1970,7 @@
             "Thé blanc",
             "Thé Oolong"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Le thé noir est le plus exporté des thés."
     },
     {
@@ -1981,7 +1981,7 @@
             "Action stimulante si infusion longue",
             "Action apaisante si infusion longue"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "La caféine, aussi appelée théine, a une action stimulante sur le corps humain si le temps d'infusion se situe entre deux et trois minutes."
     },
     {
@@ -1990,7 +1990,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Le thé blanc est le moins transformé, fait uniquement de bourgeons et de jeunes feuilles."
     },
     {
@@ -1999,7 +1999,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 1,
+        "correct": [1],
         "explanation": "Contrairement au thé, les infusions ne contiennent pas de caféine."
     },
     {
@@ -2008,7 +2008,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Le thé Oolong est partiellement oxydé, se situant entre le thé noir et le thé vert en termes de goût et de couleur."
     },
     {
@@ -2019,7 +2019,7 @@
             "Vous refusez de préparer le thé vert et demandez au client de choisir une autre boisson.",
             "Vous préparez le thé vert avec de l'eau froide pour éviter tout problème."
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Le thé vert doit être préparé avec de l'eau à une température idéale de 70-80°C pour préserver ses arômes et ses bienfaits. L'eau bouillante peut dénaturer le goût du thé et réduire ses propriétés antioxydantes. Il est important d'expliquer cela au client pour garantir une expérience optimale."
     },
     {
@@ -2030,7 +2030,7 @@
             "Vous proposez de rajouter du sucre pour masquer l'amertume.",
             "Vous lui servez un autre type de thé sans lui donner d'explication."
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Le thé noir, lorsqu'il est infusé trop longtemps, libère des tannins qui peuvent donner un goût amer. En respectant un temps d'infusion de 3 à 5 minutes, on obtient un équilibre entre les saveurs robustes et les propriétés apaisantes des tannins. Il est important de communiquer cette information au client et de lui proposer une solution adaptée."
     },
     {
@@ -2041,7 +2041,7 @@
             "Vous placez les thés dans un réfrigérateur pour garantir leur fraîcheur.",
             "Vous les stockez dans des sacs en plastique transparents pour les protéger."
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Le thé est très sensible aux odeurs et à l'humidité. Il doit être conservé dans un endroit sec, à température constante, dans des récipients opaques et étanches, loin des denrées odorantes comme le café ou les épices. Cela permet de préserver ses arômes et ses qualités pendant un à deux ans."
     },
     {
@@ -2088,7 +2088,7 @@
             "Entre 10 et 15 °C",
             "Entre 20 et 25 °C"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Une température constante (entre 6 et 9 °C) est recommandée pour l'entreposage de la bière."
     },
     {
@@ -2113,7 +2113,7 @@
             "La filtration",
             "Le conditionnement"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Lors du brassage, la soupe ou 'maïsche' est chauffée à feu doux jusqu'à 76 °C environ, afin de transformer l'amidon du malt en sucre de malt."
     },
     {
@@ -2124,7 +2124,7 @@
             "3 %",
             "5 %"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "La bière sans alcool est définie comme ayant une teneur en alcool ne dépassant pas 0,5 % du volume."
     },
     {
@@ -2206,7 +2206,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "L'eau constitue plus de 90 % du produit fini."
     },
     {
@@ -2215,7 +2215,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 1,
+        "correct": [1],
         "explanation": "Ce sont uniquement les fleurs femelles non fécondées (les cônes) qui sont sélectionnées pour la fabrication de la bière."
     },
     {
@@ -2224,7 +2224,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Les levures à fermentation basse travaillent à des températures d'environ 10 °C."
     },
     {
@@ -2233,7 +2233,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "La bière spéciale a une teneur en moût d'origine de 11,5 à 14 % de la masse."
     },
     {
@@ -2244,7 +2244,7 @@
             "Secouer le fût pour accélérer l'intégration du gaz carbonique.",
             "Ajouter de l'eau pour réduire la mousse."
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Après la livraison, il est recommandé de laisser reposer les fûts entre 24 et 48 heures avant utilisation. Cela permet au gaz carbonique libéré lors du transport de se réintégrer à la bière, évitant ainsi une mousse excessive et des pertes."
     },
     {
@@ -2255,7 +2255,7 @@
             "Filtrer la bière pour retirer le dépôt de levure avant de la servir.",
             "Servir la bière sans toucher au dépôt de levure."
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Les bières de froment non filtrées contiennent un dépôt de levure qui doit être remis en suspension avant le service. Cela garantit une répartition homogène des saveurs et respecte les caractéristiques de ce type de bière."
     },
     {
@@ -2266,7 +2266,7 @@
             "Le verre utilisé n'a pas été rincé à l'eau froide avant le service.",
             "Le robinet a été ouvert et fermé plusieurs fois pendant le tirage."
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Une mousse excessive peut être causée par un fût qui n'a pas reposé suffisamment après la livraison. Le gaz carbonique libéré lors du transport n'a pas eu le temps de se réintégrer à la bière, ce qui entraîne une mousse abondante lors du tirage."
     },
     {
@@ -2277,7 +2277,7 @@
             "Entreposer les bières dans un endroit lumineux pour faciliter leur identification.",
             "Laisser les fûts ouverts pour éviter une accumulation de gaz."
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Pour préserver la qualité des bières, elles doivent être stockées à une température constante entre 6 et 9 °C, dans un endroit obscur, propre et exempt d'odeurs fortes. La lumière et une température inappropriée peuvent altérer le goût et l'arôme de la bière."
     },
     {
@@ -2288,7 +2288,7 @@
             "Foulage",
             "Fermentation"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "La première étape consiste à récolter les raisins, généralement à la main ou à l'aide de machines."
     },
     {
@@ -2299,7 +2299,7 @@
             "Ajouter des levures",
             "Vieillir le vin en fût"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Cette étape consiste à séparer les grains de raisin de leur rafle, afin d'éviter l'introduction de tanins indésirables dans le vin."
     },
     {
@@ -2310,7 +2310,7 @@
             "Merlot",
             "Sauvignon Blanc"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Le Cabernet Sauvignon est corsé, tannique, avec des arômes de cassis et de poivron."
     },
     {
@@ -2321,7 +2321,7 @@
             "Ajout de gaz carbonique",
             "Thermovinification"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "La méthode traditionnelle (ou champenoise) est utilisée pour produire des vins effervescents de haute qualité, avec une complexité des arômes très élevée."
     },
     {
@@ -2332,7 +2332,7 @@
             "Pressurage",
             "Soutirage"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Les levures transforment le sucre du raisin en alcool, créant ainsi le vin."
     },
     {
@@ -2343,7 +2343,7 @@
             "Rosé",
             "Vin effervescent"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Des raisins rouges peuvent produire du vin blanc. On appelle alors ces vins, des Blancs de Noir ."
     },
     {
@@ -2354,7 +2354,7 @@
             "Méthode champenoise",
             "Méthode Charmat"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Le chauffage (entre 60 et 80 °C) de la vendange raccourcit considérablement le temps de macération (entre cinq et quinze heures) et neutralise les éventuels effets indésirables dus aux microorganismes."
     },
     {
@@ -2365,7 +2365,7 @@
             "Séparer les grains de la rafle",
             "Filtrer le vin"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Le pigeage consiste à faire couler le chapeau sous la surface du moût pour assurer une extraction optimale des couleurs et des tanins."
     },
     {
@@ -2376,7 +2376,7 @@
             "Marsala",
             "Madère"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Le Sherry Fino est un vin sec, vieilli sous un voile, issu du cépage Palomino uniquement."
     },
     {
@@ -2387,7 +2387,7 @@
             "Anisé",
             "Alcopop"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Le vermouth est un vin aromatisé avec des plantes et des épices, comme l'absinthe, le clou de girofle ou le génépi."
     },
     {
@@ -2398,7 +2398,7 @@
             "Supérieure à 22 % vol",
             "Entre 40 % et 45 % vol"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Les alcopops sont des boissons alcoolisées sucrées dont la teneur en alcool est inférieure à 15 % du volume."
     },
     {
@@ -2409,7 +2409,7 @@
             "Cabernet Sauvignon",
             "Pinot Noir"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "À la base du Samos, le cépage Muscat produit sur l'île grecque de Samos."
     },
     {
@@ -2420,7 +2420,7 @@
             "Sulfitage",
             "Égrappage"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Le collage consiste à utiliser des protéines telles que du blanc d'œuf ou de colle de poisson pour agglutiner les particules en suspens dans le vin."
     },
     {
@@ -2431,7 +2431,7 @@
             "Vin blanc",
             "Vin effervescent"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "La macération s'effectue dans la cuve. On ne prélève que la quantité destinée à la production de rosé, alors que ce qui reste dans la cuve deviendra du vin rouge."
     },
     {
@@ -2440,7 +2440,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Des raisins rouges peuvent produire du vin blanc. On appelle alors ces vins, des Blancs de Noir ."
     },
     {
@@ -2449,7 +2449,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 1,
+        "correct": [1],
         "explanation": "La méthode Charmat est plus rapide et donne des vins plus fruités et accessibles, mais elle est moins complexe que la méthode traditionnelle."
     },
     {
@@ -2458,7 +2458,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Les alcopops contiennent plus d'alcool que la bière."
     },
     {
@@ -2467,7 +2467,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 1,
+        "correct": [1],
         "explanation": "Le Porto est produit à partir de raisins blancs et rouges, vendangés et vinifiés séparément."
     },
     {
@@ -2478,7 +2478,7 @@
             "Attendre quelques jours sans effectuer de contrôle pour voir si les raisins mûrissent davantage.",
             "Récolter uniquement les grappes qui semblent visuellement mûres."
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Le contrôle de maturité est une étape essentielle avant la récolte. Utiliser un réfractomètre permet de mesurer précisément le taux de sucre des raisins et de déterminer leur degré de maturité. Cela garantit que les raisins sont récoltés au moment optimal pour produire un vin de qualité."
     },
     {
@@ -2489,7 +2489,7 @@
             "Passer directement à la fermentation malolactique pour adoucir le vin.",
             "Ajouter du sucre pour masquer les particules en suspension."
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Le débourbage est une étape clé pour clarifier le moût en éliminant les matières en suspension. Cela permet d'obtenir un vin blanc limpide et de qualité. Ajouter des levures ou passer à la fermentation sans cette étape pourrait compromettre la pureté du vin."
     },
     {
@@ -2500,7 +2500,7 @@
             "Retirer le chapeau pour éviter qu'il n'altère le goût du vin.",
             "Ajouter de l'eau pour diluer le moût et faciliter la fermentation."
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Le pigeage est une étape essentielle dans la vinification des vins rouges. Il permet d'immerger le chapeau formé par les peaux de raisin, favorisant ainsi une meilleure extraction des couleurs et des tanins, qui sont essentiels pour la structure et la qualité du vin rouge."
     },
     {
@@ -2511,7 +2511,7 @@
             "Ajouter une liqueur de tirage pour dissoudre les dépôts.",
             "Secouer les bouteilles pour mélanger les dépôts au vin."
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Dans la méthode traditionnelle, le remuage est utilisé pour déplacer les dépôts vers le goulot de la bouteille. Ensuite, le dégorgement permet d'éliminer ces dépôts solidifiés grâce à la pression interne de la bouteille. Cela garantit un vin effervescent clair et de qualité."
     },
     {
@@ -2538,7 +2538,7 @@
             "Entre 5 % et 10 % vol.",
             "Exactement 12 % vol."
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Les spiritueux se caractérisent par une teneur en alcool généralement supérieure à 15 % vol."
     },
     {
@@ -2653,7 +2653,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "La distillation sépare l'alcool de l'eau en exploitant leurs points d'ébullition différents. L'alcool s'évapore à environ 78 °C, tandis que l'eau bout à 100 °C."
     },
     {
@@ -2662,7 +2662,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Les liqueurs contiennent une quantité significative de sucre, ce qui leur confère une douceur caractéristique."
     },
     {
@@ -2701,7 +2701,7 @@
             "Suisse italienne",
             "Tessin"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "La Suisse romande est connue pour ses cépages blancs, notamment le Chasselas."
     },
     {
@@ -2712,7 +2712,7 @@
             "Le canton de Genève",
             "Le canton du Tessin"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Le Valais est le plus grand canton viticole de Suisse, il représente environ 33 % de la production viticole nationale."
     },
     {
@@ -2737,7 +2737,7 @@
             "Le canton du Valais",
             "Le pays des Trois Lacs"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Le canton de Vaud est célèbre pour ses paysages viticoles spectaculaires, notamment dans la région du Lavaux, classée au patrimoine mondial de l'UNESCO."
     },
     {
@@ -2748,7 +2748,7 @@
             "Le Pinot Noir",
             "Le Chasselas"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Le Merlot est le cépage emblématique du Tessin, il produit des vins riches et veloutés."
     },
     {
@@ -2775,7 +2775,7 @@
             "Le canton de Genève",
             "Le canton du Tessin"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Le canton de Vaud est le deuxième plus grand canton viticole, représentant environ 26 % de la production."
     },
     {
@@ -2802,7 +2802,7 @@
             "Sauvignon Blanc",
             "Pinot Gris"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Le Riesling-Sylvaner est un cépage blanc très répandu en Suisse alémanique."
     },
     {
@@ -2813,7 +2813,7 @@
             "Federweiser",
             "Weissherbst"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "L'Œil-de-Perdrix est un vin rosé issu de cépage 100 % Pinot Noir."
     },
     {
@@ -2824,7 +2824,7 @@
             "Vaud",
             "Genève"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Les vins du Tessin sont souvent classés sous l'appellation DOC (Denominazione di Origine Controllata)."
     },
     {
@@ -2847,7 +2847,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 1,
+        "correct": [1],
         "explanation": "Le Valais est le plus grand canton viticole de Suisse, représentant environ 33 % de la production."
     },
     {
@@ -2856,7 +2856,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Le Bondola est un cépage autochtone du Tessin, il donne le 'Nostrano', un vin du pays traditionnel."
     },
     {
@@ -2865,7 +2865,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 1,
+        "correct": [1],
         "explanation": "Le Lavaux est une région viticole située dans le canton de Vaud."
     },
     {
@@ -2874,7 +2874,7 @@
             "Vrai",
             "Faux"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Le Pinot Noir est le cépage rouge le plus cultivé en Suisse alémanique."
     },
     {
@@ -2885,7 +2885,7 @@
             "Un Pinot Noir de Genève",
             "Un Œil-de-Perdrix de Neuchâtel"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Le Fendant, issu du cépage Chasselas, est particulièrement adapté pour accompagner une fondue au fromage grâce à sa fraîcheur et son équilibre. Les autres options, bien que de qualité, ne sont pas les plus adaptées à ce type de plat."
     },
     {
@@ -2896,7 +2896,7 @@
             "Un Pinot Noir du Valais",
             "Un Garanoir de Vaud"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Le Gamay est connu pour ses vins légers et fruités, parfaits pour un apéritif. Les autres options, bien que de qualité, sont généralement plus riches ou structurées, ce qui les rend moins adaptées pour un apéritif."
     },
     {
@@ -2907,7 +2907,7 @@
             "Un Merlot du Tessin",
             "Un Pinot Noir de Schaffhouse"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Le Chasselas est le cépage emblématique de la région de Lavaux. Il reflète parfaitement le terroir unique de cette région, avec des vins souvent minéraux et aromatiques. Les autres options ne sont pas représentatives de Lavaux."
     },
     {
@@ -2918,7 +2918,7 @@
             "Un Riesling-Sylvaner de Zurich",
             "Un Chasselas de Vaud"
         ],
-        "correct": 0,
+        "correct": [0],
         "explanation": "Le Pinot Noir du Valais est réputé pour sa structure et sa capacité de garde, ce qui en fait un excellent choix pour accompagner des plats de viande rôtie. Les autres options ne possèdent pas les caractéristiques nécessaires pour ce type d'accord."
     }
 ]
