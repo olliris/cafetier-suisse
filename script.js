@@ -71,39 +71,77 @@ function chooseExerciseRange() {
   markedRow.appendChild(markedBtn);
   var sep = document.createElement("p");
   sep.className = "exercise-section-label";
-  sep.textContent = "Choisissez une plage de questions :";
+  sep.textContent = "Choisissez un thème ou un chapitre :";
   markedRow.appendChild(sep);
 
   var exerciseRangeOptions = document.getElementById("exerciseRangeOptions");
-  exerciseRangeOptions.innerHTML = '';
-  for (var i = 0; i < quiz.length; i += 30) {
-    var start = i + 1;
-    var end = Math.min(i + 30, quiz.length);
-    var rangeKey = start + "-" + end;
-    var rangeButton = document.createElement("button");
-    rangeButton.className = "exercise-range-btn";
-    var percentage = exerciseResults[rangeKey];
-    if (percentage !== undefined) {
-      rangeButton.textContent = start + " à " + end + "  —  " + percentage + "%";
-    } else {
-      rangeButton.textContent = start + " à " + end;
-    }
-    rangeButton.onclick = (function(s, e) {
-      return function() { startExerciseRange(s - 1, e); };
-    })(start, end);
-    exerciseRangeOptions.appendChild(rangeButton);
-  }
+  exerciseRangeOptions.innerHTML = "";
+
+  getThemes().forEach(function(theme) {
+    var themeTitle = document.createElement("h3");
+    themeTitle.className = "exercise-theme-title";
+    themeTitle.textContent = getLabel(theme.key, "Thème " + theme.key);
+    exerciseRangeOptions.appendChild(themeTitle);
+
+    var allQuestions = [];
+    theme.chapters.forEach(function(ch) { allQuestions = allQuestions.concat(ch.questions); });
+    exerciseRangeOptions.appendChild(
+      createExerciseButton("Tout le thème " + theme.key, allQuestions, "theme-" + theme.key, "exercise-range-btn exercise-theme-btn")
+    );
+
+    theme.chapters.forEach(function(ch) {
+      var label = getLabel(ch.key, "Chapitre " + ch.key);
+      exerciseRangeOptions.appendChild(
+        createExerciseButton(label, ch.questions, "chapter-" + ch.key, "exercise-range-btn")
+      );
+    });
+  });
 }
 
-function startExerciseRange(start, end) {
+// Titres optionnels des thèmes et chapitres, ex. { "4": "Hygiène", "4.1": "Bases légales" }.
+// Sans titre, le numéro est affiché.
+const SECTION_TITLES = {};
+
+function getLabel(key, fallback) {
+  return SECTION_TITLES[key] ? key + " – " + SECTION_TITLES[key] : fallback;
+}
+
+// Numéro de chapitre lu au début de la question : "4.1.3. ..." → "4.1"
+function getChapterKey(q) {
+  var match = q.question.match(/^\s*(\d+)\.(\d+)\./);
+  return match ? match[1] + "." + match[2] : "Autres";
+}
+
+// Regroupe les questions par thème puis par chapitre, dans l'ordre du fichier
+function getThemes() {
+  var themes = [];
+  quiz.forEach(function(q) {
+    var chapterKey = getChapterKey(q);
+    var themeKey = chapterKey.split(".")[0];
+    var theme = themes.find(function(t) { return t.key === themeKey; });
+    if (!theme) { theme = { key: themeKey, chapters: [] }; themes.push(theme); }
+    var chapter = theme.chapters.find(function(c) { return c.key === chapterKey; });
+    if (!chapter) { chapter = { key: chapterKey, questions: [] }; theme.chapters.push(chapter); }
+    chapter.questions.push(q);
+  });
+  return themes;
+}
+
+function createExerciseButton(label, questions, resultKey, className) {
+  var button = document.createElement("button");
+  button.className = className;
+  var percentage = exerciseResults[resultKey];
+  button.textContent = label + " (" + questions.length + " q.)" + (percentage !== undefined ? " — " + percentage + "%" : "");
+  button.onclick = function() { startExercise(questions, resultKey); };
+  return button;
+}
+
+function startExercise(questions, resultKey) {
   mode = 'exercise';
-  numQuestions = end - start;
-  shuffledQuiz = quiz.slice(start, end);
-  shuffledQuiz.sort(() => Math.random() - 0.5);
-  
-  // Enregistrer la plage actuelle
-  currentRangeKey = `${start + 1}-${end}`;
-  
+  numQuestions = questions.length;
+  shuffledQuiz = [...questions].sort(() => Math.random() - 0.5);
+  currentRangeKey = resultKey; // clé utilisée pour enregistrer le % de réussite
+
   hideAll();
   document.getElementById("game").classList.remove("hidden");
   currentQuestion = 0;
