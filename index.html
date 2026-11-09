@@ -10,13 +10,13 @@
   <div class="quiz-container">
     <h1>Préparation Cafetier</h1>
     <p>Choisir un mode de jeu</p>
-    <button onclick="startExam()">Examen 120 min</button>
-    <button onclick="chooseExerciseRange()">Mode Exercice</button>
+    <button onclick="showSyllabus()">Syllabus</button>
+    <button onclick="chooseExerciseRange()">QCM</button>
+    <button onclick="startExam()">Examen</button>
     <button onclick="showHistory()">Historique</button>
   </div>
 
   <div id="game" class="hidden">
-    <p id="timer" class="hidden"></p>
     <div id="questions"></div>
     <p id="feedback" class="feedback-text hidden"></p>
     <p id="score" class="hidden"></p>
@@ -24,10 +24,16 @@
   </div>
 
   <div id="exerciseRangePage" class="hidden">
-    <h2>Mode Exercice</h2>
+    <h2>QCM</h2>
     <div id="exerciseMarkedRow"></div>
     <div id="exerciseRangeOptions"></div>
     <button onclick="goBackToHome()">Retour</button>
+  </div>
+
+  <div id="syllabusPage" class="hidden">
+    <h2>Syllabus</h2>
+    <div id="syllabusContent"></div>
+    <button onclick="goBackToHome()">Retour à l'accueil</button>
   </div>
 
   <div id="historyPage" class="hidden">
