@@ -77,54 +77,89 @@ function chooseExerciseRange() {
   var exerciseRangeOptions = document.getElementById("exerciseRangeOptions");
   exerciseRangeOptions.innerHTML = "";
 
-  getThemes().forEach(function(theme) {
+  getSyllabusWithQuestions().forEach(function(theme) {
     var themeTitle = document.createElement("h3");
     themeTitle.className = "exercise-theme-title";
-    themeTitle.textContent = getLabel(theme.key, "Thème " + theme.key);
+    themeTitle.textContent = theme.title;
     exerciseRangeOptions.appendChild(themeTitle);
 
-    var allQuestions = [];
-    theme.chapters.forEach(function(ch) { allQuestions = allQuestions.concat(ch.questions); });
-    exerciseRangeOptions.appendChild(
-      createExerciseButton("Tout le thème " + theme.key, allQuestions, "theme-" + theme.key, "exercise-range-btn exercise-theme-btn")
-    );
-
-    theme.chapters.forEach(function(ch) {
-      var label = getLabel(ch.key, "Chapitre " + ch.key);
+    theme.groups.forEach(function(group) {
       exerciseRangeOptions.appendChild(
-        createExerciseButton(label, ch.questions, "chapter-" + ch.key, "exercise-range-btn")
+        createExerciseButton(group.title, group.questions, "group-" + group.key, "exercise-range-btn exercise-theme-btn")
       );
+      group.chapters.forEach(function(ch) {
+        exerciseRangeOptions.appendChild(
+          createExerciseButton("Chapitre " + ch.key, ch.questions, "chapter-" + ch.key, "exercise-range-btn")
+        );
+      });
     });
   });
 }
 
-// Titres optionnels des thèmes et chapitres, ex. { "4": "Hygiène", "4.1": "Bases légales" }.
-// Sans titre, le numéro est affiché.
-const SECTION_TITLES = {};
-
-function getLabel(key, fallback) {
-  return SECTION_TITLES[key] ? key + " – " + SECTION_TITLES[key] : fallback;
-}
+// Plan du cours : thèmes → blocs de modules.
+// Chaque question est rangée selon le numéro de module au début de son texte : "4.1.3. ..." → module 4, chapitre 4.1.
+// Pour ajouter un module, il suffit d'ajouter ses questions numérotées dans questions.json.
+const SYLLABUS = [
+  { title: "Thème 1", groups: [
+    { title: "Module 1 : Loi sur la restauration, le débit de boissons, l'hébergement et le divertissement (LRDBHD) et son règlement d'exécution (RRDBHD)", modules: ["1"] }
+  ]},
+  { title: "Thème 2", groups: [
+    { title: "Modules 2, 3, 6 et 7 : Loi sur l'alcool, Alcool au volant/Drogues, Prévention incendies et Premiers secours", modules: ["2", "3", "6", "7"] },
+    { title: "Module 4 Cuisine et Module 5 Service et Boissons", modules: ["4", "5"] },
+    { title: "Module 8 Santé Sécurité au travail et Module 9 Déchets et aspects environnementaux", modules: ["8", "9"] }
+  ]},
+  { title: "Thème 3", groups: [
+    { title: "Module 10 : Sécurité et hygiène alimentaire", modules: ["10"] }
+  ]},
+  { title: "Thème 4", groups: [
+    { title: "Modules 11 et 12 : Assurances sociales et salaires", modules: ["11", "12"] },
+    { title: "Module 13 : Droit du travail", modules: ["13"] },
+    { title: "Module 14 : Connaissance générale du droit", modules: ["14"] }
+  ]},
+  { title: "Thème 5", groups: [
+    { title: "Modules 15 et 16 : Comptabilité", modules: ["15", "16"] }
+  ]}
+];
 
 // Numéro de chapitre lu au début de la question : "4.1.3. ..." → "4.1"
 function getChapterKey(q) {
   var match = q.question.match(/^\s*(\d+)\.(\d+)\./);
-  return match ? match[1] + "." + match[2] : "Autres";
+  return match ? match[1] + "." + match[2] : null;
 }
 
-// Regroupe les questions par thème puis par chapitre, dans l'ordre du fichier
-function getThemes() {
-  var themes = [];
-  quiz.forEach(function(q) {
-    var chapterKey = getChapterKey(q);
-    var themeKey = chapterKey.split(".")[0];
-    var theme = themes.find(function(t) { return t.key === themeKey; });
-    if (!theme) { theme = { key: themeKey, chapters: [] }; themes.push(theme); }
-    var chapter = theme.chapters.find(function(c) { return c.key === chapterKey; });
-    if (!chapter) { chapter = { key: chapterKey, questions: [] }; theme.chapters.push(chapter); }
+// Regroupe les questions par chapitre, dans l'ordre du fichier
+function groupByChapter(questions) {
+  var chapters = [];
+  questions.forEach(function(q) {
+    var key = getChapterKey(q);
+    var chapter = chapters.find(function(c) { return c.key === key; });
+    if (!chapter) { chapter = { key: key, questions: [] }; chapters.push(chapter); }
     chapter.questions.push(q);
   });
-  return themes;
+  return chapters;
+}
+
+// Associe les questions au plan du cours ; les thèmes et blocs sans questions sont masqués
+function getSyllabusWithQuestions() {
+  var used = new Set();
+  var result = SYLLABUS.map(function(theme) {
+    var groups = theme.groups.map(function(group) {
+      var questions = quiz.filter(function(q) {
+        var key = getChapterKey(q);
+        return key && group.modules.includes(key.split(".")[0]);
+      });
+      questions.forEach(function(q) { used.add(q); });
+      return { title: group.title, key: group.modules.join("-"), questions: questions, chapters: groupByChapter(questions) };
+    }).filter(function(group) { return group.questions.length > 0; });
+    return { title: theme.title, groups: groups };
+  }).filter(function(theme) { return theme.groups.length > 0; });
+
+  // Questions sans numéro de module reconnu : regroupées à la fin pour ne jamais les perdre
+  var others = quiz.filter(function(q) { return !used.has(q); });
+  if (others.length) {
+    result.push({ title: "Autres", groups: [{ title: "Autres questions", key: "autres", questions: others, chapters: [] }] });
+  }
+  return result;
 }
 
 function createExerciseButton(label, questions, resultKey, className) {
