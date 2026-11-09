@@ -280,70 +280,134 @@ function getSyllabusWithQuestions() {
 // ── Syllabus : la théorie, classée selon le même plan que le QCM ──
 // Le contenu vient de syllabus.json : [{ "chapter": "4.1", "title": "...", "content": "..." }]
 let syllabusChapters = null;
+let syllabusPages = [];
+let syllabusPosition = 0;
 
+function syllabusButton(label, action, className) {
+  var button = document.createElement("button");
+  button.textContent = label;
+  if (className) button.className = className;
+  button.onclick = action;
+  return button;
+}
 function showSyllabus() {
   window.scrollTo(0,0);
   hideAll();
   document.getElementById("syllabusPage").classList.remove("hidden");
   if (syllabusChapters) { renderSyllabusPlan(); return; }
-  fetch("syllabus.json")
-    .then(function(response) { return response.json(); })
-    .then(function(data) { syllabusChapters = data; renderSyllabusPlan(); })
-    .catch(function(error) {
-      console.error("Error loading syllabus:", error);
-      document.getElementById("syllabusContent").textContent = "Impossible de charger le syllabus.";
+  var container = document.getElementById("syllabusContent");
+  container.textContent = "Chargement des fiches…";
+  fetch("syllabus.json", {cache:"no-cache"})
+    .then(function(response) {
+      if (!response.ok) throw new Error("Chargement impossible");
+      return response.json();
+    })
+    .then(function(data) {
+      if (!Array.isArray(data.themes)) throw new Error("Format du syllabus invalide");
+      syllabusChapters = data;
+      syllabusPages = [];
+      data.themes.forEach(function(theme) {
+        theme.chapitres.forEach(function(chapter) {
+          chapter.modules.forEach(function(module) {
+            syllabusPages.push({theme:theme,chapter:chapter,module:module});
+          });
+        });
+      });
+      renderSyllabusPlan();
+    }).catch(function(error) {
+      container.textContent = "Impossible de charger les fiches.";
+      container.appendChild(syllabusButton("Réessayer",showSyllabus));
     });
 }
-
-function getSyllabusChapters(group) {
-  return syllabusChapters.filter(function(ch) {
-    return group.modules.includes(String(ch.chapter).split(".")[0]);
-  });
-}
-
-// Plan complet du cours ; les blocs sans théorie sont affichés mais désactivés
 function renderSyllabusPlan() {
   window.scrollTo(0,0);
   var container = document.getElementById("syllabusContent");
   container.innerHTML = "";
-  SYLLABUS.forEach(function(theme) {
-    var themeTitle = document.createElement("h3");
-    themeTitle.className = "exercise-theme-title";
-    themeTitle.textContent = theme.title;
-    container.appendChild(themeTitle);
-    theme.groups.forEach(function(group) {
-      var chapters = getSyllabusChapters(group);
-      var hasContent = chapters.some(function(ch) { return ch.content && ch.content.trim(); });
-      var button = document.createElement("button");
-      button.className = "exercise-range-btn";
-      button.textContent = group.title + (hasContent ? "" : " (à venir)");
-      button.disabled = !hasContent;
-      button.onclick = function() { openSyllabusGroup(group, chapters); };
-      container.appendChild(button);
+  var note = document.createElement("p");
+  note.textContent = "Fiches de synthèse fournies — thèmes 1 à 3. Choisissez une fiche ou reprenez votre lecture.";
+  container.appendChild(note);
+  var saved = localStorage.getItem("syllabusLastPage");
+  var resume = syllabusPages.findIndex(function(p) {return p.module.id === saved;});
+  if (resume >= 0) container.appendChild(syllabusButton("Reprendre : " + saved, function() {openSyllabusPage(resume);}));
+  syllabusChapters.themes.forEach(function(theme) {
+    var heading = document.createElement("h3");
+    heading.textContent = "Thème " + theme.id + " — " + theme.title;
+    container.appendChild(heading);
+    theme.chapitres.forEach(function(chapter) {
+      var details = document.createElement("details"); details.open = true;
+      var summary = document.createElement("summary");
+      summary.textContent = chapter.title + " · " + chapter.modules.length + " fiches";
+      details.appendChild(summary);
+      chapter.modules.forEach(function(module) {
+        var index = syllabusPages.findIndex(function(p) {return p.module === module;});
+        details.appendChild(syllabusButton(module.id + " — " + module.title,function() {openSyllabusPage(index);},"syllabus-entry"));
+      });
+      container.appendChild(details);
     });
   });
+  var pending = document.createElement("p");
+  pending.textContent = "Thèmes 4 et 5 : fiches à venir.";
+  container.appendChild(pending);
 }
-
-function openSyllabusGroup(group, chapters) {
-  window.scrollTo(0,0);
+function syllabusNavigation() {
+  var nav = document.createElement("nav");
+  nav.className = "syllabus-navigation";
+  nav.setAttribute("aria-label","Navigation des fiches");
+  var prev = syllabusButton("← Précédent",function() {openSyllabusPage(syllabusPosition-1);});
+  prev.disabled = syllabusPosition === 0;
+  nav.appendChild(prev);
+  nav.appendChild(syllabusButton("Sommaire",renderSyllabusPlan));
+  var next = syllabusButton("Suivant →",function() {openSyllabusPage(syllabusPosition+1);});
+  next.disabled = syllabusPosition === syllabusPages.length-1;
+  nav.appendChild(next);
+  return nav;
+}
+function appendSyllabusItems(parent,items) {
+  var stack = [];
+  (items || []).forEach(function(item) {
+    var level = Math.max(0,Math.min(6,Number(item.level)||0));
+    // Maintient les listes imbriquées et les étapes numérotées du fichier.
+    if (!stack.length) level = 0;
+    level = Math.min(level,stack.length);
+    stack.length = Math.min(stack.length,level+1);
+    var tag = item.ordered ? "OL":"UL";
+    if (!stack[level] || stack[level].tagName !== tag) {
+      var list = document.createElement(tag.toLowerCase());
+      var host = level ? stack[level-1].lastElementChild : parent;
+      if (!host) host = parent;
+      host.appendChild(list); stack[level] = list;
+    }
+    var li = document.createElement("li");
+    li.textContent = typeof item === "string" ? item : item.text;
+    stack[level].appendChild(li);
+  });
+}
+function openSyllabusPage(index) {
+  if (index<0 || index>=syllabusPages.length) return;
+  syllabusPosition = index;
+  var page = syllabusPages[index];
+  localStorage.setItem("syllabusLastPage",page.module.id);
   var container = document.getElementById("syllabusContent");
   container.innerHTML = "";
-  var title = document.createElement("h3");
-  title.textContent = group.title;
+  container.appendChild(syllabusNavigation());
+  var path = document.createElement("p"); path.className = "syllabus-breadcrumb";
+  path.textContent = "Thème " + page.theme.id + " · " + page.chapter.title + " · Fiche " + (index+1) + "/" + syllabusPages.length;
+  container.appendChild(path);
+  var title = document.createElement("h2");
+  title.textContent = page.module.id + " — " + page.module.title;
   container.appendChild(title);
-  chapters.forEach(function(ch) {
-    var chapterTitle = document.createElement("h4");
-    chapterTitle.textContent = ch.chapter + (ch.title ? " – " + ch.title : "");
-    var text = document.createElement("p");
-    text.className = "syllabus-text";
-    text.textContent = ch.content && ch.content.trim() ? ch.content : "Contenu à venir.";
-    container.appendChild(chapterTitle);
-    container.appendChild(text);
+  var article = document.createElement("article"); article.className = "syllabus-reader";
+  appendSyllabusItems(article,page.module.intro);
+  page.module.sections.forEach(function(section) {
+    var block = document.createElement("section");
+    var heading = document.createElement("h3"); heading.textContent = section.title;
+    block.appendChild(heading);
+    appendSyllabusItems(block,section.items);
+    article.appendChild(block);
   });
-  var back = document.createElement("button");
-  back.textContent = "Retour au syllabus";
-  back.onclick = renderSyllabusPlan;
-  container.appendChild(back);
+  container.appendChild(article);
+  container.appendChild(syllabusNavigation());
+  window.scrollTo(0,0);
 }
 
 function createExerciseButton(label, questions, resultKey, className) {
