@@ -479,3 +479,10 @@ footer {
     width: 100%;
   }
 }
+
+.exercise-theme-title {
+  margin: 20px 0 5px;
+}
+.exercise-theme-btn {
+  font-weight: bold;
+}
