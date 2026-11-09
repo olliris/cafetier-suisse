@@ -1,14 +1,18 @@
 let quiz = [];
 
 // Load quiz questions from questions.json
-fetch("questions.json")
-  .then(response => response.json())
+fetch("quiz_themes_1_a_5_complet.json")
+  .then(response => {
+    if (!response.ok) throw new Error("Chargement des quiz impossible");
+    return response.json();
+  })
   .then(data => {
     // Normalise "correct" en tableau (accepte 2 ou [2] dans le JSON)
     quiz = data.map(q => ({ ...q, correct: Array.isArray(q.correct) ? q.correct : [q.correct] }));
   })
   .catch(error => {
     console.error("Error loading quiz questions:", error);
+    document.querySelector(".quiz-container p").textContent = "Impossible de charger les quiz. Rechargez la page pour réessayer.";
   });
 
 let currentQuestion = 0;
@@ -19,6 +23,7 @@ let shuffledQuiz = [];
 let examHistory = JSON.parse(localStorage.getItem('examHistory')) || [];
 let markedQuestions = JSON.parse(localStorage.getItem('markedQuestions')) || [];
 let exerciseResults = JSON.parse(localStorage.getItem('exerciseResults')) || {};
+let questionResults = JSON.parse(localStorage.getItem('questionResultsV1')) || {};
 let currentRangeKey = ''; // Pour suivre la plage actuelle
 
 // Examen : un mélange de questions du QCM, tirées au hasard dans chaque module, sans limite de temps
@@ -27,6 +32,7 @@ const EXAM_QUESTIONS_PER_MODULE = 4;
 function startExam() {
   window.scrollTo(0,0);
   mode = 'exam';
+  if (!quiz.length) { alert("Les questions ne sont pas encore chargées."); return; }
   shuffledQuiz = pickExamQuestions();
   numQuestions = shuffledQuiz.length;
 
@@ -65,6 +71,7 @@ function shuffle(array) {
 
 function chooseExerciseRange() {
   window.scrollTo(0,0);
+  if (!quiz.length) { alert("Les questions ne sont pas encore chargées."); return; }
   hideAll();
   document.getElementById("exerciseRangePage").classList.remove("hidden");
 
@@ -89,7 +96,7 @@ function chooseExerciseRange() {
   markedRow.appendChild(markedBtn);
   var sep = document.createElement("p");
   sep.className = "exercise-section-label";
-  sep.textContent = "Choisissez un thème ou un chapitre :";
+  sep.textContent = "Choisissez un module ou un chapitre. Barre verte : questions répondues ; pourcentage : réussite sur les réponses validées.";
   markedRow.appendChild(sep);
 
   var exerciseRangeOptions = document.getElementById("exerciseRangeOptions");
@@ -107,7 +114,7 @@ function chooseExerciseRange() {
       );
       group.chapters.forEach(function(ch) {
         exerciseRangeOptions.appendChild(
-          createExerciseButton("Chapitre " + ch.key, ch.questions, "chapter-" + ch.key, "exercise-range-btn")
+          createExerciseButton((ch.key.endsWith(".final") ? "Quiz final du module" : "Chapitre " + ch.key), ch.questions, "chapter-" + ch.key, "exercise-range-btn")
         );
       });
     });
@@ -142,7 +149,10 @@ const SYLLABUS = [
 // Numéro de chapitre lu au début de la question : "4.1.3. ..." → "4.1"
 function getChapterKey(q) {
   var match = q.question.match(/^\s*(\d+)\.(\d+)\./);
-  return match ? match[1] + "." + match[2] : null;
+  if (match) return match[1] + "." + match[2];
+  // Les quiz finaux indiquent leur module/chapitre entre crochets.
+  var finalMatch = q.question.match(/^Final\s+M[^[]*\[(\d+)(?:\.(\d+))?(?:\.\d+)*\]/i);
+  return finalMatch ? finalMatch[1] + "." + (finalMatch[2] || "final") : null;
 }
 
 // Regroupe les questions par chapitre, dans l'ordre du fichier
@@ -161,7 +171,14 @@ function groupByChapter(questions) {
 function getSyllabusWithQuestions() {
   var used = new Set();
   var result = SYLLABUS.map(function(theme) {
-    var groups = theme.groups.map(function(group) {
+    var moduleGroups = theme.groups.flatMap(function(group) {
+      if (group.modules.join("-") === "11-12") return [group];
+      return group.modules.map(function(module) {
+        return { title: group.modules.length === 1 ? group.title : "Module " + module + " — " + group.title.replace(/^Modules?[^:]*:\\s*/, ""), modules: [module] };
+      });
+    });
+    moduleGroups.sort(function(a, b) { return Number(a.modules[0]) - Number(b.modules[0]); });
+    var groups = moduleGroups.map(function(group) {
       var questions = quiz.filter(function(q) {
         var key = getChapterKey(q);
         return key && group.modules.includes(key.split(".")[0]);
@@ -252,16 +269,75 @@ function openSyllabusGroup(group, chapters) {
 function createExerciseButton(label, questions, resultKey, className) {
   var button = document.createElement("button");
   button.className = className;
-  var percentage = exerciseResults[resultKey];
-  button.textContent = label + " (" + questions.length + " q.)" + (percentage !== undefined ? " — " + percentage + "%" : "");
+  var stats = getQuestionStats(questions);
+  var title = document.createElement("span");
+  title.textContent = label + " (" + questions.length + " q.)";
+  var summary = document.createElement("span");
+  summary.className = "exercise-progress-summary";
+  summary.textContent = (stats.answered ? stats.success + "% de réussite" : "Pas encore de résultat") +
+    " · " + stats.answered + "/" + questions.length + " répondues";
+  button.appendChild(title);
+  button.appendChild(summary);
+  button.appendChild(createProgressBar(stats, questions.length));
   button.onclick = function() { startExercise(questions, resultKey); };
   return button;
+}
+
+// Une question compte une seule fois ; une nouvelle tentative remplace son résultat.
+function getQuestionStats(questions) {
+  var answered = 0, correct = 0;
+  questions.forEach(function(q) {
+    if (Object.prototype.hasOwnProperty.call(questionResults, q.question)) {
+      answered++;
+      if (questionResults[q.question]) correct++;
+    }
+  });
+  return { answered: answered, correct: correct,
+    success: answered ? Math.round(correct / answered * 100) : 0 };
+}
+
+function createProgressBar(stats, total) {
+  var bar = document.createElement("span");
+  bar.className = "exercise-progress";
+  bar.setAttribute("role", "progressbar");
+  bar.setAttribute("aria-label", "Questions répondues");
+  bar.setAttribute("aria-valuemin", "0");
+  bar.setAttribute("aria-valuemax", String(total));
+  bar.setAttribute("aria-valuenow", String(stats.answered));
+  var fill = document.createElement("span");
+  fill.className = "exercise-progress-fill";
+  fill.style.width = (total ? stats.answered / total * 100 : 0) + "%";
+  bar.appendChild(fill);
+  return bar;
+}
+
+function recordQuestionResult(q, correct) {
+  questionResults[q.question] = correct;
+  localStorage.setItem("questionResultsV1", JSON.stringify(questionResults));
+}
+
+function renderExerciseProgress() {
+  var element = document.getElementById("moduleProgress");
+  if (!element) {
+    element = document.createElement("div");
+    element.id = "moduleProgress";
+    document.getElementById("game").insertBefore(element, document.getElementById("questions"));
+  }
+  element.innerHTML = "";
+  element.classList.toggle("hidden", mode !== "exercise");
+  if (mode !== "exercise") return;
+  var stats = getQuestionStats(shuffledQuiz);
+  var summary = document.createElement("p");
+  summary.textContent = (stats.answered ? stats.success + "% de réussite" : "Pas encore de résultat") +
+    " · " + stats.answered + "/" + numQuestions + " répondues";
+  element.appendChild(summary);
+  element.appendChild(createProgressBar(stats, numQuestions));
 }
 
 function startExercise(questions, resultKey) {
   mode = 'exercise';
   numQuestions = questions.length;
-  shuffledQuiz = [...questions].sort(() => Math.random() - 0.5);
+  shuffledQuiz = shuffle(questions);
   currentRangeKey = resultKey; // clé utilisée pour enregistrer le % de réussite
 
   hideAll();
@@ -291,7 +367,7 @@ function markQuestion(question) {
     markedQuestions.splice(index, 1);
   }
   localStorage.setItem('markedQuestions', JSON.stringify(markedQuestions));
-  const flagButton = document.querySelector(`.flag-button[data-question="${question.question}"]`);
+  const flagButton = Array.from(document.querySelectorAll(".flag-button")).find(button => button.dataset.question === question.question);
   if (flagButton) {
     const isMarked = markedQuestions.some(markedQ => markedQ.question === question.question);
     flagButton.classList.toggle("red", isMarked);
@@ -300,6 +376,7 @@ function markQuestion(question) {
 }
 
 function showQuestions() {
+  renderExerciseProgress();
   const questionsDiv = document.getElementById("questions");
   questionsDiv.innerHTML = "";
   const quizToShow = shuffledQuiz;
@@ -345,6 +422,7 @@ function showQuestions() {
 }
 
 function showQuestion() {
+  renderExerciseProgress();
   const questionsDiv = document.getElementById("questions");
   questionsDiv.innerHTML = "";
 
@@ -446,7 +524,10 @@ function showExplanation(questionDiv, q) {
 function checkAnswer(questionIndex) {
   const q = shuffledQuiz[questionIndex];
   const questionDiv = document.querySelector("#questions .question:nth-child(1)");
+  if (questionDiv.dataset.answered) return;
+  questionDiv.dataset.answered = "true";
   const buttons = questionDiv.querySelectorAll(".answer-button");
+  buttons.forEach(function(button) { button.disabled = true; });
   let candidateSelected = [];
   buttons.forEach((button, index) => {
     if (button.classList.contains("selected")) {
@@ -477,9 +558,10 @@ function checkAnswer(questionIndex) {
   showExplanation(questionDiv, q);
   const correctSelected = candidateSelected.filter(ans => q.correct.includes(ans)).length;
   const incorrectSelected = candidateSelected.length - correctSelected;
-  if (correctSelected === q.correct.length && incorrectSelected === 0) {
-    score++;
-  }
+  const isCorrect = correctSelected === q.correct.length && incorrectSelected === 0;
+  if (isCorrect) score++;
+  recordQuestionResult(q, isCorrect);
+  renderExerciseProgress();
   document.getElementById("score").textContent = `Score: ${score}/${numQuestions}`;
 }
 
@@ -639,6 +721,8 @@ function resetCache() {
   localStorage.removeItem('examHistory');
   localStorage.removeItem('markedQuestions');
   localStorage.removeItem('exerciseResults');
+  localStorage.removeItem('questionResultsV1');
+  questionResults = {};
   localStorage.removeItem('markedFlashcards');
   localStorage.removeItem('markedSchemas');
   examHistory = [];
