@@ -502,3 +502,17 @@ button:disabled {
 .exercise-progress-fill { display: block; height: 100%; background: #22863a; border-radius: inherit; transition: width .2s; }
 #moduleProgress { margin: 16px 0; padding: 12px; border: 1px solid #ccc; border-radius: 8px; }
 #moduleProgress p { margin: 0 0 8px; }
+
+#syllabusPage { max-width: 850px; margin: auto; text-align: left; }
+#syllabusContent details { border: 1px solid #dce2e8; border-radius: 8px; margin: 12px 0 20px; padding: 12px; }
+#syllabusContent summary { cursor: pointer; font-weight: bold; line-height: 1.5; }
+.syllabus-entry { display: block; width: 100%; text-align: left; margin: 8px 0; padding: 12px; line-height: 1.5; border: 1px solid #dce2e8; border-radius: 6px; background: #f0f7ff; color: #003d80; }
+.syllabus-navigation { display: flex; justify-content: space-between; gap: 6px; background: white; padding: 8px 0; flex-wrap: wrap; }
+.syllabus-navigation:first-child { position: sticky; top: 0; z-index: 10; border-bottom: 1px solid #ddd; }
+.syllabus-breadcrumb { color: #596574; font-size: .9rem; line-height: 1.5; }
+.syllabus-reader { font-size: 1.08rem; line-height: 1.75; overflow-wrap: anywhere; }
+.syllabus-reader section { margin: 24px 0; padding: 16px 20px; background: #f8fafc; border-left: 3px solid #4a90d9; border-radius: 5px; }
+.syllabus-reader h3 { color: #003d80; line-height: 1.4; margin-top: 0; }
+.syllabus-reader li { margin: 8px 0; white-space: pre-line; }
+.syllabus-reader ul, .syllabus-reader ol { padding-left: 24px; }
+@media (max-width: 600px) { .syllabus-reader section { padding: 12px; } .syllabus-navigation button { padding: 10px 7px; margin: 2px; } }
