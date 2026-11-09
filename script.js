@@ -225,7 +225,7 @@ const SYLLABUS = [
 
 // Numéro de chapitre lu au début de la question : "4.1.3. ..." → "4.1"
 function getChapterKey(q) {
-  var match = q.question.match(/^\s*(\d+)\.(\d+)\./);
+  var match = q.question.match(/^\s*(\d+)\.(\d+)\.\d+/);
   if (match) return match[1] + "." + match[2];
   // Numérotation courte : "2.1. Texte" signifie module 2, question 1.
   var shortMatch = q.question.match(/^\s*(\d+)\.\d+\.?\s+/);
