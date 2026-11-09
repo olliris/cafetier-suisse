@@ -26,86 +26,114 @@ let exerciseResults = JSON.parse(localStorage.getItem('exerciseResults')) || {};
 let questionResults = JSON.parse(localStorage.getItem('questionResultsV1')) || {};
 let currentRangeKey = ''; // Pour suivre la plage actuelle
 
-// Examen : un mélange de questions du QCM, tirées au hasard dans chaque module, sans limite de temps
-const EXAM_TOTAL_QUESTIONS = 90;
-const EXAM_MIN_PER_MODULE = 2;
-let examSubmitted = false;
+// Sources : PCTN, Directives §§4.3, 8.1, 13.1 et 13.3.
+// Effectifs de questions pédagogiques ; pondérations au milieu des fourchettes officielles.
+const REAL_EXAM = [
+  {title:"Thème 1 — Cadre légal genevois", minutes:30, count:15, groups:[{label:"Cadre légal", weight:100, modules:["1"]}]},
+  {title:"Thème 2 — Autres lois et métiers", minutes:75, count:30, groups:[
+    {label:"Alcool et dépendances",weight:20,modules:["2","3"]},
+    {label:"Cuisine, service et boissons",weight:20,modules:["4","5"]},
+    {label:"Incendie et premiers secours",weight:20,modules:["6","7"]},
+    {label:"Santé et sécurité au travail",weight:20,modules:["8"]},
+    {label:"Environnement",weight:20,modules:["9"]}]},
+  {title:"Thème 3 — Sécurité et hygiène alimentaires",minutes:40,count:20,groups:[{label:"Hygiène alimentaire",weight:100,modules:["10"]}]},
+  {title:"Thème 4 — Droit général et du travail",minutes:100,count:30,groups:[
+    {label:"Salaire et assurances sociales",weight:20,kind:"salary"},
+    {label:"Calcul du salaire (classement pédagogique)",weight:30,kind:"calculation"},
+    {label:"Droit du travail",weight:30,modules:["13"]},
+    {label:"Droit général",weight:20,modules:["14"]}]},
+  {title:"Thème 5 — Comptabilité",minutes:45,count:20,groups:[
+    {label:"Bases comptables et TVA",weight:50,kind:"accounting"},
+    {label:"Gestion de l'entreprise (banque disponible)",weight:50,kind:"management"}]}
+];
+let examSubmitted = false, examThemeIndex = 0, examThemeResults = [];
+let examTimer = null, examDeadline = 0;
 
+function clearExamTimer() {
+  if (examTimer !== null) clearInterval(examTimer);
+  examTimer = null;
+}
+function examGrade(percentage) {
+  return Math.round((1 + percentage * 5 / 100) * 2) / 2;
+}
+function isSalaryCalculation(q) {
+  return /calcul|calculez|salaire brut journalier|salaire journalier/i.test(q.question);
+}
+function matchesExamGroup(q, group) {
+  var key = getChapterKey(q);
+  var module = key ? key.split(".")[0] : "";
+  if (group.modules) return group.modules.includes(module);
+  if (group.kind === "salary") return ["11","12"].includes(module) && !isSalaryCalculation(q);
+  if (group.kind === "calculation") return ["11","12"].includes(module) && isSalaryCalculation(q);
+  if (group.kind === "management") return key === "15.1";
+  if (group.kind === "accounting") return ["15","16"].includes(module) && key !== "15.1";
+  return false;
+}
+function pickExamQuestions(theme) {
+  var previous;
+  try { previous = new Set(JSON.parse(localStorage.getItem("previousExamTheme" + examThemeIndex)) || []); }
+  catch(error) { previous = new Set(); }
+  var used = new Set(), picked = [];
+  theme.groups.forEach(function(group) {
+    var pool = quiz.filter(function(q) { return matchesExamGroup(q, group) && !used.has(q.question); });
+    pool = Array.from(new Map(pool.map(function(q) { return [q.question,q]; })).values());
+    var count = Math.min(pool.length, Math.round(theme.count * group.weight / 100));
+    if (!count) throw new Error("Matière absente : " + group.label);
+    var fresh = shuffle(pool.filter(function(q) { return !previous.has(q.question); }));
+    var old = shuffle(pool.filter(function(q) { return previous.has(q.question); }));
+    fresh.concat(old).slice(0,count).forEach(function(q) {
+      used.add(q.question);
+      picked.push({...q, examGroup:group.label, examPoints:group.weight / count});
+    });
+  });
+  picked = shuffle(picked);
+  localStorage.setItem("previousExamTheme" + examThemeIndex, JSON.stringify(picked.map(function(q) { return q.question; })));
+  return picked;
+}
 function startExam() {
-  window.scrollTo(0,0);
-  mode = 'exam';
   if (!quiz.length) { alert("Les questions ne sont pas encore chargées."); return; }
-  examSubmitted = false;
-  shuffledQuiz = pickExamQuestions();
+  examThemeIndex = 0;
+  examThemeResults = [];
+  startExamTheme();
+}
+function startExamTheme() {
+  clearExamTimer();
+  mode = "exam"; examSubmitted = false; currentQuestion = 0; score = 0;
+  var theme = REAL_EXAM[examThemeIndex];
+  try { shuffledQuiz = pickExamQuestions(theme); }
+  catch(error) { alert(error.message); return; }
   numQuestions = shuffledQuiz.length;
-
   hideAll();
   document.getElementById("game").classList.remove("hidden");
   document.getElementById("score").classList.remove("hidden");
-  currentQuestion = 0;
-  score = 0;
+  document.getElementById("feedback").classList.add("hidden");
+  var back = document.getElementById("backButton");
+  if (back) back.remove();
   showQuestions();
-  var notice = document.createElement("p");
-  notice.textContent = numQuestions + " questions · Tous les modules · Répartition selon le volume et la complexité estimée de la matière · Nouveau tirage à chaque examen";
+  var notice = document.createElement("div");
+  var title = document.createElement("h2"); title.textContent = theme.title;
+  notice.appendChild(title);
+  var info = document.createElement("p");
+  info.textContent = numQuestions + " questions d'entraînement · " + theme.minutes + " min. Nombre non officiel. QCM issus de votre banque ; les champs libres et exercices complets de calcul ne sont pas reproduits.";
+  notice.appendChild(info);
+  var limits = document.createElement("p");
+  limits.textContent = "Pondérations : " + theme.groups.map(function(g) { return g.label + " " + g.weight + "%"; }).join(" · ") +
+    ". Correspondance des matières adaptée à la numérotation de votre cours ; couverture à vérifier pour le concordat sécurité, le calcul salarial et la gestion.";
+  notice.appendChild(limits);
+  var sources = document.createElement("p");
+  sources.innerHTML = '<a href="https://www.ge.ch/document/7365/annexe/file/729513" target="_blank" rel="noopener">Directives PCTN</a> · <a href="https://www.ge.ch/document/7347/telecharger" target="_blank" rel="noopener">Pondérations PCTN</a>';
+  notice.appendChild(sources);
+  var timer = document.createElement("p"); timer.id = "examCountdown"; timer.setAttribute("role","timer");
+  notice.appendChild(timer);
   document.getElementById("questions").prepend(notice);
-}
-
-// Estimation explicite, sans barème officiel : volume de matière et complexité
-// structurelle (réponses multiples et mises en situation), pas difficulté mesurée.
-function examQuestionWeight(q) {
-  var correct = Array.isArray(q.correct) ? q.correct : [q.correct];
-  return 1 + (correct.length > 1 ? 0.5 : 0) +
-    (/vous êtes|vous etes|comment (?:gérez|procédez)|que (?:faites|devez)/i.test(q.question) ? 0.75 : 0);
-}
-
-function pickExamQuestions() {
-  var byModule = {};
-  var seen = new Set();
-  quiz.forEach(function(q) {
-    if (seen.has(q.question)) return;
-    seen.add(q.question);
-    var chapter = getChapterKey(q);
-    var key = chapter ? chapter.split(".")[0] : "autres";
-    (byModule[key] = byModule[key] || []).push(q);
-  });
-  var modules = Object.keys(byModule).map(function(key) {
-    var questions = byModule[key];
-    return { key: key, questions: questions,
-      weight: questions.reduce(function(sum, q) { return sum + examQuestionWeight(q); }, 0),
-      count: 0 };
-  });
-  var target = Math.min(EXAM_TOTAL_QUESTIONS, seen.size);
-  var assigned = 0;
-  // Couverture minimale de chaque module, même avec une petite banque.
-  for (var round = 0; round < EXAM_MIN_PER_MODULE && assigned < target; round++) {
-    modules.forEach(function(module) {
-      if (assigned < target && module.count < module.questions.length) {
-        module.count++; assigned++;
-      }
-    });
+  examDeadline = Date.now() + theme.minutes * 60000;
+  function tick() {
+    var seconds = Math.max(0,Math.ceil((examDeadline-Date.now())/1000));
+    timer.textContent = "Temps restant : " + Math.floor(seconds/60) + ":" + String(seconds%60).padStart(2,"0");
+    if (!seconds && !examSubmitted) endExam();
   }
-  // Répartition proportionnelle des places restantes, plafonnée au stock disponible.
-  while (assigned < target) {
-    var available = modules.filter(function(module) { return module.count < module.questions.length; });
-    var next = available.reduce(function(best, module) {
-      return !best || module.weight / (module.count + 1) > best.weight / (best.count + 1) ? module : best;
-    }, null);
-    if (!next) break;
-    next.count++; assigned++;
-  }
-  var previous;
-  try { previous = new Set(JSON.parse(localStorage.getItem("previousExamQuestions")) || []); }
-  catch (error) { previous = new Set(); }
-  var picked = [];
-  modules.forEach(function(module) {
-    var fresh = shuffle(module.questions.filter(function(q) { return !previous.has(q.question); }));
-    var repeated = shuffle(module.questions.filter(function(q) { return previous.has(q.question); }));
-    // Réutiliser une question uniquement si le module manque de nouvelles questions.
-    picked = picked.concat(fresh.concat(repeated).slice(0, module.count));
-  });
-  picked = shuffle(picked);
-  localStorage.setItem("previousExamQuestions", JSON.stringify(picked.map(function(q) { return q.question; })));
-  return picked;
+  tick(); examTimer = setInterval(tick,1000);
+  window.scrollTo(0,0);
 }
 
 // Mélange équitable (Fisher-Yates) sans modifier le tableau d'origine
@@ -662,6 +690,7 @@ function endExam() {
     const incorrectSelected = candidateSelected.length - correctSelected;
     const isCorrect = (correctSelected === q.correct.length && incorrectSelected === 0);
     
+    questionDiv.dataset.examCorrect = String(isCorrect);
     if (isCorrect) {
       score++;
     } else {
@@ -672,31 +701,39 @@ function endExam() {
     }
   });
   localStorage.setItem('markedQuestions', JSON.stringify(markedQuestions));
-  const percentage = (score / numQuestions) * 100;
-  let feedbackMessage = '';
-  if (percentage < 85) {
-    feedbackMessage = "Retourne au fourgon ket";
-    document.getElementById("feedback").classList.add("red");
-    document.getElementById("feedback").classList.remove("green");
-  } else {
-    feedbackMessage = "Bravo champion tu es prêt!";
-    document.getElementById("feedback").classList.add("green");
-    document.getElementById("feedback").classList.remove("red");
-  }
-  document.getElementById("feedback").textContent = feedbackMessage;
-  document.getElementById("feedback").classList.remove("hidden");
-  document.getElementById("score").textContent = `Score final : ${score}/${numQuestions} (${percentage.toFixed(2)}%)`;
-  examHistory.push(percentage);
-  localStorage.setItem('examHistory', JSON.stringify(examHistory));
-  displayHistory();
+  clearExamTimer();
+  var points = 0;
+  questionDivs.forEach(function(div,index) {
+    if (div.dataset.examCorrect === "true") points += shuffledQuiz[index].examPoints;
+    div.querySelectorAll(".answer-button").forEach(function(button) { button.disabled = true; });
+  });
+  var percentage = Math.max(0,Math.min(100,points));
+  var grade = examGrade(percentage);
+  var result = {theme:examThemeIndex+1, percentage:percentage, grade:grade};
+  examThemeResults.push(result);
+  document.getElementById("feedback").textContent = grade >= 4 ? "Thème réussi" : "Thème non réussi";
+  document.getElementById("feedback").className = "feedback-text " + (grade>=4 ? "green":"red");
+  document.getElementById("score").textContent = "Résultat pondéré : " + percentage.toFixed(1) + "% · Note : " + grade + "/6";
   document.getElementById("endButton").classList.add("hidden");
-  if (!document.getElementById("game").querySelector("button#backButton")) {
-    const backButton = document.createElement("button");
-    backButton.textContent = "Retourner à l'accueil";
-    backButton.id = "backButton";
-    backButton.onclick = resetQuiz;
-    document.getElementById("game").appendChild(backButton);
+  var next = document.createElement("button"); next.id = "backButton";
+  if (examThemeIndex < REAL_EXAM.length-1) {
+    next.textContent = "Commencer le thème suivant";
+    next.onclick = function() { examThemeIndex++; startExamTheme(); };
+  } else {
+    var passed = examThemeResults.every(function(r) { return r.grade>=4; });
+    document.getElementById("feedback").textContent = passed ? "Examen blanc réussi : chaque thème atteint 4/6." : "Examen blanc non réussi : au moins un thème est inférieur à 4/6.";
+    var recap = document.createElement("ul");
+    examThemeResults.forEach(function(r) {
+      var line = document.createElement("li");
+      line.textContent = "Thème " + r.theme + " : " + r.grade + "/6 (" + r.percentage.toFixed(1) + "%)";
+      recap.appendChild(line);
+    });
+    document.getElementById("questions").appendChild(recap);
+    examHistory.push({date:new Date().toISOString(),themes:examThemeResults.slice(),passed:passed});
+    localStorage.setItem("examHistory",JSON.stringify(examHistory));
+    next.textContent = "Retour à l'accueil"; next.onclick = resetQuiz;
   }
+  document.getElementById("game").appendChild(next);
 }
 
 function showFinalScore() {
@@ -713,6 +750,7 @@ function showFinalScore() {
 }
 
 function resetQuiz() {
+  clearExamTimer();
   currentQuestion = 0;
   score = 0;
   mode = '';
@@ -747,13 +785,14 @@ function displayHistory() {
   const historyList = document.createElement("ul");
   examHistory.forEach((score, index) => {
     const listItem = document.createElement("li");
-    listItem.textContent = `Examen ${index + 1}: ${score.toFixed(2)}%`;
+    listItem.textContent = typeof score === "number" ? `Ancien examen ${index + 1}: ${score.toFixed(2)}%` : "Examen " + (index+1) + " : " + (score.passed ? "réussi" : "non réussi") + " · " + score.themes.map(function(r) { return "T" + r.theme + " : " + r.grade + "/6"; }).join(" · ");
     historyList.appendChild(listItem);
   });
   historyContent.appendChild(historyList);
 }
 
 function goBackToHome() {
+  clearExamTimer();
   window.scrollTo(0,0);
   var ids = ["game","exerciseRangePage","syllabusPage","historyPage","flashcardsPage","flashcardDeckPage","schemasPage","schemasCategoryPage","schemaDetailPage"];
   ids.forEach(function(id) { document.getElementById(id).classList.add("hidden"); });
