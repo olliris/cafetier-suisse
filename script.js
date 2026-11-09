@@ -173,7 +173,7 @@ function chooseExerciseRange() {
   markedRow.appendChild(markedBtn);
   var sep = document.createElement("p");
   sep.className = "exercise-section-label";
-  sep.textContent = "Choisissez un module ou un chapitre. Barre verte : questions répondues ; pourcentage : réussite sur les réponses validées.";
+  sep.textContent = quiz.length + " questions disponibles. Le bouton du module lance toutes ses questions, y compris les quiz finaux. Les boutons de chapitres lancent uniquement le chapitre choisi. Barre verte : questions répondues ; pourcentage : réussite.";
   markedRow.appendChild(sep);
 
   var exerciseRangeOptions = document.getElementById("exerciseRangeOptions");
@@ -182,16 +182,16 @@ function chooseExerciseRange() {
   getSyllabusWithQuestions().forEach(function(theme) {
     var themeTitle = document.createElement("h3");
     themeTitle.className = "exercise-theme-title";
-    themeTitle.textContent = theme.title;
+    themeTitle.textContent = theme.title + " — " + theme.groups.reduce(function(total, group) { return total + group.questions.length; }, 0) + " questions";
     exerciseRangeOptions.appendChild(themeTitle);
 
     theme.groups.forEach(function(group) {
       exerciseRangeOptions.appendChild(
-        createExerciseButton(group.title, group.questions, "group-" + group.key, "exercise-range-btn exercise-theme-btn")
+        createExerciseButton(group.title + " · Toutes les questions du module", group.questions, "group-" + group.key, "exercise-range-btn exercise-theme-btn")
       );
       group.chapters.forEach(function(ch) {
         exerciseRangeOptions.appendChild(
-          createExerciseButton((ch.key.endsWith(".final") ? "Quiz final du module" : "Chapitre " + ch.key), ch.questions, "chapter-" + ch.key, "exercise-range-btn")
+          createExerciseButton((ch.key.endsWith(".final") ? "Quiz final du module" : ch.key.endsWith(".general") ? "Questions générales du module" : "Chapitre " + ch.key), ch.questions, "chapter-" + ch.key, "exercise-range-btn")
         );
       });
     });
@@ -227,6 +227,9 @@ const SYLLABUS = [
 function getChapterKey(q) {
   var match = q.question.match(/^\s*(\d+)\.(\d+)\./);
   if (match) return match[1] + "." + match[2];
+  // Numérotation courte : "2.1. Texte" signifie module 2, question 1.
+  var shortMatch = q.question.match(/^\s*(\d+)\.\d+\.?\s+/);
+  if (shortMatch) return shortMatch[1] + ".general";
   // Les quiz finaux indiquent leur module/chapitre entre crochets.
   var finalMatch = q.question.match(/^Final\s+M[^[]*\[(\d+)(?:\.(\d+))?(?:\.\d+)*\]/i);
   return finalMatch ? finalMatch[1] + "." + (finalMatch[2] || "final") : null;
