@@ -14,8 +14,6 @@ fetch("questions.json")
 let currentQuestion = 0;
 let score = 0;
 let mode = '';
-let timerInterval;
-let timeLeft;
 let numQuestions = 90;
 let shuffledQuiz = [];
 let examHistory = JSON.parse(localStorage.getItem('examHistory')) || [];
@@ -23,26 +21,46 @@ let markedQuestions = JSON.parse(localStorage.getItem('markedQuestions')) || [];
 let exerciseResults = JSON.parse(localStorage.getItem('exerciseResults')) || {};
 let currentRangeKey = ''; // Pour suivre la plage actuelle
 
+// Examen : un mélange de questions du QCM, tirées au hasard dans chaque module, sans limite de temps
+const EXAM_QUESTIONS_PER_MODULE = 4;
+
 function startExam() {
   window.scrollTo(0,0);
   mode = 'exam';
-  timeLeft = 120 * 60;
-  
-  // Tirer parmi toutes les questions disponibles
-  const rangeQuestions = quiz;
-  numQuestions = Math.min(75, rangeQuestions.length);
-  
-  // Mélanger les questions de manière aléatoire
-  shuffledQuiz = [...rangeQuestions].sort(() => Math.random() - 0.5).slice(0, numQuestions);
-  
+  shuffledQuiz = pickExamQuestions();
+  numQuestions = shuffledQuiz.length;
+
   hideAll();
   document.getElementById("game").classList.remove("hidden");
-  document.getElementById("timer").classList.remove("hidden");
   document.getElementById("score").classList.remove("hidden");
   currentQuestion = 0;
   score = 0;
   showQuestions();
-  startTimer();
+}
+
+// Tire au hasard EXAM_QUESTIONS_PER_MODULE questions par module, puis mélange le tout
+function pickExamQuestions() {
+  var byModule = {};
+  quiz.forEach(function(q) {
+    var key = getChapterKey(q);
+    var moduleKey = key ? key.split(".")[0] : "autres";
+    (byModule[moduleKey] = byModule[moduleKey] || []).push(q);
+  });
+  var picked = [];
+  Object.keys(byModule).forEach(function(moduleKey) {
+    picked = picked.concat(shuffle(byModule[moduleKey]).slice(0, EXAM_QUESTIONS_PER_MODULE));
+  });
+  return shuffle(picked);
+}
+
+// Mélange équitable (Fisher-Yates) sans modifier le tableau d'origine
+function shuffle(array) {
+  var copy = array.slice();
+  for (var i = copy.length - 1; i > 0; i--) {
+    var j = Math.floor(Math.random() * (i + 1));
+    var tmp = copy[i]; copy[i] = copy[j]; copy[j] = tmp;
+  }
+  return copy;
 }
 
 function chooseExerciseRange() {
@@ -162,6 +180,75 @@ function getSyllabusWithQuestions() {
   return result;
 }
 
+// ── Syllabus : la théorie, classée selon le même plan que le QCM ──
+// Le contenu vient de syllabus.json : [{ "chapter": "4.1", "title": "...", "content": "..." }]
+let syllabusChapters = null;
+
+function showSyllabus() {
+  window.scrollTo(0,0);
+  hideAll();
+  document.getElementById("syllabusPage").classList.remove("hidden");
+  if (syllabusChapters) { renderSyllabusPlan(); return; }
+  fetch("syllabus.json")
+    .then(function(response) { return response.json(); })
+    .then(function(data) { syllabusChapters = data; renderSyllabusPlan(); })
+    .catch(function(error) {
+      console.error("Error loading syllabus:", error);
+      document.getElementById("syllabusContent").textContent = "Impossible de charger le syllabus.";
+    });
+}
+
+function getSyllabusChapters(group) {
+  return syllabusChapters.filter(function(ch) {
+    return group.modules.includes(String(ch.chapter).split(".")[0]);
+  });
+}
+
+// Plan complet du cours ; les blocs sans théorie sont affichés mais désactivés
+function renderSyllabusPlan() {
+  window.scrollTo(0,0);
+  var container = document.getElementById("syllabusContent");
+  container.innerHTML = "";
+  SYLLABUS.forEach(function(theme) {
+    var themeTitle = document.createElement("h3");
+    themeTitle.className = "exercise-theme-title";
+    themeTitle.textContent = theme.title;
+    container.appendChild(themeTitle);
+    theme.groups.forEach(function(group) {
+      var chapters = getSyllabusChapters(group);
+      var hasContent = chapters.some(function(ch) { return ch.content && ch.content.trim(); });
+      var button = document.createElement("button");
+      button.className = "exercise-range-btn";
+      button.textContent = group.title + (hasContent ? "" : " (à venir)");
+      button.disabled = !hasContent;
+      button.onclick = function() { openSyllabusGroup(group, chapters); };
+      container.appendChild(button);
+    });
+  });
+}
+
+function openSyllabusGroup(group, chapters) {
+  window.scrollTo(0,0);
+  var container = document.getElementById("syllabusContent");
+  container.innerHTML = "";
+  var title = document.createElement("h3");
+  title.textContent = group.title;
+  container.appendChild(title);
+  chapters.forEach(function(ch) {
+    var chapterTitle = document.createElement("h4");
+    chapterTitle.textContent = ch.chapter + (ch.title ? " – " + ch.title : "");
+    var text = document.createElement("p");
+    text.className = "syllabus-text";
+    text.textContent = ch.content && ch.content.trim() ? ch.content : "Contenu à venir.";
+    container.appendChild(chapterTitle);
+    container.appendChild(text);
+  });
+  var back = document.createElement("button");
+  back.textContent = "Retour au syllabus";
+  back.onclick = renderSyllabusPlan;
+  container.appendChild(back);
+}
+
 function createExerciseButton(label, questions, resultKey, className) {
   var button = document.createElement("button");
   button.className = className;
@@ -181,7 +268,6 @@ function startExercise(questions, resultKey) {
   document.getElementById("game").classList.remove("hidden");
   currentQuestion = 0;
   score = 0;
-  document.getElementById("timer").classList.add("hidden");
   document.getElementById("score").classList.add("hidden");
   document.getElementById("feedback").classList.add("hidden");
   showQuestion();
@@ -398,7 +484,6 @@ function checkAnswer(questionIndex) {
 }
 
 function endExam() {
-  clearInterval(timerInterval);
   const questionsDiv = document.getElementById("questions");
   const questionDivs = questionsDiv.querySelectorAll(".question");
   
@@ -504,7 +589,6 @@ function resetQuiz() {
   document.getElementById("game").classList.add("hidden");
   document.querySelector(".quiz-container").classList.remove("hidden");
   document.getElementById("footer").style.display = "block";
-  document.getElementById("timer").classList.add("hidden");
   document.getElementById("score").classList.add("hidden");
   document.getElementById("feedback").classList.add("hidden");
   const backButton = document.getElementById("game").querySelector("button#backButton");
@@ -538,31 +622,17 @@ function displayHistory() {
 
 function goBackToHome() {
   window.scrollTo(0,0);
-  var ids = ["game","exerciseRangePage","historyPage","flashcardsPage","flashcardDeckPage","schemasPage","schemasCategoryPage","schemaDetailPage"];
+  var ids = ["game","exerciseRangePage","syllabusPage","historyPage","flashcardsPage","flashcardDeckPage","schemasPage","schemasCategoryPage","schemaDetailPage"];
   ids.forEach(function(id) { document.getElementById(id).classList.add("hidden"); });
   document.querySelector(".quiz-container").classList.remove("hidden");
   document.getElementById("footer").style.display = "block";
 }
 
 function hideAll() {
-  var ids = ["game","exerciseRangePage","historyPage","flashcardsPage","flashcardDeckPage","schemasPage","schemasCategoryPage","schemaDetailPage"];
+  var ids = ["game","exerciseRangePage","syllabusPage","historyPage","flashcardsPage","flashcardDeckPage","schemasPage","schemasCategoryPage","schemaDetailPage"];
   ids.forEach(function(id) { document.getElementById(id).classList.add("hidden"); });
   document.querySelector(".quiz-container").classList.add("hidden");
   document.getElementById("footer").style.display = "none";
-}
-
-function startTimer() {
-  timerInterval = setInterval(function() {
-    if (timeLeft <= 0) {
-      clearInterval(timerInterval);
-      endExam();
-      return;
-    }
-    timeLeft--;
-    const minutes = Math.floor(timeLeft / 60);
-    const seconds = timeLeft % 60;
-    document.getElementById("timer").textContent = `Temps restant : ${minutes}:${seconds < 10 ? '0' : ''}${seconds}`;
-  }, 1000);
 }
 
 function resetCache() {
