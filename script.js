@@ -173,7 +173,7 @@ function chooseExerciseRange() {
   markedRow.appendChild(markedBtn);
   var sep = document.createElement("p");
   sep.className = "exercise-section-label";
-  sep.textContent = quiz.length + " questions disponibles. Le bouton du module lance toutes ses questions, y compris les quiz finaux. Les boutons de chapitres lancent uniquement le chapitre choisi. Barre verte : questions répondues ; pourcentage : réussite.";
+  sep.textContent = quiz.length + " questions disponibles. Le bouton du module lance toutes ses questions, y compris les quiz finaux. Les boutons de chapitres lancent uniquement le chapitre choisi. Barre verte : questions répondues / total ; score : bonnes réponses / total, questions non faites incluses.";
   markedRow.appendChild(sep);
 
   var exerciseRangeOptions = document.getElementById("exerciseRangeOptions");
@@ -354,7 +354,7 @@ function createExerciseButton(label, questions, resultKey, className) {
   title.textContent = label + " (" + questions.length + " q.)";
   var summary = document.createElement("span");
   summary.className = "exercise-progress-summary";
-  summary.textContent = (stats.answered ? stats.success + "% de réussite" : "Pas encore de résultat") +
+  summary.textContent = (stats.success + "% de réussite sur le total") +
     " · " + stats.answered + "/" + questions.length + " répondues";
   button.appendChild(title);
   button.appendChild(summary);
@@ -373,7 +373,7 @@ function getQuestionStats(questions) {
     }
   });
   return { answered: answered, correct: correct,
-    success: answered ? Math.round(correct / answered * 100) : 0 };
+    success: questions.length ? Math.round(correct / questions.length * 100) : 0 };
 }
 
 function createProgressBar(stats, total) {
@@ -408,7 +408,7 @@ function renderExerciseProgress() {
   if (mode !== "exercise") return;
   var stats = getQuestionStats(shuffledQuiz);
   var summary = document.createElement("p");
-  summary.textContent = (stats.answered ? stats.success + "% de réussite" : "Pas encore de résultat") +
+  summary.textContent = (stats.success + "% de réussite sur le total") +
     " · " + stats.answered + "/" + numQuestions + " répondues";
   element.appendChild(summary);
   element.appendChild(createProgressBar(stats, numQuestions));
