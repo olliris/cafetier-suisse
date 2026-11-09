@@ -27,12 +27,15 @@ let questionResults = JSON.parse(localStorage.getItem('questionResultsV1')) || {
 let currentRangeKey = ''; // Pour suivre la plage actuelle
 
 // Examen : un mélange de questions du QCM, tirées au hasard dans chaque module, sans limite de temps
-const EXAM_QUESTIONS_PER_MODULE = 4;
+const EXAM_TOTAL_QUESTIONS = 90;
+const EXAM_MIN_PER_MODULE = 2;
+let examSubmitted = false;
 
 function startExam() {
   window.scrollTo(0,0);
   mode = 'exam';
   if (!quiz.length) { alert("Les questions ne sont pas encore chargées."); return; }
+  examSubmitted = false;
   shuffledQuiz = pickExamQuestions();
   numQuestions = shuffledQuiz.length;
 
@@ -42,21 +45,67 @@ function startExam() {
   currentQuestion = 0;
   score = 0;
   showQuestions();
+  var notice = document.createElement("p");
+  notice.textContent = numQuestions + " questions · Tous les modules · Répartition selon le volume et la complexité estimée de la matière · Nouveau tirage à chaque examen";
+  document.getElementById("questions").prepend(notice);
 }
 
-// Tire au hasard EXAM_QUESTIONS_PER_MODULE questions par module, puis mélange le tout
+// Estimation explicite, sans barème officiel : volume de matière et complexité
+// structurelle (réponses multiples et mises en situation), pas difficulté mesurée.
+function examQuestionWeight(q) {
+  var correct = Array.isArray(q.correct) ? q.correct : [q.correct];
+  return 1 + (correct.length > 1 ? 0.5 : 0) +
+    (/vous êtes|vous etes|comment (?:gérez|procédez)|que (?:faites|devez)/i.test(q.question) ? 0.75 : 0);
+}
+
 function pickExamQuestions() {
   var byModule = {};
+  var seen = new Set();
   quiz.forEach(function(q) {
-    var key = getChapterKey(q);
-    var moduleKey = key ? key.split(".")[0] : "autres";
-    (byModule[moduleKey] = byModule[moduleKey] || []).push(q);
+    if (seen.has(q.question)) return;
+    seen.add(q.question);
+    var chapter = getChapterKey(q);
+    var key = chapter ? chapter.split(".")[0] : "autres";
+    (byModule[key] = byModule[key] || []).push(q);
   });
+  var modules = Object.keys(byModule).map(function(key) {
+    var questions = byModule[key];
+    return { key: key, questions: questions,
+      weight: questions.reduce(function(sum, q) { return sum + examQuestionWeight(q); }, 0),
+      count: 0 };
+  });
+  var target = Math.min(EXAM_TOTAL_QUESTIONS, seen.size);
+  var assigned = 0;
+  // Couverture minimale de chaque module, même avec une petite banque.
+  for (var round = 0; round < EXAM_MIN_PER_MODULE && assigned < target; round++) {
+    modules.forEach(function(module) {
+      if (assigned < target && module.count < module.questions.length) {
+        module.count++; assigned++;
+      }
+    });
+  }
+  // Répartition proportionnelle des places restantes, plafonnée au stock disponible.
+  while (assigned < target) {
+    var available = modules.filter(function(module) { return module.count < module.questions.length; });
+    var next = available.reduce(function(best, module) {
+      return !best || module.weight / (module.count + 1) > best.weight / (best.count + 1) ? module : best;
+    }, null);
+    if (!next) break;
+    next.count++; assigned++;
+  }
+  var previous;
+  try { previous = new Set(JSON.parse(localStorage.getItem("previousExamQuestions")) || []); }
+  catch (error) { previous = new Set(); }
   var picked = [];
-  Object.keys(byModule).forEach(function(moduleKey) {
-    picked = picked.concat(shuffle(byModule[moduleKey]).slice(0, EXAM_QUESTIONS_PER_MODULE));
+  modules.forEach(function(module) {
+    var fresh = shuffle(module.questions.filter(function(q) { return !previous.has(q.question); }));
+    var repeated = shuffle(module.questions.filter(function(q) { return previous.has(q.question); }));
+    // Réutiliser une question uniquement si le module manque de nouvelles questions.
+    picked = picked.concat(fresh.concat(repeated).slice(0, module.count));
   });
-  return shuffle(picked);
+  picked = shuffle(picked);
+  localStorage.setItem("previousExamQuestions", JSON.stringify(picked.map(function(q) { return q.question; })));
+  return picked;
 }
 
 // Mélange équitable (Fisher-Yates) sans modifier le tableau d'origine
@@ -566,6 +615,8 @@ function checkAnswer(questionIndex) {
 }
 
 function endExam() {
+  if (examSubmitted) return;
+  examSubmitted = true;
   const questionsDiv = document.getElementById("questions");
   const questionDivs = questionsDiv.querySelectorAll(".question");
   
@@ -719,6 +770,7 @@ function hideAll() {
 
 function resetCache() {
   localStorage.removeItem('examHistory');
+  localStorage.removeItem("previousExamQuestions");
   localStorage.removeItem('markedQuestions');
   localStorage.removeItem('exerciseResults');
   localStorage.removeItem('questionResultsV1');
