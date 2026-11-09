@@ -1,0 +1,1639 @@
+[
+    {
+        "question": "15.1.1. Quels sont les facteurs qui composent l'environnement économique d'une entreprise ?",
+        "answers": [
+            "Conditions économiques",
+            "Réglementations",
+            "Concurrence",
+            "Relations avec les parties prenantes",
+            "Gestion interne",
+            "Marketing interne"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "explanation": "L'environnement économique d'une entreprise est constitué de l'ensemble des facteurs externes qui influencent son fonctionnement et sa performance. Cela inclut les conditions économiques, les réglementations, la concurrence, et les relations avec les parties prenantes."
+    },
+    {
+        "question": "15.1.2. Qui sont les parties prenantes d'une entreprise ?",
+        "answers": [
+            "Clients",
+            "Fournisseurs",
+            "Investisseurs",
+            "État",
+            "Employés",
+            "Concurrents",
+            "Actionnaires externes"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": "Les parties prenantes sont toutes les personnes ou groupes qui ont un intérêt dans l'entreprise. Cela inclut : Clients, Fournisseurs, Investisseurs, État, Employés."
+    },
+    {
+        "question": "15.1.3. Quels sont les rôles des clients et des fournisseurs dans une entreprise ?",
+        "answers": [
+            "Les clients achètent les produits/services",
+            "Les fournisseurs fournissent les ressources nécessaires",
+            "Les clients fournissent des ressources",
+            "Les fournisseurs achètent les produits/services"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les relations avec les clients et les fournisseurs sont essentielles pour le succès d'une entreprise. Les clients achètent les produits ou services, tandis que les fournisseurs fournissent les matières premières et les services nécessaires."
+    },
+    {
+        "question": "15.1.4. Quels sont les secteurs d'activité des entreprises ?",
+        "answers": [
+            "Secteur primaire",
+            "Secteur secondaire",
+            "Secteur tertiaire",
+            "Secteur quaternaire",
+            "Secteur technologique"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les entreprises peuvent être classées selon leur secteur d'activité : Secteur primaire (ressources naturelles), Secteur secondaire (transformation de matières premières), Secteur tertiaire (services)."
+    },
+    {
+        "question": "15.1.5. Quel est le secteur d'activité des entreprises de restauration, café etc. ?",
+        "answers": [
+            "Secteur primaire",
+            "Secteur secondaire",
+            "Secteur tertiaire"
+        ],
+        "correct": 2,
+        "explanation": ""
+    },
+    {
+        "question": "15.1.6. Quels sont les avantages des sociétés de capitaux ?",
+        "answers": [
+            "Responsabilité limitée des actionnaires",
+            "Protection des biens personnels",
+            "Simplicité de création",
+            "Flexibilité totale dans la gestion"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les sociétés de capitaux offrent des avantages tels que la responsabilité limitée des actionnaires et la protection des biens personnels."
+    },
+    {
+        "question": "15.1.7. Quels sont les critères nécessaires pour créer une entreprise ?",
+        "answers": [
+            "Choix de la forme juridique",
+            "Capital initial",
+            "Enregistrement auprès des autorités",
+            "Élaboration des statuts",
+            "Création d'un site internet",
+            "Recrutement immédiat"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "explanation": "La création d'une entreprise nécessite de respecter certains critères : choix de la forme juridique, capital initial, enregistrement auprès des autorités, et élaboration des statuts."
+    },
+    {
+        "question": "15.1.8. Quelles sont les sources de financement interne d'une entreprise ?",
+        "answers": [
+            "Capitaux propres",
+            "Bénéfices non distribués",
+            "Emprunts bancaires",
+            "Obligations"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Le financement interne provient des ressources générées par l'entreprise elle-même, comme les capitaux propres et les bénéfices non distribués."
+    },
+    {
+        "question": "15.1.9. Quels sont les documents comptables essentiels pour une entreprise ?",
+        "answers": [
+            "Bilan",
+            "Compte de résultat",
+            "Rapport marketing",
+            "Plan stratégique"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Pour assurer une bonne gestion financière, plusieurs documents comptables sont indispensables : le bilan et le compte de résultat."
+    },
+    {
+        "question": "15.1.10. Quels sont les rôles de la comptabilité dans une entreprise ?",
+        "answers": [
+            "Suivi des opérations financières",
+            "Analyse de la performance",
+            "Conformité légale",
+            "Gestion des ressources humaines",
+            "Création de produits"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "La comptabilité est un outil essentiel pour la gestion d'une entreprise. Elle permet de suivre et d'analyser les opérations financières, garantissant ainsi la transparence et la conformité aux obligations légales."
+    },
+    {
+        "question": "15.1.11. Quels sont les avantages des capitaux propres pour une entreprise ?",
+        "answers": [
+            "Plus de flexibilité",
+            "Pas d'obligation de remboursement",
+            "Nécessité de payer des intérêts",
+            "Dépendance aux banques"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les capitaux propres offrent plus de flexibilité à l'entreprise, puisqu'elle n'est pas obligée de les rémunérer."
+    },
+    {
+        "question": "15.1.12. Vrai ou Faux : Les entreprises individuelles nécessitent un capital minimum de CHF 20'000 pour être créées.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "Entreprise individuelle : Pas de capital minimum requis."
+    },
+    {
+        "question": "15.1.13. Vrai ou Faux : Les sociétés de capitaux ont une personnalité juridique distincte de leurs propriétaires.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les sociétés de capitaux sont des entités juridiques distinctes de leurs propriétaires, qui limitent la responsabilité personnelle."
+    },
+    {
+        "question": "15.1.14. Vrai ou Faux : La comptabilité est obligatoire pour toutes les entreprises en Suisse.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "La tenue d'une comptabilité est, pour toutes les entreprises, imposée par la loi : la première motivation est celle de l'État qui souhaite pouvoir facturer des impôts."
+    },
+    {
+        "question": "15.1.15. Vous êtes propriétaire d'une entreprise individuelle et vous venez de recevoir une facture importante pour l'achat de nouvelles machines nécessaires à votre activité. Cependant, votre trésorerie actuelle est insuffisante pour régler cette facture immédiatement. Quelle est la meilleure action à entreprendre dans cette situation ?",
+        "answers": [
+            "Négocier un paiement différé avec le fournisseur pour étaler le règlement sur plusieurs mois.",
+            "Ignorer la facture et attendre que le fournisseur vous relance.",
+            "Contracter un emprunt bancaire sans analyser votre capacité de remboursement.",
+            "Utiliser vos fonds personnels sans tenir compte de la séparation entre votre fortune privée et commerciale."
+        ],
+        "correct": 0,
+        "explanation": "Dans une entreprise individuelle, il est essentiel de gérer la trésorerie avec prudence. Négocier un paiement différé avec le fournisseur est une solution viable qui permet de maintenir une bonne relation avec le fournisseur tout en évitant de compromettre votre trésorerie. Ignorer la facture ou contracter un emprunt sans analyse peut entraîner des problèmes financiers. De plus, il est important de respecter la séparation entre la fortune privée et commerciale pour une comptabilité claire."
+    },
+    {
+        "question": "15.1.16. Vous êtes responsable d'une société anonyme (SA) et un investisseur potentiel souhaite obtenir des informations sur la santé financière de votre entreprise avant d'investir. Quels documents devez-vous lui fournir pour répondre à sa demande ?",
+        "answers": [
+            "Le bilan et le compte de résultat de l'entreprise.",
+            "Une liste des clients de l'entreprise.",
+            "Les détails des projets futurs sans données financières.",
+            "Les relevés bancaires personnels des actionnaires."
+        ],
+        "correct": 0,
+        "explanation": "Le bilan et le compte de résultat sont des documents comptables essentiels qui permettent de présenter la situation financière de l'entreprise et ses performances. Ces informations sont cruciales pour les investisseurs afin d'évaluer la rentabilité et la stabilité de l'entreprise. Fournir des informations non pertinentes ou personnelles ne répond pas à leurs besoins."
+    },
+    {
+        "question": "15.1.17. Vous êtes propriétaire d'une petite entreprise dans le secteur tertiaire. Un client fidèle vous informe qu'il est mécontent de la qualité d'un service récent et menace de ne plus collaborer avec vous. Quelle est la meilleure approche pour gérer cette situation ?",
+        "answers": [
+            "Écouter attentivement les préoccupations du client, s'excuser pour l'expérience négative, et proposer une solution adaptée pour résoudre le problème.",
+            "Ignorer les préoccupations du client et continuer comme si de rien n'était.",
+            "Offrir un remboursement immédiat sans chercher à comprendre le problème.",
+            "Répondre de manière défensive en rejetant la faute sur le client."
+        ],
+        "correct": 0,
+        "explanation": "Les clients sont au cœur de l'activité commerciale. Il est essentiel de maintenir une relation de confiance en écoutant leurs préoccupations, en s'excusant sincèrement, et en proposant une solution adaptée. Ignorer le problème ou adopter une attitude défensive peut nuire à la fidélité du client et à la réputation de l'entreprise."
+    },
+    {
+        "question": "15.2.1. Quels sont les principes fondamentaux de la logique comptable ?",
+        "answers": [
+            "Régularité",
+            "Fidélité",
+            "Justification",
+            "Clarté",
+            "Exigibilité",
+            "Liquidité"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "explanation": "Les principes fondamentaux de la logique comptable incluent : Régularité, Fidélité, Justification, Clarté et Traçabilité."
+    },
+    {
+        "question": "15.2.2. Que représente le Bilan dans la comptabilité ?",
+        "answers": [
+            "Une photographie de la situation financière à un moment donné",
+            "Une analyse des revenus et des dépenses sur une période",
+            "Une liste des opérations comptables",
+            "Une projection des résultats futurs"
+        ],
+        "correct": 0,
+        "explanation": "Le Bilan est une photographie de la situation financière d'une entreprise à un moment donné."
+    },
+    {
+        "question": "15.2.3. Quels éléments composent les Actifs circulants ?",
+        "answers": [
+            "Caisse",
+            "Banque",
+            "Stocks",
+            "Machines",
+            "Immeuble"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les Actifs circulants regroupent des actifs à court terme comme la Caisse, la Banque et les Stocks."
+    },
+    {
+        "question": "15.2.4. Quels sont les deux types de comptes présents dans le Bilan ?",
+        "answers": [
+            "Actifs",
+            "Passifs",
+            "Charges",
+            "Produits"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Le Bilan regroupe deux types de comptes : les Actifs et les Passifs."
+    },
+    {
+        "question": "15.2.5. Comment est calculé le résultat d'exploitation dans le Compte de résultat ?",
+        "answers": [
+            "Résultat = Produits - Charges",
+            "Résultat = Actifs - Passifs",
+            "Résultat = Charges - Produits",
+            "Résultat = Fonds propres - Fonds étrangers"
+        ],
+        "correct": 0,
+        "explanation": "Le résultat d'exploitation est calculé comme suit : Résultat = Produits - Charges."
+    },
+    {
+        "question": "15.2.6. Quels sont les types de comptes présents dans le Compte de résultat ?",
+        "answers": [
+            "Charges",
+            "Produits",
+            "Actifs",
+            "Passifs"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Le Compte de résultat regroupe deux types de comptes : les Charges et les Produits."
+    },
+    {
+        "question": "15.2.7. Quels sont les sous-principes du principe de régularité selon le Code des Obligations suisse ?",
+        "answers": [
+            "Clarté",
+            "Intelligibilité",
+            "Fiabilité",
+            "Importance relative",
+            "Liquidité",
+            "Exigibilité"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "explanation": "Les sous-principes incluent : clarté, intelligibilité, fiabilité, importance relative, prudence, permanence de la présentation et interdiction de la compensation."
+    },
+    {
+        "question": "15.2.8. Quels éléments composent les Fonds propres dans le Passif ?",
+        "answers": [
+            "Capital social/action",
+            "Réserves",
+            "Dettes à court terme",
+            "Dettes à long terme"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les Fonds propres regroupent le capital social/action et les réserves."
+    },
+    {
+        "question": "15.2.9. Quels sont les types de comptes dans la comptabilité ?",
+        "answers": [
+            "Actifs",
+            "Passifs",
+            "Charges",
+            "Produits",
+            "Exigibilité",
+            "Liquidité"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "explanation": "Les quatre types de comptes sont : Actifs, Passifs, Charges et Produits."
+    },
+    {
+        "question": "15.2.10. Comment les comptes d'Actifs réagissent-ils lorsqu'ils sont débités ?",
+        "answers": [
+            "Leur valeur augmente",
+            "Leur valeur diminue",
+            "Ils restent inchangés",
+            "Ils sont supprimés"
+        ],
+        "correct": 0,
+        "explanation": "Les comptes d'Actifs augmentent lorsqu'ils sont débités."
+    },
+    {
+        "question": "15.2.11. Quels sont les éléments du Grand Livre dans la comptabilité ?",
+        "answers": [
+            "Tous les comptes de la comptabilité",
+            "Représentation des comptes en T",
+            "Résumé des états financiers",
+            "Liste des opérations du Journal"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Tous les comptes de la comptabilité sont représentés dans le Grand Livre sous forme de T."
+    },
+    {
+        "question": "15.2.12. Quels sont les principes comptables fondamentaux ?",
+        "answers": [
+            "Régularité",
+            "Fidélité",
+            "Justification",
+            "Clarté",
+            "Exigibilité",
+            "Liquidité"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "explanation": "Les principes comptables fondamentaux incluent : régularité, fidélité, justification, clarté et traçabilité."
+    },
+    {
+        "question": "15.2.13. Quels sont les éléments du Passif dans le Bilan ?",
+        "answers": [
+            "Fonds étrangers",
+            "Fonds propres",
+            "Actifs circulants",
+            "Actifs immobilisés"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Le Passif est composé des Fonds étrangers et des Fonds propres."
+    },
+    {
+        "question": "15.2.14. Quels sont les éléments des Actifs immobilisés ?",
+        "answers": [
+            "Machines",
+            "Immeuble",
+            "Matériel informatique",
+            "Caisse",
+            "Banque"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les Actifs immobilisés regroupent des éléments comme les machines, immeubles et matériel informatique."
+    },
+    {
+        "question": "15.2.15. Quels sont les principes comptables liés à la tenue des comptes selon l'article 957a du CO ?",
+        "answers": [
+            "Enregistrement intégral",
+            "Justification par une pièce comptable",
+            "Clarté",
+            "Traçabilité",
+            "Liquidité",
+            "Exigibilité"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "explanation": "L'article 957a du CO stipule : enregistrement intégral, justification par une pièce comptable, clarté et traçabilité."
+    },
+    {
+        "question": "15.2.16. Vrai ou Faux : Le Bilan est une photographie de la situation financière d'une entreprise à un moment donné.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Le Bilan est une photographie de la situation financière d'une entreprise à un moment donné."
+    },
+    {
+        "question": "15.2.17. Vrai ou Faux : Les Actifs circulants incluent les machines et les immeubles.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "Les Actifs circulants regroupent des actifs à court terme comme la Caisse, la Banque et les Stocks, mais pas les machines ou immeubles."
+    },
+    {
+        "question": "15.2.18. Vrai ou Faux : Les comptes de Charges augmentent lorsqu'ils sont débités.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les comptes de Charges augmentent lorsqu'ils sont débités."
+    },
+    {
+        "question": "15.2.19. Vrai ou Faux : Le résultat d'exploitation est calculé en soustrayant les Charges des Produits.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Le résultat d'exploitation est calculé comme suit : Résultat = Produits - Charges."
+    },
+    {
+        "question": "15.2.20. Vrai ou Faux : Les comptes de Passifs augmentent lorsqu'ils sont crédités.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les comptes de Passifs augmentent lorsqu'ils sont crédités."
+    },
+    {
+        "question": "15.2.21. Vous êtes comptable dans une entreprise. Un fournisseur vous appelle pour signaler qu'une facture de 5,000 CHF n'a pas été réglée. Après vérification, vous constatez que la facture a bien été payée, mais le fournisseur n'a pas reçu l'argent en raison d'une erreur dans le numéro de compte bancaire. Quelle est la meilleure action à entreprendre ?",
+        "answers": [
+            "Informer le fournisseur de l'erreur et lui demander de vérifier ses coordonnées bancaires.",
+            "Passer une écriture comptable pour annuler le paiement précédent et effectuer un nouveau virement avec les bonnes coordonnées.",
+            "Ignorer la demande du fournisseur, car l'erreur ne vient pas de votre entreprise.",
+            "Envoyer une copie de la facture au fournisseur sans prendre d'autres mesures."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Dans ce cas, il est essentiel de maintenir une traçabilité et une clarté dans les opérations comptables. Informer le fournisseur de l'erreur et corriger l'écriture comptable garantit que la situation est résolue de manière professionnelle et conforme aux principes de régularité et de justification."
+    },
+    {
+        "question": "15.2.22. Vous êtes chargé de préparer le Bilan annuel de votre entreprise. En examinant les comptes, vous remarquez que le compte 'Banque' présente un solde négatif de -3,000 CHF. Comment devez-vous traiter cette situation dans le Bilan ?",
+        "answers": [
+            "Classer le compte 'Banque' dans les Passifs sous 'Dettes à court terme'.",
+            "Laisser le compte 'Banque' dans les Actifs circulants sans modification.",
+            "Supprimer le compte 'Banque' du Bilan pour éviter de montrer un solde négatif.",
+            "Ajouter le solde négatif au compte 'Réserves' dans les Fonds propres."
+        ],
+        "correct": 0,
+        "explanation": "Un solde négatif dans le compte 'Banque' indique une dette envers la banque. Conformément aux principes comptables, ce compte doit être reclassé dans les Passifs, car il représente une obligation financière à court terme."
+    },
+    {
+        "question": "15.2.23. Lors de la clôture mensuelle, vous constatez que le compte 'Stock de marchandises' a été surévalué de 10,000 CHF. Cela affecte directement le Bilan. Quelle est la meilleure manière de corriger cette erreur ?",
+        "answers": [
+            "Ajuster le compte 'Stock de marchandises' en diminuant sa valeur de 10,000 CHF et passer une écriture comptable pour refléter cette correction.",
+            "Ignorer l'erreur et attendre la prochaine clôture pour la corriger.",
+            "Augmenter les Fonds propres pour compenser l'erreur dans le compte 'Stock de marchandises'.",
+            "Supprimer le compte 'Stock de marchandises' du Bilan pour éviter toute confusion."
+        ],
+        "correct": 0,
+        "explanation": "Les principes de fidélité et de justification exigent que les états financiers reflètent la réalité économique de l'entreprise. Une correction immédiate du compte 'Stock de marchandises' garantit la transparence et la fiabilité du Bilan."
+    },
+    {
+        "question": "15.2.24. Un client vous informe qu'il a payé une facture de 2,000 CHF, mais après vérification, vous ne trouvez pas de trace de ce paiement dans le compte 'Banque'. Que devez-vous faire ?",
+        "answers": [
+            "Demander au client une preuve de paiement, comme un reçu ou un relevé bancaire.",
+            "Vérifier les écritures du compte 'Banque' pour identifier une éventuelle erreur ou omission.",
+            "Passer une écriture comptable pour enregistrer le paiement sans vérification.",
+            "Informer le client que le paiement n'a pas été reçu et lui demander de payer à nouveau."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Avant de passer une écriture comptable, il est essentiel de vérifier la réalité de l'opération. Demander une preuve de paiement et examiner les écritures du compte 'Banque' garantit la traçabilité et la régularité des enregistrements."
+    },
+    {
+        "question": "15.2.25. Vous êtes en train de passer une écriture comptable pour l'achat d'un nouvel ordinateur à 2,500 CHF, payé moitié en espèces et moitié par carte bancaire. Comment devez-vous enregistrer cette opération dans le Journal ?",
+        "answers": [
+            "Débiter le compte 'Matériel informatique' pour 2,500 CHF.",
+            "Créditer le compte 'Caisse' pour 1,250 CHF et le compte 'Banque' pour 1,250 CHF.",
+            "Débiter le compte 'Caisse' pour 2,500 CHF.",
+            "Créditer uniquement le compte 'Banque' pour 2,500 CHF."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Une écriture multiple est nécessaire pour refléter cette opération. Le compte 'Matériel informatique' doit être débité pour augmenter la valeur des actifs, tandis que les comptes 'Caisse' et 'Banque' doivent être crédités pour diminuer les liquidités utilisées pour le paiement."
+    },
+    {
+        "question": "15.3.1. Quelle est la fréquence de l'inventaire annuel des stocks ?",
+        "answers": [
+            "Une fois par an",
+            "Une fois par mois",
+            "Une fois par trimestre",
+            "Une fois tous les deux ans"
+        ],
+        "correct": 0,
+        "explanation": "L'inventaire des stocks est réalisé une fois par an, ce qui permet d'ajuster le compte 'stock de marchandises' en fonction des variations constatées."
+    },
+    {
+        "question": "15.3.2. Quel est l'impact principal de l'inventaire annuel des stocks sur les états financiers ?",
+        "answers": [
+            "Il influence le bilan et le compte de résultat",
+            "Il n'a aucun impact sur les états financiers",
+            "Il augmente automatiquement les bénéfices",
+            "Il réduit les coûts de production"
+        ],
+        "correct": 0,
+        "explanation": "Les résultats de l'inventaire influencent directement le bilan et le compte de résultat, car ils affectent les coûts des marchandises vendues et, par conséquent, la rentabilité de l'entreprise."
+    },
+    {
+        "question": "15.3.3. Que se passe-t-il lorsqu'il y a une diminution de stock ?",
+        "answers": [
+            "Le compte 'variation de stock' est débité",
+            "Le compte 'stock de marchandises' est crédité",
+            "Le compte 'variation de stock' est crédité",
+            "Le compte 'stock de marchandises' est débité"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Lorsqu'il y a une diminution de stock, cela est comptabilisé comme une charge. Le compte 'variation de stock' est débité, tandis que le compte 'stock de marchandises' est crédité."
+    },
+    {
+        "question": "15.3.4. Quelle est la conséquence d'une augmentation de stock sur le compte de résultat ?",
+        "answers": [
+            "Elle diminue le coût des marchandises vendues (CMV)",
+            "Elle peut augmenter le bénéfice net",
+            "Elle augmente le coût des marchandises vendues (CMV)",
+            "Elle réduit le bénéfice net"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Une augmentation de stock diminue le coût des marchandises vendues (CMV), ce qui peut augmenter le bénéfice net de l'entreprise."
+    },
+    {
+        "question": "15.3.5. Quels sont les comptes touchés lors d'une augmentation de stock ?",
+        "answers": [
+            "Le compte 'stock de marchandises' est débité",
+            "Le compte 'variation de stock' est crédité",
+            "Le compte 'stock de marchandises' est crédité",
+            "Le compte 'variation de stock' est débité"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Une augmentation de stock est comptabilisée comme un produit. Dans ce cas, le compte 'stock de marchandises' est débité et le compte 'variation de stock' est crédité."
+    },
+    {
+        "question": "15.3.6. Quels sont les objectifs principaux d'un inventaire annuel des stocks ?",
+        "answers": [
+            "Déterminer la valeur des stocks",
+            "Identifier les pertes éventuelles",
+            "S'assurer que les enregistrements comptables sont à jour",
+            "Réduire les coûts de production",
+            "Augmenter automatiquement les bénéfices"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Il permet de déterminer la valeur des stocks, d'identifier les pertes éventuelles et de s'assurer que les enregistrements comptables sont à jour et précis."
+    },
+    {
+        "question": "15.3.7. Vrai ou Faux : Une diminution de stock est comptabilisée comme une charge.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Une diminution de stock correspondra à une charge puisque de la marchandise a été consommée."
+    },
+    {
+        "question": "15.3.8. Vrai ou Faux : Une augmentation de stock est comptabilisée comme un produit.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Une augmentation de stock correspondra à un produit."
+    },
+    {
+        "question": "15.3.9. Vous êtes responsable de la gestion des stocks dans une entreprise de cafétéria à Genève. Lors de l'inventaire annuel, vous constatez une diminution de stock de 500 CHF. Quelle est la bonne manière de comptabiliser cette diminution dans les comptes de l'entreprise ?",
+        "answers": [
+            "Débiter le compte 'Variation de stock' de 500 CHF et créditer le compte 'Stock de marchandises' de 500 CHF.",
+            "Créditer le compte 'Variation de stock' de 500 CHF et débiter le compte 'Stock de marchandises' de 500 CHF.",
+            "Débiter le compte 'Stock de marchandises' de 500 CHF et créditer le compte 'Variation de stock' de 500 CHF.",
+            "Ne pas comptabiliser cette diminution car elle n'a pas d'impact direct sur les états financiers."
+        ],
+        "correct": 0,
+        "explanation": "Une diminution de stock correspond à une charge pour l'entreprise, car elle reflète la consommation ou la vente de marchandises. Pour enregistrer cette diminution, le compte 'Variation de stock' doit être débité pour comptabiliser la charge, et le compte 'Stock de marchandises' doit être crédité pour refléter la diminution de la valeur des stocks."
+    },
+    {
+        "question": "15.3.10. Lors de l'inventaire annuel, vous constatez une augmentation de stock de 1'200 CHF. Quelle est la bonne écriture comptable pour refléter cette augmentation dans les comptes de l'entreprise ?",
+        "answers": [
+            "Débiter le compte 'Stock de marchandises' de 1'200 CHF et créditer le compte 'Variation de stock' de 1'200 CHF.",
+            "Débiter le compte 'Variation de stock' de 1'200 CHF et créditer le compte 'Stock de marchandises' de 1'200 CHF.",
+            "Créditer le compte 'Stock de marchandises' de 1'200 CHF et débiter le compte 'Variation de stock' de 1'200 CHF.",
+            "Ne pas comptabiliser cette augmentation car elle n'a pas d'impact direct sur les états financiers."
+        ],
+        "correct": 0,
+        "explanation": "Une augmentation de stock correspond à un produit pour l'entreprise, car elle reflète l'ajout de marchandises. Pour enregistrer cette augmentation, le compte 'Stock de marchandises' doit être débité pour refléter l'augmentation de la valeur des stocks, et le compte 'Variation de stock' doit être crédité pour comptabiliser le produit."
+    },
+    {
+        "question": "15.4.1. Qu'est-ce que l'amortissement ?",
+        "answers": [
+            "La constatation comptable de la diminution de valeur d'une immobilisation",
+            "L'augmentation de la valeur d'un actif",
+            "Une méthode de calcul des bénéfices",
+            "Une charge monétaire immédiate"
+        ],
+        "correct": 0,
+        "explanation": "L'amortissement est la constatation comptable de la diminution de valeur d'une immobilisation au fil du temps."
+    },
+    {
+        "question": "15.4.2. Qu'est-ce qu'une immobilisation ?",
+        "answers": [
+            "Un actif ayant une durée d'utilisation supérieure à un an",
+            "Un bien consommé immédiatement",
+            "Une dette de l'entreprise",
+            "Une charge non monétaire"
+        ],
+        "correct": 0,
+        "explanation": "Une immobilisation est un actif ayant une durée d'utilisation supérieure à un an, essentiel pour l'exploitation de l'entreprise."
+    },
+    {
+        "question": "15.4.3. Quelle est la principale raison de l'amortissement ?",
+        "answers": [
+            "Répartir la charge d'acquisition d'un bien sur sa durée d'utilisation",
+            "Augmenter la valeur d'un actif",
+            "Réduire les bénéfices imposables uniquement",
+            "Éviter de payer des impôts"
+        ],
+        "correct": 0,
+        "explanation": "L'amortissement permet d'étaler la charge d'acquisition d'un bien sur sa durée d'utilisation, évitant ainsi de faire supporter cette dépense à une seule année."
+    },
+    {
+        "question": "15.4.4. Quelles sont les causes naturelles de la diminution de valeur d'un actif ?",
+        "answers": [
+            "L'usure physique",
+            "L'obsolescence technologique",
+            "La durée limitée des brevets",
+            "Les sanctions fiscales"
+        ],
+        "correct": 0,
+        "explanation": "Les causes naturelles incluent l'usure physique : l'utilisation régulière d'un actif entraîne une dégradation physique, réduisant sa valeur."
+    },
+    {
+        "question": "15.4.5. Quel est l'objectif principal de l'amortissement ?",
+        "answers": [
+            "Répartir équitablement les coûts d'acquisition sur plusieurs exercices",
+            "Augmenter les bénéfices",
+            "Réduire les coûts de production",
+            "Éviter les pertes"
+        ],
+        "correct": 0,
+        "explanation": "L'amortissement est crucial pour répartir équitablement les coûts d'acquisition sur plusieurs exercices, garantissant ainsi une mesure plus précise des résultats financiers."
+    },
+    {
+        "question": "15.4.6. Quelles sont les obligations légales liées aux amortissements en Suisse ?",
+        "answers": [
+            "Constatation annuelle des amortissements",
+            "Comptabilisation des pertes de valeur dues à l'utilisation et au temps",
+            "Comptabilisation des amortissements uniquement en cas de bénéfices",
+            "Possibilité de modifier librement le montant des amortissements"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Le cadre légal impose la constatation annuelle des amortissements et la comptabilisation des pertes de valeur dues à l'utilisation de l'actif et au facteur temps."
+    },
+    {
+        "question": "15.4.7. Quels sont les impacts économiques des amortissements ?",
+        "answers": [
+            "Répartition des coûts d'acquisition sur la durée d'utilisation",
+            "Réduction des bénéfices imposables",
+            "Augmentation de la trésorerie",
+            "Augmentation de la valeur comptable des actifs"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les amortissements permettent d'étaler le coût d'acquisition d'un actif sur sa durée d'utilisation et réduisent le bénéfice imposable."
+    },
+    {
+        "question": "15.4.8. Quelle méthode d'amortissement est la plus courante ?",
+        "answers": [
+            "L'amortissement linéaire",
+            "L'amortissement dégressif",
+            "L'amortissement progressif",
+            "L'amortissement aléatoire"
+        ],
+        "correct": 0,
+        "explanation": "L'amortissement linéaire est la méthode la plus courante. Elle consiste à répartir le coût d'acquisition d'un actif de manière égale sur sa durée de vie utile."
+    },
+    {
+        "question": "15.4.9. Quels sont les avantages de l'amortissement linéaire ?",
+        "answers": [
+            "Simplicité de calcul",
+            "Répartition égale des coûts sur la durée de vie",
+            "Réduction rapide des coûts initiaux",
+            "Adaptation à la dépréciation rapide des actifs"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "L'amortissement linéaire est simple à calculer et répartit le coût d'acquisition de manière égale sur la durée de vie de l'actif."
+    },
+    {
+        "question": "15.4.10. Quels sont les effets d'amortissements trop élevés ?",
+        "answers": [
+            "Réduction des bénéfices disponibles",
+            "Surévaluation des coûts de revient",
+            "Sous-évaluation des coûts de revient",
+            "Augmentation des bénéfices disponibles"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Des amortissements trop élevés peuvent réduire les bénéfices disponibles et surévaluer les coûts de revient."
+    },
+    {
+        "question": "15.4.11. Quelles sont les valeurs essentielles en amortissement ?",
+        "answers": [
+            "Valeur d'acquisition",
+            "Fonds d'amortissement",
+            "Valeur comptable",
+            "Valeur monétaire immédiate"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les valeurs essentielles en amortissement incluent la valeur d'acquisition, le fonds d'amortissement et la valeur comptable."
+    },
+    {
+        "question": "15.4.12. Quels sont les comptes utilisés pour la comptabilisation des amortissements ?",
+        "answers": [
+            "Comptes d'actifs immobilisés",
+            "Comptes de passifs correctifs",
+            "Comptes d'amortissements",
+            "Comptes de trésorerie"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "La comptabilisation d'amortissement fait intervenir divers comptes : comptes d'actifs immobilisés, comptes de passifs correctifs et comptes d'amortissements."
+    },
+    {
+        "question": "15.4.13. Vrai ou Faux : L'amortissement est une charge monétaire.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "L'amortissement est une charge non monétaire. Il n'affecte pas directement la trésorerie de l'entreprise."
+    },
+    {
+        "question": "15.4.14. Vrai ou Faux : L'amortissement dégressif permet d'amortir un actif plus rapidement dans les premières années.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "L'amortissement dégressif permet d'amortir un actif plus rapidement dans les premières années de son utilisation."
+    },
+    {
+        "question": "15.4.15. Vrai ou Faux : Les entreprises peuvent modifier librement le montant des amortissements pour obtenir un résultat souhaité.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "On ne peut pas modifier à bien plaire le montant de l'amortissement à effectuer afin d'obtenir un résultat souhaité."
+    },
+    {
+        "question": "15.4.16. Vous êtes comptable dans une entreprise et vous constatez que le mobilier de bureau acheté il y a 3 ans pour CHF 40'000 n'a pas été correctement amorti. La valeur comptable actuelle est encore de CHF 35'000, alors qu'elle devrait être de CHF 25'000 selon la méthode d'amortissement linéaire. Quelle action devez-vous entreprendre pour corriger cette erreur ?",
+        "answers": [
+            "Réaliser une écriture d'amortissement corrective pour ajuster la valeur comptable à CHF 25'000.",
+            "Ignorer l'erreur et continuer avec les amortissements futurs.",
+            "Modifier rétroactivement les états financiers des années précédentes pour refléter les amortissements corrects.",
+            "Réduire le taux d'amortissement pour compenser l'erreur dans les années à venir."
+        ],
+        "correct": 0,
+        "explanation": "La méthode correcte consiste à réaliser une écriture corrective pour ajuster la valeur comptable de l'actif. Ignorer l'erreur ou modifier rétroactivement les états financiers n'est pas conforme aux principes comptables. De même, ajuster le taux d'amortissement pour compenser l'erreur future est contraire aux obligations légales et au principe de sincérité des états financiers."
+    },
+    {
+        "question": "15.4.17. Vous êtes responsable financier et devez choisir une méthode d'amortissement pour un véhicule récemment acquis. Ce véhicule perd rapidement de la valeur dans les premières années en raison de l'usure et de l'obsolescence technologique. Quelle méthode d'amortissement est la plus appropriée ?",
+        "answers": [
+            "Utiliser la méthode d'amortissement dégressif pour refléter la perte rapide de valeur.",
+            "Utiliser la méthode d'amortissement linéaire pour répartir la charge de manière égale sur la durée de vie.",
+            "Ne pas amortir le véhicule et attendre qu'il soit totalement inutilisable avant de comptabiliser une perte.",
+            "Appliquer un taux d'amortissement arbitraire sans justification économique."
+        ],
+        "correct": 0,
+        "explanation": "La méthode dégressive est idéale pour les actifs qui perdent rapidement de la valeur, comme les véhicules. Elle permet de refléter la réalité économique de la dépréciation. La méthode linéaire, bien qu'elle soit simple, ne serait pas adaptée dans ce cas précis. Ne pas amortir ou appliquer un taux arbitraire est contraire aux principes comptables et aux obligations légales."
+    },
+    {
+        "question": "15.4.18. Lors de la clôture annuelle, vous remarquez que les amortissements d'un actif immobilisé ont été sous-évalués, ce qui a artificiellement augmenté les bénéfices de l'entreprise. Quel est le risque principal de cette situation et quelle action devez-vous prendre ?",
+        "answers": [
+            "Réaliser une écriture corrective pour ajuster les amortissements et garantir la sincérité des états financiers.",
+            "Maintenir les bénéfices élevés pour attirer les investisseurs.",
+            "Reporter l'ajustement à l'année suivante pour éviter d'afficher une perte cette année.",
+            "Augmenter les réserves d'autofinancement pour compenser l'erreur."
+        ],
+        "correct": 0,
+        "explanation": "Sous-évaluer les amortissements peut fausser les résultats financiers, violer le principe de prudence et entraîner des conséquences légales. La meilleure action est de corriger immédiatement les amortissements pour garantir la transparence et la conformité des états financiers. Maintenir des bénéfices artificiellement élevés ou reporter l'ajustement est contraire aux obligations légales et peut nuire à la crédibilité de l'entreprise."
+    },
+    {
+        "question": "16.1.1. Quel est le rôle des entreprises dans le système de TVA en Suisse ?",
+        "answers": [
+            "Collecter la TVA sur leurs ventes",
+            "Reverser la TVA collectée à l'État",
+            "Payer la TVA sur leurs ventes",
+            "Être exemptées de TVA"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les entreprises ne paient pas la TVA, mais elles ont pour tâche de la facturer à leurs clients et de la reverser ensuite à l'État."
+    },
+    {
+        "question": "16.1.2. Quels sont les taux de TVA appliqués en Suisse à partir du 1er janvier 2024 ?",
+        "answers": [
+            "8,1%",
+            "2,6%",
+            "3,8%",
+            "5,3%"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "La Suisse applique trois taux de TVA : ordinaire (8,1%), réduit (2,6%) et spécial (3,8%)."
+    },
+    {
+        "question": "16.1.3. Quel taux de TVA est appliqué aux biens de première nécessité ?",
+        "answers": [
+            "2,6%",
+            "8,1%",
+            "3,8%",
+            "5,3%"
+        ],
+        "correct": 0,
+        "explanation": "Le taux réduit de 2,6% s'applique aux biens de première nécessité (alimentation, médicaments, livres, etc.)."
+    },
+    {
+        "question": "16.1.4. Quelle formule permet de calculer le prix TTC à partir du prix HT avec un taux de TVA de 8,1% ?",
+        "answers": [
+            "HT x 108,1 / 100",
+            "HT x 103,8 / 100",
+            "HT x 102,6 / 100",
+            "HT x 100 / 108,1"
+        ],
+        "correct": 0,
+        "explanation": "Pour trouver le TTC à partir du HT avec un taux de TVA de 8,1%, la formule est : HT x 108,1 / 100."
+    },
+    {
+        "question": "16.1.5. Quelles informations doivent figurer sur une facture émise par une entreprise assujettie à la TVA ?",
+        "answers": [
+            "Numéro de TVA",
+            "Taux de TVA appliqué",
+            "Montant de TVA facturé",
+            "Chiffre d'affaires annuel de l'entreprise"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les factures doivent contenir certaines informations obligatoires : numéro de TVA, taux de TVA appliqué et montant de TVA facturé."
+    },
+    {
+        "question": "16.1.6. Quelles conditions doivent être remplies pour qu'une entreprise puisse déduire l'impôt préalable ?",
+        "answers": [
+            "Être assujettie à la TVA",
+            "Effectuer des opérations non exclues",
+            "Prouver le paiement de la TVA",
+            "Avoir un chiffre d'affaires supérieur à CHF 100'000"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "La déduction de l'impôt préalable suppose que l'entreprise est assujettie à la TVA, qu'elle effectue des opérations qui ne sont pas exclues et qu'elle peut prouver que l'impôt préalable a été payé."
+    },
+    {
+        "question": "16.1.7. Quels domaines sont totalement exclus de la TVA en Suisse ?",
+        "answers": [
+            "Santé",
+            "Éducation",
+            "Activités culturelles",
+            "Exportations de biens"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les domaines exclus de la TVA incluent la santé, l'éducation et les activités culturelles."
+    },
+    {
+        "question": "16.1.8. Quel est le taux de dette fiscale nette appliqué dans le secteur de la restauration ?",
+        "answers": [
+            "5,3%",
+            "8,1%",
+            "3,8%",
+            "2,6%"
+        ],
+        "correct": 0,
+        "explanation": "Un taux de 5,3% est appliqué dans le secteur de la restauration, connu sous le nom de taux de la dette fiscale nette."
+    },
+    {
+        "question": "16.1.9. Quels critères déterminent l'assujettissement d'une entreprise à la TVA en Suisse ?",
+        "answers": [
+            "Exploitation d'une entreprise",
+            "Chiffre d'affaires annuel supérieur à CHF 100'000",
+            "Activités exclusivement à l'étranger",
+            "Absence de but lucratif"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "L'assujettissement à la TVA est déterminé par l'exploitation d'une entreprise et un chiffre d'affaires annuel supérieur à CHF 100'000."
+    },
+    {
+        "question": "16.1.10. Quels types d'opérations sont soumis à la TVA en Suisse ?",
+        "answers": [
+            "Livraisons de biens",
+            "Prestations de services",
+            "Prestations à soi-même",
+            "Exportations de biens"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les opérations soumises à la TVA incluent les livraisons de biens, les prestations de services et les prestations à soi-même."
+    },
+    {
+        "question": "16.1.11. Vrai ou Faux : Les entreprises paient la TVA sur leurs ventes.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "Les entreprises ne paient pas la TVA, mais elles ont pour tâche de la facturer à leurs clients et de la reverser ensuite à l'État."
+    },
+    {
+        "question": "16.1.12. Vrai ou Faux : Les exportations de biens sont exonérées de TVA en Suisse.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les ventes de biens destinés à l'étranger sont exonérées de TVA en Suisse."
+    },
+    {
+        "question": "16.1.13. Vrai ou Faux : Une entreprise avec un chiffre d'affaires inférieur à CHF 100'000 peut choisir de s'assujettir à la TVA.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les entreprises dont le chiffre d'affaires est inférieur à CHF 100'000 peuvent opter pour l'assujettissement afin de bénéficier de la déduction de l'impôt préalable."
+    },
+    {
+        "question": "16.1.14. Vous êtes responsable de la facturation dans une entreprise assujettie à la TVA. Un client vous demande une facture pour une prestation de service réalisée en Suisse. Quelles informations doivent impérativement figurer sur cette facture pour qu'elle soit conforme à la législation fiscale ?",
+        "answers": [
+            "Le numéro de TVA de l'entreprise.",
+            "La date de la facture.",
+            "Le taux de TVA appliqué et le montant de TVA facturé.",
+            "Le numéro de téléphone du client.",
+            "Le montant total des ventes de l'entreprise pour le trimestre.",
+            "Une description des activités de l'entreprise."
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Pour qu'une facture soit conforme à la législation fiscale, elle doit inclure des informations obligatoires telles que le numéro de TVA de l'entreprise, la date de la facture, une description claire des biens ou services fournis, le montant hors taxes (HT), le taux de TVA appliqué, et le montant de TVA facturé. Ces éléments permettent de justifier les déductions d'impôt préalable et de respecter les obligations fiscales."
+    },
+    {
+        "question": "16.1.15. Vous êtes propriétaire d'une entreprise assujettie à la TVA. Vous avez utilisé des fournitures de votre stock pour un usage personnel. Comment devez-vous gérer cette situation pour respecter vos obligations fiscales ?",
+        "answers": [
+            "Déclarer une prestation à soi-même et payer la TVA correspondante comme si vous étiez un consommateur externe.",
+            "Ne pas déclarer cette utilisation, car elle est personnelle.",
+            "Déduire la TVA payée sur ces fournitures sans déclaration supplémentaire.",
+            "Facturer la TVA à votre entreprise pour cette utilisation."
+        ],
+        "correct": 0,
+        "explanation": "Lorsque le propriétaire d'une entreprise utilise des biens de l'entreprise pour un usage personnel, il doit déclarer une prestation à soi-même et payer la TVA correspondante. Cela garantit que le propriétaire est traité comme un consommateur externe, respectant ainsi les règles fiscales liées à la TVA."
+    },
+    {
+        "question": "16.1.16. Vous travaillez dans une entreprise suisse qui exporte des biens à l'étranger. Un client étranger vous demande si la TVA suisse sera appliquée sur sa commande. Quelle est la réponse correcte ?",
+        "answers": [
+            "Non, les ventes de biens destinés à l'étranger sont exonérées de TVA en Suisse.",
+            "Oui, la TVA suisse sera appliquée, car la vente est réalisée par une entreprise suisse.",
+            "Oui, mais à un taux réduit de 2,6%.",
+            "Non, mais l'entreprise doit facturer une TVA étrangère."
+        ],
+        "correct": 0,
+        "explanation": "Les ventes de biens destinés à l'étranger sont exonérées de TVA en Suisse, conformément à la législation fiscale. Cela permet aux entreprises suisses de ne pas facturer la TVA sur les exportations, tout en respectant les règles fiscales internationales."
+    },
+    {
+        "question": "16.2.1. Quelle est la fréquence habituelle de soumission du décompte de TVA par les entreprises ?",
+        "answers": [
+            "Trimestrielle",
+            "Mensuelle",
+            "Semestrielle",
+            "Annuelle"
+        ],
+        "correct": 0,
+        "explanation": "La période de décompte pour la TVA est généralement trimestrielle, ce qui signifie que les entreprises doivent soumettre leur décompte tous les trois mois."
+    },
+    {
+        "question": "16.2.2. Quels éléments sont inclus dans la rubrique 'Chiffre d'affaires' du décompte de TVA ?",
+        "answers": [
+            "Ventes imposables",
+            "Prestations exonérées",
+            "Prestations fournies à l'étranger",
+            "Subventions reçues"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Inclut toutes les ventes imposables, exonérées et les prestations fournies à l'étranger."
+    },
+    {
+        "question": "16.2.3. Quel est l'objectif principal du décompte de TVA ?",
+        "answers": [
+            "Déterminer le montant de TVA à verser ou à récupérer",
+            "Calculer les bénéfices de l'entreprise",
+            "Évaluer les performances commerciales",
+            "Réduire les coûts d'exploitation"
+        ],
+        "correct": 0,
+        "explanation": "Le décompte de la TVA est un processus essentiel pour toute entreprise assujettie à la taxe sur la valeur ajoutée. Il permet de déterminer le montant de TVA que l'entreprise doit verser à l'administration fiscale ou, dans certains cas, le montant qu'elle peut récupérer."
+    },
+    {
+        "question": "16.2.4. Quels sont les principaux comptes utilisés pour la TVA dans la comptabilité ?",
+        "answers": [
+            "Impôt préalable",
+            "TVA due",
+            "TVA sur prestations à soi-même",
+            "Compte des bénéfices",
+            "Compte des pertes"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les entreprises utilisent plusieurs comptes pour gérer la TVA dans leur comptabilité : Impôt préalable, TVA due, TVA sur prestations à soi-même."
+    },
+    {
+        "question": "16.2.5. Quels sont les avantages d'un décompte trimestriel de TVA ?",
+        "answers": [
+            "Meilleure gestion de la trésorerie",
+            "Conformité légale",
+            "Suivi des performances commerciales",
+            "Réduction des taux de TVA"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Un décompte trimestriel permet aux entreprises de mieux planifier leurs flux de trésorerie en tenant compte des montants à payer ou à récupérer, de respecter les délais de soumission pour éviter des pénalités, et d'analyser les performances commerciales sur des intervalles de temps courts."
+    },
+    {
+        "question": "16.2.6. Quels éléments peuvent influencer le solde final de la TVA dans la rubrique 'Autres mouvements de fonds' ?",
+        "answers": [
+            "Subventions",
+            "Contributions",
+            "Taxes touristiques",
+            "Ventes imposables",
+            "Prestations fournies à l'étranger"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Cette rubrique permet de déclarer des montants qui ne sont pas directement liés aux ventes, mais qui peuvent affecter le solde final de la TVA, comme les subventions ou les contributions."
+    },
+    {
+        "question": "16.2.7. Quels sont les taux de TVA ?",
+        "answers": [
+            "8.1%",
+            "2.6%",
+            "3.8%",
+            "10%",
+            "5%"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les taux de TVA mentionnés incluent 8.1%, 2.6%, et 3.8% selon le type de produit ou service."
+    },
+    {
+        "question": "16.2.8. Que signifie 'prestations à soi-même' dans le contexte de la TVA ?",
+        "answers": [
+            "Utilisation personnelle de biens ou services de l'entreprise",
+            "Ventes à des clients étrangers",
+            "Subventions reçues",
+            "Réduction des taux de TVA"
+        ],
+        "correct": 0,
+        "explanation": "Prestations à soi-même : TVA à comptabiliser lorsque des biens ou services de l'entreprise sont utilisés à des fins personnelles."
+    },
+    {
+        "question": "16.2.9. Quels sont les trois parties principales du décompte de TVA ?",
+        "answers": [
+            "Chiffre d'affaires",
+            "Calcul de l'impôt",
+            "Déduction de l'impôt préalable",
+            "Subventions reçues",
+            "Contributions aux établissements d'élimination des déchets"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Le décompte de TVA est réparti en trois parties : la détermination du chiffre d'affaires, le calcul de l'impôt dû, et la déduction de l'impôt préalable."
+    },
+    {
+        "question": "16.2.10. Quels sont les éléments nécessaires pour remplir le formulaire de déclaration de TVA ?",
+        "answers": [
+            "Factures de ventes et d'achats",
+            "Montants de TVA facturés et payés",
+            "Bilan annuel",
+            "Déclaration des bénéfices"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Rassemblez toutes les factures de ventes et d'achats pour la période de décompte. Notez les montants de TVA facturés et payés."
+    },
+    {
+        "question": "16.2.11. Que se passe-t-il en cas de perte sur débiteur concernant la TVA ?",
+        "answers": [
+            "La TVA comptabilisée est extournée",
+            "La TVA est augmentée",
+            "La TVA est transférée à un autre compte",
+            "La TVA est ignorée"
+        ],
+        "correct": 0,
+        "explanation": "Lorsqu'une créance doit être annulée, l'entreprise doit simultanément extourner la TVA qu'elle avait comptabilisée sur ce client."
+    },
+    {
+        "question": "16.2.12. Vrai ou Faux : Les entreprises doivent soumettre leur décompte de TVA dans un délai de deux mois suivant la fin de la période de décompte.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Chaque trimestre, les entreprises doivent soumettre un décompte de TVA, qui doit être envoyé dans un délai de deux mois suivant la fin de la période de décompte."
+    },
+    {
+        "question": "16.2.13. Vrai ou Faux : La TVA sur prestations à soi-même est comptabilisée comme une dette à l'administration fiscale.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Le compte TVA sur prestations à soi-même est crédité lors d'une prestation à soi-même, exactement comme l'est le compte TVA due lors d'une vente à un client."
+    },
+    {
+        "question": "16.2.14. Vrai ou Faux : Les diminutions de la contre-prestation, telles que les rabais ou escomptes, doivent être prises en compte dans le chiffre d'affaires.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les diminutions de la contre-prestation, telles que les rabais ou escomptes, doivent également être prises en compte."
+    },
+    {
+        "question": "16.2.15. Vous êtes responsable de la comptabilité dans une entreprise. En préparant le décompte de TVA trimestriel, vous remarquez que le compte 'Impôt préalable : TVA s/matériel' contient une erreur de montant. Que devez-vous faire pour corriger cette situation avant de soumettre le décompte à l'administration fiscale ?",
+        "answers": [
+            "Revérifier toutes les factures d'achats pour la période de décompte afin d'identifier l'erreur.",
+            "Ajuster le montant dans le compte 'Impôt préalable : TVA s/matériel' pour qu'il corresponde aux factures vérifiées.",
+            "Soumettre le décompte de TVA avec l'erreur et corriger lors du prochain trimestre.",
+            "Ignorer l'erreur, car elle n'aura pas d'impact significatif sur le solde final."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Il est essentiel de revérifier toutes les factures d'achats pour identifier l'erreur et ajuster le montant dans le compte concerné avant de soumettre le décompte. Cela garantit la conformité fiscale et évite des pénalités potentielles. Soumettre un décompte incorrect pourrait entraîner des complications avec l'administration fiscale."
+    },
+    {
+        "question": "16.2.16. Un client vous informe qu'il ne pourra pas payer une facture de CHF 5'000,00 pour des raisons financières. La TVA sur cette facture a déjà été comptabilisée dans le compte 'TVA due'. Quelle est la meilleure action à entreprendre dans cette situation ?",
+        "answers": [
+            "Extourner la TVA comptabilisée sur cette facture dans le compte 'TVA due'.",
+            "Annuler la créance dans les comptes et ajuster le décompte de TVA en conséquence.",
+            "Maintenir la TVA comptabilisée et attendre que le client puisse payer à l'avenir.",
+            "Ignorer la situation et ne pas effectuer de modification dans les comptes."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Lorsqu'une créance est annulée, il est nécessaire d'extourner la TVA déjà comptabilisée, car l'administration fiscale ne réclame pas de TVA sur un montant non perçu. Cela garantit que le décompte de TVA reflète correctement les transactions réelles de l'entreprise."
+    },
+    {
+        "question": "Final M15-16.1. [15.1] Quels sont les rôles des parties prenantes dans une entreprise ?",
+        "answers": [
+            "Les clients achètent les produits ou services de l'entreprise.",
+            "Les fournisseurs fournissent les ressources nécessaires à l'entreprise.",
+            "Les clients régulent l'activité de l'entreprise.",
+            "Les investisseurs contribuent à la production et au fonctionnement de l'entreprise."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les parties prenantes incluent : Clients : Ils achètent les produits ou services de l'entreprise. Fournisseurs : Ils fournissent les ressources nécessaires à l'entreprise."
+    },
+    {
+        "question": "Final M15-16.2. [15.1] Quels sont les secteurs d'activité des entreprises ?",
+        "answers": [
+            "Secteur primaire : extraction ou culture de ressources naturelles.",
+            "Secteur tertiaire : entreprises de services.",
+            "Secteur secondaire : entreprises de services financiers.",
+            "Secteur quaternaire : entreprises de recherche et développement."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Secteurs d'activité : Secteur primaire : Comprend les entreprises qui extraient ou cultivent des ressources naturelles (ex. agriculture, pêche). Secteur tertiaire : Comprend les entreprises de services qui ne produisent pas de biens matériels (ex. services financiers, éducation)."
+    },
+    {
+        "question": "Final M15-16.3. [15.1] Vrai ou Faux : Les entreprises individuelles offrent une flexibilité totale mais impliquent une responsabilité illimitée.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "L'entreprise en raison individuelle offre à son propriétaire une flexibilité totale dans son organisation. [...] C'est pourquoi il s'agit d'une aventure risquée : si l'entreprise enregistre des pertes, le propriétaire pourra se voir saisir tous ses biens personnels afin de rembourser les dettes de l'entreprise."
+    },
+    {
+        "question": "Final M15-16.4. [15.1] Vous êtes propriétaire d'une entreprise individuelle et vous venez de recevoir une facture importante pour l'achat de nouvelles machines nécessaires à votre activité. Cependant, votre trésorerie actuelle est insuffisante pour couvrir cette dépense. Quelle est la meilleure action à entreprendre dans cette situation ?",
+        "answers": [
+            "Négocier un paiement différé avec le fournisseur pour étaler le règlement sur plusieurs mois.",
+            "Utiliser une partie de votre épargne personnelle pour financer l'achat des machines.",
+            "Ignorer la facture et attendre que le fournisseur vous relance.",
+            "Contracter un emprunt bancaire sans évaluer votre capacité de remboursement."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Dans une entreprise individuelle, le propriétaire est responsable de toutes les dettes de l'entreprise. Il est donc crucial de gérer les dépenses de manière proactive. Négocier un paiement différé avec le fournisseur permet de maintenir une bonne relation tout en évitant une pression immédiate sur la trésorerie. Utiliser une partie de votre épargne personnelle est également une solution viable, car cela fait partie des capitaux propres de l'entreprise. Ignorer la facture pourrait nuire à votre réputation auprès du fournisseur, et contracter un emprunt bancaire sans évaluer votre capacité de remboursement pourrait aggraver votre situation financière."
+    },
+    {
+        "question": "Final M15-16.5. [15.2] Quels sont les principes fondamentaux de la logique comptable ?",
+        "answers": [
+            "Régularité",
+            "Fidélité",
+            "Justification",
+            "Clarté",
+            "Exigibilité",
+            "Liquidité"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "explanation": "Les principes fondamentaux de la logique comptable incluent : Régularité, Fidélité, Justification, Clarté et Traçabilité."
+    },
+    {
+        "question": "Final M15-16.6. [15.2] Que représente le Bilan dans la comptabilité ?",
+        "answers": [
+            "Une photographie de la situation financière à un moment donné",
+            "Une vue statique des actifs et passifs",
+            "Une analyse des revenus et dépenses sur une période",
+            "Une évaluation dynamique des performances"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Le Bilan est une photographie de la situation financière d'une entreprise à un moment donné. Il repose sur une vision statique."
+    },
+    {
+        "question": "Final M15-16.7. [15.2] Quels éléments sont inclus dans les actifs circulants ?",
+        "answers": [
+            "Caisse",
+            "Banque",
+            "Stocks",
+            "Machines",
+            "Immeuble"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les actifs circulants regroupent les comptes représentant le patrimoine directement engagé dans l'activité de l'entreprise, comme la Caisse, la Banque et les Stocks."
+    },
+    {
+        "question": "Final M15-16.8. [15.2] Comment est calculé le résultat d'exploitation ?",
+        "answers": [
+            "Résultat = Produits - Charges",
+            "Résultat = Actifs - Passifs",
+            "Résultat = Charges - Produits",
+            "Résultat = Fonds propres - Fonds étrangers"
+        ],
+        "correct": 0,
+        "explanation": "Le résultat d'exploitation est calculé comme suit : Résultat = Produits - Charges."
+    },
+    {
+        "question": "Final M15-16.9. [15.2] Quels sont les quatre types de comptes dans la comptabilité ?",
+        "answers": [
+            "Actifs",
+            "Passifs",
+            "Charges",
+            "Produits",
+            "Débits",
+            "Crédits"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "explanation": "Toute comptabilité est divisée en quatre types de comptes : Actifs, Passifs, Charges et Produits."
+    },
+    {
+        "question": "Final M15-16.10. [15.2] Vrai ou Faux : Les actifs sont classés par ordre de liquidité dans le Bilan.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les actifs sont présentés par ordre de liquidité, soit la rapidité avec laquelle l'argent peut être mobilisé."
+    },
+    {
+        "question": "Final M15-16.11. [15.2] Vous êtes comptable dans une entreprise et vous devez enregistrer une opération comptable. L'entreprise a acheté un nouvel ordinateur pour CHF 2'500, payé en espèces. Quels comptes devez-vous utiliser et comment les débiter ou créditer pour refléter correctement cette transaction ?",
+        "answers": [
+            "Débiter le compte 'Matériel informatique' pour augmenter la valeur des actifs.",
+            "Créditer le compte 'Caisse' pour diminuer la liquidité disponible.",
+            "Débiter le compte 'Caisse' pour augmenter la liquidité disponible.",
+            "Créditer le compte 'Matériel informatique' pour diminuer la valeur des actifs."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Pour enregistrer cette opération, il faut suivre les règles de variation des comptes. Le compte 'Matériel informatique' est un compte d'actifs, et sa valeur augmente lorsqu'il est débité, car l'entreprise acquiert un nouvel équipement. Le compte 'Caisse' est également un compte d'actifs, mais sa valeur diminue lorsqu'il est crédité, car l'argent en espèces est utilisé pour payer l'achat. Cette méthode garantit que la comptabilité reflète fidèlement la réalité économique de l'entreprise."
+    },
+    {
+        "question": "Final M15-16.12. [15.3] Quelle est la fréquence de réalisation de l'inventaire annuel des stocks ?",
+        "answers": [
+            "Une fois par an",
+            "Une fois par mois",
+            "Une fois par trimestre",
+            "Une fois tous les deux ans"
+        ],
+        "correct": 0,
+        "explanation": "L'inventaire des stocks est réalisé une fois par an, ce qui permet d'ajuster le compte 'stock de marchandises' en fonction des variations constatées."
+    },
+    {
+        "question": "Final M15-16.13. [15.3] Que représente le compte 'stock de marchandises' dans la comptabilité des cafetiers ?",
+        "answers": [
+            "La valeur des marchandises détenues par l'entreprise à un moment donné",
+            "Les pertes financières de l'entreprise",
+            "Les bénéfices réalisés par l'entreprise",
+            "Les dettes de l'entreprise"
+        ],
+        "correct": 0,
+        "explanation": "Le compte 'stock de marchandises' représente la valeur des marchandises détenues par l'entreprise à un moment donné."
+    },
+    {
+        "question": "Final M15-16.14. [15.4] Quelles sont les causes principales de la diminution de valeur d'un actif immobilisé ?",
+        "answers": [
+            "Usure physique",
+            "Obsolescence technologique",
+            "Durée limitée des brevets et licences",
+            "Augmentation de la valeur d'acquisition",
+            "Croissance économique"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les amortissements sont justifiés par plusieurs causes qui expliquent pourquoi un actif immobilisé perd de la valeur : 1. Causes naturelles : Usure physique. 2. Causes économiques : Obsolescence technologique. 3. Causes juridiques : Durée limitée des brevets et licences."
+    },
+    {
+        "question": "Final M15-16.15. [15.4] Quelle méthode d'amortissement est la plus courante et pourquoi ?",
+        "answers": [
+            "L'amortissement linéaire, car il est simple à calculer",
+            "L'amortissement linéaire, car il répartit le coût de manière égale sur la durée de vie utile",
+            "L'amortissement dégressif, car il est utilisé pour tous les actifs",
+            "L'amortissement dégressif, car il est plus simple que l'amortissement linéaire"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "L'amortissement linéaire est la méthode la plus courante. Elle consiste à répartir le coût d'acquisition d'un actif de manière égale sur sa durée de vie utile. Caractéristiques : Calcul simple : Le même montant est amorti chaque année."
+    },
+    {
+        "question": "Final M15-16.16. [15.4] Vrai ou Faux : Les amortissements doivent être comptabilisés chaque année, même si cela transforme un bénéfice en perte.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "L'amortissement est obligatoirement pris en compte, même si le résultat est une perte et qu'il augmente celle-ci, ou qu'il transforme un bénéfice en perte."
+    },
+    {
+        "question": "Final M15-16.17. [15.4] Vous êtes comptable dans une entreprise et vous devez enregistrer l'amortissement annuel d'un mobilier de bureau acheté pour CHF 40'000 avec une durée de vie estimée à 8 ans. La direction vous demande de choisir entre la méthode directe et la méthode indirecte pour comptabiliser cet amortissement. Quelle méthode choisissez-vous et pourquoi ?",
+        "answers": [
+            "La méthode indirecte, car elle permet de conserver la valeur d'acquisition du mobilier dans le compte d'actifs immobilisés, tout en indiquant les amortissements cumulés dans un compte séparé, offrant ainsi une meilleure transparence dans le bilan.",
+            "La méthode directe, car elle simplifie la comptabilisation en inscrivant directement la diminution de valeur dans le compte d'actifs immobilisés, même si cela réduit la transparence du bilan.",
+            "Ne pas comptabiliser l'amortissement cette année pour éviter d'augmenter les charges d'exploitation.",
+            "Utiliser une méthode hybride qui combine les avantages des deux méthodes."
+        ],
+        "correct": 0,
+        "explanation": "La méthode indirecte est préférable car elle permet de conserver la valeur d'acquisition du mobilier dans le compte d'actifs immobilisés, tout en inscrivant les amortissements cumulés dans un compte séparé. Cela offre une meilleure transparence dans le bilan et permet de distinguer clairement la valeur d'acquisition, les amortissements cumulés et la valeur comptable. La méthode directe, bien que plus simple, ne montre que la valeur comptable, ce qui limite les informations disponibles pour les parties prenantes."
+    },
+    {
+        "question": "Final M15-16.18. [16.1] Quels sont les taux de TVA appliqués en Suisse à partir du 1er janvier 2024 ?",
+        "answers": [
+            "8,1%",
+            "2,6%",
+            "3,8%",
+            "5,3%",
+            "10%"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "À partir du 1er janvier 2024, la Suisse applique trois taux de TVA : le taux ordinaire de 8,1%, le taux réduit de 2,6%, et le taux spécial de 3,8%."
+    },
+    {
+        "question": "Final M15-16.19. [16.1] Quelles informations doivent obligatoirement figurer sur une facture émise par une entreprise assujettie à la TVA ?",
+        "answers": [
+            "Numéro de TVA",
+            "Date de la facture",
+            "Montant HT",
+            "Taux de TVA appliqué",
+            "Adresse du consommateur",
+            "Numéro de téléphone de l'entreprise"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "explanation": "Les factures doivent contenir certaines informations obligatoires : le numéro de TVA, la date de la facture, le montant HT, le taux de TVA appliqué, et le montant de TVA facturé."
+    },
+    {
+        "question": "Final M15-16.20. [16.1] Vrai ou Faux : Les entreprises dont le chiffre d'affaires annuel est inférieur à CHF 100'000 peuvent choisir de s'assujettir volontairement à la TVA.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les entreprises dont le chiffre d'affaires est inférieur à CHF 100'000 peuvent opter pour l'assujettissement afin de bénéficier de la déduction de l'impôt préalable sur leurs achats."
+    },
+    {
+        "question": "Final M15-16.21. [16.1] Vous êtes responsable de la comptabilité dans une entreprise assujettie à la TVA. Un fournisseur vous envoie une facture pour des fournitures achetées, mais cette facture ne mentionne pas le numéro de TVA ni le montant de la TVA. Que devez-vous faire pour vous assurer que vous pouvez déduire l'impôt préalable sur cette transaction ?",
+        "answers": [
+            "Contacter le fournisseur pour demander une facture corrigée avec les informations obligatoires.",
+            "Accepter la facture telle quelle et déduire l'impôt préalable sans vérification.",
+            "Ignorer la facture et ne pas comptabiliser la TVA.",
+            "Déduire l'impôt préalable en estimant le montant de la TVA à partir du total de la facture."
+        ],
+        "correct": 0,
+        "explanation": "Pour déduire l'impôt préalable, il est impératif que la facture contienne toutes les informations obligatoires, notamment le numéro de TVA et le montant de la TVA. Ces éléments servent de preuve lors des contrôles fiscaux. Si ces informations sont manquantes, vous devez demander une facture corrigée au fournisseur afin de respecter les obligations légales et éviter des erreurs dans votre comptabilité."
+    },
+    {
+        "question": "Final M15-16.22. [16.2] Quelles sont les trois parties principales du décompte de TVA ?",
+        "answers": [
+            "Détermination du chiffre d'affaires",
+            "Calcul de l'impôt dû",
+            "Déduction de l'impôt préalable",
+            "Gestion des subventions",
+            "Analyse des performances commerciales",
+            "Déclaration des dons"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Le décompte de TVA est réparti en trois parties : 1. La détermination du chiffre d'affaires. 2. Le calcul de l'impôt dû. 3. La déduction de l'impôt préalable."
+    },
+    {
+        "question": "Final M15-16.23. [16.2] Quels éléments sont inclus dans la rubrique 'Chiffre d'affaires' du décompte de TVA ?",
+        "answers": [
+            "Ventes imposables",
+            "Prestations exonérées",
+            "Prestations fournies à l'étranger",
+            "Subventions",
+            "Contributions aux établissements d'élimination des déchets",
+            "Dons"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "La rubrique 'Chiffre d'affaires' inclut toutes les ventes imposables, exonérées et les prestations fournies à l'étranger."
+    },
+    {
+        "question": "Final M15-16.24. [16.2] Vrai ou Faux : Les entreprises doivent soumettre leur décompte de TVA dans un délai de deux mois suivant la fin de la période de décompte.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Chaque trimestre, les entreprises doivent soumettre un décompte de TVA, qui doit être envoyé dans un délai de deux mois suivant la fin de la période de décompte."
+    },
+    {
+        "question": "Final M15-16.25. [16.2] Vous êtes comptable dans une entreprise et vous devez préparer la clôture trimestrielle de la TVA. En vérifiant les comptes, vous remarquez que le compte 'TVA sur prestations à soi-même' n'a pas été correctement crédité pour un prélèvement de marchandises effectué par le propriétaire de l'entreprise. Comment procédez-vous pour rectifier cette erreur et assurer la conformité du décompte de TVA ?",
+        "answers": [
+            "Vous identifiez le montant du prélèvement et la TVA correspondante, puis vous passez une écriture comptable pour créditer le compte 'TVA sur prestations à soi-même' et débiter le compte 'Privé'.",
+            "Vous vérifiez que le montant de TVA sur prestations à soi-même est correctement ajusté dans le décompte de TVA afin de refléter la correction dans la déclaration fiscale.",
+            "Vous ignorez l'erreur et soumettez le décompte de TVA tel quel, en espérant qu'elle ne sera pas remarquée.",
+            "Vous transférez directement le solde du compte 'TVA sur prestations à soi-même' dans le compte 'Décompte TVA' sans effectuer de correction préalable."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Pour rectifier une erreur liée au compte 'TVA sur prestations à soi-même', il est essentiel de comptabiliser correctement le prélèvement effectué par le propriétaire. Cela implique de créditer le compte 'TVA sur prestations à soi-même' pour refléter la TVA due et de débiter le compte 'Privé' pour enregistrer l'utilisation personnelle des marchandises. Ensuite, il est crucial de vérifier que cette correction est bien intégrée dans le décompte de TVA afin de garantir la conformité fiscale et éviter des pénalités. Ignorer l'erreur ou transférer directement les soldes sans correction pourrait entraîner des incohérences dans la déclaration fiscale."
+    }
+]

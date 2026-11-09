@@ -1,0 +1,814 @@
+[
+    {
+        "question": "1.1.1. Quels sont les principaux buts poursuivis par la LRDBHD ?",
+        "answers": [
+            "Régler les conditions d'exploitation des entreprises concernées",
+            "Développer la vie sociale et culturelle et sa diversité",
+            "Assurer une protection optimale des consommateurs et des travailleurs, notamment par la formation des exploitants",
+            "Encourager la discrimination dans les entreprises",
+            "Réglementer l'attribution des autorisations de construire des établissements",
+            "Fixer les prix pratiqués par les établissements"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "La LRDBHD a principalement pour buts de réglementer les conditions d'exploitation des entreprises concernées, d'assurer une cohabitation harmonieuse avec les riverains et de préserver l'ordre public, notamment la tranquillité, la santé, la sécurité et la moralité publiques. Elle vise également à développer la vie sociale et culturelle, à garantir des conditions commerciales loyales, à sensibiliser les exploitants aux produits du terroir genevois et à leurs modes d'approvisionnement, ainsi qu'à assurer une protection optimale des consommateurs et des travailleurs, notamment par la formation des exploitants."
+    },
+    {
+        "question": "1.1.2. Quelles compétences relèvent des communes selon la LRDBHD ?",
+        "answers": [
+            "Autoriser les événements de divertissement public sur le territoire communal",
+            "Autoriser l'exploitation des terrasses",
+            "Réguler les entreprises d'importance cantonale",
+            "Contrôler les buvettes permanentes"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "La commune est responsable de l'autorisation des événements de divertissement public. La commune autorise également l'exploitation des terrasses."
+    },
+    {
+        "question": "1.1.3. Qu'est-ce qu'une discrimination indirecte ?",
+        "answers": [
+            "Une discrimination fondée sur des caractéristiques personnelles qui paraissent neutres, mais néanmoins induisent des discriminations",
+            "Une discrimination qui entraîne un refus de prestation",
+            "Une discrimination autorisée par la loi",
+            "Une discrimination basée sur des nécessités objectives"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Toute discrimination directe ou indirecte dans l'accès aux prestations fondée sur une caractéristique personnelle [...] et qui entraîne un refus de prester est interdite."
+    },
+    {
+        "question": "1.1.4. Quels types d'événements sont considérés comme d'importance cantonale ?",
+        "answers": [
+            "Les événements transfrontaliers",
+            "Les événements ayant un impact socioculturel sur plusieurs communes",
+            "Les événements organisés uniquement dans une commune",
+            "Les événements de divertissement public en salle",
+            "Les événements qui touchent également un autre canton que Genève"
+        ],
+        "correct": [
+            0,
+            1,
+            4
+        ],
+        "explanation": "Événements d'importance cantonale : Les événements de divertissement public, dont l'emprise géographique ou l'impact socioculturel touche plusieurs communes, l'ensemble du canton ou plusieurs cantons ou encore qui sont transfrontaliers."
+    },
+    {
+        "question": "1.1.5. Qu'est-ce qu'un prête-nom selon la LRDBHD ?",
+        "answers": [
+            "Une personne titulaire d'un diplôme qui n'exerce pas effectivement les tâches dans l'établissement",
+            "Un comportement prohibé par la loi",
+            "Une personne responsable de la buvette d'événements",
+            "Une personne désignée par le propriétaire pour gérer l'entreprise"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Prête-nom : Comportement prohibé où une personne titulaire d'un diplôme n'exerce pas effectivement les tâches."
+    },
+    {
+        "question": "1.1.6. Vrai ou Faux : La LRDBHD interdit toute forme de discrimination dans l'accès aux prestations des entreprises.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Toute discrimination directe ou indirecte dans l'accès aux prestations fondée sur une caractéristique personnelle [...] est interdite."
+    },
+    {
+        "question": "1.1.7. Vrai ou Faux : Les producteurs du canton vendant exclusivement leur production de boissons issues de récoltes genevoises sont soumis à la LRDBHD.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "Les producteurs du canton qui vendent exclusivement leur production de boissons fermentées ou non alcooliques issues de récoltes genevoises ne sont pas soumis à la présente loi."
+    },
+    {
+        "question": "1.1.8. Vous êtes exploitant d'un café-restaurant et vous recevez une plainte d'un riverain concernant le bruit excessif provenant de votre terrasse en soirée. Le riverain menace de signaler votre établissement aux autorités si aucune action n'est prise. Comment gérez-vous cette situation ?",
+        "answers": [
+            "Vous proposez de limiter les horaires d'utilisation de la terrasse en soirée pour réduire les nuisances sonores.",
+            "Vous contactez le riverain pour discuter de ses préoccupations et trouver une solution adaptée.",
+            "Vous ignorez la plainte, car votre terrasse est autorisée par la commune.",
+            "Vous demandez au riverain de prouver que le bruit provient de votre établissement avant d'agir."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "En tant qu'exploitant, il est essentiel de favoriser une cohabitation harmonieuse avec les riverains, comme stipulé par la loi. Ignorer la plainte ou demander des preuves pourrait aggraver la situation. Proposer des mesures concrètes et engager un dialogue constructif montre votre volonté de respecter la tranquillité publique et de maintenir de bonnes relations avec la communauté locale."
+    },
+    {
+        "question": "1.2.1. Quelle catégorie d'entreprise est gérée par des associations, souvent à but non lucratif ?",
+        "answers": [
+            "Buvettes associatives",
+            "Cafés-restaurants et bars",
+            "Dancings et cabarets-dancings",
+            "Hôtels et autres établissements d'hébergement"
+        ],
+        "correct": 0,
+        "explanation": "Les buvettes associatives sont des établissements gérés par des associations, souvent à but non lucratif."
+    },
+    {
+        "question": "1.2.2. Quels sont les horaires d'ouverture maximaux des dancings et cabarets-dancings ?",
+        "answers": [
+            "Tous les jours de 15 h à 8 h",
+            "Tous les jours de 6 h à 1 h",
+            "Tous les jours de 6 h à 2 h",
+            "Tous les jours de 8 h à 15 h"
+        ],
+        "correct": 0,
+        "explanation": "Les dancings et cabarets-dancings peuvent être ouverts tous les jours de 15 h à 8 h."
+    },
+    {
+        "question": "1.2.3. Quels critères doivent être respectés pour obtenir une dérogation aux horaires d'exploitation ?",
+        "answers": [
+            "Protection de l'environnement",
+            "Respect de la tranquillité et de la santé publiques",
+            "Protection des travailleurs",
+            "Augmentation des profits commerciaux",
+            "Accord de tous les voisins"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les dérogations doivent respecter certaines conditions, notamment : compatibilité avec la protection de l'environnement, respect de la tranquillité et de la santé publiques, et protection des travailleurs."
+    },
+    {
+        "question": "1.2.4. Quels établissements peuvent demander une dérogation pour ouvrir dès 4 h tous les jours ?",
+        "answers": [
+            "Cafés-restaurants et bars",
+            "Dancings et cabarets-dancings",
+            "Buvettes associatives",
+            "Hôtels et autres établissements d'hébergement"
+        ],
+        "correct": 0,
+        "explanation": "Sur demande de l'exploitant propriétaire de l'établissement, le département peut accorder aux cafés-restaurants et bars un horaire d'exploitation dérogatoire dès 4 h, tous les jours de la semaine."
+    },
+    {
+        "question": "1.2.5. Quels établissements sont soumis à des horaires fixés au cas par cas par le département ?",
+        "answers": [
+            "Buvettes permanentes",
+            "Buvettes permanentes de service restreint",
+            "Buvettes associatives",
+            "Dancings et cabarets-dancings"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les buvettes permanentes, les buvettes permanentes de service restreint et les buvettes associatives sont soumises à un horaire fixé de cas en cas par le département."
+    },
+    {
+        "question": "1.2.6. Quels jours les cafés-restaurants et bars peuvent-ils rester ouverts jusqu'à 2 h ?",
+        "answers": [
+            "Les veilles de jours fériés",
+            "Les soirées du jeudi, vendredi et samedi",
+            "Les soirées du lundi et mardi",
+            "Les matinées du dimanche"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les cafés-restaurants et bars peuvent être ouverts tous les jours de 6 h à 1 h, et jusqu'à 2 h les veilles de jours fériés et les soirées du jeudi, vendredi, samedi."
+    },
+    {
+        "question": "1.2.7. Vrai ou Faux : Le Conseil d'État est responsable de définir les caractéristiques spécifiques à chaque catégorie d'entreprise.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Le Conseil d'État est responsable de définir les caractéristiques spécifiques à chaque catégorie d'entreprise."
+    },
+    {
+        "question": "1.2.8. Vous êtes propriétaire d'un café-restaurant et vous souhaitez organiser une soirée spéciale un vendredi soir qui pourrait se prolonger au-delà des horaires d'exploitation habituels. Quelle démarche devez-vous entreprendre pour respecter la législation en vigueur ?",
+        "answers": [
+            "Faire une demande de dérogation auprès du département pour prolonger les horaires jusqu'à 4 h.",
+            "S'assurer que l'événement respecte la tranquillité publique, la santé publique, la protection de l'environnement et des travailleurs.",
+            "Prolonger les horaires sans autorisation, car c'est une soirée exceptionnelle.",
+            "Informer uniquement les voisins de l'événement sans demander de dérogation."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Pour organiser une soirée spéciale qui dépasse les horaires d'exploitation habituels, il est impératif de faire une demande de dérogation auprès du département. Cette demande doit respecter les conditions fixées par le Conseil d'État, notamment en matière de protection de l'environnement, de tranquillité publique, de santé publique et de protection des travailleurs. Prolonger les horaires sans autorisation ou simplement informer les voisins ne suffit pas et pourrait entraîner des sanctions."
+    },
+    {
+        "question": "1.2.9. Quelles activités sont exclues de l'application de la LRDBHD ?",
+        "answers": [
+            "Les établissements scolaires ou éducatifs",
+            "Les maisons et foyers d'accueil pour enfants et adolescents",
+            "Les établissements de détention",
+            "Les cafés-restaurants",
+            "Les campings",
+            "Les buvettes permanentes"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": ""
+    },
+    {
+        "question": "1.2.10. Qu'est-ce qu'une buvette associative selon la LRDBHD ?",
+        "answers": [
+            "Une buvette exploitée par les membres d'une entité libérée de la taxe sur la valeur ajoutée",
+            "Une buvette associative peut proposer des plats du jour",
+            "Une buvette exploitée uniquement lors d'événements cantonaux",
+            "Une buvette qui ne propose que des boissons alcoolisées"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": ""
+    },
+    {
+        "question": "1.3.1. Quelle exploitation nécessite une autorisation préalable ?",
+        "answers": [
+            "Restauration",
+            "Débit de boissons",
+            "Hébergement",
+            "Entreprises de transport",
+            "Entreprises de construction",
+            "Bar dans un cinéma",
+            "Buvette temporaire lors d'une manifestation",
+            "Cafétéria de fitness"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            5,
+            6,
+            7
+        ],
+        "explanation": "L'exploitation de toute entreprise vouée à la restauration, au débit de boissons et à l'hébergement est soumise à l'obtention préalable d'une autorisation d'exploiter délivrée par le département."
+    },
+    {
+        "question": "1.3.2. Dans quel cas une autorisation temporaire peut-elle être délivrée ?",
+        "answers": [
+            "Décès de l'exploitant",
+            "Incapacité durable de l'exploitant",
+            "Non-paiement de la taxe annuelle",
+            "Non-utilisation des locaux pendant 12 mois"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "En cas de décès ou d'incapacité durable de l'exploitant, le département peut autoriser la poursuite de l'exploitation à titre précaire pour une durée d'un an, renouvelable."
+    },
+    {
+        "question": "1.3.3. Quelles conditions doivent être remplies par l'exploitant pour obtenir une autorisation ?",
+        "answers": [
+            "Être de nationalité suisse ou ressortissant d'un État ayant un accord sur la libre circulation des personnes",
+            "Avoir l'exercice des droits civils",
+            "Être titulaire d'un diplôme attestant de son aptitude à gérer une entreprise",
+            "Être propriétaire des locaux",
+            "Avoir un permis de conduire"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Pour obtenir l'autorisation d'exploiter, l'exploitant doit répondre aux conditions suivantes : être une personne physique de nationalité suisse ou ressortissante d'un État ayant un accord sur la libre circulation des personnes, avoir l'exercice des droits civils, être titulaire d'un diplôme attestant de son aptitude à gérer une entreprise soumise à la loi."
+    },
+    {
+        "question": "1.3.4. Quels éléments peuvent entraîner la caducité d'une autorisation d'exploiter ?",
+        "answers": [
+            "Renonciation écrite par le titulaire",
+            "Non-utilisation pendant 12 mois consécutifs",
+            "Décès du propriétaire",
+            "Non-respect des horaires d'exploitation"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "L'autorisation d'exploiter devient caduque dans les cas suivants : renonciation écrite par le titulaire, non-utilisation pendant 12 mois consécutifs."
+    },
+    {
+        "question": "1.3.5. Quelles conditions doivent être respectées par les locaux d'une entreprise ?",
+        "answers": [
+            "Ne pas troubler l'ordre public",
+            "Être conformes à la vocation de la catégorie d'entreprise",
+            "Contenir uniquement l'équipement autorisé",
+            "Être situés en zone industrielle",
+            "Être accessibles uniquement aux employés"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les locaux de l'entreprise doivent respecter certaines conditions : ne pas troubler l'ordre public, la sécurité, l'environnement et la tranquillité publique ; être conformes à la vocation de la catégorie d'entreprise et contenir uniquement l'équipement autorisé."
+    },
+    {
+        "question": "1.3.6. Quels critères doivent être remplis pour l'exploitation des terrasses ?",
+        "answers": [
+            "Respect des horaires d'exploitation",
+            "Accessibilité aux personnes handicapées sauf en cas de coûts disproportionnés",
+            "Présence obligatoire de caméras de surveillance",
+            "Fermeture obligatoire à 22h",
+            "Disposer de l'autorisation de la commune",
+            "Proposer une animation en terrasse"
+        ],
+        "correct": [
+            0,
+            1,
+            4
+        ],
+        "explanation": "Les communes fixent les conditions d'exploitation des terrasses, notamment : respect des horaires d'exploitation en fonction de la configuration des lieux et du voisinage ; les terrasses doivent être accessibles aux personnes handicapées, sauf si cela entraîne des coûts disproportionnés."
+    },
+    {
+        "question": "1.3.7. Quelles sont les caractéristiques du diplôme requis pour exploiter une entreprise ?",
+        "answers": [
+            "Strictement personnel",
+            "Intransmissible",
+            "Peut être utilisé comme prête-nom",
+            "Nécessite un renouvellement annuel"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Le diplôme est strictement personnel et intransmissible. Il est interdit de servir de prête-nom pour l'exploitation d'une entreprise."
+    },
+    {
+        "question": "1.3.8. Quelles sont les conditions pour qu'une autorisation soit délivrée ?",
+        "answers": [
+            "Préavis favorable des autorités compétentes",
+            "Respect des conditions d'exploitation",
+            "Paiement d'une taxe unique",
+            "Présence obligatoire d'un fumoir"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Toute demande d'autorisation doit être adressée au département, accompagnée des pièces nécessaires. Les préavis favorables ne doivent pas comporter des conditions ou des charges préalables à l'exploitation."
+    },
+    {
+        "question": "1.3.9. Vrai ou Faux : Les terrasses doivent obligatoirement être accessibles aux personnes handicapées, même si cela entraîne des coûts disproportionnés.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "Les terrasses doivent être accessibles aux personnes handicapées, sauf si cela entraîne des coûts disproportionnés."
+    },
+    {
+        "question": "1.3.10. Vrai ou Faux : Le diplôme requis pour exploiter une entreprise peut être utilisé comme prête-nom.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "Le diplôme est strictement personnel et intransmissible. Il est interdit de servir de prête-nom pour l'exploitation d'une entreprise."
+    },
+    {
+        "question": "1.3.11. Vous êtes propriétaire d'une entreprise de restauration et vous souhaitez obtenir une autorisation d'exploiter. Cependant, vous avez récemment reçu une notification indiquant que vous avez des retards dans le paiement des cotisations sociales. Que devez-vous faire pour garantir l'obtention de l'autorisation ?",
+        "answers": [
+            "Fournir une attestation officielle prouvant que les cotisations sociales ont été régularisées.",
+            "Signer un engagement auprès de l'office cantonal de l'inspection et des relations du travail pour respecter les conditions de travail en vigueur.",
+            "Ignorer la notification et continuer la procédure de demande d'autorisation.",
+            "Demander une dispense spéciale au département sans fournir de preuve de régularisation."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Pour obtenir l'autorisation d'exploiter, le propriétaire doit démontrer qu'il n'a pas de retard dans le paiement des cotisations sociales. En cas de non-respect des conditions de travail, il doit également signer un engagement auprès de l'office cantonal pour garantir le respect des normes en vigueur."
+    },
+    {
+        "question": "1.3.12. Vous êtes exploitant d'une entreprise de débit de boissons et vous avez récemment déménagé votre établissement dans un nouveau local. Vous n'avez pas encore demandé une nouvelle autorisation d'exploiter. Que devez-vous faire ?",
+        "answers": [
+            "Soumettre une demande d'autorisation d'exploiter au département en précisant le changement de lieu.",
+            "Fournir les pièces nécessaires, y compris l'accord du bailleur des nouveaux locaux.",
+            "Continuer à exploiter l'entreprise sans demander une nouvelle autorisation.",
+            "Informer uniquement la commune du changement de lieu sans soumettre de demande au département."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Tout changement de lieu d'une entreprise de restauration, de débit de boissons ou d'hébergement nécessite une nouvelle autorisation d'exploiter délivrée par le département. Il est également obligatoire de fournir les documents nécessaires, comme l'accord du bailleur des locaux."
+    },
+    {
+        "question": "1.3.13. Vous êtes employé expérimenté dans une entreprise de restauration dont l'exploitant est décédé. Le propriétaire vous propose de reprendre temporairement l'exploitation. Quelles sont les conditions que vous devez remplir pour obtenir une autorisation à titre précaire ?",
+        "answers": [
+            "Remplir les conditions relatives à la nationalité et aux droits civils.",
+            "Offrir des garanties d'une exploitation personnelle et effective de l'entreprise.",
+            "Être titulaire d'un diplôme partiel uniquement.",
+            "Ignorer les conditions prévues par la loi et commencer l'exploitation immédiatement."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "En cas de décès de l'exploitant, une autorisation à titre précaire peut être accordée à un employé expérimenté, à condition qu'il remplisse les critères de nationalité, de droits civils, et qu'il offre des garanties d'une exploitation personnelle et effective. Le diplôme partiel n'est pas suffisant dans ce cas."
+    },
+    {
+        "question": "1.4.1. Quelle est la durée minimale de présence requise pour un exploitant dans son établissement ?",
+        "answers": [
+            "15 heures par semaine",
+            "10 heures par semaine",
+            "20 heures par semaine",
+            "5 heures par semaine"
+        ],
+        "correct": 0,
+        "explanation": "L'exploitant doit être présent au moins 15 heures par semaine, incluant les heures d'exploitation à risque."
+    },
+    {
+        "question": "1.4.2. Que doit faire un exploitant en cas d'absence prolongée de moins de trois mois ?",
+        "answers": [
+            "Désigner un remplaçant compétent",
+            "Fermer temporairement l'établissement",
+            "Informer uniquement les clients",
+            "Ignorer cette obligation"
+        ],
+        "correct": 0,
+        "explanation": "En cas d'absence, l'exploitant doit désigner un remplaçant compétent, qui assumera également la responsabilité de l'exploitation."
+    },
+    {
+        "question": "1.4.3. Quels éléments doivent être affichés sur la porte d'entrée d'un établissement ?",
+        "answers": [
+            "Le nom de l'établissement",
+            "La catégorie de l'établissement",
+            "Le nom du propriétaire et de l'exploitant",
+            "Les prix des boissons alcooliques",
+            "Les horaires d'ouverture"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Le nom de l'établissement, la catégorie à laquelle il appartient ainsi que le nom du propriétaire et celui de l'exploitant, doivent être exposés, à la vue du client, sur la porte d'entrée de l'établissement."
+    },
+    {
+        "question": "1.4.4. Quelle est la quantité minimale de boissons sans alcool, moins chères que toute boisson alcoolisée, que les établissements doivent proposer ?",
+        "answers": [
+            "2,5 dl par verre ou bouteille",
+            "1 dl par verre",
+            "5 dl par bouteille",
+            "3 dl par verre"
+        ],
+        "correct": 0,
+        "explanation": "Les entreprises dans lesquelles des boissons alcooliques sont servies doivent offrir, en bouteille ou en verre contenant une quantité minimale de 2,5 dl, un choix d'au moins 3 boissons sans alcool."
+    },
+    {
+        "question": "1.4.5. Dans quelles conditions un exploitant peut-il limiter le service de mets ?",
+        "answers": [
+            "À certaines heures",
+            "En fonction de l'âge des clients",
+            "En fonction du style vestimentaire des clients",
+            "En fonction de la météo"
+        ],
+        "correct": 0,
+        "explanation": "L'exploitant est libre de limiter le service de mets à certaines heures."
+    },
+    {
+        "question": "1.4.6. Quelles boissons alcooliques sont interdites à la vente aux mineurs de moins de 16 ans ?",
+        "answers": [
+            "Les boissons fermentées",
+            "Les boissons distillées",
+            "Les boissons sans alcool",
+            "Les boissons énergétiques"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": ""
+    },
+    {
+        "question": "1.4.7. Quelles boissons alcooliques sont interdites à la vente aux mineurs de 16 à 18 ans ?",
+        "answers": [
+            "Les boissons fermentées",
+            "Les boissons distillées",
+            "Les boissons sans alcool",
+            "Les boissons énergétiques"
+        ],
+        "correct": 1,
+        "explanation": ""
+    },
+    {
+        "question": "1.4.8. Quels établissements sont soumis à des restrictions d'accès selon l'âge ?",
+        "answers": [
+            "Dancings",
+            "Cabarets-dancings",
+            "Bars",
+            "Cinémas",
+            "Théâtres"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les mineurs de moins de 16 ans ne peuvent pas être admis dans certains lieux après 24 heures, sauf s'ils sont accompagnés d'un adulte. Les lieux culturels tels que cinémas et théâtres ne sont pas soumis à ces restrictions."
+    },
+    {
+        "question": "1.4.9. Quelles sont les obligations des établissements d'hébergement concernant l'enregistrement des clients ?",
+        "answers": [
+            "Collecter les informations des clients",
+            "Transmettre les données quotidiennement aux services de police",
+            "Conserver les données jusqu'à la fin du mois de janvier suivant l'année en cours",
+            "Informer les clients des prix des chambres",
+            "Fournir des repas gratuits aux clients"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les exploitants doivent enregistrer les informations concernant l'identité des clients, transmettre les données quotidiennement aux services de police si l'enregistrement est effectué électroniquement, et conserver les données jusqu'à la fin du mois de janvier suivant l'année en cours."
+    },
+    {
+        "question": "1.4.10. Quels types d'animations nécessitent une autorisation préalable ?",
+        "answers": [
+            "Concerts",
+            "Spectacles de danse",
+            "Transmissions télévisées",
+            "Réunions privées"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les activités d'animation dans les établissements de restauration et d'hébergement nécessitent une autorisation préalable, incluant des événements tels que des concerts, des spectacles de danse ou des transmissions télévisées."
+    },
+    {
+        "question": "1.4.11. Quels établissements sont considérés comme des lieux de divertissement public ?",
+        "answers": [
+            "Casinos",
+            "Salons de billards",
+            "Aqua-parcs",
+            "Cinémas",
+            "Théâtres"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les salons de jeux, tels que casinos, salons de billards, cybercafés, bowlings, laser-game, ainsi que les lieux de récréation pour familles en espace clos, sont considérés comme des établissements de divertissement public. Les lieux culturels tels que cinémas et théâtres ne le sont pas."
+    },
+    {
+        "question": "1.4.12. Vrai ou Faux : Les prix des boissons alcooliques doivent être affichés à l'extérieur de l'établissement.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "Les prix nets de tous les mets et boissons sans alcool doivent être affichés par l'exploitant sur la devanture de l'établissement, mais pas les prix des boissons alcooliques."
+    },
+    {
+        "question": "1.4.13. Vrai ou Faux : La prostitution est autorisée dans les établissements d'hébergement sous certaines conditions.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "La prostitution est strictement interdite dans les entreprises vouées à la restauration, au débit de boissons, dans les établissements de divertissement public ainsi que dans les établissements d'hébergement."
+    },
+    {
+        "question": "1.4.14. Vrai ou Faux : Les exploitants doivent collaborer avec les autorités pour garantir la sécurité des mineurs.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les exploitants doivent collaborer avec les autorités locales pour garantir la sécurité des mineurs et prévenir les comportements à risque."
+    },
+    {
+        "question": "1.4.15. Un client en état d'ébriété insiste pour commander une boisson alcoolique dans votre établissement. Quelle est la meilleure façon de gérer cette situation ?",
+        "answers": [
+            "Refuser de servir la boisson alcoolique et proposer une boisson sans alcool à la place.",
+            "Servir la boisson alcoolique pour éviter un conflit avec le client.",
+            "Ignorer l'état du client et continuer à le servir comme d'habitude.",
+            "Demander au client de quitter l'établissement immédiatement sans explication."
+        ],
+        "correct": 0,
+        "explanation": "Il est interdit de servir des boissons alcooliques à des personnes en état d'ébriété. L'exploitant et son personnel doivent veiller à respecter cette règle pour protéger la santé publique et éviter tout comportement délictuel. Proposer une alternative, comme une boisson sans alcool, est une solution appropriée et conforme à la réglementation."
+    },
+    {
+        "question": "1.4.16. Lors d'un contrôle de routine, les autorités demandent à accéder au registre contenant les autorisations en vigueur dans votre établissement. Que devez-vous faire ?",
+        "answers": [
+            "Fournir immédiatement l'accès au registre et aux documents demandés.",
+            "Refuser l'accès au registre en invoquant la confidentialité des informations.",
+            "Informer les autorités que le registre est conservé à votre domicile et non dans l'établissement.",
+            "Demander aux autorités de revenir à un autre moment car vous êtes occupé."
+        ],
+        "correct": 0,
+        "explanation": "L'exploitant doit conserver le registre contenant les autorisations en vigueur au sein de l'établissement et le rendre accessible en tout temps aux autorités. Refuser l'accès ou ne pas avoir le registre sur place constitue une infraction aux obligations légales de contrôle."
+    },
+    {
+        "question": "1.4.17. Création et utilisation des terrasses : quelles affirmations sont correctes ?",
+        "answers": [
+            "La commune gère l'autorisation des terrasses",
+            "La direction délivre l'autorisation",
+            "L'accès de la terrasse par les personnes à mobilité réduite doit être garanti",
+            "Si la terrasse est située sur un domaine privé, il n'a pas besoin d'autorisation",
+            "L'autorité peut imposer un horaire différent pour la terrasse (pour autant qu'il ne dépasse pas celui de l'autorisation principale)"
+        ],
+        "correct": [
+            0,
+            4
+        ],
+        "explanation": "La commune du lieu de situation de l'entreprise est compétente pour autoriser l'exploitation des terrasses. Si la terrasse est située sur domaine privé, l'accord du propriétaire du terrain est également nécessaire. Les communes fixent les conditions d'exploitation propres à chaque terrasse, notamment les horaires, en tenant compte de la configuration des lieux, de la proximité et du type de voisinage, ainsi que de tout autre élément pertinent. L'horaire d'exploitation doit respecter les limites prévues par l'autorisation relative à l'entreprise, sans toutefois dépasser l'horaire maximal."
+    },
+    {
+        "question": "1.5.1. Quelle autorité est principalement responsable des mesures et sanctions administratives ?",
+        "answers": [
+            "Le département",
+            "La police municipale",
+            "La chambre administrative",
+            "Le propriétaire de l'entreprise"
+        ],
+        "correct": 0,
+        "explanation": "Le département est l'autorité principale chargée de décider des mesures et sanctions administratives."
+    },
+    {
+        "question": "1.5.2. Quelle est la durée maximale de fermeture d'une entreprise pour perturbation grave de l'ordre public ?",
+        "answers": [
+            "4 mois",
+            "10 jours",
+            "6 mois",
+            "1 an"
+        ],
+        "correct": 0,
+        "explanation": "La fermeture peut durer jusqu'à 10 jours, avec possibilité de prolongation jusqu'à 4 mois."
+    },
+    {
+        "question": "1.5.3. Quelles infractions sont considérées comme graves ?",
+        "answers": [
+            "Non-respect des horaires d'ouverture",
+            "Vente d'alcool sans autorisation",
+            "Animations organisées sans autorisation",
+            "Retard dans le paiement des factures",
+            "Non-respect des dispositions légales sur le travail",
+            "Non-paiement des cotisations sociales",
+            "Inconvénients engendrés pour le voisinage"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            4,
+            5,
+            6
+        ],
+        "explanation": "Sont notamment considérées comme graves les infractions aux dispositions de la présente loi relatives aux horaires d'ouverture et à la vente d'alcool, à la législation sur le travail et aux assurances sociales, les inconvénients engendrés pour le voisinage, ainsi que les animations organisées sans autorisation (Art. 63 alinéa 3 LRDBHD)."
+    },
+    {
+        "question": "1.5.4. Quel est le montant maximal d'une amende administrative pour une infraction grave ?",
+        "answers": [
+            "60'000 francs",
+            "1'000 francs",
+            "30'000 francs",
+            "100'000 francs"
+        ],
+        "correct": 0,
+        "explanation": "Les amendes administratives pour infractions graves peuvent aller jusqu'à 60'000 francs."
+    },
+    {
+        "question": "1.5.5. Quel délai est accordé à un exploitant pour prouver qu'il a suivi une formation complémentaire ?",
+        "answers": [
+            "1 an",
+            "6 mois",
+            "2 ans",
+            "30 jours"
+        ],
+        "correct": 0,
+        "explanation": "L'exploitant a un délai d'un an pour prouver qu'il a suivi la formation avec succès."
+    },
+    {
+        "question": "1.5.6. Que se passe-t-il si une entreprise exerce sans autorisation ?",
+        "answers": [
+            "Fermeture immédiate avec apposition de scellés",
+            "Suspension de l'autorisation d'exploiter",
+            "Amende de 60'000 francs",
+            "Aucune sanction",
+            "Obligation d'embaucher immédiatement un exploitant diplômé"
+        ],
+        "correct": 0,
+        "explanation": "Le département intime l'ordre de cesser immédiatement l'exploitation de toute entreprise exploitée sans autorisation en vigueur."
+    },
+    {
+        "question": "1.5.7. Quelle est la durée de suspension du diplôme en cas de violation de l'interdiction de prête-nom ?",
+        "answers": [
+            "36 mois",
+            "6 mois",
+            "12 mois",
+            "24 mois"
+        ],
+        "correct": 0,
+        "explanation": "Le département prononce la suspension, pour une durée de 36 mois, de la validité du diplôme dont le titulaire sert de prête-nom."
+    },
+    {
+        "question": "1.5.8. Quel est le délai pour introduire un recours contre une décision administrative ?",
+        "answers": [
+            "30 jours",
+            "15 jours",
+            "60 jours",
+            "90 jours"
+        ],
+        "correct": 0,
+        "explanation": "Le délai de recours contre les décisions du département est de 30 jours."
+    },
+    {
+        "question": "1.5.9. Quelles mesures peuvent être prises en cas de perturbation du voisinage ?",
+        "answers": [
+            "Restrictions sur les horaires d'exploitation",
+            "Modification de l'autorisation d'exploiter",
+            "Suspension de l'autorisation d'animation",
+            "Fermeture immédiate pour une durée de 10 ans"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Si l'infraction relève des règles en matière de protection de l'environnement, le département peut prononcer des restrictions, la modification de l'autorisation d'exploiter, ou la suspension de l'autorisation d'animation."
+    },
+    {
+        "question": "1.5.10. Vrai ou Faux : Une entreprise peut être fermée immédiatement en cas de perturbation grave de l'ordre public.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Un commissaire de police peut ordonner la fermeture immédiate de l'entreprise, avec apposition de scellés."
+    },
+    {
+        "question": "1.5.11. Vrai ou Faux : Les amendes administratives peuvent être cumulées avec d'autres sanctions.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les amendes peuvent être cumulées avec d'autres sanctions, augmentant ainsi le coût total pour l'entreprise en cas de non-conformité."
+    },
+    {
+        "question": "1.5.12. Vrai ou Faux : Les décisions administratives sont exécutoires même en cas de recours.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les décisions administratives sont exécutoires même en cas de recours, sauf indication contraire."
+    },
+    {
+        "question": "1.5.13. Vous êtes inspecteur au sein du département et vous découvrez qu'une entreprise exploite sans autorisation en vigueur. Malgré un ordre de cessation immédiate, l'exploitant continue ses activités. Quelle est la meilleure action à entreprendre ?",
+        "answers": [
+            "Procéder à la fermeture immédiate de l'entreprise avec apposition de scellés.",
+            "Infliger une amende administrative uniquement.",
+            "Attendre que l'exploitant se conforme à l'ordre de cessation avant d'agir.",
+            "Informer l'exploitant qu'il doit suivre une formation complémentaire avant toute autre mesure."
+        ],
+        "correct": 0,
+        "explanation": "En cas de défaut d'exécution spontanée après un ordre de cessation, le département doit procéder à la fermeture immédiate de l'entreprise avec apposition de scellés. Cette mesure garantit que l'exploitation illégale cesse immédiatement et prévient toute réitération de l'infraction."
+    },
+    {
+        "question": "1.5.14. Une entreprise provoque des perturbations graves de l'ordre public, notamment en matière de tranquillité et sécurité publiques. La police a ordonné une fermeture immédiate pour une durée de 10 jours. Que doit faire le département pour prolonger cette fermeture ?",
+        "answers": [
+            "Examiner la situation et, si nécessaire, prolonger la fermeture jusqu'à 4 mois.",
+            "Laisser la police gérer la situation sans intervention supplémentaire.",
+            "Infliger une amende administrative et rouvrir l'entreprise après 10 jours.",
+            "Exiger que l'exploitant suive une formation complémentaire avant toute autre mesure."
+        ],
+        "correct": 0,
+        "explanation": "Le département peut prolonger la fermeture jusqu'à 4 mois si les circonstances le justifient. Cette mesure est essentielle pour garantir la tranquillité, la santé et la sécurité publiques, tout en évitant une réitération des perturbations."
+    },
+    {
+        "question": "1.5.15. Un exploitant a été sanctionné pour non-respect des horaires d'ouverture et doit suivre une formation complémentaire. Il ne fournit pas la preuve de réussite dans le délai imparti d'un an. Quelle est la meilleure action à entreprendre ?",
+        "answers": [
+            "Prononcer la suspension ou le retrait de l'autorisation d'exploiter.",
+            "Accorder un délai supplémentaire à l'exploitant pour suivre la formation.",
+            "Infliger une amende administrative uniquement.",
+            "Permettre à l'exploitant de continuer ses activités sans restriction."
+        ],
+        "correct": 0,
+        "explanation": "Si l'exploitant ne respecte pas l'obligation de formation dans le délai imparti, le département peut prononcer la suspension ou le retrait de l'autorisation d'exploiter. Cette mesure vise à garantir que les exploitants respectent les normes en vigueur et évitent toute réitération des infractions."
+    }
+]

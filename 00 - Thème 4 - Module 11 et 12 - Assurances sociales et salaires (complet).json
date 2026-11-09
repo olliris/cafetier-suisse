@@ -1,0 +1,2038 @@
+[
+    {
+        "question": "11.1.0.1. Quelle est la date d'entrée en vigueur de la Convention Collective Nationale de travail (CCNT) pour le secteur de l'hôtellerie et de la restauration en Suisse ?",
+        "answers": [
+            "1er janvier 2017",
+            "31 décembre 2020",
+            "1er janvier 2020",
+            "1er janvier 2015"
+        ],
+        "correct": 0,
+        "explanation": "La Convention Collective Nationale de travail (CCNT) pour le secteur de l'hôtellerie et de la restauration en Suisse est entrée en vigueur le 1er janvier 2017."
+    },
+    {
+        "question": "11.1.0.2. Quels établissements sont concernés par la CCNT ?",
+        "answers": [
+            "Hôtels",
+            "Restaurants",
+            "Services de livraison de repas",
+            "Établissements hospitaliers",
+            "Cantines du personnel"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "La CCNT s'applique à l'ensemble des établissements d'hôtellerie et de restauration qui, à titre onéreux, hébergent des personnes ou servent des repas ou des boissons en vue de la consommation sur place en Suisse, y compris : Hôtels, Restaurants, Livraison de repas."
+    },
+    {
+        "question": "11.1.0.3. Quelle est la durée maximale du temps d'essai dans un contrat de travail selon la CCNT ?",
+        "answers": [
+            "3 mois",
+            "14 jours",
+            "6 mois",
+            "1 mois"
+        ],
+        "correct": 0,
+        "explanation": "La période standard est de 14 jours, mais elle peut être prolongée jusqu'à 3 mois si cela est convenu par écrit."
+    },
+    {
+        "question": "11.1.0.4. Quels types de contrats sont régis par la CCNT ?",
+        "answers": [
+            "Contrats à durée indéterminée",
+            "Contrats à durée déterminée",
+            "Contrats saisonniers uniquement",
+            "Contrats informels"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "La durée des contrats de travail dans le secteur de l'hôtellerie et de la restauration est régie par des règles précises : Contrats à durée indéterminée et Contrats à durée déterminée."
+    },
+    {
+        "question": "11.1.0.5. Quels travailleurs sont exclus de l'application de la CCNT ?",
+        "answers": [
+            "Membres de la famille des chefs d'établissement",
+            "Artistes",
+            "Élèves en formation",
+            "Serveurs dans les restaurants",
+            "Cuisiniers dans les hôtels"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Certaines entités et catégories de travailleurs sont exclues du champ d'application de la CCNT, notamment les chefs d'établissement, les membres de leur famille, ainsi que certains artistes et élèves en formation."
+    },
+    {
+        "question": "11.1.0.6. Quel est le délai de préavis pour un employé ayant moins de cinq ans d'ancienneté après la période d'essai ?",
+        "answers": [
+            "1 mois",
+            "2 mois",
+            "14 jours",
+            "3 jours"
+        ],
+        "correct": 0,
+        "explanation": "Après la période d'essai, un préavis d'un mois est requis pour les employés ayant moins de cinq ans d'ancienneté."
+    },
+    {
+        "question": "11.1.0.7. Quelles sont les conditions pour résilier un contrat saisonnier ?",
+        "answers": [
+            "Notification 14 jours avant la fin",
+            "Aucune condition",
+            "Notification 30 jours avant la fin",
+            "Résiliation à tout moment"
+        ],
+        "correct": 0,
+        "explanation": "Les employés sous contrat saisonnier doivent être informés de la fin de leur contrat au moins 14 jours avant le dernier jour de travail."
+    },
+    {
+        "question": "11.1.0.8. Dans quelles circonstances la résiliation d'un contrat est-elle interdite selon la CCNT ?",
+        "answers": [
+            "Pendant les vacances contractuelles",
+            "Pendant la période d'essai",
+            "Pendant les jours fériés",
+            "Pendant les week-ends"
+        ],
+        "correct": 0,
+        "explanation": "L'employeur ne peut pas résilier le contrat durant les vacances contractuelles de l'employé, ce qui protège les travailleurs pendant leurs périodes de repos."
+    },
+    {
+        "question": "11.1.0.9. Vrai ou Faux : La CCNT s'applique uniquement à certaines régions de Suisse.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "La convention est valable pour toute la Suisse, sans distinction de région."
+    },
+    {
+        "question": "11.1.0.10. Vrai ou Faux : Un contrat écrit est recommandé pour formaliser les engagements entre employeurs et employés dans le secteur de l'hôtellerie et de la restauration.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Il est recommandé d'établir le contrat par écrit avant le début de l'emploi, surtout pour les éléments essentiels comme le temps d'essai, la résiliation du contrat de durée déterminée, le paiement du salaire, etc."
+    },
+    {
+        "question": "11.1.0.11. Vous êtes responsable d'un restaurant en Suisse et vous devez embaucher un serveur pour la saison d'hiver. Le contrat que vous préparez ne mentionne pas de date de fin. Que devez-vous faire pour respecter les règles de la CCNT ?",
+        "answers": [
+            "Ajouter une date de fin précise au contrat pour éviter qu'il soit considéré comme non résiliable.",
+            "Ne pas mentionner de date de fin, car cela n'est pas obligatoire.",
+            "Indiquer que le contrat prendra fin à la discrétion de l'employeur.",
+            "Mentionner que le contrat est à durée indéterminée, même pour une saison."
+        ],
+        "correct": 0,
+        "explanation": "Selon la CCNT, les contrats saisonniers doivent clairement indiquer une date de début et une date de fin. Si la date de fin n'est pas spécifiée, le contrat est considéré comme non résiliable, ce qui peut poser des problèmes juridiques et organisationnels. Il est donc essentiel de préciser ces informations dans le contrat."
+    },
+    {
+        "question": "11.1.0.12. Un employé sous contrat saisonnier dans votre établissement vous informe qu'il n'a pas été prévenu de la fin de son contrat, qui est prévue dans 10 jours. Quelle est la meilleure action à entreprendre ?",
+        "answers": [
+            "Informer immédiatement l'employé de la fin de son contrat et lui fournir une explication claire.",
+            "Ne rien faire, car le contrat saisonnier se termine automatiquement.",
+            "Prolonger le contrat sans formalités pour éviter tout conflit.",
+            "Résilier le contrat immédiatement sans préavis."
+        ],
+        "correct": 0,
+        "explanation": "La CCNT exige que les employés sous contrat saisonnier soient informés de la fin de leur contrat au moins 14 jours avant la date de fin. Si cette notification n'a pas été faite, il est important de rectifier la situation en informant l'employé immédiatement et en lui expliquant les raisons de l'oubli, tout en respectant les règles établies."
+    },
+    {
+        "question": "11.1.1.1. Qu'est-ce que le salaire brut inclut ?",
+        "answers": [
+            "Toutes les rémunérations avant déductions",
+            "Les cotisations sociales",
+            "Les impôts",
+            "Les primes d'assurance"
+        ],
+        "correct": 0,
+        "explanation": "Le salaire brut inclut toutes les rémunérations avant toute déduction, telles que les cotisations sociales et les impôts."
+    },
+    {
+        "question": "11.1.1.2. Comment est calculé le salaire brut journalier ?",
+        "answers": [
+            "En divisant le salaire brut mensuel par 30",
+            "En divisant le salaire brut mensuel par 31",
+            "En utilisant le salaire brut moyen des 12 mois précédents",
+            "En fonction des heures travaillées"
+        ],
+        "correct": 0,
+        "explanation": "Le salaire brut mensuel est divisé par 30 pour obtenir le montant journalier."
+    },
+    {
+        "question": "11.1.1.3. Quels sont les types de systèmes de rémunération ?",
+        "answers": [
+            "Salaire fixe",
+            "Salaire horaire",
+            "Participation",
+            "Contributions spontanées de la clientèle"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les systèmes de rémunération incluent : Salaire fixe, Salaire horaire, Participation. Les contributions spontanées de la clientèle sont interdites."
+    },
+    {
+        "question": "11.1.1.4. Quel est le montant minimum du salaire brut pour un stagiaire en 2026 ?",
+        "answers": [
+            "CHF 2'390.-",
+            "CHF 2'385.-",
+            "CHF 3'706.-",
+            "CHF 4'062.-"
+        ],
+        "correct": 0,
+        "explanation": "Les stagiaires en formation ont droit à un salaire mensuel brut minimum de CHF 2'390.- à partir du 1er janvier 2026."
+    },
+    {
+        "question": "11.1.1.5. Quel est le pourcentage du salaire mensuel brut correspondant au 13e salaire versé chaque mois ?",
+        "answers": [
+            "8,33%",
+            "10%",
+            "100%",
+            "5%"
+        ],
+        "correct": 0,
+        "explanation": "S'il est versé chaque mois, le 13e salaire correspond à 8,33% du salaire."
+    },
+    {
+        "question": "11.1.1.6. Quels sont les éléments inclus dans les déductions autorisées ?",
+        "answers": [
+            "Cotisations sociales",
+            "Assurance chômage",
+            "Impôts à la source",
+            "Contributions spontanées de la clientèle"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les déductions autorisées incluent : cotisations sociales, assurance chômage, impôts à la source."
+    },
+    {
+        "question": "11.1.1.7. Quel est le délai de paiement du salaire ?",
+        "answers": [
+            "Au plus tard le dernier jour du mois",
+            "Le 6 du mois suivant",
+            "Le 27 du mois",
+            "À la fin du contrat"
+        ],
+        "correct": 0,
+        "explanation": "Le salaire doit être versé au plus tard le dernier jour du mois."
+    },
+    {
+        "question": "11.1.1.8. Vrai ou Faux : Les contributions spontanées de la clientèle peuvent être incluses dans le système de rémunération.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "Les systèmes de rémunération ne peuvent pas inclure des contributions spontanées de la clientèle, telles que des pourboires."
+    },
+    {
+        "question": "11.1.1.9. Vrai ou Faux : Les stagiaires doivent suivre une formation reconnue pour bénéficier du salaire minimum.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Pour bénéficier de ce salaire minimum, les stagiaires doivent suivre une formation reconnue."
+    },
+    {
+        "question": "11.1.1.10. Vrai ou Faux : Le 13e salaire est obligatoire et doit être payé à 100% du salaire brut.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Le collaborateur a droit à un 13e salaire correspondant à 100% d'un salaire mensuel brut."
+    },
+    {
+        "question": "11.1.1.11. Vous êtes responsable des ressources humaines dans une entreprise. Un employé vous informe qu'il n'a pas reçu son 13e salaire, bien qu'il ait travaillé toute l'année. Il est inquiet et demande des explications. Quelle est la meilleure façon de gérer cette situation ?",
+        "answers": [
+            "Vérifier si le 13e salaire a été calculé correctement en fonction du salaire mensuel brut moyen de l'employé.",
+            "Informer l'employé que le 13e salaire doit être payé au plus tard avec le salaire de décembre ou à la fin du contrat.",
+            "Expliquer à l'employé que le 13e salaire est facultatif et dépend de la décision de l'employeur.",
+            "Demander à l'employé de patienter jusqu'à l'année suivante pour recevoir son 13e salaire."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Le 13e salaire est obligatoire et correspond à 100% du salaire mensuel brut. Il doit être payé au prorata du temps travaillé en cas d'année incomplète, sauf départ pendant le temps d'essai. Le paiement doit intervenir au plus tard avec le salaire de décembre ou à la fin du contrat. Il est essentiel de vérifier les calculs et de respecter les délais légaux pour éviter tout litige."
+    },
+    {
+        "question": "11.1.1.12. Un stagiaire en formation dans votre entreprise vous informe qu'une déduction a été effectuée sur son salaire pour couvrir des frais liés à son école. Il est préoccupé et demande si cela est conforme. Quelle est la meilleure réponse à lui donner ?",
+        "answers": [
+            "Informer le stagiaire que les déductions en faveur de l'école sont strictement interdites et qu'il doit recevoir l'intégralité de son salaire brut.",
+            "Vérifier si le stagiaire bénéficie du salaire minimum brut de CHF 2'385.- (à partir de février 2025) ou CHF 2'390.- (à partir de janvier 2026).",
+            "Expliquer que les déductions pour l'école sont autorisées si elles sont mentionnées dans le contrat de travail.",
+            "Demander au stagiaire de discuter directement avec son école pour résoudre le problème."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les stagiaires en formation ont droit à un salaire brut minimum sans aucune déduction en faveur de leur école. Cela garantit qu'ils reçoivent l'intégralité de leur rémunération, conformément aux normes légales. Il est important de vérifier que le salaire minimum est respecté et de corriger toute erreur de déduction immédiatement."
+    },
+    {
+        "question": "11.1.1.13. Un employé vous informe qu'il a remarqué une erreur dans son décompte de salaire mensuel. Il pense que certaines déductions ne sont pas conformes. Comment devez-vous réagir ?",
+        "answers": [
+            "Examiner le décompte de salaire pour vérifier que toutes les déductions sont autorisées, telles que les cotisations sociales, l'assurance chômage et les impôts à la source.",
+            "Expliquer à l'employé que les déductions doivent être effectuées dans un délai de deux mois, sinon elles deviennent caduques.",
+            "Informer l'employé que toutes les déductions sont à la discrétion de l'employeur.",
+            "Ignorer la demande de l'employé et lui demander de consulter un avocat pour résoudre le problème."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les déductions autorisées incluent les cotisations sociales, l'assurance chômage, les impôts à la source, et d'autres déductions spécifiques comme les primes d'assurance ou les avances sur salaire. Ces déductions doivent être effectuées dans un délai de deux mois. Il est essentiel de fournir un décompte de salaire détaillé chaque mois pour garantir la transparence et éviter tout litige."
+    },
+    {
+        "question": "11.1.2.1. Quelle est la durée maximale hebdomadaire de travail pour les petits établissements ?",
+        "answers": [
+            "45 heures par semaine",
+            "42 heures par semaine",
+            "43,5 heures par semaine",
+            "40 heures par semaine"
+        ],
+        "correct": 0,
+        "explanation": "La durée maximale hebdomadaire de travail [...] est de 45 heures par semaine pour les petits établissements."
+    },
+    {
+        "question": "11.1.2.2. Dans quel cas le temps de repas est-il considéré comme du temps de travail ?",
+        "answers": [
+            "Si le collaborateur reste à la disposition de l'employeur pendant ce temps",
+            "Si le repas dure plus de 30 minutes",
+            "Si le collaborateur mange sur son lieu de travail",
+            "Si le collaborateur travaille dans un établissement saisonnier"
+        ],
+        "correct": 0,
+        "explanation": "Le temps de repas n'est pas inclus dans cette durée, sauf si le collaborateur reste à la disposition de l'employeur pendant ce temps."
+    },
+    {
+        "question": "11.1.2.3. À quel taux les heures supplémentaires doivent-elles être rémunérées si l'entreprise respecte les règles d'enregistrement du temps de travail ?",
+        "answers": [
+            "100% du salaire brut",
+            "125% du salaire brut",
+            "75% du salaire brut",
+            "50% du salaire brut"
+        ],
+        "correct": 0,
+        "explanation": "Les heures supplémentaires doivent être payées à 100% du salaire brut si l'entreprise enregistre la durée du travail conformément aux règles."
+    },
+    {
+        "question": "11.1.2.4. Combien de jours de repos hebdomadaires un collaborateur a-t-il droit ?",
+        "answers": [
+            "2 jours",
+            "1 jour",
+            "3 jours",
+            "1,5 jour"
+        ],
+        "correct": 0,
+        "explanation": "Chaque collaborateur a droit à deux jours de repos hebdomadaires."
+    },
+    {
+        "question": "11.1.2.5. Combien de semaines de vacances annuelles un collaborateur a-t-il droit ?",
+        "answers": [
+            "5 semaines",
+            "4 semaines",
+            "6 semaines",
+            "3 semaines"
+        ],
+        "correct": 0,
+        "explanation": "Chaque collaborateur a droit à 5 semaines de vacances par an."
+    },
+    {
+        "question": "11.1.2.6. Combien de jours fériés payés un collaborateur a-t-il droit par an ?",
+        "answers": [
+            "6 jours",
+            "5 jours",
+            "7 jours",
+            "4 jours"
+        ],
+        "correct": 0,
+        "explanation": "Chaque collaborateur a droit à 6 jours fériés payés par an."
+    },
+    {
+        "question": "11.1.2.7. Combien de jours de congé payés un collaborateur peut-il obtenir pour un mariage ?",
+        "answers": [
+            "3 jours",
+            "2 jours",
+            "1 jour",
+            "4 jours"
+        ],
+        "correct": 0,
+        "explanation": "Les collaborateurs ont droit à des congés payés pour des événements familiaux, tels que : Mariage : 3 jours."
+    },
+    {
+        "question": "11.1.2.8. Combien de jours de congé payés un collaborateur peut-il obtenir pour un déménagement local ?",
+        "answers": [
+            "1 jour",
+            "2 jours",
+            "3 jours",
+            "Aucun jour"
+        ],
+        "correct": 0,
+        "explanation": "Déménagement : 1 jour pour un déménagement local."
+    },
+    {
+        "question": "11.1.2.9. Vrai ou Faux : Les jours de repos doivent être fixés au moins deux semaines à l'avance dans les établissements ouverts toute l'année.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les jours de repos doivent être fixés avec un préavis d'au moins deux semaines pour les établissements ouverts toute l'année."
+    },
+    {
+        "question": "11.1.2.10. Vrai ou Faux : Les heures supplémentaires doivent être rémunérées à 125% si l'entreprise ne respecte pas les règles d'enregistrement du temps de travail.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Si l'entreprise ne respecte pas les conditions ci-dessus, les heures supplémentaires doivent être payées à 125% du salaire brut."
+    },
+    {
+        "question": "11.1.2.11. Vous êtes responsable des ressources humaines dans une entreprise ouverte toute l'année. Un collaborateur vous informe qu'il n'a pas pu prendre ses deux jours de repos hebdomadaires consécutifs en raison d'une surcharge de travail. Il vous demande comment ces jours de repos seront compensés. Quelle est la meilleure réponse à lui donner ?",
+        "answers": [
+            "Les jours de repos non pris doivent être compensés dans un délai de 4 semaines.",
+            "Si la compensation n'est pas possible dans ce délai, les jours non pris doivent être payés à la fin des rapports de travail.",
+            "Les jours de repos non pris ne peuvent pas être compensés et sont perdus.",
+            "Les jours de repos non pris peuvent être reportés indéfiniment, sans limite de temps."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les jours de repos non pris doivent être compensés dans un délai de 4 semaines pour les établissements ouverts toute l'année. Si cette compensation n'est pas possible, ils doivent être payés à la fin des rapports de travail, chaque jour de repos non pris étant indemnisé par 1/22e du salaire mensuel brut."
+    },
+    {
+        "question": "11.1.2.12. Vous êtes manager dans un établissement saisonnier. Un collaborateur vous informe qu'il a effectué 210 heures supplémentaires ce mois-ci. L'entreprise n'a pas communiqué son solde d'heures supplémentaires par écrit ce mois-ci. Comment devez-vous gérer cette situation ?",
+        "answers": [
+            "Les heures supplémentaires doivent être payées à 125% du salaire brut, car l'entreprise n'a pas respecté l'obligation de communication mensuelle.",
+            "Les heures supplémentaires au-delà de 200 heures doivent être payées avec le prochain versement de salaire.",
+            "Les heures supplémentaires doivent être payées à 100% du salaire brut, car elles ont été effectuées en dehors de la durée maximale de travail.",
+            "Les heures supplémentaires ne sont pas payées, car elles dépassent le seuil de 200 heures."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les heures supplémentaires doivent être payées à 125% du salaire brut si l'entreprise ne respecte pas l'obligation de communiquer le solde d'heures supplémentaires chaque mois par écrit. De plus, si le solde d'heures supplémentaires dépasse 200 heures à la fin d'un mois, les heures excédentaires doivent être payées avec le prochain versement de salaire."
+    },
+    {
+        "question": "11.1.3.1. Quels sont les objectifs principaux du système d'assurances sociales en Suisse ?",
+        "answers": [
+            "Protection sociale",
+            "Prévention",
+            "Réhabilitation",
+            "Augmentation des salaires",
+            "Réduction des impôts"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Objectifs du système : Protection sociale : Assurer un minimum vital aux assurés en cas de perte de revenus due à des événements imprévus. Prévention : Promouvoir des mesures de prévention pour réduire les risques d'accidents et de maladies. Réhabilitation : Aider les assurés à retrouver une vie active et professionnelle après un accident ou une maladie."
+    },
+    {
+        "question": "11.1.3.2. Quel est le rôle de l'employeur en matière d'assurance indemnité journalière ?",
+        "answers": [
+            "Souscrire une assurance couvrant 80% du salaire brut pendant 720 jours",
+            "Partager les primes d'assurance avec l'employé",
+            "Verser 88% du salaire brut pendant un délai d'attente de 60 jours",
+            "Couvrir 100% du salaire brut pendant 900 jours",
+            "Refuser l'admission à l'assurance pour des raisons de santé"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "L'employeur est tenu de souscrire une assurance indemnité journalière au bénéfice du collaborateur pour la couverture de 80% du salaire brut pendant 720 jours dans un intervalle de 900 jours consécutifs. [...] Les primes d'assurance indemnité journalière sont partagées à parts égales entre l'employeur et le collaborateur."
+    },
+    {
+        "question": "11.1.3.3. Quelles assurances sont obligatoires pour les employeurs en Suisse ?",
+        "answers": [
+            "Assurance-accidents",
+            "Assurance indemnité journalière",
+            "Prévoyance professionnelle",
+            "Assurance automobile",
+            "Assurance habitation"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "L'employeur est tenu de souscrire à des assurances spécifiques, telles que l'assurance indemnité journalière et l'assurance-accidents, pour garantir la protection de ses employés. [...] L'employeur assure les collaborateurs selon les prescriptions légales sur la prévoyance professionnelle vieillesse, survivants et invalidité."
+    },
+    {
+        "question": "11.1.3.4. Quels sont les piliers du système d'assurances sociales en Suisse ?",
+        "answers": [
+            "Assurance vieillesse et survivants (AVS)",
+            "Assurance invalidité (AI)",
+            "Assurance chômage (AC)",
+            "Assurance maladie",
+            "Assurance automobile",
+            "Assurance habitation"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "explanation": "Les piliers incluent l'AVS, l'AI, l'AC, l'assurance maladie, et l'assurance accidents."
+    },
+    {
+        "question": "11.1.3.5. Quelles prestations minimales sont garanties par la prévoyance professionnelle ?",
+        "answers": [
+            "Rente d'invalidité de 40% du salaire coordonné",
+            "Rente de veuve/de veuf de 25% du salaire coordonné",
+            "Rente pour enfant de 10% du salaire coordonné",
+            "Rente d'invalidité de 60% du salaire coordonné",
+            "Rente de veuve/de veuf de 50% du salaire coordonné"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Prestations minimales : Rente d'invalidité : 40% du salaire coordonné. Rente de veuve/de veuf : 25% du salaire coordonné. Rente pour enfant : 10% du salaire coordonné."
+    },
+    {
+        "question": "11.1.3.6. Quelles sont les obligations des employés en cas d'absence pour maladie ou accident ?",
+        "answers": [
+            "Fournir un certificat médical à partir du quatrième jour d'absence",
+            "Présenter le certificat dans la semaine suivant son établissement",
+            "Fournir un certificat médical uniquement après 10 jours d'absence",
+            "Ne pas informer l'employeur"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Le collaborateur a l'obligation de fournir un certificat médical à partir du quatrième jour d'un empêchement de travailler. Ce certificat doit être présenté à l'employeur dans la semaine qui suit son établissement."
+    },
+    {
+        "question": "11.1.3.7. Comment sont partagées les cotisations pour l'assurance indemnité journalière ?",
+        "answers": [
+            "50% pour l'employeur et 50% pour l'employé",
+            "100% pour l'employeur",
+            "100% pour l'employé",
+            "75% pour l'employeur et 25% pour l'employé"
+        ],
+        "correct": 0,
+        "explanation": "Les primes d'assurance indemnité journalière sont partagées à parts égales entre l'employeur et le collaborateur."
+    },
+    {
+        "question": "11.1.3.8. Quelles sont les obligations de l'employeur en cas d'accident professionnel ?",
+        "answers": [
+            "Verser 88% du salaire brut pendant les deux premiers jours",
+            "Assurer tous les collaborateurs conformément à la loi fédérale sur l'assurance-accidents",
+            "Verser 100% du salaire brut pendant 30 jours",
+            "Ne pas souscrire d'assurance"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "L'employeur est tenu d'assurer tous les collaborateurs conformément à la loi fédérale sur l'assurance-accidents. [...] L'employeur est tenu de verser 88% du salaire mensuel brut pendant les 2 premiers jours après l'accident."
+    },
+    {
+        "question": "11.1.3.9. Vrai ou Faux : L'assurance maladie est obligatoire pour tous les résidents en Suisse.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Assurance maladie : Obligatoire pour tous les résidents, elle couvre les frais médicaux et hospitaliers."
+    },
+    {
+        "question": "11.1.3.10. Vrai ou Faux : L'employeur peut refuser d'assurer un employé pour des raisons de santé.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "L'admission dans l'assurance indemnité journalière ne peut être refusée pour raison de santé."
+    },
+    {
+        "question": "11.1.3.11. Vrai ou Faux : Les cotisations pour l'AVS sont partagées entre l'employeur et l'employé.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Assurance vieillesse et survivants (AVS) : Financé par des cotisations des travailleurs et des employeurs, ainsi que par des contributions de l'État."
+    },
+    {
+        "question": "11.1.3.12. Un collaborateur vous informe qu'il est en incapacité de travailler en raison d'une maladie. Il vous remet un certificat médical le cinquième jour suivant le début de son absence. Que devez-vous faire ?",
+        "answers": [
+            "Accepter le certificat médical et vérifier qu'il a été remis dans le délai d'une semaine suivant son établissement.",
+            "Transmettre le certificat médical à l'assurance pour le traitement des prestations.",
+            "Refuser le certificat médical car il aurait dû être remis dès le premier jour d'absence.",
+            "Exiger un nouveau certificat médical établi par un médecin de confiance sans raison valable."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Le collaborateur a l'obligation de fournir un certificat médical à partir du quatrième jour d'absence, et celui-ci doit être remis à l'employeur dans la semaine suivant son établissement. L'employeur doit ensuite transmettre ce certificat à l'assurance pour le traitement des prestations. Il est possible de demander un certificat d'un médecin de confiance, mais uniquement à vos frais et si vous avez des doutes sur la validité du certificat."
+    },
+    {
+        "question": "11.1.3.13. Un collaborateur subit un accident sur le trajet entre son domicile et son lieu de travail. Il est incapable de travailler pendant deux jours. Quelle est votre responsabilité en tant qu'employeur ?",
+        "answers": [
+            "Verser 88% du salaire brut du collaborateur pendant les deux premiers jours suivant l'accident.",
+            "Considérer cet accident comme un accident professionnel et appliquer les dispositions légales correspondantes.",
+            "Ne pas verser de salaire car l'accident s'est produit en dehors du lieu de travail.",
+            "Exiger que le collaborateur prenne des jours de congé pour couvrir son absence."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Un accident sur le trajet entre le domicile et le lieu de travail est considéré comme un accident professionnel. En tant qu'employeur, vous êtes tenu de verser 88% du salaire brut du collaborateur pendant les deux premiers jours suivant l'accident, conformément aux dispositions de la loi fédérale sur l'assurance-accidents."
+    },
+    {
+        "question": "11.1.3.14. Un collaborateur saisonnier vous informe qu'il souhaite prolonger son assurance maladie et accidents pendant l'intersaison. Quelle est votre responsabilité en tant qu'employeur ?",
+        "answers": [
+            "Informer le collaborateur de la possibilité de prolonger son assurance maladie et accidents, ainsi que sa prévoyance professionnelle durant l'intersaison.",
+            "Refuser de fournir des informations car le collaborateur n'est pas en période de travail.",
+            "Informer le collaborateur qu'il doit souscrire une nouvelle assurance par lui-même sans votre aide.",
+            "Ne pas répondre à la demande du collaborateur car cela ne relève pas de vos obligations."
+        ],
+        "correct": 0,
+        "explanation": "En tant qu'employeur, vous êtes tenu d'informer les collaborateurs saisonniers sur la possibilité de prolonger leur assurance maladie et accidents, ainsi que leur prévoyance professionnelle durant l'intersaison. Cette obligation vise à garantir la continuité de leur protection sociale même en dehors des périodes de travail."
+    },
+    {
+        "question": "11.1.4.1. Quelles sont les responsabilités de l'employeur concernant les instruments de travail dans le secteur de l'hôtellerie et de la restauration ?",
+        "answers": [
+            "Fournir les instruments nécessaires au personnel",
+            "S'assurer que les couteaux professionnels sont correctement aiguisés",
+            "Demander au personnel de fournir ses propres outils",
+            "Faire payer le personnel pour l'entretien des couteaux"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "L'établissement est tenu de fournir les instruments nécessaires au personnel pour effectuer leur travail. Cela inclut des équipements tels que des couteaux, des ustensiles de cuisine, et d'autres outils spécifiques. L'établissement doit s'assurer que les couteaux professionnels sont correctement aiguisés et en bon état."
+    },
+    {
+        "question": "11.1.4.2. Quelles indemnités l'employeur doit-il verser si le nettoyage des vêtements professionnels n'est pas pris en charge ?",
+        "answers": [
+            "CHF 50.- pour les habits des cuisiniers et pâtissiers",
+            "CHF 20.- pour les tabliers du personnel de service",
+            "CHF 100.- pour les vestes",
+            "CHF 70.- pour les tabliers"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Si le nettoyage et le repassage des habits de travail des cuisiniers et des pâtissiers ne sont pas pris en charge par l'établissement, l'employeur doit verser une indemnité mensuelle de CHF 50.-. Si le nettoyage et le repassage des vestes ou des tabliers du personnel de service ne sont pas pris en charge, l'employeur doit verser une indemnité mensuelle de CHF 50.- pour les vestes et de CHF 20.- pour les tabliers."
+    },
+    {
+        "question": "11.1.4.3. Dans quelles conditions le cumul des périodes de travail est-il possible ?",
+        "answers": [
+            "Si l'interruption entre deux périodes n'excède pas deux ans",
+            "Si les périodes de travail sont effectuées chez le même employeur ou dans le même établissement",
+            "Si l'interruption entre deux périodes dépasse trois ans",
+            "Si les périodes de travail sont effectuées dans des établissements différents"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Ce cumul de périodes n'est possible que si l'interruption entre deux périodes n'excède pas deux ans. On additionnera les périodes de travail dans le même établissement ou chez le même employeur."
+    },
+    {
+        "question": "11.1.4.4. Quelles sont les obligations du collaborateur en cas d'empêchement de travailler ?",
+        "answers": [
+            "Informer immédiatement l'employeur",
+            "Notifier l'employeur avant le début du service",
+            "Informer l'employeur dans les 48 heures",
+            "Ne pas informer l'employeur si l'empêchement est mineur"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "En cas d'empêchement de travailler, le collaborateur est tenu d'en aviser immédiatement l'employeur. Il est recommandé de notifier l'employeur le plus tôt possible, idéalement avant le début du service."
+    },
+    {
+        "question": "11.1.4.5. Vrai ou Faux : Les dérogations sont toujours admises, même si elles ne sont pas en faveur du collaborateur.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "Pour autant que la présente Convention ne stipule pas le contraire, les dérogations ne sont admises que si elles sont exclusivement en faveur du collaborateur."
+    },
+    {
+        "question": "11.1.4.6. Vrai ou Faux : Un collaborateur peut être tenu responsable de la vaisselle cassée uniquement s'il a agi délibérément ou par faute grave.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Le collaborateur ne répond de la vaisselle ou du verre cassé que s'il a agi délibérément ou par faute grave."
+    },
+    {
+        "question": "11.1.4.7. Vous êtes responsable d'un établissement de restauration. Un employé vous informe qu'il ne peut pas venir travailler aujourd'hui, mais il vous prévient seulement une heure avant le début de son service. Quelle est la meilleure manière de gérer cette situation ?",
+        "answers": [
+            "Vous demandez à l'employé de fournir une explication pour son retard dans la notification et vous lui rappelez l'importance de prévenir dès que possible en cas d'empêchement.",
+            "Vous cherchez immédiatement une solution pour remplacer l'employé afin de garantir la continuité du service.",
+            "Vous ignorez la situation et laissez l'équipe gérer l'absence sans intervention.",
+            "Vous sanctionnez immédiatement l'employé sans chercher à comprendre les raisons de son retard dans la notification."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "En cas d'empêchement, il est essentiel que l'employé informe l'employeur dès que possible pour permettre une gestion efficace des opérations. Une communication rapide favorise la cohésion d'équipe et la fluidité des services. Cependant, il est également important de comprendre les raisons du retard dans la notification avant de prendre des mesures disciplinaires."
+    },
+    {
+        "question": "11.1.4.8. Un employé cuisinier vous informe que ses couteaux professionnels ne sont plus en bon état et qu'ils nécessitent un aiguisage. Quelle est la meilleure manière de répondre à cette demande ?",
+        "answers": [
+            "Vous prenez en charge l'aiguisage des couteaux professionnels, conformément aux dispositions générales.",
+            "Vous vérifiez si l'établissement dispose d'un service interne ou d'un prestataire externe pour l'entretien des couteaux et vous organisez leur aiguisage.",
+            "Vous demandez à l'employé de s'occuper lui-même de l'aiguisage et de couvrir les frais.",
+            "Vous ignorez la demande de l'employé, en considérant que ce n'est pas une priorité."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Selon les dispositions générales, l'établissement est responsable de l'aiguisage des couteaux professionnels. Cela garantit non seulement la sécurité du personnel, mais aussi la qualité du service et des plats préparés. Ignorer cette responsabilité ou demander à l'employé de s'en charger lui-même serait contraire aux règles établies."
+    },
+    {
+        "question": "11.1.5.1. À quelle fréquence ont lieu les négociations des salaires minimums dans le secteur de la restauration et de l'hôtellerie ?",
+        "answers": [
+            "Chaque année",
+            "Tous les deux ans",
+            "Tous les six mois",
+            "Tous les trois ans"
+        ],
+        "correct": 0,
+        "explanation": "Les négociations ont lieu chaque année, avec un objectif d'accord avant la fin du mois de juin."
+    },
+    {
+        "question": "11.1.5.2. Qui sont les parties impliquées dans les négociations des salaires minimums ?",
+        "answers": [
+            "Les représentants des employeurs",
+            "Les représentants des travailleurs",
+            "Les représentants des consommateurs",
+            "Les représentants du gouvernement"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les discussions se déroulent entre les représentants des employeurs et des travailleurs."
+    },
+    {
+        "question": "11.1.5.3. Quel est l'objectif principal des négociations des salaires minimums ?",
+        "answers": [
+            "Adapter les salaires en fonction du coût de la vie",
+            "Prendre en compte les conditions économiques",
+            "Réduire les salaires des travailleurs",
+            "Augmenter les profits des employeurs"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "L'objectif est d'adapter les salaires en fonction de l'évolution du coût de la vie et des conditions économiques."
+    },
+    {
+        "question": "11.1.5.4. Que se passe-t-il si les négociations des salaires minimums échouent ?",
+        "answers": [
+            "Une procédure d'arbitrage peut être initiée",
+            "Les salaires sont automatiquement augmentés",
+            "Les négociations sont annulées",
+            "Les employeurs décident seuls des salaires"
+        ],
+        "correct": 0,
+        "explanation": "Si les négociations n'aboutissent pas à un accord, une procédure d'arbitrage peut être initiée."
+    },
+    {
+        "question": "11.1.5.5. Qui compose le tribunal arbitral en cas d'échec des négociations ?",
+        "answers": [
+            "Un représentant des employeurs",
+            "Un représentant des travailleurs",
+            "Un président nommé par la Cour suprême du canton de Berne",
+            "Un représentant des consommateurs"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Le tribunal arbitral se compose d'un représentant des employeurs, d'un représentant des travailleurs, et d'un président nommé par la Cour suprême du canton de Berne."
+    },
+    {
+        "question": "11.1.5.6. Quand les décisions du tribunal arbitral entrent-elles en vigueur ?",
+        "answers": [
+            "Le 1er janvier de l'année suivante",
+            "Au début de la saison estivale pour les contrats saisonniers",
+            "Immédiatement après la décision",
+            "À la fin de l'année en cours"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les décisions prises entrent en vigueur le 1er janvier de l'année suivante, ou au début de la saison estivale pour les contrats saisonniers."
+    },
+    {
+        "question": "11.1.5.7. Quel est le rôle principal de la Commission paritaire de surveillance ?",
+        "answers": [
+            "Surveiller l'application de la CCNT",
+            "Résoudre les litiges entre les parties contractantes",
+            "Interpréter les clauses de la CCNT",
+            "Fixer les salaires des employés"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "La Commission paritaire de surveillance surveille l'application de la Convention et interprète ses clauses en cas de litige."
+    },
+    {
+        "question": "11.1.5.8. Quelles sont les sanctions générales prévues en cas d'infractions répétées ou intentionnelles à la CCNT ?",
+        "answers": [
+            "Une amende de CHF 600 à CHF 20'000",
+            "Une suspension immédiate de l'activité de l'employeur",
+            "Une réduction des salaires des employés",
+            "Une augmentation des contributions annuelles"
+        ],
+        "correct": 0,
+        "explanation": "Les infractions répétées ou intentionnelles peuvent entraîner des amendes allant de CHF 600 à CHF 20'000, en fonction de la gravité de la violation."
+    },
+    {
+        "question": "11.1.5.9. Quels sont les montants des contributions annuelles que les employeurs et les employés doivent verser ?",
+        "answers": [
+            "CHF 99 pour chaque établissement",
+            "CHF 99 pour chaque employé",
+            "CHF 50 pour chaque employé",
+            "CHF 150 pour chaque établissement"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Chaque établissement doit verser une contribution annuelle de CHF 99. Chaque employé est également soumis à une contribution de CHF 99."
+    },
+    {
+        "question": "11.1.5.10. Vrai ou Faux : Les négociations des salaires minimums doivent être conclues avant la fin du mois de juin.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les négociations ont lieu chaque année, avec un objectif d'accord avant la fin du mois de juin."
+    },
+    {
+        "question": "11.1.5.11. Vrai ou Faux : La Commission paritaire de surveillance est composée uniquement de représentants des employeurs.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "La Commission paritaire de surveillance est composée de représentants des employeurs et des travailleurs, ce qui garantit une représentation équilibrée des intérêts des deux parties."
+    },
+    {
+        "question": "11.1.5.12. Vrai ou Faux : Les documents relatifs au contrôle et à l'application de la CCNT doivent être conservés pendant 10 ans.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les documents en relation avec le contrôle et le respect de la CCNT sont conservés pendant 10 ans."
+    },
+    {
+        "question": "11.1.5.13. Vous êtes membre de la Commission paritaire de surveillance et vous recevez une plainte concernant un employeur qui ne respecte pas l'obligation d'enregistrement du temps de travail. Lors du contrôle, vous constatez que l'enregistrement est incomplet pour certains employés. Quelle est la meilleure action à entreprendre dans cette situation ?",
+        "answers": [
+            "Informer l'employeur des résultats du contrôle et lui accorder un délai pour corriger la situation.",
+            "Si le problème persiste après un contrôle ultérieur, appliquer une sanction conventionnelle plus élevée sans octroi de délai.",
+            "Ignorer la situation si l'employeur promet de rectifier le problème à l'avenir.",
+            "Informer immédiatement les autorités compétentes sans accorder de délai à l'employeur."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Dans le cadre de la CCNT, l'Office de contrôle doit informer l'employeur des résultats du contrôle et lui accorder un délai pour corriger les manquements constatés. Si, après un contrôle ultérieur, les manquements persistent, une sanction conventionnelle plus élevée peut être appliquée sans octroi de délai. Ignorer la situation ou agir sans respecter la procédure prévue par la CCNT serait contraire aux règles établies."
+    },
+    {
+        "question": "11.1.5.14. Vous êtes un employeur dans le secteur de la restauration et de l'hôtellerie. Vous avez récemment reçu une notification de l'Office de contrôle concernant une infraction liée au non-paiement des contributions annuelles. Que devez-vous faire pour résoudre cette situation ?",
+        "answers": [
+            "Payer les contributions dues dans le délai imparti et notifier l'Office de contrôle par écrit une fois le paiement effectué.",
+            "Ignorer la notification, car les contributions ne sont pas obligatoires.",
+            "Contacter directement les autorités compétentes pour contester la notification sans répondre à l'Office de contrôle.",
+            "Attendre que l'Office de contrôle effectue un nouveau contrôle avant de prendre des mesures."
+        ],
+        "correct": 0,
+        "explanation": "En cas de non-paiement des contributions, l'employeur doit s'acquitter des montants dus dans le délai imparti et notifier l'Office de contrôle par écrit une fois le paiement effectué. Ignorer la notification ou attendre un nouveau contrôle pourrait entraîner des sanctions supplémentaires, conformément aux dispositions de la CCNT."
+    },
+    {
+        "question": "11.1.5.15. Vous êtes un représentant des travailleurs et les négociations sur les salaires minimums n'ont pas abouti avant la fin du mois de juin. Quelle est la meilleure démarche à suivre pour résoudre ce conflit ?",
+        "answers": [
+            "Saisir le tribunal arbitral pour initier une procédure d'arbitrage.",
+            "Organiser une grève pour faire pression sur les employeurs.",
+            "Ignorer la situation et attendre les négociations de l'année suivante.",
+            "Contacter directement les autorités compétentes pour imposer un accord."
+        ],
+        "correct": 0,
+        "explanation": "En cas d'échec des négociations sur les salaires minimums, la CCNT prévoit une procédure d'arbitrage. Chaque partie peut saisir le tribunal arbitral, qui statuera de manière contraignante sur les adaptations des salaires minimums. Organiser une grève ou ignorer la situation ne respecte pas les mécanismes de résolution prévus par la CCNT."
+    },
+    {
+        "question": "11.1.6.1. Combien de collaborateurs permanents une petite entreprise peut-elle employer, en plus de l'employeur ?",
+        "answers": [
+            "Jusqu'à 4 collaborateurs",
+            "Jusqu'à 5 collaborateurs",
+            "Jusqu'à 10 collaborateurs",
+            "Aucun collaborateur"
+        ],
+        "correct": 0,
+        "explanation": "Les petites entreprises sont définies comme celles qui, en plus de l'employeur, n'occupent pas de manière permanente plus de 4 collaborateurs."
+    },
+    {
+        "question": "11.1.6.2. Quelles sont les caractéristiques des petites entreprises ?",
+        "answers": [
+            "Structure légère",
+            "Proximité avec les clients",
+            "Ressources limitées",
+            "Hiérarchie complexe",
+            "Grande capacité financière"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les petites entreprises ont souvent une hiérarchie moins complexe, ce qui leur permet d'être plus flexibles et réactives. Elles ont tendance à établir des relations plus personnelles avec leur clientèle, ce qui peut favoriser la fidélisation. En raison de leur taille, elles peuvent avoir des ressources financières et humaines plus restreintes."
+    },
+    {
+        "question": "11.1.6.3. Quels critères permettent d'identifier une entreprise saisonnière ?",
+        "answers": [
+            "Ouverture saisonnière",
+            "Hautes saisons d'au moins 3 mois",
+            "Chiffre d'affaires supérieur de 35% pendant les mois de haute saison",
+            "Employeur ayant plus de 10 collaborateurs",
+            "Activité toute l'année sans variation de chiffre d'affaires"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les entreprises saisonnières sont celles qui ne sont ouvertes que pendant certaines périodes de l'année ou qui connaissent des hautes saisons d'une durée d'au moins 3 mois. Pour être considérée comme saisonnière, une entreprise doit avoir des mois où le chiffre d'affaires moyen est supérieur de 35% au chiffre d'affaires mensuel moyen des autres mois de l'année."
+    },
+    {
+        "question": "11.1.6.4. Quels documents sont nécessaires pour une demande d'homologation en tant qu'entreprise saisonnière ?",
+        "answers": [
+            "Chiffres d'affaires des deux dernières années",
+            "Budget prévisionnel pour les nouvelles entreprises",
+            "Formulaire de demande",
+            "Contrat de location des locaux",
+            "Certificat de formation des employés"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Pour compléter la demande d'homologation, plusieurs documents sont requis : présentation des chiffres d'affaires des deux dernières années, par mois ; un budget prévisionnel pour les nouvelles entreprises ; un formulaire spécifique à remplir, disponible auprès de l'office de contrôle."
+    },
+    {
+        "question": "11.1.6.5. Quelle est la durée de validité d'une homologation pour une entreprise saisonnière ?",
+        "answers": [
+            "Deux ans",
+            "Un an",
+            "Trois ans",
+            "Six mois"
+        ],
+        "correct": 0,
+        "explanation": "Si les conditions sont remplies, l'homologation est accordée pour une durée de deux ans."
+    },
+    {
+        "question": "11.1.6.6. Quelles conséquences peuvent découler de fausses déclarations dans une demande d'homologation ?",
+        "answers": [
+            "Annulation de l'homologation",
+            "Sanctions financières",
+            "Impact sur la réputation",
+            "Augmentation des privilèges saisonniers",
+            "Exemption des vérifications indépendantes"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les fausses déclarations dans le cadre de la demande d'homologation peuvent entraîner des conséquences graves pour les entreprises saisonnières, notamment l'annulation de l'homologation, des sanctions financières, et un impact négatif sur la réputation de l'entreprise."
+    },
+    {
+        "question": "11.1.6.7. Vrai ou Faux : Une entreprise saisonnière doit renouveler sa demande d'homologation chaque année pour conserver son statut.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les entreprises saisonnières doivent renouveler leur demande d'homologation chaque année pour continuer à bénéficier de ce statut."
+    },
+    {
+        "question": "11.1.6.8. Vous êtes propriétaire d'une entreprise saisonnière et vous souhaitez obtenir une homologation pour bénéficier des privilèges saisonniers. Vous avez soumis votre demande à l'office de contrôle avec les chiffres d'affaires des deux dernières années. Cependant, l'office vous informe qu'une société indépendante va vérifier vos données financières dans un délai de 6 mois. Pendant cette période, vous réalisez qu'une erreur s'est glissée dans vos déclarations de chiffre d'affaires. Que devez-vous faire ?",
+        "answers": [
+            "Informer immédiatement l'office de contrôle de l'erreur et fournir les données corrigées.",
+            "Ignorer l'erreur et attendre les résultats de la vérification.",
+            "Modifier les données sans en informer l'office de contrôle.",
+            "Retirer votre demande d'homologation pour éviter les conséquences."
+        ],
+        "correct": 0,
+        "explanation": "Il est essentiel de maintenir une transparence totale dans vos déclarations financières. En cas d'erreur, vous devez informer immédiatement l'office de contrôle et fournir les données corrigées. Cela montre votre bonne foi et peut éviter des conséquences graves telles que l'annulation de l'homologation, des sanctions financières ou des impacts négatifs sur la réputation de votre entreprise. Ignorer l'erreur ou tenter de la dissimuler pourrait entraîner des sanctions sévères et nuire à votre entreprise."
+    },
+    {
+        "question": "11.2.0.1. Quelle assurance garantit un revenu de base aux personnes âgées et aux survivants en cas de décès du soutien de famille ?",
+        "answers": [
+            "AVS",
+            "AI",
+            "AC",
+            "AM"
+        ],
+        "correct": 0,
+        "explanation": "AVS (Assurance Vieillesse et Survivants) : Garantit un revenu de base aux personnes âgées et aux survivants en cas de décès du soutien de famille."
+    },
+    {
+        "question": "11.2.0.2. Quelle assurance couvre les frais médicaux et hospitaliers et est obligatoire pour tous les résidents en Suisse ?",
+        "answers": [
+            "AM",
+            "AVS",
+            "AI",
+            "APG"
+        ],
+        "correct": 0,
+        "explanation": "AM (Assurance Maladie) : Couvre les frais médicaux et hospitaliers, obligatoire pour tous les résidents."
+    },
+    {
+        "question": "11.2.0.3. Quelle assurance indemnise les personnes en cas de maternité, paternité ou service militaire ?",
+        "answers": [
+            "APG",
+            "AVS",
+            "AI",
+            "AM"
+        ],
+        "correct": 0,
+        "explanation": "APG (Allocation Perte de Gain) : Indemnise les personnes en cas de maternité, paternité ou service militaire."
+    },
+    {
+        "question": "11.2.0.4. Quels sont les taux de cotisation AVS/AI/APG pour les employés en Suisse ?",
+        "answers": [
+            "10.6 % du salaire brut",
+            "5.3 % pour l'employé et 5.3 % pour l'employeur",
+            "8.1 % pour l'employé",
+            "12 % du salaire brut"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les cotisations des employés représentent 10.6 % du salaire brut, réparties entre l'employeur et l'employé : chacun contribuant 5.3 %."
+    },
+    {
+        "question": "11.2.0.5. À partir de quel âge les personnes exerçant une activité lucrative doivent-elles cotiser à l'AVS ?",
+        "answers": [
+            "Dès le 1er janvier de l'année suivant celle au cours de laquelle il atteint 17 ans",
+            "Dès le 1er janvier de l'année suivant celle au cours de laquelle il atteint 18 ans",
+            "20 ans",
+            "16 ans"
+        ],
+        "correct": 0,
+        "explanation": "Les personnes exerçant une activité lucrative doivent cotiser à l'AVS, à partir du 1er janvier suivant leur 17e anniversaire."
+    },
+    {
+        "question": "11.2.0.6. Quel est le montant minimum annuel de cotisation AVS/AI/APG pour les personnes sans activité lucrative ?",
+        "answers": [
+            "CHF 530",
+            "CHF 1'400",
+            "CHF 26'500",
+            "CHF 1'060"
+        ],
+        "correct": 0,
+        "explanation": "Les personnes sans activité lucrative doivent commencer à cotiser à partir de leur 20e anniversaire, avec un montant minimum de CHF 530 par an."
+    },
+    {
+        "question": "11.2.0.7. Dans les entreprises relevant de son domaine de compétence, quel organisme assure obligatoirement les salariés contre les accidents ?",
+        "answers": [
+            "SUVA",
+            "OFAS",
+            "Caisse de compensation AVS",
+            "Assureurs maladie"
+        ],
+        "correct": 0,
+        "explanation": "La Suva assure obligatoirement les salariés des entreprises qui relèvent de son domaine de compétence. Les autres entreprises assurent leurs salariés auprès d'un autre assureur-accidents. Les personnes exerçant une activité indépendante ne sont pas couvertes obligatoirement par l'assurance-accidents selon la LAA ; elles peuvent souscrire une assurance facultative."
+    },
+    {
+        "question": "11.2.0.8. Quels sont les trois piliers essentiels du système d'assurances sociales en Suisse ?",
+        "answers": [
+            "AVS",
+            "AI",
+            "APG",
+            "AM"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les assurances AVS (Assurance Vieillesse et Survivants), AI (Assurance Invalidité) et APG (Allocation Perte de Gain) constituent des piliers essentiels du système d'assurances sociales en Suisse."
+    },
+    {
+        "question": "11.2.0.9. Vrai ou Faux : Les employeurs doivent annoncer les employés qui exercent également une activité à l'étranger.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les employeurs doivent annoncer les employés qui exercent également une activité à l'étranger pour éviter des cotisations inappropriées."
+    },
+    {
+        "question": "11.2.0.10. Vrai ou Faux : Les cotisations des indépendants s'élèvent à 10 % de leurs revenus.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "La cotisation personnelle pour les indépendants s'élève à 10 % de leurs revenus."
+    },
+    {
+        "question": "11.2.0.11. Vous êtes employeur et vous avez embauché un nouvel employé qui travaille également à l'étranger. Que devez-vous faire pour respecter vos obligations en matière d'assurances sociales en Suisse ?",
+        "answers": [
+            "Informer la caisse de compensation de l'activité à l'étranger de l'employé.",
+            "Ne rien faire, car l'employé est déjà couvert par l'assurance de son pays d'origine.",
+            "Demander à l'employé de gérer lui-même son affiliation à une caisse de compensation.",
+            "Affilier l'employé uniquement à une assurance maladie suisse."
+        ],
+        "correct": 0,
+        "explanation": "En tant qu'employeur, vous avez l'obligation d'annoncer à la caisse de compensation les employés qui exercent également une activité à l'étranger. Cela permet d'éviter des cotisations inappropriées et garantit une couverture sociale adéquate pour l'employé."
+    },
+    {
+        "question": "11.2.0.12. Vous êtes une personne sans activité lucrative et vous venez de fêter votre 20e anniversaire. Que devez-vous faire pour respecter vos obligations en matière d'assurances sociales en Suisse ?",
+        "answers": [
+            "Commencer à cotiser à l'AVS avec un montant minimum de CHF 530 par an.",
+            "Attendre d'avoir une activité lucrative avant de cotiser.",
+            "Cotiser uniquement si vous avez des revenus de rente ou une fortune imposable.",
+            "Vous affilier à une caisse de compensation uniquement si vous êtes marié(e)."
+        ],
+        "correct": 0,
+        "explanation": "Les personnes sans activité lucrative doivent commencer à cotiser à l'AVS à partir du 1er janvier suivant leur 20e anniversaire. Le montant minimum est de CHF 530 par an, et les cotisations sont calculées en fonction des conditions sociales, comme la fortune imposable ou les revenus de rente."
+    },
+    {
+        "question": "11.2.1.1. Quels éléments font partie du salaire soumis à cotisations sociales en Suisse ?",
+        "answers": [
+            "Salaires mensuels fixes",
+            "Indemnités pour heures supplémentaires",
+            "Gratifications et primes",
+            "Allocations familiales",
+            "Indemnités journalières des assurances maladie et accidents"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les éléments suivants font partie intégrante du salaire déterminant sur lequel des cotisations doivent être acquittées : salaires mensuels fixes, indemnités pour heures supplémentaires, gratifications et primes."
+    },
+    {
+        "question": "11.2.1.2. Quelles indemnités sont exclues du salaire soumis à cotisations sociales ?",
+        "answers": [
+            "Allocations familiales",
+            "Indemnités journalières des assurances maladie et accidents",
+            "Frais professionnels justifiés par des pièces comptables",
+            "Indemnités pour jours de repos",
+            "Indemnités pour la nourriture"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les indemnités suivantes ne font pas partie du salaire soumis à cotisations : allocations familiales, indemnités journalières des assurances maladie et accidents, frais professionnels justifiés par des pièces comptables."
+    },
+    {
+        "question": "11.2.1.3. Quelles conditions doivent être respectées pour que certaines indemnités soient prises en compte dans le calcul du salaire soumis à cotisations ?",
+        "answers": [
+            "Justification des frais par des documents comptables",
+            "Montant des indemnités en adéquation avec les dépenses réelles",
+            "Contrôle par l'employeur pour vérifier les dépenses effectives",
+            "Déclaration des indemnités par l'employé uniquement",
+            "Accord verbal entre employeur et employé"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Pour que certaines indemnités soient prises en compte dans le calcul du salaire soumis à cotisations, plusieurs conditions doivent être respectées : justification des frais par des documents comptables, montant des indemnités en adéquation avec les dépenses réelles, contrôle par l'employeur pour vérifier les dépenses effectives."
+    },
+    {
+        "question": "11.2.1.4. Quels sont les tarifs minimums pour la nourriture et le logement selon l'Administration fiscale suisse ?",
+        "answers": [
+            "Petit-déjeuner : 3,50 CHF par jour",
+            "Repas de midi : 10,00 CHF par jour",
+            "Logement : 11,50 CHF par jour",
+            "Repas du soir : 15,00 CHF par jour",
+            "Nourriture cumulée : 30,00 CHF par jour"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les tarifs minimums applicables sont : petit-déjeuner 3,50 CHF par jour, repas de midi 10,00 CHF par jour, logement 11,50 CHF par jour."
+    },
+    {
+        "question": "11.2.1.5. Dans quel cas les cotisations sociales ne sont-elles perçues que sur demande de l'employé ?",
+        "answers": [
+            "Lorsque le salaire déterminant est inférieur à 2'500 CHF par an",
+            "Lorsque l'employé travaille pour un employeur unique et que son salaire est faible",
+            "Lorsque l'employé travaille dans un ménage privé",
+            "Lorsque le salaire brut est supérieur à 2'500 CHF par an"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Pour les salaires inférieurs à CHF 2'500 par an, les cotisations ne sont perçues qu'à la demande de l'employé, sauf pour les employés de ménages privés où elles sont obligatoires."
+    },
+    {
+        "question": "11.2.1.6. Vrai ou Faux : Les indemnités pour frais professionnels justifiés par des pièces comptables ne sont pas soumises à cotisations sociales.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les frais professionnels justifiés par des pièces comptables ne font pas partie du salaire soumis à cotisations."
+    },
+    {
+        "question": "11.2.1.7. Vrai ou Faux : Les déductions pour la nourriture sont soumises à la taxe sur la valeur ajoutée (TVA) de 8,1 %.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les déductions pour la nourriture sont soumises à la taxe sur la valeur ajoutée (TVA) de 8,1 %."
+    },
+    {
+        "question": "11.2.1.8. Vous êtes responsable des ressources humaines dans une entreprise en Suisse. Un employé vous informe qu'il a reçu une indemnité pour frais de déplacement qui dépasse les dépenses réelles qu'il a engagées. Que devez-vous faire dans cette situation ?",
+        "answers": [
+            "Vérifier les justificatifs des frais engagés par l'employé pour confirmer les montants réels.",
+            "Requalifier la différence entre l'indemnité versée et les frais réels comme salaire soumis à cotisations.",
+            "Ignorer la différence et ne pas la déclarer comme salaire soumis à cotisations.",
+            "Considérer l'intégralité de l'indemnité comme exonérée de cotisations, sans vérification."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Dans cette situation, il est essentiel de vérifier les justificatifs des frais engagés par l'employé pour s'assurer que les indemnités correspondent aux dépenses réelles. Si les indemnités versées sont supérieures aux frais réellement engagés, la différence doit être requalifiée comme salaire soumis à cotisations, conformément aux règles légales. Ignorer cette différence ou ne pas la déclarer pourrait entraîner des sanctions lors d'un contrôle."
+    },
+    {
+        "question": "11.2.1.9. Un employé vous demande si les allocations familiales qu'il reçoit doivent être incluses dans le calcul de son salaire soumis à cotisations. Quelle est la meilleure réponse à lui donner ?",
+        "answers": [
+            "Les allocations familiales ne font pas partie du salaire soumis à cotisations et ne doivent pas être incluses dans le calcul.",
+            "Les allocations familiales doivent être incluses dans le salaire soumis à cotisations.",
+            "Les allocations familiales sont partiellement soumises à cotisations.",
+            "Les allocations familiales sont soumises à cotisations uniquement si elles dépassent un certain montant."
+        ],
+        "correct": 0,
+        "explanation": "Les allocations familiales sont explicitement exclues du salaire soumis à cotisations sociales en Suisse. Elles ne doivent donc pas être prises en compte dans le calcul des cotisations. Cette règle garantit que ces montants, destinés à soutenir les familles, ne sont pas soumis à des prélèvements sociaux."
+    },
+    {
+        "question": "11.2.2.1. Quel est le calcul pour obtenir le salaire journalier à partir du salaire brut mensuel ?",
+        "answers": [
+            "Diviser le salaire brut mensuel par 30",
+            "Multiplier le salaire brut mensuel par 30",
+            "Diviser le salaire brut mensuel par 31",
+            "Ajouter 30 au salaire brut mensuel"
+        ],
+        "correct": 0,
+        "explanation": "Le salaire brut est calculé en divisant le salaire mensuel par 30 pour obtenir le salaire journalier. Par exemple, pour un salaire brut de CHF 6'000, le calcul serait : CHF 6'000 / 30 = CHF 200 (salaire journalier)."
+    },
+    {
+        "question": "11.2.2.2. Quels sont les systèmes de rémunération possibles pour les employés soumis à la CCNT ?",
+        "answers": [
+            "Salaire fixe",
+            "Participation sur le chiffre d'affaires",
+            "Combinaison des deux",
+            "Salaire basé uniquement sur les heures travaillées"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les systèmes de rémunération peuvent inclure : Salaire fixe : Montant constant chaque mois. Participation sur le chiffre d'affaires : Rémunération variable basée sur les performances de l'entreprise. Combinaison : Un mélange des deux précédents."
+    },
+    {
+        "question": "11.2.2.3. Quels employés ne sont soumis aux cotisations que sur le salaire en espèces ?",
+        "answers": [
+            "Les conjoints ou partenaires enregistrés travaillant dans l'entreprise",
+            "Les apprentis de moins de 18 ans",
+            "Les musiciens ayant un domicile fiscal en Suisse",
+            "Les gérants et directeurs"
+        ],
+        "correct": 0,
+        "explanation": "Les conjoints ou partenaires enregistrés travaillant dans l'entreprise ne sont soumis aux cotisations que sur le salaire en espèces. Le salaire en nature (comme la nourriture ou le logement) n'est pas pris en compte."
+    },
+    {
+        "question": "11.2.2.4. À partir de quel âge les apprentis sont-ils soumis à cotisations sur le salaire brut total ?",
+        "answers": [
+            "À partir du 1er janvier suivant leur 17e anniversaire",
+            "À partir de leur 18e anniversaire",
+            "À partir de leur 20e anniversaire",
+            "À partir de leur 16e anniversaire"
+        ],
+        "correct": 0,
+        "explanation": "À partir du 1er janvier suivant le 17e anniversaire, les apprentis sont soumis à cotisations sur le salaire brut total (salaire en espèces et salaire en nature)."
+    },
+    {
+        "question": "11.2.2.5. Quels éléments de salaire doivent être déclarés par les gérants et directeurs ?",
+        "answers": [
+            "La nourriture",
+            "Le logement",
+            "Le salaire en espèces",
+            "Les frais de transport",
+            "Les primes d'assurance"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Pour les gérants et gérantes, directeurs et directrices, les éléments de salaire mentionnés sous point 1.4.1 sont soumis à cotisations. S'ils reçoivent nourriture et logement pour eux-mêmes et leur famille, ces prestations doivent être déclarées selon les taux AVS."
+    },
+    {
+        "question": "11.2.2.6. Quels sont les avantages du système de rémunération basé sur la participation au chiffre d'affaires ?",
+        "answers": [
+            "Incitation à la performance",
+            "Prévisibilité pour l'employé",
+            "Sécurité financière",
+            "Montant constant chaque mois"
+        ],
+        "correct": 0,
+        "explanation": "Participation sur le chiffre d'affaires : Rémunération variable qui dépend des résultats financiers de l'entreprise. Cela peut motiver les employés à améliorer leurs performances."
+    },
+    {
+        "question": "11.2.2.7. Quels employés peuvent bénéficier d'une déduction forfaitaire de 20 % sur le salaire brut soumis à cotisations AVS ?",
+        "answers": [
+            "Les musiciens, artistes, danseuses et DJs n'ayant pas de domicile fiscal en Suisse",
+            "Les musiciens ayant un domicile fiscal en Suisse",
+            "Les apprentis",
+            "Les gérants et directeurs"
+        ],
+        "correct": 0,
+        "explanation": "Pour les musiciens, artistes, danseuses et DJ n'ayant pas de domicile fiscal en Suisse, une déduction forfaitaire pour frais de 20 % est admise."
+    },
+    {
+        "question": "11.2.2.8. Vrai ou Faux : Les salaires minimums fixés par la CCNT peuvent être compensés entre les mois.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "Les salaires minimums doivent être respectés sans compensation entre les mois."
+    },
+    {
+        "question": "11.2.2.9. Vrai ou Faux : Les membres de la famille ayant atteint l'âge de référence bénéficient d'une franchise de CHF 1'400 par mois.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les membres de la famille travaillant dans l'établissement et ayant l'âge de la retraite ou l'âge de référence (2025 : hommes à partir de 65 ans, femmes à partir de 64 ans et 3 mois), qui travaillent au-delà de l'âge de référence, bénéficieront d'une franchise de CHF 1'400,- par mois."
+    },
+    {
+        "question": "11.2.2.10. Vous êtes responsable des ressources humaines dans une entreprise en Suisse. Un employé soumis à la CCNT vous informe que son salaire brut mensuel de CHF 5'000 ne lui a pas été versé intégralement ce mois-ci, car il a perçu une rémunération variable basée sur le chiffre d'affaires qui n'atteint pas le salaire minimum requis. Comment devez-vous gérer cette situation ?",
+        "answers": [
+            "Vérifier si le salaire brut total (rémunération variable + salaire fixe) atteint le salaire minimum requis et, si ce n'est pas le cas, compenser la différence pour respecter les obligations légales.",
+            "Informer l'employé que la rémunération variable est basée sur les performances et qu'il n'y a pas de compensation possible.",
+            "Proposer à l'employé de compenser le manque à gagner avec le salaire des mois suivants.",
+            "Ignorer la demande de l'employé, car il a accepté un système de rémunération variable."
+        ],
+        "correct": 0,
+        "explanation": "En vertu des dispositions de la CCNT, les employeurs sont tenus de respecter les salaires minimums fixés par la convention et les législations cantonales. En cas de rémunération variable ou combinée, si le salaire brut total n'atteint pas le salaire minimum requis, l'employeur doit compenser la différence chaque mois. Il est interdit de compenser avec les salaires des mois précédents ou suivants."
+    },
+    {
+        "question": "11.2.2.11. Votre fils de 19 ans travaille comme salarié dans votre entreprise familiale. Il reçoit un salaire en espèces ainsi que la nourriture et le logement. Il n'est pas apprenti. Sur quelle base calculez-vous ses cotisations AVS, AI et APG ?",
+        "answers": [
+            "Sur son salaire en espèces uniquement",
+            "Sur son salaire en espèces et sur la valeur de la nourriture et du logement",
+            "Aucune cotisation n'est due puisqu'il est membre de la famille",
+            "Sur la valeur de la nourriture et du logement uniquement"
+        ],
+        "correct": 0,
+        "explanation": "Jusqu'au 31 décembre de l'année où il atteint 20 ans, un membre de la famille travaillant dans l'entreprise familiale cotise à l'AVS, à l'AI et aux APG sur son salaire en espèces uniquement. La nourriture et le logement ne sont ajoutés à la base de calcul qu'à partir de l'année suivante. Cette règle particulière ne s'applique pas aux apprentis."
+    },
+    {
+        "question": "11.2.3.1. Quel est l'objectif principal de la réforme AVS 21 ?",
+        "answers": [
+            "Harmoniser l'âge de la retraite pour les hommes et les femmes",
+            "Garantir la durabilité financière du système de retraite",
+            "Réduire les cotisations des employeurs",
+            "Supprimer les rentes pour les générations futures"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "L'un des principaux objectifs de cette réforme est d'harmoniser l'âge de la retraite pour les hommes et les femmes, afin de garantir la durabilité financière du système de retraite face au vieillissement de la population."
+    },
+    {
+        "question": "11.2.3.2. À quel âge la retraite sera-t-elle harmonisée pour les hommes et les femmes selon la réforme AVS 21 ?",
+        "answers": [
+            "65 ans",
+            "64 ans",
+            "66 ans",
+            "63 ans"
+        ],
+        "correct": 0,
+        "explanation": "La réforme AVS 21 fixe l'âge de la retraite à 65 ans pour tous, tant pour les hommes que pour les femmes."
+    },
+    {
+        "question": "11.2.3.3. En quelle année l'âge de la retraite des femmes atteindra-t-il 65 ans ?",
+        "answers": [
+            "2028",
+            "2025",
+            "2026",
+            "2030"
+        ],
+        "correct": 0,
+        "explanation": "L'âge de référence des femmes sera progressivement relevé jusqu'en 2028, avec un relèvement de trois mois par an."
+    },
+    {
+        "question": "11.2.3.4. Quelles sont les conditions pour qu'une femme de la génération transitoire bénéficie d'un supplément de rente ?",
+        "answers": [
+            "Être née entre 1961 et 1969",
+            "Ne pas demander le versement anticipé de leur rente de vieillesse AVS",
+            "Être née après 1970",
+            "Avoir cotisé pendant au moins 10 ans"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Pour les femmes de la génération transitoire (nées entre 1961 et 1969), un supplément de rente sera accordé si elles ne demandent pas le versement anticipé de leur rente de vieillesse AVS."
+    },
+    {
+        "question": "11.2.3.5. Quelles sont les conditions pour bénéficier des prestations de l'Assurance Invalidité (AI) ?",
+        "answers": [
+            "Souffrir d'une atteinte à la santé physique ou psychique",
+            "Avoir versé des cotisations pendant au moins 3 ans",
+            "Être âgé de plus de 65 ans",
+            "Avoir un revenu supérieur à la moyenne"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "L'assuré doit souffrir d'une atteinte à la santé, qu'elle soit physique ou psychique, qui l'empêche de travailler de manière durable. L'assuré doit avoir versé des cotisations à l'AVS/AI pendant une période minimale. En général, cela implique d'avoir été assuré pendant au moins 3 ans avant l'apparition de l'invalidité."
+    },
+    {
+        "question": "11.2.3.6. Quel est le montant maximal de l'allocation de maternité par jour ?",
+        "answers": [
+            "CHF 220",
+            "CHF 98",
+            "CHF 112",
+            "CHF 300"
+        ],
+        "correct": 0,
+        "explanation": "L'allocation correspond à 80 % du revenu moyen réalisé avant l'accouchement, avec un plafond de CHF 220 par jour."
+    },
+    {
+        "question": "11.2.3.7. Quelle est la durée maximale de versement de l'allocation de maternité dans le canton de Genève ?",
+        "answers": [
+            "112 jours",
+            "98 jours",
+            "100 jours",
+            "120 jours"
+        ],
+        "correct": 0,
+        "explanation": "La durée de versement est de 98 jours, ou 112 jours dans certains cantons comme Genève."
+    },
+    {
+        "question": "11.2.3.8. Quel est le pourcentage du revenu moyen pris en compte pour l'allocation de paternité ?",
+        "answers": [
+            "80 %",
+            "50 %",
+            "100 %",
+            "70 %"
+        ],
+        "correct": 0,
+        "explanation": "Comme pour l'allocation de maternité, l'allocation de paternité correspond à 80 % du revenu moyen de l'activité lucrative avant la naissance."
+    },
+    {
+        "question": "11.2.3.9. Vrai ou Faux : Les allocations pour perte de gain (APG) incluent des prestations pour les parents lors de la naissance d'un enfant.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les allocations pour perte de gain (APG) sont des prestations financières destinées à compenser la perte de revenus pour les personnes qui effectuent un service militaire, de protection civile ou civil. Ces allocations sont également versées aux parents lors de la naissance d'un enfant."
+    },
+    {
+        "question": "11.2.3.10. Vrai ou Faux : Les cotisations pour l'AVS sont entièrement à la charge des employeurs.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "Les cotisations à l'AVS, à l'AI et à l'AC sont prélevées sur les salaires bruts des employés et des employeurs."
+    },
+    {
+        "question": "11.2.3.11. Une femme née le 16 mars 1961 souhaite savoir à partir de quelle date elle pourra toucher sa rente AVS selon la réforme AVS 21. Elle hésite également à demander un versement anticipé de sa rente. Que lui conseillez-vous ?",
+        "answers": [
+            "Vous lui expliquez qu'elle pourra toucher sa rente AVS à partir du 1er juillet 2026, car l'âge de référence pour les femmes sera de 64 ans et 6 mois en 2026.",
+            "Vous lui conseillez de ne pas demander un versement anticipé si elle souhaite bénéficier du supplément de rente prévu pour les femmes de la génération transitoire.",
+            "Vous lui indiquez qu'elle pourra toucher sa rente AVS dès le 16 mars 2026, car c'est son 65e anniversaire.",
+            "Vous lui conseillez de demander un versement anticipé pour recevoir sa rente plus tôt, même si cela réduit le montant total de la rente."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Selon la réforme AVS 21, l'âge de la retraite pour les femmes sera progressivement relevé jusqu'à 65 ans en 2028. En 2026, l'âge de référence pour les femmes sera de 64 ans et 6 mois. Une femme née le 16 mars 1961 pourra donc toucher sa rente AVS à partir du 1er juillet 2026. De plus, les femmes de la génération transitoire (nées entre 1961 et 1969) bénéficient d'un supplément de rente si elles ne demandent pas un versement anticipé."
+    },
+    {
+        "question": "11.2.3.12. Un assuré vous contacte pour savoir s'il peut bénéficier des prestations de l'Assurance Invalidité (AI). Il explique qu'il souffre d'une dépression sévère depuis plusieurs années, ce qui l'empêche de travailler à temps plein. Que lui répondez-vous ?",
+        "answers": [
+            "Vous lui expliquez qu'il peut être éligible aux prestations de l'AI, car une atteinte psychique durable peut être reconnue comme une invalidité.",
+            "Vous lui précisez que l'AI évaluera son incapacité de travail pour déterminer le degré d'invalidité et les prestations auxquelles il pourrait avoir droit.",
+            "Vous lui indiquez qu'il ne peut pas bénéficier des prestations de l'AI, car seules les atteintes physiques sont prises en compte.",
+            "Vous lui conseillez d'attendre que son état de santé s'améliore avant de faire une demande à l'AI."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "L'Assurance Invalidité (AI) soutient les personnes qui ne peuvent plus travailler en raison d'une atteinte à leur santé, qu'elle soit physique ou psychique. Une dépression sévère peut être reconnue comme une invalidité si elle est durable ou stable. L'AI procède à une évaluation de l'incapacité de travail pour déterminer le degré d'invalidité et les prestations adaptées."
+    },
+    {
+        "question": "11.2.4.1. Quels sont les objectifs principaux de l'assurance-chômage (AC) en Suisse ?",
+        "answers": [
+            "Assurer un revenu de remplacement",
+            "Encourager la recherche d'emploi",
+            "Soutenir la formation et la réinsertion",
+            "Réduire les cotisations des employeurs"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "L'AC a plusieurs objectifs clés qui en définissent la portée : 1. Assurer un revenu de remplacement, 2. Encourager la recherche d'emploi, 3. Soutenir la formation et la réinsertion, 4. Stabiliser le marché du travail."
+    },
+    {
+        "question": "11.2.4.2. Quels types de prestations sont offertes par l'assurance-chômage (AC) ?",
+        "answers": [
+            "Indemnités de chômage",
+            "Indemnités en cas d'intempéries",
+            "Indemnités de réduction de l'horaire de travail",
+            "Indemnités en cas d'insolvabilité de l'employeur",
+            "Indemnités pour les indépendants"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "explanation": "L'AC offre plusieurs prestations essentielles : indemnités de chômage, indemnités en cas d'intempéries, indemnités de réduction de l'horaire de travail, et indemnités en cas d'insolvabilité de l'employeur."
+    },
+    {
+        "question": "11.2.4.3. Qui est soumis à l'obligation de cotisation à l'assurance-chômage (AC) ?",
+        "answers": [
+            "Employés à temps plein",
+            "Employés à temps partiel",
+            "Indépendants",
+            "Retraités ayant atteint l'âge de référence AVS"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Tous les employés exerçant une activité lucrative en Suisse sont soumis à l'obligation de cotisation, à condition qu'ils ne soient pas exclus par d'autres réglementations. Les indépendants et les retraités ayant atteint l'âge de référence AVS ne sont pas soumis à cotisation."
+    },
+    {
+        "question": "11.2.4.4. Quel est le taux de cotisation à l'assurance-chômage (AC) en Suisse ?",
+        "answers": [
+            "2.2% du salaire annuel déterminant",
+            "3.5% du salaire annuel",
+            "1.5% du salaire annuel",
+            "4% du salaire annuel"
+        ],
+        "correct": 0,
+        "explanation": "Le taux de cotisation pour l'AC s'élève à 2.2% du salaire annuel déterminant jusqu'à un plafond de CHF 148'200."
+    },
+    {
+        "question": "11.2.4.5. Quelles sont les responsabilités des employeurs concernant l'assurance-chômage (AC) ?",
+        "answers": [
+            "Déduire les cotisations des employés",
+            "Verser leur propre part de cotisation",
+            "Informer les employés de leurs droits et obligations",
+            "Payer la totalité des cotisations"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les employeurs doivent déduire les cotisations de leurs employés, verser leur propre part de cotisation à la caisse de compensation AVS compétente, et informer leurs employés de leurs droits et obligations concernant l'assurance-chômage."
+    },
+    {
+        "question": "11.2.4.6. Vrai ou Faux : Les cotisations à l'assurance-chômage (AC) sont partagées à parts égales entre l'employeur et l'employé.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les cotisations sont partagées à parts égales, ce qui représente 1.1% à charge de l'employé et 1.1% à charge de l'employeur."
+    },
+    {
+        "question": "11.2.4.7. Vrai ou Faux : Les personnes ayant atteint l'âge de référence AVS sont toujours tenues de cotiser à l'assurance-chômage (AC).",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "Les personnes exerçant une activité lucrative à l'âge de référence AVS (hommes à partir de 65 ans, femmes à partir de 64 ans et 3 mois) ne sont plus soumises à l'obligation de cotiser."
+    },
+    {
+        "question": "11.2.4.8. Vous êtes employeur dans une entreprise en Suisse. Un nouvel employé vous demande des informations sur les cotisations à l'assurance-chômage (AC). Il souhaite savoir comment elles sont calculées et partagées. Quelle est la meilleure réponse à lui donner ?",
+        "answers": [
+            "Les cotisations à l'AC s'élèvent à 2.2% du salaire annuel déterminant, partagées à parts égales entre l'employeur et l'employé, soit 1.1% chacun.",
+            "Les cotisations à l'AC sont entièrement à la charge de l'employé.",
+            "Les cotisations à l'AC s'élèvent à 5% du salaire annuel et sont payées uniquement par l'employeur.",
+            "Les cotisations à l'AC ne sont pas obligatoires, elles sont facultatives pour les employeurs et les employés."
+        ],
+        "correct": 0,
+        "explanation": "En Suisse, les cotisations à l'assurance-chômage (AC) sont obligatoires et s'élèvent à 2.2% du salaire annuel déterminant. Ce taux est partagé à parts égales entre l'employeur et l'employé, soit 1.1% chacun. Cette répartition garantit une contribution équitable au système de protection sociale."
+    },
+    {
+        "question": "11.2.4.9. Un employé de votre entreprise atteint l'âge de 65 ans et vous demande s'il doit continuer à cotiser à l'assurance-chômage (AC). Quelle est la meilleure réponse à lui donner ?",
+        "answers": [
+            "Non, les personnes ayant atteint l'âge de référence AVS (65 ans pour les hommes) ne sont plus soumises à l'obligation de cotiser à l'AC.",
+            "Oui, tous les employés doivent cotiser à l'AC, quel que soit leur âge.",
+            "Non, mais uniquement s'ils travaillent à temps partiel.",
+            "Oui, mais à un taux réduit de 1%."
+        ],
+        "correct": 0,
+        "explanation": "En Suisse, les personnes ayant atteint l'âge de référence AVS (65 ans pour les hommes et 64 ans et 3 mois pour les femmes) ne sont plus soumises à l'obligation de cotiser à l'assurance-chômage (AC). Cette règle s'applique indépendamment de leur statut d'emploi ou du temps de travail."
+    },
+    {
+        "question": "11.2.5.1. Quels sont les types d'allocations familiales disponibles en Suisse ?",
+        "answers": [
+            "Allocations pour enfants",
+            "Allocations de formation professionnelle",
+            "Allocations de naissance et d'adoption",
+            "Allocations pour les vacances",
+            "Allocations pour les loisirs"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Ces allocations comprennent plusieurs types de prestations, notamment : Allocations pour enfants, Allocations de formation professionnelle, Allocations de naissance et d'adoption."
+    },
+    {
+        "question": "11.2.5.2. Quel est le montant minimum de l'allocation pour enfants en Suisse ?",
+        "answers": [
+            "CHF 215",
+            "CHF 268",
+            "CHF 311",
+            "CHF 200"
+        ],
+        "correct": 0,
+        "explanation": "Aux termes de la loi fédérale sur les allocations familiales, les allocations minimales suivantes s'appliquent par enfant et par mois : Allocation pour enfants d'au moins CHF 215.- par mois."
+    },
+    {
+        "question": "11.2.5.3. Quelles conditions doivent être remplies pour qu'une personne sans activité lucrative puisse bénéficier des allocations familiales ?",
+        "answers": [
+            "Ne pas dépasser un revenu annuel imposable de CHF 45'360",
+            "Ne pas recevoir de prestations complémentaires à l'AVS/AI",
+            "Être affilié à une caisse d'assurance maladie privée",
+            "Avoir un revenu annuel supérieur à CHF 7'560"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les personnes sans activité lucrative peuvent bénéficier des allocations si leur revenu annuel imposable ne dépasse pas 1,5 fois le montant d'une rente de vieillesse maximale de l'AVS, soit environ CHF 45'360 par an. Elles doivent également ne pas recevoir de prestations complémentaires à l'AVS/AI."
+    },
+    {
+        "question": "11.2.5.4. Dans quel cas les allocations familiales seront-elles versées au prorata temporis à partir de 2026 ?",
+        "answers": [
+            "En cas d'entrée ou de sortie en cours de mois",
+            "En cas de changement de canton",
+            "En cas de naissance d'un enfant",
+            "En cas de divorce des parents"
+        ],
+        "correct": 0,
+        "explanation": "À partir du 1er janvier 2026, les allocations familiales seront versées au prorata en cas d'entrée ou de sortie en cours de mois."
+    },
+    {
+        "question": "11.2.5.5. Quels cantons ont des montants spécifiques pour les allocations de naissance ?",
+        "answers": [
+            "Genève",
+            "Vaud",
+            "Zurich",
+            "Valais",
+            "Berne",
+            "Tessin"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "explanation": "Les montants des allocations familiales en Suisse varient considérablement d'un canton à l'autre. Voici un aperçu des montants spécifiques pour quelques cantons : Genève, Vaud, Zurich, Valais."
+    },
+    {
+        "question": "11.2.5.6. Quels sont les taux de cotisation pour les allocations familiales dans le canton du Valais ?",
+        "answers": [
+            "2,22% à la charge de l'employeur",
+            "0% à la charge de l'employé",
+            "2,22% à la charge de l'employé",
+            "1% à la charge de l'employeur"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Dans le canton du Valais, une partie des cotisations peut également être à la charge de l'employé. Le taux est de 2,22% à la charge de l'employeur et 0% à la charge de l'employé."
+    },
+    {
+        "question": "11.2.5.7. Vrai ou Faux : Les allocations familiales en Suisse sont versées uniquement pour les enfants résidant en Suisse.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "Les allocations pour enfants à l'étranger ne sont versées que pour les enfants résidant dans des États de l'UE ou de l'AELE."
+    },
+    {
+        "question": "11.2.5.8. Vrai ou Faux : Les employeurs en Suisse doivent s'affilier à une caisse d'allocations familiales pour leurs employés soumis à l'AVS.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Tous les employeurs qui emploient des travailleurs soumis à l'AVS (Assurance Vieillesse et Survivants) doivent s'affilier à une CAF."
+    },
+    {
+        "question": "11.2.5.9. Vous êtes employeur dans le canton de Genève et vous venez d'embaucher un nouvel employé le 15 du mois. Cet employé a deux enfants à charge. Comment devez-vous gérer le versement des allocations familiales pour ce mois ?",
+        "answers": [
+            "Calculer les allocations familiales au prorata des jours travaillés par l'employé dans le mois.",
+            "Verser les allocations familiales pour les jours travaillés et informer l'employé qu'il peut demander des allocations pour les jours restants auprès de son précédent employeur ou selon sa situation.",
+            "Verser les allocations familiales pour l'intégralité du mois, car l'employé a des enfants à charge.",
+            "Ne pas verser d'allocations familiales pour ce mois, car l'employé n'a pas travaillé tout le mois."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "À partir du 1er janvier 2026, les allocations familiales doivent être versées au prorata en cas d'entrée ou de sortie en cours de mois. Dans ce cas, vous devez calculer les allocations pour les jours travaillés par l'employé et l'informer qu'il peut demander des allocations pour les jours restants en fonction de sa situation ou auprès de son précédent employeur."
+    },
+    {
+        "question": "11.2.5.10. Un travailleur indépendant dans le canton du Valais vous demande des informations sur ses obligations concernant les cotisations pour les allocations familiales. Que devez-vous lui répondre ?",
+        "answers": [
+            "Il doit s'affilier à une caisse d'allocations familiales (CAF) et payer les cotisations correspondantes.",
+            "Dans le canton du Valais, une partie des cotisations peut également être à la charge de l'employé, ce qui est une exception.",
+            "Il n'a pas besoin de s'affilier à une CAF, car il est indépendant.",
+            "Les cotisations pour les allocations familiales sont uniquement à la charge des employeurs, donc il n'est pas concerné."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "En Suisse, tous les travailleurs indépendants doivent s'affilier à une caisse d'allocations familiales (CAF) et payer les cotisations correspondantes. Dans le canton du Valais, une particularité existe : une partie des cotisations peut être à la charge de l'employé, contrairement à la règle générale où elles sont entièrement à la charge de l'employeur ou de l'indépendant."
+    },
+    {
+        "question": "11.2.6.1. Quel est l'objectif principal de la prévoyance professionnelle en Suisse ?",
+        "answers": [
+            "Garantir un revenu de remplacement en cas d'incapacité de travail due à une invalidité ou à la vieillesse",
+            "Offrir des prestations uniquement en cas de décès",
+            "Assurer un revenu uniquement pour les employés à temps partiel",
+            "Fournir une assurance maladie"
+        ],
+        "correct": 0,
+        "explanation": "La prévoyance professionnelle en Suisse, également connue sous le nom de 2e pilier, est un élément essentiel du système de sécurité sociale. Elle vise à garantir un revenu de remplacement en cas d'incapacité de travail due à une invalidité ou à la vieillesse."
+    },
+    {
+        "question": "11.2.6.2. À partir de quel salaire mensuel un employeur est-il tenu d'assurer ses employés en Suisse ?",
+        "answers": [
+            "CHF 1'890",
+            "CHF 2'500",
+            "CHF 1'500",
+            "CHF 3'000"
+        ],
+        "correct": 0,
+        "explanation": "Chaque employeur est tenu d'assurer ses employés dès qu'ils atteignent un salaire mensuel de CHF 1'890 ou plus."
+    },
+    {
+        "question": "11.2.6.3. Quels sont les types de prestations couvertes par l'assurance-risque ?",
+        "answers": [
+            "Invalidité",
+            "Décès",
+            "Vieillesse",
+            "Maternité"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Assurance-risque : Couvre les prestations en cas d'invalidité et de décès jusqu'au 24e anniversaire de l'assuré."
+    },
+    {
+        "question": "11.2.6.4. À partir de quel âge les prestations de vieillesse sont-elles financées dans le cadre de la prévoyance professionnelle ?",
+        "answers": [
+            "À partir du 1er janvier suivant le 24e anniversaire",
+            "À partir du 18e anniversaire",
+            "À partir du 30e anniversaire",
+            "À partir du 1er janvier suivant le 17e anniversaire"
+        ],
+        "correct": 0,
+        "explanation": "Assurance-vieillesse : À partir du 1er janvier suivant le 24e anniversaire, les prestations de vieillesse sont financées en plus des prestations d'invalidité et de survivants."
+    },
+    {
+        "question": "11.2.6.5. Quels sont les principes fondamentaux de la prévoyance professionnelle ?",
+        "answers": [
+            "Obligation d'assurer",
+            "Partage des coûts",
+            "Information des employés",
+            "Exonération totale des cotisations pour les employés",
+            "Assurance uniquement pour les travailleurs indépendants"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les principes fondamentaux incluent : Obligation d'assurer, Partage des coûts, Information des employés."
+    },
+    {
+        "question": "11.2.6.6. Quels sont les types de prestations minimales prévues par la prévoyance professionnelle ?",
+        "answers": [
+            "Rente d'invalidité (40%)",
+            "Rente de veuve/de veuf (25%)",
+            "Rente pour enfant (10%)",
+            "Rente de maternité (50%)",
+            "Rente de chômage (30%)"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Table des prestations minimales : Rente d'invalidité (40%), Rente de veuve/de veuf (25%), Rente pour enfant (10%)."
+    },
+    {
+        "question": "11.2.6.7. Quels sont les types de plans de prévoyance proposés par la Caisse de pension GastroSocial ?",
+        "answers": [
+            "Plan Uno",
+            "Plan Scala",
+            "Plans Top, Plus et Integral",
+            "Plan AVS",
+            "Plan AI"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "La Caisse de pension GastroSocial propose les solutions d'assurance suivantes : Uno, Scala, et les 3 solutions de prévoyance Top, Plus et Integral."
+    },
+    {
+        "question": "11.2.6.8. Comment est calculé le salaire assuré dans la prévoyance professionnelle ?",
+        "answers": [
+            "Salaire brut moins le montant de coordination",
+            "Salaire brut multiplié par le taux de conversion",
+            "Salaire brut sans déduction",
+            "Salaire brut divisé par deux"
+        ],
+        "correct": 0,
+        "explanation": "Le salaire assuré est calculé à partir du salaire brut de l'employé, après déduction d'un montant de coordination."
+    },
+    {
+        "question": "11.2.6.9. Quelles sont les options disponibles pour percevoir les prestations de vieillesse ?",
+        "answers": [
+            "Rente de vieillesse",
+            "Capital de vieillesse",
+            "Combinaison des deux",
+            "Rente de maternité",
+            "Assurance chômage"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les prestations de vieillesse peuvent être perçues sous forme de rente, de capital ou de combinaison des deux."
+    },
+    {
+        "question": "11.2.6.10. Vrai ou Faux : Les employeurs doivent assurer leurs employés dès qu'ils atteignent un salaire mensuel de CHF 1'890 ou plus.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Chaque employeur est tenu d'assurer ses employés dès qu'ils atteignent un salaire mensuel de CHF 1'890 ou plus."
+    },
+    {
+        "question": "11.2.6.11. Vrai ou Faux : Les cotisations de prévoyance professionnelle sont entièrement à la charge des employés.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "Les cotisations sont généralement partagées entre l'employeur et l'employé, ce qui permet de répartir le fardeau financier."
+    },
+    {
+        "question": "11.2.6.12. Vous êtes responsable RH dans une entreprise en Suisse. Un employé, âgé de 23 ans, vient de signer un contrat de travail à durée déterminée de 2 mois avec un salaire mensuel de CHF 2'000. Après un mois, l'employé vous informe que son contrat sera prolongé de 2 mois supplémentaires. Que devez-vous faire concernant son assurance de prévoyance professionnelle ?",
+        "answers": [
+            "Informer l'employé qu'il sera assuré dès le jour où la prolongation du contrat est convenue et procéder à son inscription auprès de la caisse de pension.",
+            "Attendre la fin des 3 mois de contrat pour l'assurer.",
+            "Ne pas l'assurer car son contrat initial était limité à 2 mois.",
+            "L'assurer uniquement si son salaire annuel dépasse CHF 22'680."
+        ],
+        "correct": 0,
+        "explanation": "Selon la Loi fédérale sur la prévoyance professionnelle (LPP), un employé avec un contrat limité à moins de 3 mois n'est pas obligatoirement assuré. Cependant, si ce contrat est prolongé, l'obligation d'assurer prend effet immédiatement à partir du jour où la prolongation est convenue. Dans ce cas, l'employé doit être inscrit auprès de la caisse de pension dès la prolongation de son contrat."
+    },
+    {
+        "question": "11.2.6.13. Un employé de votre entreprise, âgé de 26 ans, est en congé maladie depuis 4 mois. Son salaire est de CHF 3'000 par mois. Que devez-vous faire concernant ses cotisations de prévoyance professionnelle ?",
+        "answers": [
+            "Exempter l'employé de l'obligation de cotiser, car il est en incapacité de travail ininterrompue depuis plus de 3 mois.",
+            "Exempter également l'employeur de l'obligation de cotiser, conformément aux règles de la caisse de pension.",
+            "Continuer à déduire les cotisations de l'employé et de l'employeur jusqu'à la fin du contrat de travail.",
+            "Réduire les cotisations de l'employé mais maintenir celles de l'employeur."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "En cas d'incapacité de travail ininterrompue de plus de 3 mois, l'employé est exempté de l'obligation de cotiser, tout comme l'employeur. Cette exemption est valable jusqu'à la fin du rapport de travail ou jusqu'à l'âge ordinaire de la retraite, mais elle est limitée à un maximum de 720 jours, délai d'attente de 3 mois inclus."
+    },
+    {
+        "question": "11.2.7.1. Quel type d'accident est couvert par l'assurance-accidents professionnels (AP) ?",
+        "answers": [
+            "Les accidents survenant dans le cadre de l'activité professionnelle",
+            "Les accidents sur le chemin du travail",
+            "Les accidents survenant en dehors du cadre professionnel",
+            "Les accidents liés à des activités sportives personnelles"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Un accident professionnel est défini comme un événement imprévu qui cause une blessure ou une maladie à un employé dans le cadre de son activité professionnelle. Les accidents sur le chemin du travail sont également considérés comme des accidents professionnels."
+    },
+    {
+        "question": "11.2.7.2. Quelle est la condition pour qu'un employé soit couvert par l'assurance-accidents non professionnels (ANP) ?",
+        "answers": [
+            "Travailler plus de 8 heures par semaine",
+            "Être soumis à l'AVS",
+            "Être en service militaire",
+            "Travailler moins de 8 heures par semaine"
+        ],
+        "correct": 0,
+        "explanation": "En ce qui concerne les accidents non professionnels (ANP), l'assurance est obligatoire uniquement si la durée de travail dépasse 8 heures par semaine."
+    },
+    {
+        "question": "11.2.7.3. Qui est responsable du paiement des primes pour l'assurance-accidents professionnels (AP) ?",
+        "answers": [
+            "L'employeur",
+            "L'employé",
+            "L'État",
+            "Les deux, employeur et employé"
+        ],
+        "correct": 0,
+        "explanation": "Les cotisations pour l'assurance-accidents professionnels (AP) sont entièrement à la charge de l'employeur."
+    },
+    {
+        "question": "11.2.7.4. Quel pourcentage du salaire brut est versé comme indemnité journalière à partir du troisième jour après un accident ?",
+        "answers": [
+            "80 %",
+            "100 %",
+            "88 %",
+            "50 %"
+        ],
+        "correct": 0,
+        "explanation": "En cas d'accident, les employés ont droit à une indemnité journalière qui vise à compenser la perte de revenus due à l'incapacité de travail. L'indemnité journalière est fixée à 80 % du salaire brut de l'employé, et elle commence à partir du 3e jour suivant l'accident."
+    },
+    {
+        "question": "11.2.7.5. Quelle est la durée de versement du complément de salaire pour un employé ayant 5 ans d'ancienneté dans l'entreprise ?",
+        "answers": [
+            "3 mois",
+            "1 mois",
+            "2 mois",
+            "4 mois"
+        ],
+        "correct": 0,
+        "explanation": "Pour les employés qui subissent un accident professionnel, l'employeur doit verser un complément pour atteindre 100 % du salaire brut. La durée de versement est déterminée par l'échelle de Berne : pour un employé ayant 5 ans d'ancienneté, la durée est de 3 mois."
+    },
+    {
+        "question": "11.2.7.6. Vrai ou Faux : Les accidents sur le chemin du travail sont couverts par l'assurance-accidents professionnels.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les accidents sur le chemin du travail sont également considérés comme des accidents professionnels. Cela inclut les incidents survenant pendant le trajet entre le domicile et le lieu de travail."
+    },
+    {
+        "question": "11.2.7.7. Vrai ou Faux : Les employés soumis à l'AVS sont exemptés du paiement des primes pour l'assurance-accidents non professionnels (ANP).",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "Les bénéficiaires d'une allocation de maternité sont exemptés du paiement des primes pour l'assurance ANP, mais les employés soumis à l'AVS ne le sont pas."
+    },
+    {
+        "question": "11.2.7.8. Un employé travaillant 6 heures par semaine dans votre entreprise a un accident en dehors de son lieu de travail. Il vous demande si cet accident est couvert par l'assurance-accidents. Quelle est la meilleure réponse à lui donner ?",
+        "answers": [
+            "L'accident n'est pas couvert par l'assurance-accidents non professionnels, car votre temps de travail est inférieur à 8 heures par semaine.",
+            "Oui, tous les accidents, qu'ils soient professionnels ou non, sont couverts par l'assurance.",
+            "Non, aucun accident en dehors du lieu de travail n'est couvert par l'assurance.",
+            "Oui, mais uniquement si vous êtes en déplacement pour des raisons professionnelles."
+        ],
+        "correct": 0,
+        "explanation": "Selon la Loi fédérale sur l'assurance-accidents (LAA), l'assurance pour les accidents non professionnels (ANP) est obligatoire uniquement si la durée de travail de l'employé dépasse 8 heures par semaine. Dans ce cas précis, l'employé ne travaille que 6 heures par semaine, donc l'accident non professionnel n'est pas couvert par l'assurance."
+    },
+    {
+        "question": "11.2.7.9. Un employé ayant 3 ans d'ancienneté dans votre entreprise subit un accident professionnel. Vous devez calculer la durée pendant laquelle vous êtes tenu de compléter son salaire à 100 % selon l'échelle de Berne. Quelle est la durée correcte ?",
+        "answers": [
+            "2 mois",
+            "3 semaines",
+            "1 mois",
+            "4 mois"
+        ],
+        "correct": 0,
+        "explanation": "Selon l'article 324a du Code des obligations (CO) et l'échelle de Berne, un employé ayant 3 ans d'ancienneté dans l'entreprise a droit à un complément de salaire pour atteindre 100 % de son salaire brut pendant une durée de 2 mois en cas d'accident professionnel."
+    }
+]

@@ -1,0 +1,2097 @@
+[
+    {
+        "question": "8.0.1. Quels sont les principaux objectifs de la directive MSST ?",
+        "answers": [
+            "Protection de la santé et de la sécurité des travailleurs",
+            "Promotion de la prévention systématique",
+            "Augmentation des heures de travail",
+            "Réduction des salaires des employés"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les principaux objectifs de la directive MSST sont les suivants : 1. Protection de la santé et de la sécurité des travailleurs : Assurer un environnement de travail sûr et sain. 2. Obligation d'appel à des spécialistes : Les employeurs doivent faire appel à des médecins du travail et à d'autres spécialistes lorsque cela est nécessaire pour garantir la sécurité au travail. 3. Promotion de la prévention systématique : Encourager une approche proactive pour identifier et gérer les dangers potentiels sur le lieu de travail. 4. Participation des travailleurs : Impliquer les employés dans le processus de sécurité, en les consultant sur les questions de santé et de sécurité."
+    },
+    {
+        "question": "8.0.2. Dans quel cas une entreprise doit-elle obligatoirement faire appel à des spécialistes de la sécurité au travail ?",
+        "answers": [
+            "Si l'entreprise présente des dangers particuliers",
+            "Si l'employeur ne dispose pas des connaissances requises",
+            "Si l'entreprise compte moins de 10 employés",
+            "Si l'entreprise est située en milieu rural"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "L'employeur fait appel à des spécialistes de la sécurité au travail : si son entreprise présente des dangers particuliers au sens de l'annexe 1 ; et s'il ne dispose pas dans son entreprise des connaissances requises pour garantir la sécurité au travail et la protection de la santé."
+    },
+    {
+        "question": "8.0.3. Quelles sont les caractéristiques des entreprises sans dangers particuliers ?",
+        "answers": [
+            "Elles comptent généralement moins de 50 employés",
+            "Elles doivent respecter les règles générales de sécurité au travail",
+            "Elles manipulent des substances chimiques dangereuses",
+            "Elles sont exemptées de toute obligation légale"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les entreprises sans dangers particuliers sont celles qui ne présentent pas de risques significatifs pour la santé et la sécurité des travailleurs. Selon l'annexe 1 de la directive, ces entreprises ne sont pas soumises à des exigences strictes en matière d'appel à des spécialistes de la sécurité au travail. Caractéristiques : Taille : Généralement, ces entreprises comptent moins de 50 employés. Activités : Les activités exercées ne comportent pas de risques mécaniques, électriques, chimiques, ou autres dangers identifiés dans la directive. Obligations : Bien qu'elles ne soient pas tenues de faire appel à des spécialistes, elles doivent respecter les règles générales de sécurité au travail et prendre des mesures de protection appropriées."
+    },
+    {
+        "question": "8.0.4. Quels outils peuvent être utilisés pour identifier les dangers dans une entreprise ?",
+        "answers": [
+            "Check-lists",
+            "Audits de sécurité",
+            "Réduction des heures de travail",
+            "Augmentation des salaires"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Pour identifier les dangers, les entreprises peuvent suivre une méthodologie structurée : 1. Observation directe : Inspecter les lieux de travail pour repérer les dangers potentiels. 2. Consultation des employés : Impliquer les travailleurs dans le processus d'identification. 3. Analyse documentaire : Examiner les rapports d'accidents précédents, les évaluations de risques antérieures et les normes de sécurité applicables. 4. Utilisation d'outils d'évaluation : Appliquer des outils tels que des check-lists, des grilles d'évaluation des risques et des matrices de danger pour systématiser le processus."
+    },
+    {
+        "question": "8.0.5. Quelles sont les tâches typiques des spécialistes de la sécurité au travail ?",
+        "answers": [
+            "Identifier les dangers sur site",
+            "Assurer la formation des employés",
+            "Réduire les salaires des employés",
+            "Augmenter les heures de travail"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les tâches des spécialistes de la sécurité au travail incluent : 1. Identifier systématiquement les dangers et contraintes sur site. 2. Apprécier les risques au poste de travail en collaboration avec d'autres spécialistes. 3. Assurer la formation de base et continue des supérieurs hiérarchiques, préposés à la sécurité et collaborateurs en matière de sécurité au travail et protection de la santé."
+    },
+    {
+        "question": "8.0.6. Vrai ou Faux : Les entreprises avec moins de 10 employés et des dangers particuliers doivent justifier leurs mesures par des moyens simples.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "L'employeur dans l'entreprise duquel existent des dangers particuliers selon l'annexe 1 et qui occupe moins de 10 travailleurs justifie par des moyens simples les mesures qu'il a prises."
+    },
+    {
+        "question": "8.0.7. Vous êtes responsable de la sécurité au travail dans une entreprise de construction employant 15 collaborateurs. Lors d'une inspection, vous identifiez plusieurs dangers mécaniques liés à des équipements de travail en mouvement, ainsi que des risques de chute dans des zones de travail en hauteur. Selon la directive MSST, quelles actions devez-vous entreprendre pour garantir la sécurité des travailleurs et respecter les obligations légales ?",
+        "answers": [
+            "Faire appel à des spécialistes de la sécurité au travail pour évaluer les risques et proposer des mesures adaptées.",
+            "Mettre en place des mesures de protection telles que des garde-corps, des équipements de protection individuelle (EPI) et des formations spécifiques pour les travailleurs.",
+            "Ignorer les dangers identifiés, car les accidents n'ont pas encore eu lieu.",
+            "Reporter l'évaluation des risques à une date ultérieure, car les travaux doivent être terminés rapidement."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "La directive MSST impose aux entreprises présentant des dangers particuliers, comme les dangers mécaniques et les risques de chute, de faire appel à des spécialistes de la sécurité au travail si elles ne disposent pas des connaissances requises en interne. Ces spécialistes peuvent aider à évaluer les risques et recommander des mesures adaptées. En parallèle, l'employeur doit mettre en œuvre des mesures de protection concrètes, telles que des garde-corps, des EPI, et organiser des formations pour sensibiliser les travailleurs aux dangers identifiés. Ignorer les dangers ou reporter leur évaluation mettrait en péril la sécurité des travailleurs et serait contraire aux obligations légales."
+    },
+    {
+        "question": "8.1.1. Quels sont les impacts des risques psychosociaux (RPS) sur les employés ?",
+        "answers": [
+            "Diminution de la productivité",
+            "Augmentation de l'absentéisme",
+            "Turnover élevé",
+            "Augmentation de la motivation",
+            "Réduction du stress"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les impacts des RPS sur les employés peuvent être significatifs, entraînant des conséquences telles que : Diminution de la productivité, Augmentation de l'absentéisme, Turnover élevé."
+    },
+    {
+        "question": "8.1.2. Vrai ou Faux : Le harcèlement est un comportement répétitif et intentionnel visant à nuire à une personne.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Le harcèlement est un comportement systématique qui vise à déstabiliser une personne."
+    },
+    {
+        "question": "8.1.3. Vous êtes manager dans un hôtel et un employé vient vous voir, visiblement stressé, pour vous signaler qu'il se sent harcelé par un collègue. Il explique que ce collègue fait des remarques répétées sur son travail devant les autres, ce qui le met mal à l'aise et affecte sa motivation. Quelle est la meilleure façon de gérer cette situation ?",
+        "answers": [
+            "Écouter attentivement l'employé, lui montrer de l'empathie et lui assurer que vous prenez ses préoccupations au sérieux.",
+            "Informer l'employé des procédures internes pour signaler un comportement inapproprié et lui expliquer les étapes à suivre.",
+            "Enquêter sur la situation en parlant au collègue concerné et à d'autres membres de l'équipe pour comprendre les faits avant de prendre des mesures.",
+            "Dire à l'employé de régler le problème directement avec son collègue sans intervenir.",
+            "Ignorer la plainte et attendre de voir si la situation s'améliore d'elle-même."
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Il est essentiel de traiter les plaintes de harcèlement avec sérieux et empathie. Écouter l'employé permet de montrer que ses préoccupations sont prises en compte, ce qui peut déjà réduire son stress. En expliquant les procédures internes, vous lui donnez les outils nécessaires pour agir dans un cadre structuré. Enfin, une enquête approfondie est indispensable pour comprendre la situation et prendre des mesures appropriées. Ignorer la plainte ou demander à l'employé de régler seul le problème pourrait aggraver la situation et nuire à l'environnement de travail."
+    },
+    {
+        "question": "8.3.1. Quels sont les objectifs principaux de la législation suisse concernant la protection des travailleuses enceintes et mères allaitantes ?",
+        "answers": [
+            "Assurer la santé et la sécurité",
+            "Garantir des droits économiques",
+            "Prévenir la discrimination",
+            "Augmenter les heures de travail des femmes enceintes"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les objectifs principaux de la législation fédérale concernant la protection des travailleuses sont les suivants : Assurer la santé et la sécurité, garantir des droits économiques, prévenir la discrimination, faciliter l'allaitement, renforcer la protection juridique."
+    },
+    {
+        "question": "8.3.2. Quelle est la durée du congé de maternité en Suisse ?",
+        "answers": [
+            "14 semaines",
+            "10 semaines",
+            "16 semaines",
+            "12 semaines"
+        ],
+        "correct": 0,
+        "explanation": "Le congé de maternité dure 14 semaines (98 jours) à partir de la date de l'accouchement."
+    },
+    {
+        "question": "8.3.3. Quel pourcentage du salaire est versé pendant le congé de maternité ?",
+        "answers": [
+            "80%",
+            "100%",
+            "50%",
+            "70%"
+        ],
+        "correct": 0,
+        "explanation": "Les mères reçoivent une indemnité de 80% de leur salaire pendant cette période, financée par l'assurance maternité."
+    },
+    {
+        "question": "8.3.4. Quels travaux sont interdits pour les femmes enceintes selon la législation suisse ?",
+        "answers": [
+            "Déplacement de charges lourdes",
+            "Travaux avec des agents nocifs",
+            "Exposition à des températures extrêmes",
+            "Travail administratif"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les femmes enceintes ne peuvent pas effectuer des travaux qui présentent des risques pour leur santé ou celle de leur enfant, tels que le déplacement de charges lourdes, travaux avec des agents nocifs, conditions de travail extrêmes."
+    },
+    {
+        "question": "8.3.5. À partir de quel mois de grossesse les femmes ont-elles droit à un repos quotidien de 12 heures ?",
+        "answers": [
+            "4ème mois",
+            "6ème mois",
+            "3ème mois",
+            "5ème mois"
+        ],
+        "correct": 0,
+        "explanation": "À partir du 4ème mois de grossesse, les femmes ont droit à un repos quotidien de 12 heures."
+    },
+    {
+        "question": "8.3.6. Quels sont les droits des femmes enceintes concernant les pauses au travail ?",
+        "answers": [
+            "Une pause de 10 minutes après chaque tranche de 2 heures de travail",
+            "Une pause de 30 minutes toutes les 4 heures",
+            "Pas de pause supplémentaire",
+            "Une pause de 15 minutes toutes les 3 heures"
+        ],
+        "correct": 0,
+        "explanation": "Les femmes enceintes ont droit à une pause de 10 minutes après chaque tranche de 2 heures de travail."
+    },
+    {
+        "question": "8.3.7. Quels sont les critères pour bénéficier du congé de maternité ?",
+        "answers": [
+            "Être sous contrat de travail",
+            "Avoir cotisé à l'assurance maternité pendant une période minimale",
+            "Être mère célibataire",
+            "Avoir travaillé au moins 10 ans dans l'entreprise"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Pour bénéficier du congé de maternité, les conditions suivantes doivent être remplies : contrat de travail, avoir cotisé à l'assurance maternité pendant une période minimale."
+    },
+    {
+        "question": "8.3.8. Quels aménagements sont prévus pour les femmes enceintes travaillant debout ?",
+        "answers": [
+            "Limitation à 4 heures de travail debout par jour à partir du 6ème mois",
+            "Interdiction totale de travailler debout",
+            "Limitation à 6 heures de travail debout par jour",
+            "Pas de limitation"
+        ],
+        "correct": 0,
+        "explanation": "À partir du 6ème mois, les femmes ne peuvent pas travailler debout plus de 4 heures par jour."
+    },
+    {
+        "question": "8.3.9. Quels sont les travaux considérés comme dangereux pour les femmes enceintes ?",
+        "answers": [
+            "Travaux avec chocs ou vibrations",
+            "Exposition à des radiations nocives",
+            "Travaux au froid ou à la chaleur extrême",
+            "Travail de bureau"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Parmi les travaux dangereux ou pénibles, il y a notamment : les travaux avec chocs, secousses ou vibrations, les expositions à des radiations nocives, les travaux au froid ou à la chaleur extrême."
+    },
+    {
+        "question": "8.3.10. Quels droits ont les femmes allaitantes concernant le temps d'allaitement ?",
+        "answers": [
+            "Temps d'allaitement rémunéré",
+            "90 minutes pour une journée de travail de plus de 7 heures",
+            "Temps d'allaitement non rémunéré",
+            "30 minutes pour une journée de travail de plus de 7 heures"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Durant la première année de la vie de l'enfant, le temps pris pour allaiter ou tirer le lait compte comme temps de travail rémunéré dans les limites suivantes : 90 minutes pour une journée de travail de plus de 7 heures."
+    },
+    {
+        "question": "8.3.11. Quelle est la durée maximale de la journée de travail pour les femmes enceintes ?",
+        "answers": [
+            "9 heures",
+            "10 heures",
+            "8 heures",
+            "12 heures"
+        ],
+        "correct": 0,
+        "explanation": "La durée ordinaire de la journée de travail prévue par le contrat ne peut être prolongée et elle ne peut en aucun cas dépasser 9 heures de travail."
+    },
+    {
+        "question": "8.3.12. Quels recours sont disponibles en cas de licenciement abusif lié à la maternité ?",
+        "answers": [
+            "Demande d'annulation du licenciement",
+            "Indemnité pour licenciement abusif",
+            "Demande de congé supplémentaire",
+            "Réduction des heures de travail"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les travailleuses victimes de licenciement abusif peuvent demander l'annulation du licenciement et leur réintégration dans l'entreprise ou une indemnité pour licenciement abusif."
+    },
+    {
+        "question": "8.3.13. Quels sont les principes de l'interdiction de discrimination liée à la maternité ?",
+        "answers": [
+            "Discrimination directe et indirecte interdite",
+            "Protection à toutes les étapes de l'emploi",
+            "Discrimination autorisée à l'embauche",
+            "Discrimination autorisée après la maternité"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "La législation interdit toute forme de discrimination liée à la grossesse ou à la maternité, tant à l'embauche qu'en cours d'emploi."
+    },
+    {
+        "question": "8.3.14. Quels sont les droits des femmes enceintes concernant les travaux de nuit ?",
+        "answers": [
+            "Interdiction de travailler entre 20h et 6h pendant les 8 semaines avant l'accouchement",
+            "Obligation de travailler de nuit",
+            "Pas de restriction",
+            "Interdiction de travailler de nuit uniquement après l'accouchement"
+        ],
+        "correct": 0,
+        "explanation": "Durant les 8 semaines avant l'accouchement, il est interdit d'occuper une travailleuse enceinte entre 20h et 6h."
+    },
+    {
+        "question": "8.3.15. Quels sont les droits des femmes enceintes concernant le paiement du salaire en cas d'incapacité de travailler ?",
+        "answers": [
+            "Paiement de 80% du salaire",
+            "Indemnité non déduite des droits au salaire pour d'autres raisons",
+            "Pas de paiement",
+            "Paiement de 50% du salaire"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "En cas d'incapacité de travail due à la grossesse, les femmes ont droit à un paiement de 80% de leur salaire habituel."
+    },
+    {
+        "question": "8.3.16. Quels sont les rôles des offices de conciliation ?",
+        "answers": [
+            "Médiation",
+            "Conseils juridiques",
+            "Résolution obligatoire des conflits",
+            "Sanction des employeurs"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les offices de conciliation offrent des services de médiation pour aider les parties à trouver un accord amiable et fournissent des conseils juridiques."
+    },
+    {
+        "question": "8.3.17. Quels sont les droits des femmes concernant les vacances en cas de grossesse ?",
+        "answers": [
+            "Réduction des vacances après 2 mois d'absence",
+            "Pas de réduction pour le congé de maternité",
+            "Réduction immédiate des vacances",
+            "Augmentation des vacances"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "L'employeur peut réduire la durée des vacances si la travailleuse n'a pas pu travailler durant plus de 2 mois à cause de la grossesse, mais pas suite au congé de maternité."
+    },
+    {
+        "question": "8.3.18. Quels sont les critères pour bénéficier des allocations de maternité ?",
+        "answers": [
+            "Être assurée à l'AVS durant les 9 mois avant l'accouchement",
+            "Avoir travaillé au moins 5 mois avant l'accouchement",
+            "Être mère célibataire",
+            "Avoir un contrat de travail de plus de 10 ans"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Pour toucher les allocations, il faut avoir été assurée à l'AVS durant les 9 mois avant l'accouchement et avoir travaillé au moins 5 mois pendant cette période."
+    },
+    {
+        "question": "8.3.19. Quels sont les droits des femmes concernant les travaux dangereux après l'accouchement ?",
+        "answers": [
+            "Droit à un travail équivalent sans danger",
+            "Paiement de 80% du salaire si aucun travail équivalent n'est disponible",
+            "Obligation de reprendre les travaux dangereux",
+            "Pas de droit au salaire"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Comme les femmes enceintes, celles qui allaitent ne peuvent exécuter des travaux dangereux ou pénibles. Un travail équivalent sans danger doit leur être proposé et, à défaut, elles ont droit au paiement de 80% de leur salaire."
+    },
+    {
+        "question": "8.3.20. Vrai ou Faux : Les femmes enceintes peuvent travailler debout plus de 4 heures par jour à partir du 6ème mois de grossesse.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "À partir du 6ème mois, les femmes ne peuvent pas travailler debout plus de 4 heures par jour."
+    },
+    {
+        "question": "8.3.21. Vrai ou Faux : Les femmes enceintes ont droit à un congé de maternité de 14 semaines rémunéré à 80% de leur salaire.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Le congé de maternité dure 14 semaines avec un paiement de 80% du salaire."
+    },
+    {
+        "question": "8.3.22. Vrai ou Faux : Les femmes enceintes peuvent être licenciées pendant leur grossesse si elles sont en période d'essai.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "La période d'interdiction de licencier ne s'applique pas pendant le temps d'essai."
+    },
+    {
+        "question": "8.3.23. Vrai ou Faux : Les femmes qui allaitent ont droit à des pauses rémunérées pour allaiter leur enfant.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Durant la première année de la vie de l'enfant, le temps pris pour allaiter ou tirer le lait compte comme temps de travail rémunéré."
+    },
+    {
+        "question": "8.3.24. Vrai ou Faux : Les femmes enceintes peuvent être obligées de travailler de nuit pendant les 8 semaines avant l'accouchement.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "Durant les 8 semaines avant l'accouchement, il est interdit d'occuper une travailleuse enceinte entre 20h et 6h."
+    },
+    {
+        "question": "8.3.25. Vrai ou Faux : Les femmes enceintes peuvent demander un aménagement de leur poste de travail pour éviter les risques.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "L'employeur doit occuper les femmes enceintes de telle sorte que leur santé, ainsi que celle de leur enfant, ne soient pas compromises."
+    },
+    {
+        "question": "8.3.26. Vous êtes responsable RH dans une entreprise. Une employée enceinte vous informe qu'elle travaille dans un environnement où elle est exposée à des substances chimiques potentiellement dangereuses. Quelle est la meilleure action à entreprendre ?",
+        "answers": [
+            "Réaliser immédiatement une analyse de risques pour évaluer les dangers et proposer des mesures de prévention adaptées.",
+            "Transférer l'employée à un poste équivalent sans danger si les risques ne peuvent être éliminés.",
+            "Lui demander de continuer à travailler en lui fournissant un équipement de protection individuelle (EPI).",
+            "Lui proposer de prendre un congé non rémunéré jusqu'à la fin de sa grossesse."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "L'employeur a l'obligation de protéger la santé des travailleuses enceintes. Une analyse de risques doit être réalisée pour identifier les dangers. Si les risques ne peuvent être éliminés, l'employée doit être transférée à un poste sans danger ou, à défaut, elle a droit à 80% de son salaire."
+    },
+    {
+        "question": "8.3.27. Une employée enceinte, travaillant principalement debout, vous informe qu'elle ressent une fatigue importante à partir de son 6ème mois de grossesse. Que devez-vous faire ?",
+        "answers": [
+            "Limiter son temps de travail debout à 4 heures par jour, conformément à la législation.",
+            "Lui accorder des pauses supplémentaires de 10 minutes après chaque tranche de 2 heures de travail.",
+            "Lui demander de continuer à travailler debout comme avant, car elle n'a pas fourni de certificat médical.",
+            "Lui proposer de prendre un congé sans solde si elle ne peut pas continuer à travailler debout."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "À partir du 6ème mois de grossesse, la législation impose une limitation du temps de travail debout à 4 heures par jour et des pauses supplémentaires pour protéger la santé de la travailleuse enceinte."
+    },
+    {
+        "question": "8.3.28. Une employée enceinte vous informe qu'elle ne souhaite plus travailler de nuit. Cependant, vous n'avez pas de poste de jour équivalent à lui proposer. Quelle est la meilleure solution ?",
+        "answers": [
+            "Lui permettre de rester à la maison et lui verser 80% de son salaire.",
+            "Lui demander de continuer à travailler de nuit jusqu'à ce qu'un poste de jour soit disponible.",
+            "Lui proposer de prendre un congé non rémunéré.",
+            "Lui demander de trouver elle-même une solution pour adapter son emploi du temps."
+        ],
+        "correct": 0,
+        "explanation": "La législation interdit d'occuper une femme enceinte de nuit si elle ne le souhaite pas. Si aucun poste de jour équivalent n'est disponible, l'employée a le droit de ne pas travailler et de percevoir 80% de son salaire."
+    },
+    {
+        "question": "8.3.29. Une employée enceinte vous informe qu'elle souhaite s'absenter pour se reposer en raison d'une fatigue importante. Elle n'a pas de certificat médical. Quelle est la meilleure réponse ?",
+        "answers": [
+            "Lui permettre de s'absenter, mais l'informer que son salaire ne sera pas payé sans certificat médical.",
+            "Refuser son absence car elle n'a pas de certificat médical.",
+            "Lui demander de continuer à travailler malgré sa fatigue.",
+            "Lui accorder une absence rémunérée sans condition."
+        ],
+        "correct": 0,
+        "explanation": "Une travailleuse enceinte peut s'absenter si elle en ressent le besoin, mais son salaire ne sera payé que si elle fournit un certificat médical attestant de son incapacité à travailler."
+    },
+    {
+        "question": "8.3.30. Une employée revient de son congé de maternité de 14 semaines et souhaite prolonger son absence pour rester avec son enfant. Que devez-vous faire ?",
+        "answers": [
+            "Lui permettre de ne pas travailler durant les 15ème et 16ème semaines après l'accouchement, mais l'informer qu'elle ne sera pas rémunérée.",
+            "Lui refuser cette demande car elle a déjà bénéficié de son congé de maternité.",
+            "Lui demander de reprendre immédiatement le travail sous peine de sanction.",
+            "Lui accorder un congé supplémentaire rémunéré sans condition."
+        ],
+        "correct": 0,
+        "explanation": "Après le congé de maternité de 14 semaines, une travailleuse peut choisir de ne pas travailler durant les 15ème et 16ème semaines, mais elle ne sera pas rémunérée, sauf en cas d'incapacité médicale."
+    },
+    {
+        "question": "8.3.31. Une employée enceinte vous informe qu'elle a été licenciée après avoir annoncé sa grossesse. Que devez-vous faire ?",
+        "answers": [
+            "Annuler immédiatement le licenciement car il est nul selon la législation.",
+            "Informer l'employée qu'elle est protégée contre le licenciement pendant toute la durée de sa grossesse et jusqu'à 16 semaines après l'accouchement.",
+            "Maintenir le licenciement car il a été décidé avant qu'elle n'annonce sa grossesse.",
+            "Lui proposer une indemnité pour éviter tout recours juridique."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "La législation interdit de licencier une travailleuse enceinte ou accouchée pendant la période de protection. Tout licenciement dans cette période est nul et doit être annulé."
+    },
+    {
+        "question": "8.4.1. Qu'est-ce que le stress selon Hans Selye ?",
+        "answers": [
+            "Une réaction normale de l'organisme face à des situations perçues comme menaçantes ou difficiles",
+            "Une maladie mentale",
+            "Une émotion négative",
+            "Une réaction anormale de l'organisme"
+        ],
+        "correct": 0,
+        "explanation": "Selon le biologiste canadien Hans Selye, qui a introduit le concept dans les années 1930, le stress est une réaction normale de l'organisme face à des situations perçues comme menaçantes ou difficiles."
+    },
+    {
+        "question": "8.4.2. Quels sont les effets du stress chronique ?",
+        "answers": [
+            "Effets néfastes sur la santé physique et mentale",
+            "Amélioration de la concentration",
+            "Augmentation de la productivité",
+            "Réduction des maladies cardiovasculaires"
+        ],
+        "correct": 0,
+        "explanation": "Lorsque le stress devient chronique, il peut avoir des effets néfastes sur la santé physique et mentale."
+    },
+    {
+        "question": "8.4.3. Quelles sont les trois dimensions principales du modèle de Karasek ?",
+        "answers": [
+            "Exigences du travail",
+            "Autonomie",
+            "Soutien social",
+            "Compétences techniques",
+            "Horaires de travail",
+            "Reconnaissance professionnelle"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Ce modèle repose sur trois dimensions principales : exigences du travail, autonomie, et soutien social."
+    },
+    {
+        "question": "8.4.4. Quels sont les impacts du stress professionnel sur la santé mentale ?",
+        "answers": [
+            "Anxiété",
+            "Dépression",
+            "Troubles du sommeil",
+            "Augmentation de la créativité",
+            "Amélioration de la mémoire",
+            "Réduction de la fatigue"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Le stress professionnel a des conséquences significatives sur la santé mentale, telles que l'anxiété, la dépression, et les troubles du sommeil."
+    },
+    {
+        "question": "8.4.5. Quels facteurs liés au travail peuvent augmenter le stress ?",
+        "answers": [
+            "Surcharge de travail",
+            "Mauvaise ambiance de travail",
+            "Manque de reconnaissance",
+            "Horaires flexibles",
+            "Soutien social élevé",
+            "Autonomie importante"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Le stress au travail est souvent le résultat d'une combinaison de facteurs liés à l'environnement professionnel, tels que la surcharge de travail, une mauvaise ambiance de travail, et le manque de reconnaissance."
+    },
+    {
+        "question": "8.4.6. Quels sont les objectifs des approches de prévention du stress ?",
+        "answers": [
+            "Réduire les facteurs de stress",
+            "Promouvoir un environnement de travail sain",
+            "Augmenter la pression pour performer",
+            "Ignorer les préoccupations des employés"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "La prévention du stress professionnel repose sur plusieurs approches qui visent à réduire les facteurs de stress et à promouvoir un environnement de travail sain."
+    },
+    {
+        "question": "8.4.7. Quels sont les impacts des conditions de travail stressantes ?",
+        "answers": [
+            "Problèmes de santé physique",
+            "Problèmes de santé mentale",
+            "Augmentation de la satisfaction au travail",
+            "Réduction des conflits interpersonnels"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les employés travaillant dans des conditions stressantes sont plus susceptibles de souffrir de problèmes de santé physique et mentale."
+    },
+    {
+        "question": "8.4.8. Quelles stratégies peuvent être utilisées pour prévenir le stress au travail ?",
+        "answers": [
+            "Amélioration des conditions de travail",
+            "Formation et sensibilisation",
+            "Promotion de la communication",
+            "Augmentation des exigences professionnelles",
+            "Réduction du soutien social",
+            "Ignorer les préoccupations des employés"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "La prévention du stress nécessite des stratégies comme l'amélioration des conditions de travail, la formation et sensibilisation, et la promotion de la communication."
+    },
+    {
+        "question": "8.4.9. Vrai ou Faux : Le stress est uniquement une réaction mentale.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "Le stress, cela ne se passe pas uniquement dans la tête ! Il s'agit d'une réaction physiologique qui consiste en la libération, dans l'organisme, de substances permettant de mobiliser toutes nos capacités et nos forces afin d'échapper à un danger."
+    },
+    {
+        "question": "8.4.10. Vrai ou Faux : Le stress peut être bénéfique à court terme.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Le stress prépare l'individu à réagir rapidement face à un danger, ce qui peut être bénéfique à court terme."
+    },
+    {
+        "question": "8.4.11. Vrai ou Faux : Les employés amènent souvent leurs problèmes personnels au travail, ce qui est la principale cause de stress.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "L'idée parfois exprimée selon laquelle les employés 'amèneraient' au travail leurs problèmes personnels est donc le plus souvent erronée !"
+    },
+    {
+        "question": "8.4.12. Vous êtes manager dans une entreprise où plusieurs employés se plaignent d'une surcharge de travail et montrent des signes de stress chronique (absentéisme accru, baisse de productivité). Quelle serait la meilleure approche pour gérer cette situation ?",
+        "answers": [
+            "Réévaluer la répartition des tâches et ajuster les charges de travail pour éviter la surcharge.",
+            "Organiser une réunion avec les employés concernés pour discuter des problèmes et trouver des solutions collectives.",
+            "Ignorer les plaintes des employés et attendre que la situation s'améliore d'elle-même.",
+            "Proposer uniquement des massages ou des cours de gestion du stress sans modifier les conditions de travail."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "La surcharge de travail est une cause majeure de stress au travail. Il est essentiel de réévaluer les conditions de travail et de discuter avec les employés pour identifier les problèmes et trouver des solutions adaptées. Les mesures individuelles comme les massages peuvent être utiles à court terme, mais elles ne résolvent pas les causes profondes du stress."
+    },
+    {
+        "question": "8.4.13. Un employé de votre équipe montre des signes de stress liés à un manque de clarté dans ses responsabilités et à une faible autonomie dans son travail. Comment pouvez-vous l'aider à mieux gérer cette situation ?",
+        "answers": [
+            "Clarifier les rôles et responsabilités de l'employé pour réduire l'incertitude.",
+            "Augmenter son autonomie en lui permettant de prendre des décisions sur certaines tâches.",
+            "Lui demander de travailler plus rapidement pour compenser son stress.",
+            "Lui conseiller de prendre des congés sans chercher à résoudre les problèmes liés à son rôle."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Un manque de clarté dans les responsabilités et une faible autonomie sont des facteurs de stress identifiés dans le modèle de Karasek. En clarifiant les rôles et en augmentant l'autonomie, vous permettez à l'employé de mieux gérer ses tâches et de réduire son stress. Ignorer ces aspects ou lui demander de travailler plus vite ne ferait qu'aggraver la situation."
+    },
+    {
+        "question": "8.4.14. Vous remarquez que l'ambiance de travail dans votre équipe est tendue, avec des conflits fréquents entre collègues. Cela semble affecter leur bien-être et leur productivité. Quelle serait la meilleure action à entreprendre ?",
+        "answers": [
+            "Encourager un dialogue ouvert entre les membres de l'équipe pour résoudre les conflits.",
+            "Mettre en place des activités de team building pour renforcer les relations entre collègues.",
+            "Ignorer les tensions et espérer qu'elles disparaissent avec le temps.",
+            "Réprimander les employés impliqués dans les conflits sans chercher à comprendre les causes."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les conflits interpersonnels et une mauvaise ambiance de travail sont des facteurs qui exacerbent le stress. Encourager la communication et organiser des activités de team building peuvent améliorer les relations et réduire les tensions. Ignorer les problèmes ou réprimander les employés sans comprendre les causes ne résoudra pas la situation."
+    },
+    {
+        "question": "8.5.1. Quels types de travaux sont interdits pour les jeunes de moins de 16 ans ?",
+        "answers": [
+            "Travaux impliquant des machines lourdes",
+            "Travaux avec des substances toxiques",
+            "Travaux légers",
+            "Travaux dans des bureaux"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les jeunes de moins de 16 ans ne peuvent pas effectuer de travaux considérés comme dangereux, tels que ceux impliquant des machines lourdes ou des substances toxiques."
+    },
+    {
+        "question": "8.5.2. À partir de quel âge les jeunes peuvent-ils travailler dans le cadre de leur formation professionnelle ?",
+        "answers": [
+            "Dès 14 ans",
+            "Dès 13 ans",
+            "Dès 15 ans",
+            "Dès 16 ans"
+        ],
+        "correct": 0,
+        "explanation": "Les jeunes de 14 ans et plus ont accès à des activités professionnelles plus diversifiées, notamment dans le cadre de leur formation."
+    },
+    {
+        "question": "8.5.3. Quelle est la durée maximale de travail pour les jeunes de moins de 13 ans ?",
+        "answers": [
+            "3 heures par jour",
+            "5 heures par jour",
+            "8 heures par jour",
+            "9 heures par jour"
+        ],
+        "correct": 0,
+        "explanation": "Les jeunes de moins de 13 ans peuvent participer à certaines activités autorisées, principalement dans des contextes culturels ou artistiques, avec un maximum de 3 heures par jour."
+    },
+    {
+        "question": "8.5.4. Quels emplois sont interdits pour les jeunes de 15 ans ?",
+        "answers": [
+            "Service à la clientèle dans les hôtels",
+            "Service à la clientèle dans les cafés",
+            "Travaux légers",
+            "Emplois dans les bureaux"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "À partir de 15 ans, les jeunes travailleurs peuvent accéder à un éventail plus large d'activités professionnelles, mais certaines restrictions demeurent, comme l'interdiction du service à la clientèle dans les hôtels, restaurants, cafés, et entreprises de divertissement."
+    },
+    {
+        "question": "8.5.5. Dans quelles circonstances les jeunes de 16 ans peuvent-ils travailler la nuit ?",
+        "answers": [
+            "Dans le cadre de la formation professionnelle",
+            "En cas de force majeure avec autorisation cantonale",
+            "Pour des travaux légers",
+            "Sans autorisation spécifique"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Le travail de nuit et le travail le dimanche sont possibles uniquement pour la formation professionnelle, sous réserve d'une autorisation spécifique, ou en cas de force majeure avec autorisation cantonale."
+    },
+    {
+        "question": "8.5.6. Vrai ou Faux : Les jeunes de moins de 13 ans peuvent travailler jusqu'à 23h00 lors d'événements exceptionnels.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les jeunes de moins de 13 ans peuvent participer à certaines activités autorisées, avec possibilité d'occupation jusqu'à 23h00 lors d'événements exceptionnels."
+    },
+    {
+        "question": "8.5.7. Vous êtes responsable d'un jeune travailleur de 15 ans qui souhaite travailler dans un restaurant en tant que serveur. Il vous informe qu'il est disponible pour travailler le dimanche et jusqu'à 23h00. Quelle est la meilleure manière de gérer cette situation en respectant les réglementations en vigueur ?",
+        "answers": [
+            "Informer le jeune travailleur que le service à la clientèle dans les restaurants est interdit pour les jeunes de 15 ans.",
+            "Expliquer que le travail le dimanche et jusqu'à 23h00 est interdit pour les jeunes de 15 ans, sauf exceptions spécifiques pour les régions touristiques ou la formation professionnelle.",
+            "Autoriser le jeune à travailler dans le restaurant le dimanche et jusqu'à 23h00, car il est motivé et disponible.",
+            "Permettre au jeune de travailler dans le restaurant en tant que serveur, mais uniquement jusqu'à 22h00."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les jeunes de 15 ans ne sont pas autorisés à travailler dans le service à la clientèle des hôtels, restaurants, cafés ou entreprises de divertissement, conformément à l'article 29 et 30, alinéa 1 de la LTr et l'article 5 de l'OLT5. De plus, le travail le dimanche et jusqu'à 23h00 est interdit pour les jeunes de cet âge, sauf dans des cas spécifiques tels que les régions touristiques ou la formation professionnelle avec autorisation. Il est essentiel de respecter ces réglementations pour garantir leur sécurité et leur bien-être."
+    },
+    {
+        "question": "9.1.1. Quels sont les objectifs principaux de la Loi sur la protection de l'environnement (LPE) ?",
+        "answers": [
+            "Protéger la biodiversité",
+            "Améliorer la qualité de vie",
+            "Imposer la responsabilité des pollueurs",
+            "Augmenter la production industrielle"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "La LPE a pour but principal de protéger les êtres vivants et les ressources naturelles contre les atteintes nuisibles ou incommodantes. Voici les objectifs clés de la LPE : Protection de la biodiversité, Prévention des nuisances, Amélioration de la qualité de vie, Responsabilité des pollueurs."
+    },
+    {
+        "question": "9.1.2. Quel principe fondamental de la LPE impose aux pollueurs de couvrir les coûts de la pollution qu'ils génèrent ?",
+        "answers": [
+            "Principe de causalité",
+            "Principe de prévention",
+            "Principe de durabilité",
+            "Principe de participation"
+        ],
+        "correct": 0,
+        "explanation": "Principe de causalité : Ce principe stipule que le pollueur est responsable des coûts liés à la pollution qu'il génère. Cela signifie que ceux qui causent des nuisances doivent en assumer les conséquences financières."
+    },
+    {
+        "question": "9.1.3. Quelles sont les stratégies de lutte contre le bruit ?",
+        "answers": [
+            "Prévention à la source",
+            "Isolation phonique",
+            "Gestion des horaires d'activité",
+            "Augmentation des émissions sonores"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "La gestion des nuisances sonores repose sur plusieurs stratégies de lutte qui visent à prévenir et à réduire l'impact du bruit sur la population. Voici les principales stratégies : Prévention à la source, Isolation phonique, Réglementation et sensibilisation, Gestion des horaires d'activité."
+    },
+    {
+        "question": "9.1.4. Quelles sont les valeurs limites d'exposition (VLE) pour le bruit provenant des activités industrielles ?",
+        "answers": [
+            "85 dB(A)",
+            "65 dB(A)",
+            "70 dB(A)",
+            "75 dB(A)"
+        ],
+        "correct": 0,
+        "explanation": "Les valeurs limites d'exposition (VLE) sont des seuils établis pour protéger la santé publique contre les nuisances sonores. [...] Activités industrielles : 85 dB(A)."
+    },
+    {
+        "question": "9.1.5. Vrai ou Faux : Les citoyens doivent être impliqués dans les décisions concernant les projets ayant un impact sur l'environnement.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Principe de participation : Les citoyens et les parties prenantes doivent être impliqués dans le processus décisionnel concernant les projets ayant un impact sur l'environnement. Cela favorise la transparence et l'acceptation sociale des mesures prises."
+    },
+    {
+        "question": "9.1.6. Vous êtes responsable d'un projet de construction d'un nouveau bâtiment résidentiel situé à proximité d'une zone industrielle. Lors de l'examen du permis de construire, vous constatez que les niveaux de bruit dans la zone dépassent les valeurs limites d'exposition (85 dB(A) pour les activités industrielles). Quelle est la meilleure action à entreprendre pour respecter les exigences légales et protéger les futurs résidents ?",
+        "answers": [
+            "Intégrer des matériaux isolants dans la construction pour réduire la transmission du bruit à l'intérieur des bâtiments.",
+            "Installer des barrières acoustiques entre la zone industrielle et le bâtiment résidentiel pour atténuer le bruit ambiant.",
+            "Ignorer les niveaux de bruit actuels, car ils ne concernent pas directement le bâtiment en construction.",
+            "Réduire la taille du bâtiment pour minimiser l'impact du bruit sur les résidents."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Pour garantir un environnement sonore sain et respecter les exigences légales, il est essentiel de prendre des mesures préventives et correctives. L'intégration de matériaux isolants dans la construction et l'installation de barrières acoustiques sont des stratégies efficaces pour réduire l'impact du bruit sur les futurs résidents. Ignorer les niveaux de bruit ou réduire la taille du bâtiment ne répond pas aux objectifs de la LPE ni aux principes de prévention et de durabilité."
+    },
+    {
+        "question": "9.1.7. Quel est l'objectif principal de la Loi sur la protection de l'environnement (LPE) ?",
+        "answers": [
+            "Protéger l'environnement en Suisse",
+            "Limiter les nuisances sonores et protéger la santé publique",
+            "Réglementer uniquement les émissions industrielles",
+            "Encourager l'utilisation des lasers dans les événements"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "La Loi sur la protection de l'environnement (LPE), entrée en vigueur le 1er janvier 1985, constitue le cadre législatif principal en Suisse pour la protection de l'environnement. Elle impose des obligations aux exploitants d'établissements publics afin de limiter les nuisances sonores et de protéger la santé publique."
+    },
+    {
+        "question": "9.1.8. Quels principes sont inclus dans la législation environnementale suisse ?",
+        "answers": [
+            "Principe de précaution",
+            "Principe de pollueur-payeur",
+            "Principe de durabilité",
+            "Principe de réduction des taxes environnementales"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les principes généraux de la législation environnementale incluent : le principe de précaution, le principe de pollueur-payeur, le principe de durabilité, le principe d'intégration et le principe de participation."
+    },
+    {
+        "question": "9.1.9. Quelles sont les obligations des exploitants selon la LPE ?",
+        "answers": [
+            "Respecter les normes de sécurité et d'hygiène",
+            "Mettre en œuvre des mesures pour limiter les nuisances sonores",
+            "Réduire les émissions de CO2 uniquement",
+            "Installer des lasers dans les établissements publics"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les exploitants doivent respecter les normes de sécurité, d'hygiène et de protection de l'environnement, en mettant en œuvre des mesures pour limiter les nuisances sonores."
+    },
+    {
+        "question": "9.1.10. Que stipule le principe de causalité ?",
+        "answers": [
+            "Le pollueur doit assumer les coûts de la pollution qu'il génère",
+            "Les coûts de la pollution sont partagés par l'État",
+            "Les pollueurs ne sont pas responsables des nuisances sonores",
+            "Les entreprises polluantes reçoivent des subventions"
+        ],
+        "correct": 0,
+        "explanation": "Le principe de causalité stipule que le pollueur doit assumer les coûts de la pollution qu'il génère, ce qui incite à une gestion proactive des nuisances."
+    },
+    {
+        "question": "9.1.11. Quels sont les niveaux d'intervention de la stratégie de lutte contre le bruit ?",
+        "answers": [
+            "Prévention des nuisances sonores",
+            "Application des valeurs limites d'exposition (VLE)",
+            "Assainissement en cas de dépassement des VLE",
+            "Assainissement urgent en cas de dépassement des VLA",
+            "Suppression totale des activités bruyantes"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "explanation": "La stratégie de lutte contre le bruit comprend plusieurs niveaux : prévention, application des VLE, assainissement en cas de dépassement des VLE, et assainissement urgent en cas de dépassement des VLA."
+    },
+    {
+        "question": "9.1.12. Quelles sont les exigences de la Norme SIA 181 ?",
+        "answers": [
+            "Protection contre les bruits extérieurs",
+            "Protection contre les bruits intérieurs",
+            "Évaluation des installations techniques",
+            "Réduction des émissions de CO2 dans les bâtiments"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "La Norme SIA 181 aborde plusieurs aspects cruciaux : protection contre les bruits extérieurs, protection contre les bruits intérieurs, et évaluation des installations techniques."
+    },
+    {
+        "question": "9.1.13. Quels sont les outils réglementaires pour gérer les nuisances sonores ?",
+        "answers": [
+            "Valeurs limites d'exposition (VLE)",
+            "Valeurs limites d'assainissement (VLA)",
+            "Valeurs limites de CO2",
+            "Valeurs limites de consommation énergétique"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les valeurs limites d'exposition (VLE) et les valeurs limites d'assainissement (VLA) sont des outils réglementaires cruciaux pour la gestion des nuisances sonores."
+    },
+    {
+        "question": "9.1.14. Quelles sont les mesures prévues par l'Ordonnance son et laser (OSLa) ?",
+        "answers": [
+            "Limitation des émissions sonores à 93 dB(A) sur une heure",
+            "Utilisation de limiteurs et sonomètres pour contrôler les niveaux sonores",
+            "Suppression des lasers dans les événements",
+            "Réduction des émissions de CO2 dans les concerts"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "L'OSLa impose des niveaux sonores maximums à ne pas dépasser (93 dB(A) sur une heure) et exige l'utilisation de dispositifs de contrôle comme des limiteurs et des sonomètres."
+    },
+    {
+        "question": "9.1.15. Quels sont les objectifs de la Directive Cercle Bruit ?",
+        "answers": [
+            "Évaluer les nuisances sonores des établissements publics",
+            "Proposer des mesures d'assainissement en cas de dépassement des limites",
+            "Réduire les émissions de CO2 des établissements publics",
+            "Encourager l'utilisation des lasers dans les événements"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "La Directive Cercle Bruit vise à évaluer les nuisances sonores liées à l'exploitation des établissements publics et propose des mesures d'assainissement lorsque les niveaux de bruit dépassent les limites."
+    },
+    {
+        "question": "9.1.16. Vrai ou Faux : Les valeurs limites d'exposition (VLE) varient selon le type de bruit et l'environnement.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les valeurs limites d'exposition (VLE) varient selon le type de bruit et l'environnement (urbain, rural, etc.)."
+    },
+    {
+        "question": "9.1.17. Vrai ou Faux : L'Ordonnance sur la protection contre le bruit (OPB) s'applique uniquement aux nouvelles installations.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "L'OPB fixe des limites pour les émissions sonores provenant d'installations nouvelles ou existantes."
+    },
+    {
+        "question": "9.1.18. Vous êtes responsable d'un établissement public et recevez une plainte d'un riverain concernant des nuisances sonores excessives générées par une soirée organisée dans votre établissement. Le riverain affirme que le bruit dépasse les valeurs limites d'exposition (VLE) autorisées pour la nuit. Quelle est la meilleure action à entreprendre pour résoudre cette situation ?",
+        "answers": [
+            "Mesurer les niveaux sonores à l'aide d'un sonomètre pour vérifier s'ils dépassent les VLE.",
+            "Mettre en place des mesures d'assainissement, comme l'installation de barrières acoustiques, si les VLE sont dépassées.",
+            "Ignorer la plainte, car les événements sont essentiels pour l'activité de l'établissement.",
+            "Continuer les événements sans modification, en expliquant au riverain que les nuisances sonores sont inévitables."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "En cas de plainte pour nuisances sonores, il est essentiel de mesurer les niveaux sonores pour vérifier leur conformité avec les valeurs limites d'exposition (VLE). Si les VLE sont dépassées, des mesures d'assainissement doivent être mises en œuvre, comme l'installation de barrières acoustiques ou la modification des horaires d'exploitation, afin de respecter la réglementation et de protéger la santé publique."
+    },
+    {
+        "question": "9.1.19. Vous planifiez un événement dans votre établissement public qui inclut de la musique amplifiée. Comment pouvez-vous vous assurer que l'événement respecte les réglementations en matière de nuisances sonores ?",
+        "answers": [
+            "Installer un limiteur de son pour garantir que les niveaux sonores ne dépassent pas 93 dB(A) en moyenne sur une heure.",
+            "Planifier l'événement en dehors des heures de tranquillité pour minimiser l'impact sur les riverains.",
+            "Ne pas utiliser de dispositif de contrôle sonore, car les événements sont temporaires.",
+            "Ignorer les réglementations sonores, car les participants à l'événement sont prioritaires."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Pour respecter les réglementations en matière de nuisances sonores, il est crucial d'utiliser un limiteur de son pour contrôler les niveaux sonores et de planifier les événements en dehors des heures de tranquillité. Ces mesures permettent de minimiser l'impact sur les riverains tout en garantissant la conformité avec les normes établies, comme celles de l'Ordonnance son et laser (OSLa)."
+    },
+    {
+        "question": "9.1.20. Quels sont les objectifs principaux de l'Ordonnance sur la protection de l'air (OPair) ?",
+        "answers": [
+            "Protéger la santé humaine",
+            "Limiter les émissions à la source",
+            "Encourager l'utilisation des combustibles fossiles",
+            "Supprimer les réglementations locales"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "L'OPair vise à protéger la santé publique et l'environnement contre les pollutions atmosphériques nuisibles. Elle impose des restrictions sur les émissions de polluants à la source."
+    },
+    {
+        "question": "9.1.21. Quelles mesures sont incluses dans la limitation préventive des émissions ?",
+        "answers": [
+            "Utilisation de technologies de combustion améliorées",
+            "Adoption d'énergies renouvelables",
+            "Augmentation des émissions pour tester les systèmes",
+            "Suppression des inspections régulières"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "La limitation préventive des émissions implique l'adoption de mesures techniques et de pratiques visant à minimiser les rejets de polluants dans l'air, comme les technologies de combustion améliorées et les énergies renouvelables."
+    },
+    {
+        "question": "9.1.22. Quels types de systèmes de filtration sont mentionnés pour réduire les polluants ?",
+        "answers": [
+            "Filtres à particules",
+            "Filtres à charbon actif",
+            "Systèmes de chauffage au charbon",
+            "Réacteurs nucléaires"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les systèmes de filtration incluent les filtres à particules, les systèmes de lavage des gaz et les filtres à charbon actif, qui capturent les polluants avant leur libération dans l'atmosphère."
+    },
+    {
+        "question": "9.1.23. Quelles sont les recommandations pour la hauteur des cheminées ?",
+        "answers": [
+            "Dépasser le toit de 1,5 m pour les toits plats",
+            "Dépasser d'au moins 1 m les bâtiments voisins dans un rayon de 15 m",
+            "Être au même niveau que le toit",
+            "Être plus bas que les bâtiments voisins"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les cheminées doivent dépasser le toit de 1,5 m pour les toits plats et d'au moins 1 m les bâtiments voisins dans un rayon de 15 m pour garantir une dispersion adéquate des émissions."
+    },
+    {
+        "question": "9.1.24. Quels critères doivent être respectés pour éviter de gêner le voisinage avec les cheminées ?",
+        "answers": [
+            "Orientation des cheminées loin des zones sensibles",
+            "Conformité aux réglementations locales",
+            "Augmentation des émissions pour tester les impacts",
+            "Suppression des inspections régulières"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Pour éviter de gêner le voisinage, les cheminées doivent être orientées loin des zones sensibles et respecter les réglementations locales, incluant des inspections régulières."
+    },
+    {
+        "question": "9.1.25. Quelles sont les obligations des exploitants selon la Loi sur la protection de l'environnement (LPE) ?",
+        "answers": [
+            "Respecter des normes strictes en matière de sécurité",
+            "Limiter les nuisances sonores et olfactives",
+            "Ignorer les normes environnementales",
+            "Augmenter les émissions pour tester les systèmes"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les exploitants doivent respecter des normes strictes en matière de sécurité, d'hygiène et de protection de l'environnement, incluant la limitation des nuisances sonores et olfactives."
+    },
+    {
+        "question": "9.1.26. Vrai ou Faux : Le principe de causalité impose au pollueur de couvrir les coûts de la pollution qu'il génère.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Le principe de causalité stipule que le pollueur doit assumer les coûts liés à la pollution qu'il génère, encourageant ainsi des pratiques plus durables."
+    },
+    {
+        "question": "9.1.27. Vrai ou Faux : Les filtres à particules peuvent atteindre une efficacité supérieure à 99 % pour les particules fines.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les filtres à particules peuvent atteindre des taux d'efficacité supérieurs à 99 % pour les particules fines."
+    },
+    {
+        "question": "9.1.28. Vous êtes responsable d'une installation industrielle et recevez une plainte d'un voisin concernant des nuisances olfactives importantes provenant de votre site. Vous savez que votre installation est équipée d'un système de filtration, mais il n'a pas été inspecté récemment. Quelle est la meilleure action à entreprendre pour résoudre ce problème ?",
+        "answers": [
+            "Effectuer immédiatement une inspection et une maintenance du système de filtration pour s'assurer qu'il fonctionne correctement.",
+            "Collaborer avec les autorités locales pour évaluer l'impact des émissions et garantir la conformité aux réglementations.",
+            "Ignorer la plainte, car votre installation est déjà équipée d'un système de filtration.",
+            "Proposer au voisin une compensation financière pour éviter qu'il ne dépose une plainte officielle."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "La meilleure approche consiste à inspecter et entretenir le système de filtration pour garantir son efficacité, conformément aux exigences de l'Ordonnance sur la protection de l'air (OPair). Collaborer avec les autorités locales permet également de s'assurer que les normes de qualité de l'air sont respectées et de maintenir de bonnes relations avec le voisinage."
+    },
+    {
+        "question": "9.1.29. Vous êtes chargé de superviser un projet de construction d'une nouvelle cheminée industrielle. Lors de la conception, vous remarquez que la hauteur prévue de la cheminée est inférieure aux recommandations fédérales. Que devez-vous faire pour garantir la conformité et minimiser l'impact environnemental ?",
+        "answers": [
+            "Ajuster la hauteur de la cheminée pour qu'elle dépasse d'au moins 1,5 m le toit plat du bâtiment, conformément aux recommandations.",
+            "Réaliser une évaluation des impacts environnementaux pour vérifier que les émissions ne gêneront pas les zones sensibles environnantes.",
+            "Maintenir la hauteur prévue initialement, car elle est suffisante pour évacuer les fumées.",
+            "Installer un système de filtration supplémentaire sans modifier la hauteur de la cheminée."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Pour garantir la conformité, la cheminée doit respecter les recommandations fédérales en matière de hauteur, notamment dépasser de 1,5 m les toits plats ou de 0,5 m les toits inclinés. Une évaluation des impacts environnementaux est également essentielle pour minimiser les nuisances pour le voisinage et protéger la qualité de l'air."
+    },
+    {
+        "question": "9.1.30. Qu'est-ce qu'un son ?",
+        "answers": [
+            "Une vibration qui se propage dans un milieu matériel",
+            "Une onde lumineuse",
+            "Une vibration qui se propage uniquement dans l'air",
+            "Une onde électromagnétique"
+        ],
+        "correct": 0,
+        "explanation": "Un son est une vibration qui se propage dans un milieu matériel, comme l'air, l'eau ou les solides."
+    },
+    {
+        "question": "9.1.31. Quelle est la relation entre la vitesse des vibrations et la hauteur du son ?",
+        "answers": [
+            "Plus la vibration est rapide, plus le son est aigu",
+            "Des vibrations lentes produisent des sons graves",
+            "Plus la vibration est rapide, plus le son est grave",
+            "La vitesse des vibrations n'a aucun effet sur la hauteur du son"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Plus la vibration est rapide, plus le son est aigu. À l'inverse, des vibrations lentes produisent des sons graves."
+    },
+    {
+        "question": "9.1.32. Quels sont des exemples de transmission solidienne ?",
+        "answers": [
+            "Bruit de pas",
+            "Vibrations dans un mur",
+            "Voix humaine",
+            "Musique diffusée dans l'air"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les vibrations traversent des matériaux solides, comme les bruits de choc entre deux pièces."
+    },
+    {
+        "question": "9.1.33. Quels sont les effets du bruit sur la santé ?",
+        "answers": [
+            "Perte d'audition",
+            "Troubles du sommeil",
+            "Problèmes cardiovasculaires",
+            "Amélioration de la concentration"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "L'exposition à des niveaux sonores élevés peut avoir des effets néfastes sur la santé physique et mentale, comme la perte d'audition, les troubles du sommeil et les problèmes cardiovasculaires."
+    },
+    {
+        "question": "9.1.34. Quels sont des exemples de sources internes de nuisances sonores ?",
+        "answers": [
+            "Musique et animations",
+            "Conversations",
+            "Équipements comme les machines à café",
+            "Trafic routier"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les sources internes incluent la musique et les animations, les conversations et les équipements tels que les machines à café."
+    },
+    {
+        "question": "9.1.35. Quels sont les niveaux sonores associés à des risques auditifs selon l'OMS ?",
+        "answers": [
+            "90 dB : 2 heures d'exposition sans risque",
+            "100 dB : 10 minutes d'exposition sans risque",
+            "60 dB : 2 heures d'exposition sans risque",
+            "120 dB : 10 minutes d'exposition sans risque"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les recommandations de l'OMS stipulent que : 90 dB : 2 heures d'exposition sans risque. 100 dB : 10 minutes d'exposition sans risque."
+    },
+    {
+        "question": "9.1.36. Quelles mesures peuvent réduire les nuisances sonores des terrasses ?",
+        "answers": [
+            "Aménagement de la terrasse avec des parois",
+            "Limitation du nombre de clients",
+            "Établir des horaires d'exploitation",
+            "Augmenter le volume sonore pour couvrir les bruits extérieurs"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les mesures incluent l'aménagement de la terrasse avec des parois, la limitation du nombre de clients et l'établissement d'horaires d'exploitation."
+    },
+    {
+        "question": "9.1.37. Vrai ou Faux : Une augmentation de 10 dB correspond à un son dix fois plus intense.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "L'échelle des décibels est logarithmique, ce qui signifie qu'une augmentation de 10 dB correspond à un son dix fois plus intense."
+    },
+    {
+        "question": "9.1.38. Vous êtes responsable d'un bar situé dans une zone résidentielle. Plusieurs voisins se plaignent du bruit causé par la musique diffusée tard le soir, ce qui perturbe leur sommeil. Quelle serait la meilleure approche pour gérer cette situation tout en maintenant une bonne relation avec le voisinage ?",
+        "answers": [
+            "Réduire le volume sonore de la musique et respecter les horaires légaux de diffusion.",
+            "Installer des sas insonorisés à l'entrée pour limiter la propagation du bruit à l'extérieur.",
+            "Ignorer les plaintes des voisins, car le bar respecte déjà les normes légales.",
+            "Continuer à diffuser la musique au même volume mais limiter l'accès à la terrasse."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Pour gérer efficacement les nuisances sonores, il est essentiel de réduire le volume sonore et de respecter les horaires légaux de diffusion, en particulier dans une zone résidentielle. L'installation de sas insonorisés peut également limiter la propagation du bruit à l'extérieur, améliorant ainsi la relation avec le voisinage. Ignorer les plaintes ou limiter l'accès à la terrasse sans réduire le bruit ne résoudra pas le problème de manière satisfaisante."
+    },
+    {
+        "question": "9.1.39. Quelles sont les principales sources de nuisances olfactives dans les établissements publics ?",
+        "answers": [
+            "Odeurs de cuisine",
+            "Déchets organiques",
+            "Bruits de ventilation",
+            "Odeurs de produits chimiques"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les nuisances olfactives proviennent principalement de l'exploitation d'établissements publics, notamment dans le secteur de la restauration. Voici quelques-unes des sources les plus courantes : Odeurs de cuisine, Odeurs de cigarettes, Déchets organiques."
+    },
+    {
+        "question": "9.1.40. Quels éléments doivent être inclus dans une hotte d'aspiration pour garantir son efficacité ?",
+        "answers": [
+            "Filtres à graisse",
+            "Clapet coupe-feu",
+            "Détecteur de CO2 (pour les installations au gaz)",
+            "Système de refroidissement",
+            "Réservoir d'eau"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "La hotte d'aspiration doit être équipée de filtres à graisse, d'un clapet coupe-feu, et d'un détecteur de CO2 si l'alimentation est au gaz."
+    },
+    {
+        "question": "9.1.41. Quelles sont les caractéristiques essentielles d'une gaine de ventilation ?",
+        "answers": [
+            "Indépendance du système général de ventilation",
+            "Diamètre compris entre 30 et 40 cm",
+            "Vitesse d'éjection de l'air d'environ 6 m/s",
+            "Connexion au système général de ventilation",
+            "Diamètre supérieur à 50 cm"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "La gaine de ventilation doit être indépendante du système général de ventilation, avoir un diamètre compris entre 30 et 40 cm, et une vitesse d'éjection de l'air d'environ 6 m/s."
+    },
+    {
+        "question": "9.1.42. Quelles sont les causes principales des nuisances olfactives dans les établissements publics ?",
+        "answers": [
+            "Ventilation non conforme",
+            "Défaut d'étanchéité",
+            "Gaine mal nettoyée",
+            "Utilisation de produits de nettoyage",
+            "Absence de climatisation"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les causes des nuisances olfactives peuvent être regroupées en plusieurs catégories, souvent liées à des installations ou des pratiques inappropriées : Ventilation non conforme, Défaut d'étanchéité, Gaine mal nettoyée."
+    },
+    {
+        "question": "9.1.43. Quelle est la hauteur minimale recommandée pour une cheminée sur un toit plat ?",
+        "answers": [
+            "1,5 m",
+            "0,5 m",
+            "2 m",
+            "3 m"
+        ],
+        "correct": 0,
+        "explanation": "La cheminée doit être suffisamment haute pour garantir que les odeurs soient dispersées au-dessus des toits des bâtiments environnants. Recommandations : 1,5 m pour les toits plats."
+    },
+    {
+        "question": "9.1.44. Quels sont les avantages d'un entretien régulier des systèmes de ventilation ?",
+        "answers": [
+            "Éviter l'accumulation de résidus",
+            "Maintenir l'efficacité des systèmes",
+            "Réduire les nuisances olfactives",
+            "Augmenter la vitesse d'éjection de l'air",
+            "Réduire la consommation d'énergie"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Un nettoyage régulier par une entreprise spécialisée est nécessaire pour garantir l'hygiène et éviter l'accumulation de résidus qui peuvent dégager des odeurs désagréables."
+    },
+    {
+        "question": "9.1.45. Vrai ou Faux : Une hotte d'aspiration doit couvrir tous les plans de cuisson pour capturer efficacement les odeurs.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "La hotte d'aspiration doit couvrir tous les plans de cuisson pour capturer efficacement les odeurs."
+    },
+    {
+        "question": "9.1.46. Vrai ou Faux : Une cheminée doit dépasser d'au moins 1 m les bâtiments plus élevés dans un rayon de 15 m.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "La cheminée doit dépasser d'au moins 1 m les bâtiments plus élevés dans un rayon de 15 m."
+    },
+    {
+        "question": "9.1.47. Vous êtes responsable d'un restaurant et recevez une plainte d'un voisin concernant des odeurs de cuisine persistantes qui se propagent dans son appartement. Après inspection, vous constatez que la hotte d'aspiration ne couvre pas tous les plans de cuisson et que les filtres à graisse n'ont pas été nettoyés depuis plusieurs mois. Quelle est la meilleure action à entreprendre pour résoudre ce problème ?",
+        "answers": [
+            "Faire nettoyer immédiatement les filtres à graisse par une entreprise spécialisée.",
+            "Installer une hotte d'aspiration qui couvre tous les plans de cuisson.",
+            "Ouvrir les fenêtres de la cuisine pour évacuer les odeurs plus rapidement.",
+            "Réduire temporairement les heures de cuisson pour limiter les nuisances."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Pour résoudre les nuisances olfactives, il est essentiel de s'assurer que la hotte d'aspiration couvre tous les plans de cuisson et que les filtres à graisse soient régulièrement nettoyés. Ouvrir les fenêtres ou réduire les heures de cuisson ne sont pas des solutions conformes et durables."
+    },
+    {
+        "question": "9.1.48. Lors d'une inspection, vous remarquez que la cheminée de votre établissement de restauration ne dépasse pas d'un mètre les bâtiments voisins dans un rayon de 15 mètres, ce qui entraîne des plaintes des riverains concernant les odeurs. Quelle est la meilleure solution pour remédier à cette situation ?",
+        "answers": [
+            "Rehausser la cheminée pour qu'elle dépasse d'au moins 1 mètre les bâtiments voisins dans un rayon de 15 mètres.",
+            "Vérifier que la cheminée est positionnée loin des zones sensibles comme les fenêtres ou balcons.",
+            "Installer un ventilateur supplémentaire à la base de la cheminée pour augmenter la vitesse d'éjection.",
+            "Réorienter la cheminée pour qu'elle rejette les odeurs horizontalement."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Pour respecter les normes et réduire les nuisances olfactives, la cheminée doit être suffisamment haute pour disperser les odeurs au-dessus des bâtiments voisins. Rehausser la cheminée et vérifier son positionnement sont des actions conformes. Installer un ventilateur ou réorienter la cheminée horizontalement ne résoudra pas efficacement le problème."
+    },
+    {
+        "question": "9.1.49. Quels sont les types de nuisances sonores ?",
+        "answers": [
+            "Aériennes",
+            "Solidiennes",
+            "Équipements",
+            "Olfactives",
+            "Vibrations"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Nuisances sonores : Aériennes (voix, haut-parleurs), Solidiennes (bruits de chocs), Équipements (systèmes de ventilation)."
+    },
+    {
+        "question": "9.1.50. Quels principes d'aménagement permettent de réduire les nuisances sonores ?",
+        "answers": [
+            "Utilisation de matériaux absorbants",
+            "Séparation des zones de service et de consommation",
+            "Augmentation du volume des équipements sonores",
+            "Suppression des systèmes de ventilation"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Aménagement acoustique : Utilisation de matériaux absorbants pour les murs, plafonds et sols. Séparation des zones de service et de consommation."
+    },
+    {
+        "question": "9.1.51. Quelles techniques sont utilisées pour gérer les nuisances sonores ?",
+        "answers": [
+            "Étude acoustique",
+            "Isolation phonique",
+            "Limitation des niveaux sonores",
+            "Suppression des animations musicales",
+            "Réduction des horaires d'ouverture"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Techniques de gestion des nuisances : Étude acoustique, Isolation phonique, Limitation des niveaux sonores."
+    },
+    {
+        "question": "9.1.52. Quelles autorités sont responsables de la gestion des nuisances à Genève ?",
+        "answers": [
+            "OCIRT / PCTN",
+            "DU / DAC",
+            "DIME / SABRA",
+            "OMS",
+            "ONU"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "À Genève, plusieurs autorités sont impliquées : OCIRT / PCTN, DU / DAC, DIME / SABRA, entre autres."
+    },
+    {
+        "question": "9.1.53. Quels documents sont nécessaires pour la création ou modification d'un établissement ?",
+        "answers": [
+            "Études acoustiques",
+            "Plans techniques",
+            "Certificat médical",
+            "Rapport financier"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Études acoustiques et plans techniques sont essentiels pour évaluer l'impact sonore et garantir la conformité."
+    },
+    {
+        "question": "9.1.54. Quelles mesures peuvent être prises pour répondre aux plaintes des riverains ?",
+        "answers": [
+            "Installation de dispositifs de contrôle du bruit",
+            "Amélioration de l'isolation phonique",
+            "Ajustement des horaires d'activités bruyantes",
+            "Ignorer les plaintes",
+            "Augmenter les niveaux sonores admissibles"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Mesures d'assainissement : Installation de dispositifs de contrôle du bruit, amélioration de l'isolation phonique, ajustement des horaires d'activités bruyantes."
+    },
+    {
+        "question": "9.1.55. Vrai ou Faux : La Commission de suivi et coordination traite les plaintes des riverains.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "La Commission de suivi et coordination traite les plaintes des riverains et coordonne les mesures d'assainissement nécessaires."
+    },
+    {
+        "question": "9.1.56. Vrai ou Faux : Les animations musicales nécessitent une autorisation spécifique.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les animations musicales dans les établissements publics nécessitent des requêtes et des autorisations spécifiques."
+    },
+    {
+        "question": "9.1.57. Vous êtes responsable d'un établissement public situé dans une zone urbaine dense. Un voisin se plaint régulièrement de nuisances sonores provenant de votre établissement, notamment en soirée. Après analyse, vous constatez que les animations musicales dépassent les niveaux sonores autorisés. Quelle est la meilleure action à entreprendre pour résoudre ce problème ?",
+        "answers": [
+            "Installer un limiteur de son pour respecter les niveaux sonores autorisés.",
+            "Former le personnel à gérer le volume sonore des animations musicales.",
+            "Ignorer la plainte, car les animations musicales sont essentielles pour attirer des clients.",
+            "Réduire les horaires d'ouverture sans prendre d'autres mesures."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Pour résoudre les nuisances sonores, il est essentiel d'installer un limiteur de son afin de respecter les niveaux sonores autorisés et de former le personnel à gérer le volume sonore. Ignorer la plainte ou réduire les horaires sans traiter la source du problème ne résoudra pas la situation et pourrait entraîner des sanctions réglementaires."
+    },
+    {
+        "question": "9.1.58. Vous gérez un restaurant dont les cuisines génèrent des nuisances olfactives qui incommodent les riverains. Une plainte a été déposée auprès des autorités compétentes. Quelle est la meilleure démarche à suivre pour traiter cette situation ?",
+        "answers": [
+            "Installer un système de ventilation avec des filtres de qualité pour réduire les émanations.",
+            "Communiquer avec le plaignant pour expliquer les mesures prises et établir un dialogue constructif.",
+            "Continuer les activités sans prendre de mesures, car les cuisines sont essentielles au fonctionnement du restaurant.",
+            "Déplacer les activités de cuisine à l'extérieur pour éviter les plaintes."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Pour gérer les nuisances olfactives, il est crucial d'installer un système de ventilation performant avec des filtres adaptés et de maintenir un dialogue constructif avec le plaignant. Ignorer le problème ou déplacer les activités de cuisine à l'extérieur ne ferait qu'aggraver la situation et pourrait entraîner des sanctions."
+    },
+    {
+        "question": "9.2.1. Quels sont les avantages du tri des déchets ?",
+        "answers": [
+            "Réduction de la pollution",
+            "Préservation des ressources naturelles",
+            "Limitation des émissions de gaz à effet de serre",
+            "Augmentation des déchets en décharge",
+            "Production de déchets non recyclables"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Un bon tri des déchets limite la pollution et les émissions de gaz à effet de serre, contribuant ainsi à un environnement plus sain."
+    },
+    {
+        "question": "9.2.2. Quels types de déchets doivent être déposés dans un compost ?",
+        "answers": [
+            "Épluchures de fruits et légumes",
+            "Coquilles d'œufs",
+            "Restes de repas",
+            "Viandes",
+            "Produits laitiers"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les déchets organiques tels que les épluchures de fruits et légumes, les restes de repas, et les coquilles d'œufs peuvent être compostés."
+    },
+    {
+        "question": "9.2.3. Quels matériaux peuvent être recyclés dans les conteneurs de verre ?",
+        "answers": [
+            "Bouteilles",
+            "Bocaux",
+            "Flacons",
+            "Vaisselle cassée",
+            "Porcelaine"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les bouteilles, bocaux et flacons en verre peuvent être recyclés à l'infini sans perte de qualité. Éviter la vaisselle cassée."
+    },
+    {
+        "question": "9.2.4. Quelles sont les consignes pour le recyclage du papier et du carton ?",
+        "answers": [
+            "Aplatir les cartons avant de les recycler",
+            "Ne pas inclure les papiers souillés",
+            "Recycler les journaux et magazines",
+            "Recycler les briques de jus",
+            "Mélanger les papiers recyclables avec les déchets organiques"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Ne pas inclure les papiers souillés (comme les serviettes en papier) ou les emballages composites (comme les briques de jus)."
+    },
+    {
+        "question": "9.2.5. Que faut-il faire avec les huiles végétales usagées ?",
+        "answers": [
+            "Les conserver dans un récipient hermétique",
+            "Les déposer dans des points de collecte spécifiques",
+            "Les déverser dans l'évier",
+            "Les mélanger avec les déchets organiques"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Ne jamais déverser les huiles dans l'évier ou les toilettes, car cela peut obstruer les canalisations et contaminer les eaux usées."
+    },
+    {
+        "question": "9.2.6. Quels types de déchets doivent être rapportés dans des points de collecte spécifiques ?",
+        "answers": [
+            "Piles usagées",
+            "Déchets électroniques",
+            "Huiles végétales",
+            "Déchets organiques",
+            "Papier et carton"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les piles, les huiles végétales et les déchets électroniques doivent être déposés dans des points de collecte spécifiques."
+    },
+    {
+        "question": "9.2.7. Quels sont les objectifs de la redistribution des invendus alimentaires ?",
+        "answers": [
+            "Réduction du gaspillage alimentaire",
+            "Soutien aux communautés vulnérables",
+            "Augmentation des déchets alimentaires",
+            "Production de compost à partir des invendus"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "La redistribution des invendus alimentaires aide à lutter contre le gaspillage et à nourrir les populations vulnérables."
+    },
+    {
+        "question": "9.2.8. Quelles bonnes pratiques sont recommandées pour la gestion des déchets spécifiques ?",
+        "answers": [
+            "Éviter de jeter ces déchets avec les ordures ménagères",
+            "Informez-vous sur les jours de collecte spéciale",
+            "Mélanger les déchets spécifiques avec les déchets recyclables",
+            "Les jeter dans les conteneurs de verre"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Évitez de jeter ces déchets avec les ordures ménagères. Informez-vous sur les jours de collecte spéciale pour les déchets dangereux."
+    },
+    {
+        "question": "9.2.9. Vrai ou Faux : Les déchets organiques peuvent être compostés pour enrichir le sol.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les déchets organiques tels que les épluchures de fruits et légumes, les restes de repas, et les coquilles d'œufs peuvent être compostés. Cela permet de créer un amendement naturel pour les jardins."
+    },
+    {
+        "question": "9.2.10. Vrai ou Faux : Les huiles végétales usagées peuvent être déversées dans l'évier si elles sont en petite quantité.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "Ne jamais déverser les huiles dans l'évier ou les toilettes, car cela peut obstruer les canalisations et contaminer les eaux usées."
+    },
+    {
+        "question": "9.2.11. Vous travaillez dans une entreprise et vous remarquez qu'un collègue jette régulièrement des huiles de cuisson usagées dans l'évier de la cuisine commune. Que faites-vous pour gérer cette situation de manière responsable ?",
+        "answers": [
+            "Vous expliquez à votre collègue que les huiles usagées ne doivent jamais être déversées dans l'évier, car elles peuvent obstruer les canalisations et polluer les eaux.",
+            "Vous proposez à votre collègue de conserver les huiles usagées dans un récipient hermétique et de les déposer dans un point de collecte dédié.",
+            "Vous ignorez la situation, car ce n'est pas votre responsabilité.",
+            "Vous jetez les huiles usagées dans les toilettes pour éviter qu'elles ne soient déversées dans l'évier."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les huiles usagées ne doivent jamais être déversées dans l'évier ou les toilettes, car elles peuvent obstruer les canalisations et contaminer les eaux usées. Il est important de sensibiliser les collègues à cette problématique et de leur proposer des solutions responsables, comme l'utilisation de points de collecte spécifiques pour les huiles usagées."
+    },
+    {
+        "question": "9.2.12. Vous êtes responsable du tri des déchets dans votre entreprise. Un employé vous demande s'il peut inclure des papiers souillés (comme des serviettes en papier) dans le bac de recyclage du papier. Quelle est la meilleure réponse à lui donner ?",
+        "answers": [
+            "Vous lui expliquez que les papiers souillés ne doivent pas être inclus dans le recyclage du papier, car ils ne sont pas recyclables.",
+            "Vous lui conseillez de jeter les papiers souillés dans la poubelle des déchets ménagers.",
+            "Vous lui dites que tous les types de papier peuvent être recyclés, y compris les papiers souillés.",
+            "Vous lui proposez de mélanger les papiers souillés avec les papiers recyclables pour économiser de l'espace."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les papiers souillés, comme les serviettes en papier ou les nappes, ne sont pas recyclables et doivent être jetés dans les déchets ménagers. Il est essentiel de respecter les consignes de tri pour garantir un recyclage efficace et éviter de contaminer les matériaux recyclables."
+    },
+    {
+        "question": "Final M8-9.1. [8] Quels sont les principaux objectifs de la directive MSST ?",
+        "answers": [
+            "Assurer un environnement de travail sûr et sain",
+            "Encourager une approche proactive pour identifier et gérer les dangers",
+            "Impliquer les employés dans le processus de sécurité",
+            "Réduire les coûts des entreprises",
+            "Augmenter les heures de travail des employés"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les principaux objectifs de la directive MSST sont les suivants : 1. Protection de la santé et de la sécurité des travailleurs : Assurer un environnement de travail sûr et sain. 2. Obligation d'appel à des spécialistes : Les employeurs doivent faire appel à des médecins du travail et à d'autres spécialistes lorsque cela est nécessaire pour garantir la sécurité au travail. 3. Promotion de la prévention systématique : Encourager une approche proactive pour identifier et gérer les dangers potentiels sur le lieu de travail. 4. Participation des travailleurs : Impliquer les employés dans le processus de sécurité, en les consultant sur les questions de santé et de sécurité."
+    },
+    {
+        "question": "Final M8-9.2. [8] Dans quel cas un employeur doit-il obligatoirement faire appel à des spécialistes de la sécurité au travail ?",
+        "answers": [
+            "Si l'entreprise présente des dangers particuliers",
+            "Si l'employeur ne dispose pas des connaissances requises pour garantir la sécurité",
+            "Si l'entreprise emploie plus de 50 travailleurs et présente des dangers particuliers",
+            "Si l'entreprise ne présente aucun danger particulier",
+            "Si l'entreprise emploie moins de 10 travailleurs sans dangers particuliers"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "L'employeur fait appel à des spécialistes de la sécurité au travail : si son entreprise présente des dangers particuliers au sens de l'annexe 1 ; et s'il ne dispose pas dans son entreprise des connaissances requises pour garantir la sécurité au travail et la protection de la santé."
+    },
+    {
+        "question": "Final M8-9.3. [8] Quelles sont les caractéristiques des entreprises sans dangers particuliers ?",
+        "answers": [
+            "Elles comptent généralement moins de 50 employés",
+            "Leurs activités ne comportent pas de risques mécaniques, électriques ou chimiques",
+            "Elles doivent respecter les règles générales de sécurité au travail",
+            "Elles sont exemptées de toutes obligations légales en matière de sécurité",
+            "Elles doivent obligatoirement faire appel à des spécialistes de la sécurité"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les entreprises sans dangers particuliers sont celles qui ne présentent pas de risques significatifs pour la santé et la sécurité des travailleurs. Selon l'annexe 1 de la directive, ces entreprises ne sont pas soumises à des exigences strictes en matière d'appel à des spécialistes de la sécurité au travail. Caractéristiques : Taille : Généralement, ces entreprises comptent moins de 50 employés. Activités : Les activités exercées ne comportent pas de risques mécaniques, électriques, chimiques, ou autres dangers identifiés dans la directive. Obligations : Bien qu'elles ne soient pas tenues de faire appel à des spécialistes, elles doivent respecter les règles générales de sécurité au travail et prendre des mesures de protection appropriées."
+    },
+    {
+        "question": "Final M8-9.4. [8] Vrai ou Faux : Les spécialistes de la sécurité au travail doivent suivre une formation continue pour rester à jour sur les réglementations et les meilleures pratiques.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "En vertu de l'ordonnance sur les qualifications des spécialistes de la sécurité au travail, les spécialistes de la sécurité au travail sont tenus de suivre une formation continue appropriée."
+    },
+    {
+        "question": "Final M8-9.5. [8] Vous êtes responsable de la sécurité dans une entreprise de construction employant 15 personnes. Lors d'une inspection, vous identifiez plusieurs dangers mécaniques liés à des équipements de travail motorisés. Selon la directive MSST, quelle est la meilleure démarche à suivre pour garantir la sécurité des travailleurs ?",
+        "answers": [
+            "Faire appel à des spécialistes de la sécurité au travail pour évaluer les risques et proposer des mesures adaptées.",
+            "Mettre en place des mesures techniques, organisationnelles et personnelles pour prévenir les accidents.",
+            "Informer les employés des dangers identifiés sans prendre de mesures supplémentaires.",
+            "Reporter la mise en œuvre des mesures de sécurité jusqu'à la prochaine inspection officielle."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Dans une entreprise présentant des dangers particuliers, comme les dangers mécaniques liés à des équipements motorisés, la directive MSST impose à l'employeur de faire appel à des spécialistes de la sécurité au travail si les connaissances requises pour garantir la sécurité ne sont pas disponibles en interne. Ces spécialistes peuvent aider à évaluer les risques et recommander des mesures adaptées. En parallèle, l'employeur doit mettre en œuvre des mesures techniques, organisationnelles et personnelles pour prévenir les accidents, conformément aux règles reconnues de la technique. Informer les employés est important, mais cela ne suffit pas à garantir leur sécurité. Reporter les mesures de sécurité est contraire aux obligations légales de l'employeur."
+    },
+    {
+        "question": "Final M8-9.6. [8] Quels sont les impacts des risques psychosociaux (RPS) sur les employés ?",
+        "answers": [
+            "Diminution de la productivité",
+            "Augmentation de l'absentéisme",
+            "Turnover élevé",
+            "Augmentation de la motivation",
+            "Réduction du stress"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les impacts des RPS sur les employés peuvent être significatifs, entraînant des conséquences telles que : Diminution de la productivité, Augmentation de l'absentéisme, Turnover élevé."
+    },
+    {
+        "question": "Final M8-9.7. [8] Vous êtes manager dans un hôtel et un employé vient vous voir, visiblement stressé, pour se plaindre d'une surcharge de travail chronique et d'un manque de clarté dans ses responsabilités. Il mentionne qu'il commence à ressentir des symptômes d'épuisement professionnel. Quelle est la meilleure façon de gérer cette situation ?",
+        "answers": [
+            "Écouter activement l'employé, lui demander des détails sur sa situation et lui proposer un rendez-vous pour discuter plus en profondeur des solutions possibles.",
+            "Évaluer les responsabilités de l'employé et clarifier son cahier des charges pour réduire les ambiguïtés et la surcharge de travail.",
+            "Lui conseiller de prendre quelques jours de congé sans chercher à résoudre les causes profondes de son stress.",
+            "Ignorer la plainte en supposant que l'employé exagère et qu'il doit simplement s'adapter aux exigences du poste."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Il est essentiel de prendre au sérieux les plaintes liées à la surcharge de travail et au stress pour prévenir les risques psychosociaux. Écouter activement l'employé permet de montrer de l'empathie et de recueillir des informations précises sur les problèmes rencontrés. Clarifier le cahier des charges et ajuster les responsabilités sont des actions concrètes pour réduire la pression et éviter l'épuisement professionnel. Ignorer la plainte ou proposer une solution temporaire sans traiter les causes profondes peut aggraver la situation et nuire à la santé mentale de l'employé."
+    },
+    {
+        "question": "Final M8-9.8. [8] Quelles sont les lois principales qui régissent la protection des travailleuses enceintes et mères allaitantes en Suisse ?",
+        "answers": [
+            "Loi sur le travail (LTr)",
+            "Code des obligations (CO)",
+            "Loi sur l'égalité entre femmes et hommes (LEg)",
+            "Loi sur la sécurité sociale (LSS)",
+            "Loi sur les assurances (LA)"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "La législation fédérale sur la protection des travailleuses enceintes et mères allaitantes en Suisse est régie par plusieurs lois clés, notamment la Loi sur le travail (LTr), le Code des obligations (CO), et la Loi sur l'égalité entre femmes et hommes (LEg)."
+    },
+    {
+        "question": "Final M8-9.9. [8] Quels sont les objectifs principaux de la législation fédérale concernant la protection des travailleuses ?",
+        "answers": [
+            "Assurer la santé et la sécurité",
+            "Garantir des droits économiques",
+            "Prévenir la discrimination",
+            "Faciliter l'allaitement",
+            "Réduire les congés de maternité",
+            "Supprimer les pauses rémunérées"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "explanation": "Les objectifs principaux de la législation fédérale concernant la protection des travailleuses sont les suivants : Assurer la santé et la sécurité, garantir des droits économiques, prévenir la discrimination, faciliter l'allaitement, et renforcer la protection juridique."
+    },
+    {
+        "question": "Final M8-9.10. [8] Quels types de travaux sont interdits pour les femmes enceintes selon la législation suisse ?",
+        "answers": [
+            "Déplacement de charges lourdes",
+            "Travaux avec des agents nocifs",
+            "Exposition à des températures extrêmes",
+            "Travaux avec des niveaux de bruit élevés",
+            "Travail administratif",
+            "Travail à domicile"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "explanation": "Les femmes enceintes ne peuvent pas effectuer des travaux qui présentent des risques pour leur santé ou celle de leur enfant, tels que : Déplacement de charges lourdes, travaux avec des agents nocifs, conditions de travail extrêmes, ou exposition à des niveaux de bruit élevés."
+    },
+    {
+        "question": "Final M8-9.11. [8] Quelles sont les conditions pour bénéficier du congé de maternité en Suisse ?",
+        "answers": [
+            "Être sous contrat de travail au moment de l'accouchement",
+            "Avoir cotisé à l'assurance maternité pendant une période minimale",
+            "Informer l'employeur de la date prévue d'accouchement au moins 8 semaines à l'avance",
+            "Être mariée",
+            "Avoir travaillé au moins 10 ans dans la même entreprise"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Pour bénéficier du congé de maternité, les conditions suivantes doivent être remplies : Contrat de travail, avoir cotisé à l'assurance maternité pendant une période minimale (généralement 9 mois), et informer l'employeur de la date prévue d'accouchement au moins 8 semaines à l'avance."
+    },
+    {
+        "question": "Final M8-9.12. [8] Vrai ou Faux : Une femme enceinte peut être licenciée pendant son congé de maternité si elle ne respecte pas les délais de préavis.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "L'employeur ne peut résilier le contrat de travail de durée indéterminée d'une travailleuse ni durant la grossesse, ni dans les seize semaines qui suivent l'accouchement (art. 336c, al. 1, let. c CO)."
+    },
+    {
+        "question": "Final M8-9.13. [8] Vous êtes responsable RH dans une entreprise. Une employée enceinte vous informe qu'elle travaille dans un environnement où elle est exposée à des substances chimiques potentiellement nocives. Elle est inquiète pour sa santé et celle de son enfant. Quelle est la meilleure action à entreprendre dans cette situation ?",
+        "answers": [
+            "Réaliser immédiatement une analyse de risques pour évaluer les dangers liés à son poste de travail.",
+            "Proposer un poste équivalent sans danger si les risques ne peuvent être éliminés.",
+            "Lui demander de continuer à travailler tout en portant un équipement de protection individuelle.",
+            "Lui suggérer de prendre un congé non rémunéré jusqu'à la fin de sa grossesse."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Dans cette situation, il est impératif de garantir la santé de l'employée enceinte et de son enfant. La législation suisse impose à l'employeur de réaliser une analyse de risques pour identifier les dangers potentiels liés à l'environnement de travail. Si des risques sont identifiés et ne peuvent être éliminés, l'employeur doit proposer un poste équivalent sans danger. Le port d'équipements de protection individuelle peut ne pas être suffisant pour protéger l'enfant, et il est inapproprié de suggérer un congé non rémunéré sans évaluer les risques ou proposer des alternatives conformes à la loi."
+    },
+    {
+        "question": "Final M8-9.14. [8] Quelles sont les dimensions principales du modèle de Karasek pour comprendre le stress au travail ?",
+        "answers": [
+            "Exigences du travail",
+            "Soutien social",
+            "Autonomie",
+            "Horaires de travail",
+            "Reconnaissance",
+            "Environnement physique"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Pour Karasek, trois dimensions sont à considérer : 1. Les exigences du travail (principalement en termes de contraintes de temps), 2. L'autonomie (marge de manœuvre dans l'accomplissement des tâches, possibilité d'apporter une touche personnelle à son activité, d'utiliser pleinement ses qualifications), 3. Le soutien social (de la part des collègues et des supérieurs hiérarchiques)."
+    },
+    {
+        "question": "Final M8-9.15. [8] Vrai ou Faux : Le stress peut être bénéfique à court terme en préparant l'individu à réagir rapidement face à un danger.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Le stress prépare l'individu à réagir rapidement face à un danger, ce qui peut être bénéfique à court terme."
+    },
+    {
+        "question": "Final M8-9.16. [8] Vous êtes manager dans une entreprise où plusieurs employés se plaignent de stress lié à une surcharge de travail et à un manque de soutien social. L'un des employés, visiblement épuisé, vous confie qu'il envisage de quitter son poste si la situation ne s'améliore pas. Quelle est la meilleure approche pour gérer cette situation et prévenir le stress dans votre équipe ?",
+        "answers": [
+            "Organiser une réunion avec l'équipe pour discuter des sources de stress et identifier des solutions collectives.",
+            "Réévaluer la répartition des tâches pour éviter la surcharge de travail et permettre une meilleure gestion des priorités.",
+            "Ignorer les plaintes des employés et attendre que la situation se résolve d'elle-même.",
+            "Proposer uniquement des mesures individuelles comme des cours de gestion du stress, sans modifier les conditions de travail."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Pour gérer efficacement le stress au sein de votre équipe, il est essentiel d'agir sur les causes principales, comme la surcharge de travail et le manque de soutien social. Une approche collective, impliquant les employés dans la recherche de solutions, permet de créer un environnement de travail plus sain. Réévaluer la répartition des tâches est également crucial pour éviter une pression excessive. Les mesures individuelles, bien qu'utiles, ne suffisent pas si les conditions de travail ne sont pas améliorées."
+    },
+    {
+        "question": "Final M8-9.17. [8] Quelles sont les activités autorisées pour les jeunes de moins de 13 ans ?",
+        "answers": [
+            "Participation à des manifestations culturelles, artistiques ou sportives",
+            "Travaux dans la publicité",
+            "Travaux dangereux impliquant des machines lourdes",
+            "Service à la clientèle dans les hôtels et restaurants"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les jeunes de moins de 13 ans peuvent participer à certaines activités autorisées, principalement dans des contextes culturels ou artistiques. Voici un aperçu des conditions : Participation à des manifestations culturelles, artistiques ou sportives. Travaux dans la publicité."
+    },
+    {
+        "question": "Final M8-9.18. [9] Quels sont les objectifs principaux de la Loi sur la protection de l'environnement (LPE) ?",
+        "answers": [
+            "Protection de la biodiversité",
+            "Amélioration de la qualité de vie",
+            "Responsabilité des pollueurs",
+            "Augmentation des émissions sonores",
+            "Réduction des taxes environnementales"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "La LPE a pour but principal de protéger les êtres vivants et les ressources naturelles contre les atteintes nuisibles ou incommodantes. Ses objectifs incluent la protection de la biodiversité, la prévention des nuisances, l'amélioration de la qualité de vie et le principe du pollueur-payeur."
+    },
+    {
+        "question": "Final M8-9.19. [9] La stratégie de lutte contre le bruit comprend plusieurs niveaux. Quels sont-ils ?",
+        "answers": [
+            "Prévention des nuisances sonores",
+            "Application des valeurs limites d'exposition (VLE)",
+            "Assainissement en cas de dépassement des VLE",
+            "Assainissement urgent en cas de dépassement des valeurs limites d'assainissement (VLA)",
+            "Élimination totale des sources de bruit",
+            "Augmentation des valeurs limites d'exposition",
+            "Suppression des normes d'isolation acoustique"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "explanation": "La stratégie de lutte contre le bruit comprend plusieurs niveaux : 1er niveau : Prévention des nuisances sonores. 2ème niveau : Application des valeurs limites d'exposition (VLE). 3ème niveau : Assainissement en cas de dépassement des VLE. 4ème niveau : Assainissement urgent en cas de dépassement des valeurs limites d'assainissement (VLA)."
+    },
+    {
+        "question": "Final M8-9.20. [9] Vous êtes responsable d'un établissement public et recevez une plainte d'un riverain concernant des nuisances sonores excessives générées par votre activité après 22h00. Le riverain affirme que le bruit dépasse les valeurs limites d'exposition (VLE) définies par l'OPB. Quelle est la meilleure action à entreprendre pour résoudre cette situation ?",
+        "answers": [
+            "Analyser les niveaux sonores actuels en utilisant un sonomètre pour vérifier si les valeurs limites d'exposition (VLE) sont dépassées.",
+            "Mettre en place des mesures d'assainissement, comme l'installation de barrières acoustiques ou la modification des horaires d'exploitation, si les VLE sont effectivement dépassées.",
+            "Ignorer la plainte du riverain, car les nuisances sonores sont une conséquence normale de l'activité de l'établissement.",
+            "Continuer les activités sans modification et attendre une intervention des autorités locales."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "En cas de plainte pour nuisances sonores, il est essentiel de vérifier si les niveaux sonores dépassent les valeurs limites d'exposition (VLE) définies par l'OPB. Cela peut être fait en utilisant des outils de mesure comme un sonomètre. Si les VLE sont dépassées, des mesures d'assainissement doivent être mises en œuvre, telles que l'installation de barrières acoustiques ou la modification des horaires d'exploitation, afin de réduire les nuisances sonores et de respecter les réglementations en vigueur. Ignorer la plainte ou attendre une intervention des autorités est contraire aux principes de précaution et de pollueur-payeur."
+    },
+    {
+        "question": "Final M8-9.21. [9] Quels sont les objectifs principaux de l'Ordonnance sur la protection de l'air (OPair) ?",
+        "answers": [
+            "Protection de la santé humaine",
+            "Limitation préventive des émissions",
+            "Augmentation des émissions industrielles",
+            "Réduction des normes de qualité de l'air"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "L'OPair vise à protéger la santé publique et l'environnement contre les pollutions atmosphériques nuisibles. Elle fixe des valeurs limites pour les concentrations de polluants dans l'air et impose des restrictions sur les émissions de polluants à la source."
+    },
+    {
+        "question": "Final M8-9.22. [9] Qu'est-ce qui influence la propagation du son ?",
+        "answers": [
+            "La distance entre la source et le récepteur",
+            "Le matériau à travers lequel le son se déplace",
+            "La couleur de la source sonore",
+            "La température du récepteur"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Plus la distance entre la source et le récepteur est grande, plus le son perd en intensité. Certains matériaux, comme le béton, absorbent mieux les vibrations, réduisant ainsi la propagation du son."
+    },
+    {
+        "question": "Final M8-9.23. [9] Quelles sont les principales sources de nuisances olfactives dans les établissements publics ?",
+        "answers": [
+            "Odeurs de cuisine",
+            "Odeurs de cigarettes",
+            "Déchets organiques",
+            "Bruits de ventilation",
+            "Odeurs de produits chimiques"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les nuisances olfactives proviennent principalement de l'exploitation d'établissements publics, notamment dans le secteur de la restauration : Odeurs de cuisine (les établissements qui préparent des aliments génèrent des odeurs qui peuvent se propager dans les zones environnantes), Odeurs de cigarettes (les espaces où le tabagisme est autorisé), Déchets organiques (l'accumulation de déchets alimentaires non traités peut entraîner des odeurs désagréables)."
+    },
+    {
+        "question": "Final M8-9.24. [9] Quels sont les types de nuisances sonores ?",
+        "answers": [
+            "Aériennes",
+            "Solidiennes",
+            "Équipements",
+            "Olfactives",
+            "Visuelles"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les nuisances sonores incluent : Aériennes (bruits provenant de voix, haut-parleurs, et équipements sonores), Solidiennes (bruits de chocs, tels que les bruits de pas ou de manipulation en cuisine), et Équipements (bruits générés par des systèmes de ventilation ou d'autres appareils)."
+    },
+    {
+        "question": "Final M8-9.25. [9] Quels sont les déchets qui doivent être déposés dans des points de collecte spécifiques ?",
+        "answers": [
+            "Piles",
+            "Huiles végétales",
+            "Papier et carton",
+            "Déchets organiques"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les piles et les huiles végétales doivent être déposées dans des points de collecte spécifiques pour éviter la pollution et garantir un traitement adéquat. Par exemple, les huiles ne doivent jamais être déversées dans l'évier ou les WC, et les piles contiennent des substances toxiques qui nécessitent une gestion particulière."
+    }
+]

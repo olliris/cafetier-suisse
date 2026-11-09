@@ -1,0 +1,685 @@
+[
+    {
+        "question": "13.1.1.1. Quelles sont les caractéristiques d'un contrat à durée déterminée (CDD) ?",
+        "answers": [
+            "Il stipule une date de début et une date de fin",
+            "Il est souvent utilisé pour des missions temporaires ou des remplacements",
+            "Il offre une plus grande stabilité au salarié",
+            "Il est le type de contrat le plus courant sur le marché du travail",
+            "A défaut de durée précise, il peut stipuler \"pour la saison\""
+        ],
+        "correct": [
+            0,
+            1,
+            4
+        ],
+        "explanation": "Définition : Un CDD est un contrat qui stipule une date de début et une date de fin. Il est souvent utilisé pour des missions temporaires ou des remplacements."
+    },
+    {
+        "question": "13.1.1.2. Quelles sont les caractéristiques du travail à temps partiel ?",
+        "answers": [
+            "Les horaires peuvent être organisés par heures, demi-journées ou journées",
+            "La rémunération est proportionnelle au temps de travail effectué",
+            "Les salariés à temps partiel bénéficient des mêmes droits que les salariés à temps plein, proportionnellement à leur temps de travail",
+            "Les salariés à temps partiel ne bénéficient pas des mêmes droits que les salariés à temps plein",
+            "La rémunération est fixe, peu importe le temps de travail effectué"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Caractéristiques du travail à temps partiel : Horaires flexibles : Peut être organisé par heures, demi-journées ou journées. Rémunération : Proportionnelle au temps de travail effectué. Droits : Les salariés à temps partiel bénéficient des mêmes droits que les salariés à temps plein, proportionnellement à leur temps de travail."
+    },
+    {
+        "question": "13.1.1.3. Quelles informations l'employeur doit-il fournir par écrit si le rapport de travail dépasse un mois ?",
+        "answers": [
+            "Le nom des parties",
+            "La date du début du rapport de travail",
+            "La fonction du travailleur",
+            "Le salaire et les éventuels suppléments salariaux",
+            "La durée hebdomadaire du travail",
+            "Les conditions de congé",
+            "Les modalités de rupture du contrat"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": "Cependant, l'article 330 stipule que, si le rapport de travail dépasse un mois, l'employeur doit fournir par écrit à son employé les renseignements suivants : 1. le nom des parties; 2. la date du début du rapport de travail; 3. la fonction du travailleur; 4. le salaire et les éventuels suppléments salariaux; 5. la durée hebdomadaire du travail."
+    },
+    {
+        "question": "13.1.1.4. Quelles sont les étapes de la formation d'un contrat individuel de travail ?",
+        "answers": [
+            "Proposition : Le salarié propose ses services à l'employeur",
+            "Acceptation : L'employeur accepte la proposition, verbalement ou par écrit",
+            "Exécution : Le salarié commence à travailler, marquant le début de la relation de travail",
+            "Signature obligatoire d'un contrat écrit",
+            "Validation par un tiers indépendant"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Étapes de la formation du contrat : 1. Proposition : Le salarié propose ses services à l'employeur. 2. Acceptation : L'employeur accepte la proposition, ce qui peut se faire verbalement ou par écrit. 3. Exécution : Le salarié commence à travailler, ce qui marque le début de la relation de travail."
+    },
+    {
+        "question": "13.1.1.5. Vrai ou Faux : Un contrat individuel de travail peut être conclu de manière orale ou écrite.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Le contrat individuel de travail n'exige pas de forme particulière pour sa validité, sauf disposition légale contraire. Cela signifie qu'il peut être conclu de manière orale ou écrite."
+    },
+    {
+        "question": "13.1.1.6. Vous êtes responsable des ressources humaines dans une entreprise. Un salarié commence à travailler sans qu'un contrat écrit ait été signé, mais un accord verbal a été établi avec l'employeur. Après quelques semaines, vous découvrez que le contrat verbal pourrait être juridiquement invalide. Quelle est la meilleure action à entreprendre dans cette situation ?",
+        "answers": [
+            "Informer immédiatement l'employeur et le salarié de la situation et leur proposer de régulariser le contrat en établissant un contrat écrit valide.",
+            "Continuer à respecter les obligations mutuelles (paiement du salaire et exécution du travail) jusqu'à ce qu'un nouveau contrat valide soit signé.",
+            "Mettre fin immédiatement à la relation de travail sans préavis, car le contrat est invalide.",
+            "Ignorer la situation, car un accord verbal est suffisant pour continuer la relation de travail."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Dans cette situation, il est essentiel de respecter les obligations mutuelles tant que la relation de travail est en cours, conformément à l'article 320 du Code du travail. La bonne foi du salarié doit être prise en compte, et il est recommandé de régulariser la situation en établissant un contrat écrit valide pour éviter tout malentendu ou problème juridique. Mettre fin à la relation de travail sans préavis ou ignorer la situation pourrait entraîner des conséquences légales et nuire à la confiance entre les parties."
+    },
+    {
+        "question": "13.1.2.1. Quelles sont les obligations principales du travailleur ?",
+        "answers": [
+            "Exécuter personnellement le travail confié",
+            "Agir dans le meilleur intérêt de l'employeur",
+            "Déléguer ses tâches à un tiers sans autorisation",
+            "Travailler uniquement selon ses propres règles"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Le travailleur a l'obligation d'exécuter personnellement le travail qui lui est confié. Cela signifie qu'il ne peut pas déléguer ses tâches à un tiers, sauf si un accord explicite a été établi ou si des circonstances particulières le justifient. Le travailleur doit agir dans le meilleur intérêt de l'employeur, en préservant ses ressources et son image."
+    },
+    {
+        "question": "13.1.2.2. Quelles sont les conséquences d'une mauvaise utilisation des équipements de l'employeur ?",
+        "answers": [
+            "Risques d'accidents de travail",
+            "Responsabilité financière en cas de dommages causés par négligence",
+            "Augmentation du salaire"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les conséquences d'une mauvaise utilisation incluent des risques d'accidents de travail et une responsabilité financière en cas de dommages causés par négligence."
+    },
+    {
+        "question": "13.1.2.3. Quels sont les devoirs de fidélité du travailleur ?",
+        "answers": [
+            "Ne pas exercer d'activités concurrentielles pendant la durée du contrat",
+            "Éviter toute action qui pourrait nuire aux intérêts de l'employeur",
+            "Divulguer les secrets d'affaires après la fin du contrat",
+            "Travailler pour un tiers sans autorisation"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Le travailleur ne doit pas exercer d'activités concurrentielles pendant la durée de son contrat. Il doit éviter toute action qui pourrait nuire aux intérêts de l'employeur."
+    },
+    {
+        "question": "13.1.2.4. Comment l'employeur peut-il compenser les heures supplémentaires ?",
+        "answers": [
+            "Par un congé équivalent",
+            "Par une rémunération majorée d'au moins 25%",
+            "Par une réduction des heures de travail",
+            "Par une prime de fin d'année"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "L'employeur peut, avec l'accord du travailleur, compenser les heures de travail supplémentaires par un congé d'une durée au moins égale ou par une rémunération majorée d'au moins 25%."
+    },
+    {
+        "question": "13.1.2.5. Quelles sont les obligations de reddition de comptes du travailleur ?",
+        "answers": [
+            "Informer l'employeur de tout ce qu'il reçoit dans le cadre de son activité",
+            "Remettre immédiatement à l'employeur tout ce qu'il produit par son activité",
+            "Garder les sommes d'argent reçues pour lui-même",
+            "Utiliser les résultats de son travail pour son propre bénéfice"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Le travailleur doit informer l'employeur de tout ce qu'il reçoit, y compris les sommes d'argent, en lien avec son travail. Il doit également remettre immédiatement à l'employeur tout ce qu'il produit par son activité contractuelle."
+    },
+    {
+        "question": "13.1.2.6. Vrai ou Faux : Le travailleur peut déléguer ses tâches à un tiers sans autorisation.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "Le travailleur a l'obligation d'exécuter personnellement le travail qui lui est confié. Cela signifie qu'il ne peut pas déléguer ses tâches à un tiers, sauf si un accord explicite a été établi ou si des circonstances particulières le justifient."
+    },
+    {
+        "question": "13.1.2.7. Vrai ou Faux : Le travailleur doit garder confidentiels les secrets d'affaires même après la fin de son contrat.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Le travailleur est tenu de garder confidentiels les secrets de fabrication et d'affaires, même après la fin de son contrat."
+    },
+    {
+        "question": "13.1.2.8. Vous êtes chargé de superviser une machine dans l'atelier. Vous remarquez qu'elle commence à émettre un bruit inhabituel et que son fonctionnement semble anormal. Que devez-vous faire dans cette situation ?",
+        "answers": [
+            "Arrêter immédiatement la machine pour éviter tout risque d'accident ou de dommage supplémentaire.",
+            "Informer votre supérieur ou le service technique du problème afin qu'il puisse être résolu rapidement.",
+            "Continuer à utiliser la machine en espérant que le bruit disparaisse.",
+            "Essayer de réparer la machine vous-même sans en informer votre supérieur."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "En cas de dysfonctionnement ou de problème avec un équipement, il est essentiel de l'arrêter immédiatement pour éviter tout risque d'accident ou de dommage supplémentaire. Vous devez également signaler le problème à votre supérieur ou au service technique, conformément aux directives de l'employeur et aux protocoles de sécurité. Tenter de réparer la machine sans autorisation ou continuer à l'utiliser pourrait entraîner des conséquences graves, tant pour votre sécurité que pour celle de l'entreprise."
+    },
+    {
+        "question": "13.1.2.9. Vous êtes en charge d'une tâche importante et urgente. Cependant, un collègue vous demande de lui déléguer cette tâche car il pense pouvoir la réaliser plus rapidement. Que faites-vous ?",
+        "answers": [
+            "Vous refusez de déléguer la tâche, car vous avez l'obligation de l'exécuter personnellement, sauf accord explicite de votre supérieur.",
+            "Vous expliquez à votre collègue que vous devez respecter votre obligation d'exécution personnelle et que vous ne pouvez pas déléguer sans autorisation.",
+            "Vous acceptez de déléguer la tâche à votre collègue sans en informer votre supérieur.",
+            "Vous ignorez la demande de votre collègue et continuez votre travail sans lui donner d'explications."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Le travailleur a l'obligation d'exécuter personnellement les tâches qui lui sont confiées, sauf si un accord explicite a été établi ou si des circonstances particulières le justifient. Déléguer une tâche sans autorisation peut être considéré comme un manquement à vos obligations professionnelles et nuire à la confiance entre vous et votre employeur. Il est donc important de respecter cette règle et de communiquer clairement avec vos collègues."
+    },
+    {
+        "question": "13.1.3.1. Qu'est-ce qui peut être inclus dans le salaire d'un travailleur vivant chez son employeur ?",
+        "answers": [
+            "L'entretien",
+            "Le logement",
+            "Les frais de déplacement",
+            "Les congés payés"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Si le travailleur vit dans le ménage de l'employeur, son entretien et son logement peuvent être inclus dans le salaire, sauf accord contraire."
+    },
+    {
+        "question": "13.1.3.2. Comment est calculée la participation aux bénéfices d'une entreprise ?",
+        "answers": [
+            "Sur la base du résultat annuel de l'entreprise",
+            "Sur la base des bénéfices mensuels",
+            "Sur la base des bénéfices trimestriels",
+            "Sur la base des bénéfices hebdomadaires"
+        ],
+        "correct": 0,
+        "explanation": "Cette part doit être calculée sur la base du résultat annuel de l'entreprise, conformément aux règles légales et commerciales."
+    },
+    {
+        "question": "13.1.3.3. Quel est le droit minimum de congés annuels pour un travailleur de moins de 20 ans en Suisse ?",
+        "answers": [
+            "5 semaines",
+            "4 semaines",
+            "3 semaines",
+            "6 semaines"
+        ],
+        "correct": 0,
+        "explanation": "Pour les travailleurs de moins de 20 ans, ce minimum est porté à cinq semaines."
+    },
+    {
+        "question": "13.1.3.4. Dans quelles situations l'employeur a le droit de réduire la durée des vacances de son employé ?",
+        "answers": [
+            "Si le travailleur est absent par sa propre faute pendant plus d'un mois au total",
+            "Si le travailleur est absent pour cause de maladie pendant plus de deux mois",
+            "Si la travailleuse est absente pour cause de grossesse pendant plus de 3 mois"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "L'art. CO 329 b prend une forme doublement négative ! Il stipule que l'employeur n'a pas le droit de réduire la durée des vacances si l'empêchement n'est pas supérieur à un mois au cours d'une année de service (donc il le pourrait dès deux mois). Pour les cas de maternité, l'empêchement de travailler ne doit pas être supérieur à deux mois."
+    },
+    {
+        "question": "13.1.3.5. Quels frais l'employeur doit-il rembourser au travailleur ?",
+        "answers": [
+            "Les frais imposés par l'exécution du travail",
+            "Les frais de déplacement nécessaires",
+            "Les frais de logement",
+            "Les frais de loisirs"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "L'employeur rembourse au travailleur tous les frais imposés par l'exécution du travail et, lorsque le travailleur est occupé en dehors de son lieu de travail, les dépenses nécessaires pour son entretien."
+    },
+    {
+        "question": "13.1.3.6. Dans quelles conditions un travailleur a-t-il droit à une rétribution spéciale ?",
+        "answers": [
+            "Si cela a été convenu avec l'employeur",
+            "Automatiquement à Noël",
+            "Automatiquement à la fin de l'exercice annuel",
+            "Si le travailleur le demande"
+        ],
+        "correct": 0,
+        "explanation": "Si l'employeur accorde en sus du salaire une rétribution spéciale à certaines occasions, telles que Noël ou la fin de l'exercice annuel, le travailleur y a droit lorsqu'il en a été convenu ainsi."
+    },
+    {
+        "question": "13.1.3.7. Quel est le rôle de l'employeur concernant la protection de la personnalité des travailleurs ?",
+        "answers": [
+            "Respecter la dignité des travailleurs",
+            "Prévenir le harcèlement",
+            "Garantir un environnement de travail sain",
+            "Fournir des congés supplémentaires",
+            "Offrir des primes de performance"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "L'employeur doit respecter la dignité et la santé des travailleurs, en prenant des mesures pour prévenir le harcèlement et garantir un environnement de travail sain."
+    },
+    {
+        "question": "13.1.3.8. Quels instruments ou matériaux l'employeur doit-il fournir au travailleur ?",
+        "answers": [
+            "Les instruments nécessaires au travail",
+            "Les matériaux nécessaires au travail",
+            "Les outils personnels du travailleur",
+            "Les équipements de loisirs"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Sauf accord ou usage contraire, l'employeur fournit au travailleur les instruments de travail et les matériaux dont celui-ci a besoin."
+    },
+    {
+        "question": "13.1.3.9. Dans quelles conditions un travailleur peut-il demander un certificat de travail ?",
+        "answers": [
+            "À tout moment",
+            "L'employé peut exiger que le certificat ne porte que sur la nature et la durée des rapports de travail",
+            "Seulement à la fin du contrat",
+            "Seulement si l'employeur est d'accord"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Le travailleur peut demander en tout temps à l'employeur un certificat portant sur la nature et la durée des rapports de travail, ainsi que sur la qualité de son travail et sa conduite."
+    },
+    {
+        "question": "13.1.3.10. Quand le salaire doit-il être payé au travailleur ?",
+        "answers": [
+            "À la fin de chaque mois",
+            "Chaque semaine",
+            "Chaque jour",
+            "Chaque trimestre"
+        ],
+        "correct": 0,
+        "explanation": "Sauf clause contraire d'un contrat-type de travail ou d'une convention collective, le salaire est payé au travailleur à la fin de chaque mois."
+    },
+    {
+        "question": "13.1.3.11. Quel est le droit de la travailleuse en cas de maternité ?",
+        "answers": [
+            "Un congé de 14 semaines",
+            "Droit à un salaire pendant cette période",
+            "Un congé de 10 semaines",
+            "Droit à une prime supplémentaire"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "En cas de maternité, la travailleuse a droit, après l'accouchement, à un congé d'au moins 14 semaines."
+    },
+    {
+        "question": "13.1.3.12. Quelles sont les contributions obligatoires dans le cadre de la prévoyance professionnelle ?",
+        "answers": [
+            "Contributions des employeurs",
+            "Contributions des travailleurs",
+            "Contributions des partenaires commerciaux",
+            "Contributions des clients"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les employeurs et les travailleurs doivent verser des contributions à des institutions de prévoyance, qui peuvent inclure des caisses de pension ou des assurances."
+    },
+    {
+        "question": "13.1.3.13. Vrai ou Faux : Les vacances peuvent être remplacées par des prestations en argent si le travailleur le demande.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "Tant que durent les rapports de travail, les vacances ne peuvent pas être remplacées par des prestations en argent ou d'autres avantages."
+    },
+    {
+        "question": "13.1.3.14. Vrai ou Faux : L'employeur doit garantir un volume de travail suffisant au travailleur engagé pour un travail spécifique.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "L'employeur doit fournir un travail en quantité suffisante lorsque le travailleur est engagé pour un travail spécifique."
+    },
+    {
+        "question": "13.1.3.15. Un employé travaillant dans votre entreprise depuis 3 ans est en arrêt maladie depuis 2 semaines. Il vous demande combien de temps son salaire continuera à lui être versé. Que répondez-vous ?",
+        "answers": [
+            "L'employé a droit à deux mois de salaire, conformément à l'échelle de Berne, ou selon la Convention de la branche s'il y en a une.",
+            "L'employé a droit à trois semaines de salaire, car il est dans sa première année de service.",
+            "L'employé n'a pas droit à un salaire pendant son arrêt maladie.",
+            "L'employé a droit à un mois de salaire, car il a travaillé plus d'un an mais moins de cinq ans."
+        ],
+        "correct": 0,
+        "explanation": "Selon l'échelle de Berne, un employé ayant entre 2 et 4 ans d'ancienneté a droit à deux mois de salaire en cas d'empêchement de travailler pour des raisons personnelles, comme une maladie ou un accident, à condition que les rapports de travail aient duré plus de trois mois ou aient été conclus pour plus de trois mois."
+    },
+    {
+        "question": "13.1.3.16. Un employé de votre entreprise, qui a travaillé pendant 6 mois, quitte son poste avant Noël. Il vous demande s'il a droit à une rétribution spéciale de fin d'année. Quelle est la meilleure réponse ?",
+        "answers": [
+            "L'employé a droit à une part proportionnelle de la rétribution spéciale, si cela a été convenu dans son contrat.",
+            "L'employé n'a pas droit à une rétribution spéciale, car il quitte l'entreprise avant Noël.",
+            "L'employé a droit à la totalité de la rétribution spéciale, même s'il quitte l'entreprise avant Noël.",
+            "L'employé n'a droit à aucune rétribution spéciale, car il a travaillé moins d'un an."
+        ],
+        "correct": 0,
+        "explanation": "Si une rétribution spéciale, comme une prime de Noël, a été convenue dans le contrat, l'employé y a droit, même s'il quitte l'entreprise avant l'événement, mais cette rétribution sera calculée au prorata de la durée de son travail dans l'année."
+    },
+    {
+        "question": "13.1.3.17. Un employé vous informe qu'il a utilisé son propre véhicule pour un déplacement professionnel. Il souhaite savoir s'il peut être remboursé. Plusieurs réponses possibles.",
+        "answers": [
+            "L'employé a droit au remboursement des frais courants d'usage et d'entretien de son véhicule, dans la mesure où il a été utilisé pour l'exécution du travail, et qu'il était impossible de faire autrement.",
+            "L'employé n'a pas droit à un remboursement, car il a utilisé son propre véhicule parce cela l'arrangeait",
+            "L'utilisation du véhicule privé est prévue dans le contrat de travail ainsi que les modalités de participation aux frais (essence, entretien, assurances...).",
+            "L'employé a droit à un remboursement uniquement pour les frais de carburant."
+        ],
+        "correct": [
+            0,
+            2
+        ],
+        "explanation": ""
+    },
+    {
+        "question": "13.1.4.1. Quels sont les droits des travailleurs lors du transfert des rapports de travail ?",
+        "answers": [
+            "Droit d'opposition",
+            "Information préalable",
+            "Droit de modifier les conventions collectives",
+            "Droit de refuser les obligations de l'acquéreur"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les travailleurs ont le droit de s'opposer au transfert, ce qui leur permet de conserver leur contrat de travail avec l'ancien employeur jusqu'à la fin du délai de congé légal. Les travailleurs doivent être informés des motifs et des conséquences du transfert avant qu'il ne soit réalisé."
+    },
+    {
+        "question": "13.1.4.2. Vrai ou Faux : En cas de faillite, l'ancien employeur et l'acquéreur sont solidairement responsables des créances des travailleurs.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "En cas de faillite, les droits des travailleurs sont protégés lors du transfert, mais à l'exception de la solidarité entre l'ancien employeur et l'acquéreur."
+    },
+    {
+        "question": "13.1.4.3. Vous êtes responsable des ressources humaines dans une entreprise qui vient d'être cédée à un nouvel acquéreur. Un employé vous informe qu'il souhaite s'opposer au transfert de son contrat de travail. Quelle est la meilleure manière de gérer cette situation ?",
+        "answers": [
+            "Informer l'employé qu'il a le droit de s'opposer au transfert, mais que son contrat prendra fin à l'expiration du délai de congé légal.",
+            "Expliquer à l'employé qu'il doit continuer à exécuter son contrat jusqu'à la fin du délai de congé légal, même s'il s'oppose au transfert.",
+            "Informer l'employé qu'il n'a pas le droit de s'opposer au transfert, car cela est automatique.",
+            "Ignorer la demande de l'employé et transférer son contrat au nouvel acquéreur sans lui donner d'explications."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Selon l'article 333 du Code des obligations, les travailleurs ont le droit de s'opposer au transfert de leur contrat de travail lors de la cession d'une entreprise. En cas d'opposition, leur contrat prend fin à l'expiration du délai de congé légal. Cependant, jusqu'à cette date, l'employé et l'acquéreur doivent continuer à exécuter le contrat. Il est essentiel d'informer l'employé de ses droits et des conséquences de son opposition, tout en respectant les obligations légales."
+    },
+    {
+        "question": "13.1.5.1. Quels sont les délais de préavis applicables après la première année de service dans un contrat à durée indéterminée ?",
+        "answers": [
+            "2 mois",
+            "3 mois",
+            "1 mois",
+            "4 mois"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les délais de préavis sont de 1 mois pendant la première année de service, de 2 mois de la deuxième à la neuvième année de service, et de 3 mois après la neuvième année."
+    },
+    {
+        "question": "13.1.5.2. Quelles sont les caractéristiques de la période d'essai dans un contrat de travail en Suisse ?",
+        "answers": [
+            "Elle ne peut excéder trois mois",
+            "Le préavis est de 7 jours",
+            "Elle peut durer jusqu'à six mois",
+            "Le préavis est de 30 jours"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "La période d'essai est une phase initiale du contrat de travail qui permet aux deux parties d'évaluer la compatibilité et les performances. La période d'essai ne peut excéder trois mois. Pendant la période d'essai, chaque partie peut résilier le contrat à tout moment avec un préavis de 7 jours."
+    },
+    {
+        "question": "13.1.5.3. Vrai ou Faux : En cas de décès du travailleur, l'employeur doit verser un salaire pour un mois ou deux mois selon l'ancienneté.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Le contrat prend fin au décès du travailleur. Toutefois, l'employeur doit payer le salaire, à partir du jour du décès, pour un mois encore et, si les rapports de travail ont duré plus de cinq ans, pour deux mois encore, si le travailleur laisse un conjoint, un partenaire enregistré ou des enfants mineurs ou, à défaut, d'autres personnes en faveur desquelles il remplissait une obligation d'entretien."
+    },
+    {
+        "question": "13.1.5.4. Vous êtes responsable des ressources humaines dans une entreprise. Un employé en période d'essai vous informe qu'il a été hospitalisé suite à un accident et qu'il ne pourra pas travailler pendant deux semaines. Il vous demande si sa période d'essai sera prolongée. Quelle est la meilleure réponse à lui donner ?",
+        "answers": [
+            "Oui, la période d'essai sera prolongée de la durée de son absence, soit deux semaines.",
+            "Non, la période d'essai ne peut pas être prolongée, elle reste de trois mois maximum.",
+            "Non, la période d'essai est fixe et ne peut pas être modifiée, même en cas d'accident ou de maladie.",
+            "Oui, mais uniquement si l'employé en fait la demande par écrit."
+        ],
+        "correct": 0,
+        "explanation": "La période d'essai peut être prolongée si le travail est interrompu en raison d'une maladie, d'un accident ou d'une obligation légale incombant au travailleur. La prolongation est équivalente à la durée de l'interruption, comme stipulé dans l'article 335b du Code des obligations suisse. Dans ce cas, l'employé a été hospitalisé pendant deux semaines, donc sa période d'essai sera prolongée de deux semaines."
+    },
+    {
+        "question": "Final M13.1. [13.1.1] Lequel des énoncés suivants est vrai concernant le contrat individuel de travail ?",
+        "answers": [
+            "Il peut être conclu oralement ou par écrit.",
+            "Il engage mutuellement le salarié et l'employeur.",
+            "Il doit obligatoirement être écrit pour être valide.",
+            "Il ne peut être conclu que pour une durée déterminée."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Le contrat individuel de travail n'exige pas de forme particulière pour sa validité, sauf disposition légale contraire. Cela signifie qu'il peut être conclu de manière orale ou écrite. [...] Le contrat individuel de travail engage mutuellement le salarié et l'employeur."
+    },
+    {
+        "question": "Final M13.2. [13.1.1] Vous êtes responsable des ressources humaines dans une entreprise. Un salarié commence à travailler sans qu'un contrat écrit n'ait été signé, mais un accord verbal a été conclu avec l'employeur. Après un mois, le salarié demande un document écrit pour clarifier les termes de son emploi. Que devez-vous faire dans cette situation ?",
+        "answers": [
+            "Fournir un document écrit contenant les informations essentielles telles que le nom des parties, la date de début du travail, la fonction, le salaire et la durée hebdomadaire du travail.",
+            "Informer le salarié qu'un contrat écrit n'est pas nécessaire car un accord verbal suffit.",
+            "Ignorer la demande du salarié car il a déjà commencé à travailler.",
+            "Exiger que le salarié signe immédiatement un nouveau contrat sans prendre en compte l'accord verbal initial."
+        ],
+        "correct": 0,
+        "explanation": "Même si un contrat individuel de travail peut être conclu oralement, il est obligatoire, selon l'article 330, de fournir un document écrit si la relation de travail dépasse un mois. Ce document doit inclure des informations essentielles telles que le nom des parties, la date de début, la fonction, le salaire et la durée hebdomadaire du travail. Cela permet de clarifier les droits et obligations des deux parties et d'éviter tout malentendu."
+    },
+    {
+        "question": "Final M13.3. [13.1.2] Quelles sont les obligations principales du travailleur en matière d'exécution personnelle du travail ?",
+        "answers": [
+            "Réaliser les tâches lui-même",
+            "Agir dans l'intérêt de l'employeur",
+            "Déléguer les tâches à un tiers sans autorisation",
+            "Négliger les normes de qualité"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Le travailleur a l'obligation d'exécuter personnellement le travail qui lui est confié. Cela signifie qu'il ne peut pas déléguer ses tâches à un tiers, sauf si un accord explicite a été établi ou si des circonstances particulières le justifient. Il doit exécuter son travail avec soin, en respectant les normes de qualité, et agir dans le meilleur intérêt de l'employeur."
+    },
+    {
+        "question": "Final M13.4. [13.1.2] Dans quel cas un travailleur peut-il être tenu responsable d'un dommage causé à l'employeur ?",
+        "answers": [
+            "En cas de négligence",
+            "En cas d'intention délibérée",
+            "Si l'employeur ne donne pas de directives",
+            "Si le travailleur suit les protocoles de sécurité"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "L'Art. 321e aborde la question de la responsabilité du travailleur en cas de dommages causés à l'employeur. Cette responsabilité peut être engagée dans deux cas principaux : intentionnellement ou par négligence."
+    },
+    {
+        "question": "Final M13.5. [13.1.3] Quelles sont les obligations de l'employeur concernant le paiement du salaire ?",
+        "answers": [
+            "L'employeur doit payer le salaire convenu, usuel ou fixé par un contrat-type de travail ou une convention collective.",
+            "Si le travailleur vit chez l'employeur, l'entretien et le logement peuvent être inclus dans le salaire, sauf accord contraire.",
+            "L'employeur peut décider de réduire le salaire sans justification.",
+            "Le salaire peut être payé uniquement en nature, sans numéraire."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "L'employeur paie au travailleur le salaire convenu, usuel ou fixé par un contrat-type de travail ou par une convention collective. Si le travailleur vit dans le ménage de l'employeur, son entretien et son logement font partie du salaire, sauf accord ou usage contraire."
+    },
+    {
+        "question": "Final M13.6. [13.1.3] Dans quelles conditions un travailleur a-t-il droit à une participation aux bénéfices ?",
+        "answers": [
+            "Si cela est stipulé dans le contrat de travail.",
+            "Si la participation est calculée sur la base du résultat annuel de l'entreprise.",
+            "Si le travailleur a travaillé plus de 5 ans dans l'entreprise.",
+            "Si l'employeur décide de manière discrétionnaire de partager les bénéfices."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Si, en vertu du contrat, le travailleur a droit à une part du bénéfice ou du chiffre d'affaires ou participe d'une autre manière au résultat de l'exploitation, cette part est calculée sur la base du résultat de l'exercice annuel, déterminé conformément aux prescriptions légales et aux principes commerciaux généralement reconnus."
+    },
+    {
+        "question": "Final M13.7. [13.1.3] Quels sont les droits des travailleurs concernant les congés annuels ?",
+        "answers": [
+            "Les travailleurs ont droit à un minimum de quatre semaines de congés par an.",
+            "Les travailleurs de moins de 20 ans ont droit à cinq semaines de congés par an.",
+            "Les congés peuvent être remplacés par une compensation financière.",
+            "Les congés doivent obligatoirement être pris en une seule fois."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "L'employeur accorde au travailleur, chaque année de service, quatre semaines de vacances au moins et cinq semaines au moins aux travailleurs jusqu'à l'âge de 20 ans révolus."
+    },
+    {
+        "question": "Final M13.8. [13.1.3] Quelles mesures l'employeur doit-il prendre pour protéger la personnalité des travailleurs ?",
+        "answers": [
+            "Prévenir le harcèlement au travail.",
+            "Garantir un environnement de travail sain.",
+            "Fournir des congés supplémentaires en cas de harcèlement.",
+            "Partager les données personnelles des travailleurs avec des tiers."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "L'employeur protège et respecte, dans les rapports de travail, la personnalité du travailleur; il manifeste les égards voulus pour sa santé et veille au maintien de la moralité. En particulier, il veille à ce que les travailleurs ne soient pas harcelés sexuellement."
+    },
+    {
+        "question": "Final M13.9. [13.1.3] Vrai ou Faux : Les frais imposés par l'exécution du travail par le travailleur doivent être remboursés par l'employeur.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "L'employeur rembourse au travailleur tous les frais imposés par l'exécution du travail et, lorsque le travailleur est occupé en dehors de son lieu de travail, les dépenses nécessaires pour son entretien."
+    },
+    {
+        "question": "Final M13.10. [13.1.3] Vrai ou Faux : Les travailleurs peuvent demander un certificat de travail à tout moment.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Le travailleur peut demander en tout temps à l'employeur un certificat portant sur la nature et la durée des rapports de travail, ainsi que sur la qualité de son travail et sa conduite."
+    },
+    {
+        "question": "Final M13.11. [13.1.3] Un employé vous informe qu'il a droit à une rétribution spéciale pour Noël, mais son contrat de travail prend fin avant cette période. Que devez-vous faire ?",
+        "answers": [
+            "Vous calculez la rétribution spéciale au prorata, uniquement si le principe d'une rétribution spéciale a été convenu dans le contrat.",
+            "Vous refusez de lui accorder la rétribution spéciale, car son contrat se termine avant Noël.",
+            "Vous lui accordez la rétribution spéciale complète, même si cela n'a pas été convenu dans le contrat.",
+            "Vous lui proposez de remplacer la rétribution spéciale par un autre avantage."
+        ],
+        "correct": 0,
+        "explanation": "En cas de fin de contrat avant l'événement donnant lieu à une rétribution spéciale, le travailleur a droit à une part proportionnelle de cette rétribution uniquement si cela a été convenu dans le contrat. Il est donc essentiel de vérifier les termes du contrat avant de procéder."
+    },
+    {
+        "question": "Final M13.12. [13.1.4] Quelles affirmations concernant le transfert des rapports de travail sont correctes ?",
+        "answers": [
+            "Les rapports de travail sont transférés automatiquement à l'acquéreur lors de la cession d'une entreprise.",
+            "Les travailleurs peuvent s'opposer au transfert, ce qui met fin à leur contrat à l'expiration du délai de congé légal.",
+            "L'acquéreur peut refuser de respecter les conventions collectives en vigueur.",
+            "En cas de faillite, l'ancien employeur et l'acquéreur restent solidairement responsables des créances échues."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Le transfert des rapports de travail implique que les droits et obligations des travailleurs passent automatiquement à l'acquéreur, sauf si le travailleur s'y oppose. [...] Les travailleurs peuvent s'opposer au transfert, ce qui entraîne la fin de leur contrat à l'expiration du délai de congé légal. [...] En cas de faillite, cet article est régi par les mêmes principes [...] à l'exception de la solidarité entre l'ancien employeur et l'acquéreur."
+    },
+    {
+        "question": "Final M13.13. [13.1.5] Quels sont les délais de préavis applicables après la période d'essai en fonction de l'ancienneté de l'employé ?",
+        "answers": [
+            "1 mois pour la première année",
+            "3 mois après 9 ans",
+            "2 mois pour la première année",
+            "4 mois après 9 ans"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les délais de préavis varient selon l'ancienneté de l'employé : 1 mois pour la première année, 2 mois de la deuxième à la neuvième année, et 3 mois après 9 ans."
+    },
+    {
+        "question": "Final M13.14. [13.1.5] Pendant la période d'essai, quelles sont les caractéristiques principales de la résiliation du contrat ?",
+        "answers": [
+            "Un préavis de 7 jours",
+            "La possibilité de résilier à tout moment",
+            "Un préavis de 1 mois",
+            "Une période d'essai de 6 mois"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Pendant la période d'essai, qui ne peut excéder trois mois, chaque partie peut résilier le contrat à tout moment avec un préavis de 7 jours."
+    }
+]

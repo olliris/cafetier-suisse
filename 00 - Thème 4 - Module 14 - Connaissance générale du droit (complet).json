@@ -1,0 +1,1001 @@
+[
+    {
+        "question": "14.0.1. Quels sont les sens possibles du mot 'droit' ?",
+        "answers": [
+            "Faculté d'accomplir certains actes",
+            "Ensemble de règles qui régissent les rapports entre personnes",
+            "Fiscalité",
+            "Morale",
+            "Liberté absolue de faire tout ce que l'on veut",
+            "Absence de règles",
+            "Pouvoir individuel sans limites"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "explanation": "Les exemples ci-dessus nous montrent que l'on se réfère implicitement à : faculté d'accomplir certains actes, fiscalité, ensemble de règles qui régissent les rapports entre personnes, morale."
+    },
+    {
+        "question": "14.0.2. Quels domaines de la vie sont concernés par le droit ?",
+        "answers": [
+            "Vie politique",
+            "Vie privée",
+            "Vie économique",
+            "Vie culturelle",
+            "Étapes de la vie",
+            "Vie extraterrestre",
+            "Vie imaginaire",
+            "Vie sans organisation sociale"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "explanation": "Le droit touche tous les domaines de la vie : Vie politique (organisation de l'Etat, administration, défense...), Vie privée, Vie économique (travail, vente, sécurité...), Vie culturelle (associations...), Étapes de la vie (naissance, mariage, décès, héritage)."
+    },
+    {
+        "question": "14.0.3. Quelle affirmation est correcte concernant la hiérarchie des normes en cas de conflit ?",
+        "answers": [
+            "La loi fédérale l'emporte sur la loi cantonale",
+            "La nouvelle loi l'emporte sur l'ancienne",
+            "La loi cantonale l'emporte sur la loi fédérale",
+            "L'ancienne loi l'emporte sur la nouvelle"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "En cas de contradiction : La nouvelle loi l'emporte sur l'ancienne. La loi fédérale l'emporte sur la loi cantonale."
+    },
+    {
+        "question": "14.0.4. Qu'est-ce qui caractérise la jurisprudence ?",
+        "answers": [
+            "Elle est constituée principalement des décisions du Tribunal fédéral",
+            "Elle garantit un traitement équitable entre justiciables",
+            "Elle est uniquement basée sur la coutume",
+            "Elle ne concerne pas les décisions des tribunaux"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "La jurisprudence désigne ainsi l'ensemble des décisions rendues par les tribunaux, qui servent de référence pour interpréter et appliquer la loi dans des affaires similaires ultérieures. [...] La jurisprudence est donc essentiellement constituée des décisions du Tribunal fédéral."
+    },
+    {
+        "question": "14.0.5. Vrai ou Faux : La coutume doit être générale et revêtir un caractère obligatoire pour être considérée comme une source juridique.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Elle doit être générale et revêtir un caractère obligatoire pour l'intéressé."
+    },
+    {
+        "question": "14.0.6. Vous êtes juge dans un tribunal cantonal et vous devez rendre une décision dans une affaire où une loi cantonale semble contredire une loi fédérale. Quelle est la meilleure approche pour résoudre ce conflit juridique ?",
+        "answers": [
+            "Appliquer la loi fédérale, car elle prévaut sur la loi cantonale en cas de conflit.",
+            "Appliquer la loi cantonale, car elle est spécifique à la région concernée.",
+            "Ignorer les deux lois et baser votre décision uniquement sur la coutume locale.",
+            "Demander au législateur de clarifier la situation avant de rendre une décision."
+        ],
+        "correct": 0,
+        "explanation": "En cas de conflit entre une loi fédérale et une loi cantonale, la hiérarchie des normes stipule que la loi fédérale l'emporte sur la loi cantonale. Les tribunaux doivent garantir la cohérence et la stabilité du système juridique en appliquant les normes de manière uniforme et équitable. Ignorer cette hiérarchie ou baser une décision uniquement sur la coutume locale pourrait compromettre l'équité et la cohérence du droit."
+    },
+    {
+        "question": "14.1.1.1. Quelles sont les caractéristiques principales du droit privé ?",
+        "answers": [
+            "Intérêt privé",
+            "Autonomie des parties",
+            "Intérêt général",
+            "Sanctions pénales ou administratives"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les règles de droit privé visent à protéger les droits et les intérêts des individus. Les individus ont la liberté de négocier et de conclure des contrats selon leurs propres termes."
+    },
+    {
+        "question": "14.1.1.2. Quels domaines relèvent du droit public ?",
+        "answers": [
+            "Droit constitutionnel",
+            "Droit administratif",
+            "Droit pénal",
+            "Droit commercial"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Le droit public inclut des domaines tels que le droit constitutionnel, le droit administratif et le droit pénal."
+    },
+    {
+        "question": "14.1.1.3. Quel est l'objet principal du droit public ?",
+        "answers": [
+            "Régir les relations entre l'État et les citoyens",
+            "Régir les relations entre particuliers",
+            "Protéger les droits de propriété",
+            "Réglementer les contrats entre entreprises",
+            "Organiser le fonctionnement de l'État"
+        ],
+        "correct": 4,
+        "explanation": "Le droit public régit les relations entre les individus et les institutions publiques."
+    },
+    {
+        "question": "14.1.1.4. Dans quel cas l'État peut-il relever du droit privé ?",
+        "answers": [
+            "Lorsqu'il loue des locaux pour ses employés",
+            "Lorsqu'il commande du matériel",
+            "Lorsqu'il impose des taxes",
+            "Lorsqu'il délivre un permis de construire",
+            "Lorsqu'on passe devant un tribunal pénal"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "L'État relève du droit privé lorsqu'il se lie par des obligations relevant du droit privé (par ex, lorsqu'il commande du matériel, loue des locaux pour ses employés)."
+    },
+    {
+        "question": "14.1.1.5. Quels sont les principes fondamentaux du droit civil ?",
+        "answers": [
+            "Autonomie de la volonté",
+            "Protection des droits",
+            "Responsabilité",
+            "Intérêt général"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les principes fondamentaux du droit civil incluent l'autonomie de la volonté, la protection des droits et la responsabilité."
+    },
+    {
+        "question": "14.1.1.6. Quels types de litiges relèvent du droit civil ?",
+        "answers": [
+            "Litiges contractuels",
+            "Litiges de responsabilité",
+            "Litiges familiaux",
+            "Litiges administratifs"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les types de litiges civils incluent les litiges contractuels, les litiges de responsabilité et les litiges familiaux."
+    },
+    {
+        "question": "14.1.1.7. Vrai ou Faux : Le droit administratif fait partie du droit privé.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "Le droit administratif est la branche du droit public qui régit l'organisation, le fonctionnement et les activités de l'administration publique."
+    },
+    {
+        "question": "14.1.1.8. Un citoyen souhaite contester une décision administrative prise par une municipalité concernant l'octroi d'un permis de construire. Quelle est la meilleure démarche à suivre pour résoudre ce litige ?",
+        "answers": [
+            "Faire appel devant un tribunal administratif pour contester la décision.",
+            "Intenter une action en justice pour obtenir des dommages-intérêts.",
+            "Négocier directement avec la municipalité pour modifier la décision.",
+            "Ignorer la décision et commencer les travaux sans autorisation."
+        ],
+        "correct": 0,
+        "explanation": "Dans ce cas, le litige relève du droit public, car il s'agit d'une relation entre un individu et une autorité publique. La meilleure démarche consiste à faire appel devant un tribunal administratif, qui est compétent pour examiner les décisions prises par les administrations publiques. Les autres options ne respectent pas les procédures légales ou ne sont pas adaptées à ce type de litige."
+    },
+    {
+        "question": "14.1.2.1. Quelle est la norme suprême dans la hiérarchie des normes ?",
+        "answers": [
+            "La Constitution",
+            "Les lois fédérales",
+            "Le droit cantonal",
+            "Les règlements communaux"
+        ],
+        "correct": 0,
+        "explanation": "La Constitution est la norme suprême d'un État, qui fixe les principes fondamentaux et les droits des citoyens."
+    },
+    {
+        "question": "14.1.2.2. Dans quel cas une loi cantonale peut-elle être valide ?",
+        "answers": [
+            "Lorsqu'elle renforce une loi fédérale sans la contredire",
+            "Lorsqu'elle contredit une loi fédérale",
+            "Lorsqu'elle est en conflit avec un traité international",
+            "Lorsqu'elle ne respecte pas la Constitution"
+        ],
+        "correct": 0,
+        "explanation": "Dans ce cas, la loi cantonale est valide car elle renforce la protection de l'environnement sans contredire la loi fédérale."
+    },
+    {
+        "question": "14.1.2.3. Quel tribunal est le plus important en Suisse ?",
+        "answers": [
+            "Le Tribunal fédéral",
+            "Les tribunaux cantonaux",
+            "Les tribunaux communaux",
+            "Le Tribunal international"
+        ],
+        "correct": 0,
+        "explanation": "Dans beaucoup de pays, le tribunal le plus important est appelé 'tribunal suprême'. En Suisse, il s'appelle le Tribunal fédéral, ses décisions l'emportent sur celles des tribunaux cantonaux."
+    },
+    {
+        "question": "14.1.2.4. Quel rôle jouent les traités internationaux dans la hiérarchie des normes ?",
+        "answers": [
+            "Ils influencent le droit national et doivent être respectés par les États signataires",
+            "Ils n'ont aucune influence sur le droit national",
+            "Ils ne sont pas obligatoires une fois ratifiés"
+        ],
+        "correct": 0,
+        "explanation": "Les traités internationaux sont des accords entre États qui, une fois ratifiés, ont force obligatoire. Ils doivent être respectés par les États signataires et peuvent influencer le droit national."
+    },
+    {
+        "question": "14.1.2.5. Quelle est la règle temporelle dans la hiérarchie des normes ?",
+        "answers": [
+            "La loi nouvelle l'emporte sur l'ancienne",
+            "La loi ancienne l'emporte sur la nouvelle",
+            "Les lois fédérales sont toujours prioritaires sur les lois nouvelles",
+            "Les règlements communaux sont prioritaires sur les lois nouvelles"
+        ],
+        "correct": 0,
+        "explanation": "A ceci il faut ajouter une hiérarchie temporelle : la nouvelle loi l'emporte sur l'ancienne."
+    },
+    {
+        "question": "14.1.2.6. Vrai ou Faux : Les communes peuvent adopter des règlements qui contredisent les normes cantonales.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "Les communes ont des compétences spécifiques, mais doivent respecter les normes supérieures."
+    },
+    {
+        "question": "14.1.2.7. Un canton adopte une loi sur la protection de l'environnement qui interdit totalement l'utilisation de certains produits chimiques, alors que la loi fédérale autorise leur utilisation sous certaines conditions. Quelle est la meilleure manière de gérer cette situation en respectant la hiérarchie des normes ?",
+        "answers": [
+            "Vérifier si la loi cantonale renforce la protection de l'environnement sans contredire directement la loi fédérale.",
+            "Appliquer directement la loi cantonale sans tenir compte de la loi fédérale.",
+            "Annuler la loi cantonale car elle est plus stricte que la loi fédérale.",
+            "Considérer que la loi cantonale prévaut sur la loi fédérale dans tous les cas."
+        ],
+        "correct": 0,
+        "explanation": "Dans la hiérarchie des normes, le droit cantonal peut compléter le droit fédéral à condition qu'il ne le contredise pas. Si la loi cantonale renforce la protection de l'environnement sans aller à l'encontre des dispositions de la loi fédérale, elle est valide. Cependant, si elle contredit directement la loi fédérale, elle doit être annulée, car le droit fédéral prévaut sur le droit cantonal en cas de conflit."
+    },
+    {
+        "question": "14.1.3.1.1. Quelles sont les formes que peut prendre une prestation dans le cadre d'une obligation ?",
+        "answers": [
+            "Une livraison d'un objet ou d'une somme d'argent",
+            "Un service comme organiser un concert",
+            "Une prestation passive comme s'abstenir de faire concurrence",
+            "Une sanction pénale contre le débiteur"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "La prestation peut prendre plusieurs formes, par exemple : une livraison d'un objet, d'une somme d'argent ; un service (ex. monter un concert, coiffeur...) ; passive (s'abstenir de faire concurrence)."
+    },
+    {
+        "question": "14.1.3.1.2. Quels sont les actes juridiques qui donnent naissance à une obligation ?",
+        "answers": [
+            "L'acte illicite",
+            "Le contrat",
+            "L'enrichissement illégitime",
+            "La loi",
+            "La sanction pénale"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "explanation": "De fait, les actes juridiques donnant naissance à une obligation sont au nombre de quatre : 1) L'acte illicite, 2) Le contrat, 3) L'enrichissement illégitime, 4) La loi."
+    },
+    {
+        "question": "14.1.3.1.3. Quels types de dommages sont couverts par la responsabilité civile ?",
+        "answers": [
+            "Dommages matériels",
+            "Dommages corporels",
+            "Dommages moraux",
+            "Dommages liés à des objets uniquement"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les dommages peuvent être matériels, corporels ou moraux. La responsabilité civile s'applique à tous ces types de préjudices."
+    },
+    {
+        "question": "14.1.3.1.4. Quelles sont les conditions nécessaires pour établir un acte illicite ?",
+        "answers": [
+            "Une violation du droit",
+            "Une faute",
+            "Un dommage",
+            "Un rapport de causalité entre l'acte et le dommage",
+            "Une sanction pénale immédiate"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "explanation": "Afin d'établir l'obligation de réparation, le juge doit examiner quatre conditions : 1) Une violation du droit, 2) Une faute, 3) Un dommage, 4) Un rapport de causalité entre l'acte illicite et le dommage."
+    },
+    {
+        "question": "14.1.3.1.5. Pour quelles raisons peut-on demander une réparation pour un tort moral ?",
+        "answers": [
+            "Lésions corporelles",
+            "Mort",
+            "Atteinte à la personnalité",
+            "Tort moral lié à un objet",
+            "Cambriolage"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Le tort moral couvre : Lésions corporelles, Mort, Atteinte à la personnalité. Il n'y a donc pas de réparation pour tort moral lié à un objet."
+    },
+    {
+        "question": "14.1.3.1.6. Dans quels cas le juge peut-il réduire les dommages-intérêts ?",
+        "answers": [
+            "Consentement de la partie lésée",
+            "Gêne excessive pour le débiteur",
+            "Faute légère",
+            "Dommages causés par négligence grave"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Le juge peut décider de réduire ou même de refuser l'allocation de dommages-intérêts dans les cas suivants : 1) Consentement de la partie lésée, 2) Gêne excessive pour le débiteur, 3) Faute légère."
+    },
+    {
+        "question": "14.1.3.1.7. Quels types de dommages peuvent être indemnisés en cas de mort ?",
+        "answers": [
+            "Frais d'inhumation",
+            "Frais médicaux",
+            "Perte de soutien économique",
+            "Dommages liés à des objets personnels"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Les dommages-intérêts peuvent inclure : Frais d'inhumation, Frais médicaux, Préjudice économique (perte de soutien)."
+    },
+    {
+        "question": "14.1.3.1.8. Vrai ou Faux : La responsabilité civile impose à une personne de réparer un préjudice causé à autrui, que ce soit intentionnellement ou par négligence.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "La responsabilité civile est un concept fondamental du droit civil qui impose à une personne de réparer le préjudice causé à autrui, que ce soit de manière intentionnelle ou par négligence."
+    },
+    {
+        "question": "14.1.3.1.9. Un employé de votre entreprise, dans le cadre de ses fonctions, a causé un dommage matériel important à un client en raison d'une négligence grave. Le client demande une réparation immédiate. En tant que responsable, comment gérez-vous cette situation ?",
+        "answers": [
+            "Vous acceptez la responsabilité de l'entreprise pour le dommage causé et proposez une réparation adaptée, tout en informant le client que vous exercerez un recours contre l'employé pour négligence grave.",
+            "Vous refusez toute responsabilité en expliquant que l'employé est seul responsable de ses actes.",
+            "Vous proposez au client de négocier directement avec l'employé pour trouver une solution.",
+            "Vous ignorez la demande du client en espérant que la situation se résolve d'elle-même."
+        ],
+        "correct": 0,
+        "explanation": "En tant qu'employeur, vous êtes responsable des dommages causés par vos employés dans le cadre de leurs fonctions. Cependant, si l'employé a agi avec négligence grave, vous pouvez exercer un recours contre lui après avoir réparé le préjudice causé au client. Cela garantit une gestion professionnelle et respectueuse des obligations légales."
+    },
+    {
+        "question": "14.1.3.1.10. Un propriétaire d'immeuble est informé qu'une partie de la façade de son bâtiment présente un risque de chute, ce qui pourrait causer des dommages aux passants. Quelques jours plus tard, un accident survient et un passant est blessé. En tant que propriétaire, quelle est la meilleure manière de gérer cette situation ?",
+        "answers": [
+            "Vous reconnaissez votre responsabilité pour défaut d'entretien et proposez de couvrir les frais médicaux et les dommages-intérêts pour incapacité, tout en prenant des mesures immédiates pour sécuriser la façade.",
+            "Vous refusez toute responsabilité en affirmant que le passant aurait dû éviter la zone dangereuse.",
+            "Vous attendez que le passant prenne des mesures légales avant d'agir.",
+            "Vous proposez une compensation symbolique sans reconnaître votre responsabilité."
+        ],
+        "correct": 0,
+        "explanation": "En tant que propriétaire, vous êtes responsable des dommages causés par un défaut d'entretien de votre bien immobilier. Vous devez réparer le préjudice subi par le passant, notamment en couvrant les frais médicaux et les dommages-intérêts, tout en prenant des mesures pour éviter de futurs accidents. Cela démontre votre respect des obligations légales et votre engagement envers la sécurité publique."
+    },
+    {
+        "question": "14.1.3.2.1. Quel est l'objectif principal de la Loi fédérale sur la responsabilité du fait des produits (LRFP) ?",
+        "answers": [
+            "Protéger les consommateurs contre les produits défectueux",
+            "Encourager la production de masse",
+            "Réduire les coûts de fabrication des produits",
+            "Éviter les litiges entre producteurs"
+        ],
+        "correct": 0,
+        "explanation": "Cette loi vise à protéger les consommateurs en garantissant que les produits mis sur le marché répondent à des normes de sécurité adéquates."
+    },
+    {
+        "question": "14.1.3.2.2. Qui est considéré comme producteur selon la LRFP ?",
+        "answers": [
+            "Le fabricant d'un produit fini",
+            "L'importateur d'un produit",
+            "Toute personne apposant sa marque sur un produit",
+            "Le consommateur final"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "La loi définit clairement qui est considéré comme producteur, incluant les fabricants, les importateurs et ceux qui se présentent comme tels."
+    },
+    {
+        "question": "14.1.3.2.3. Quel type de produit est inclus dans la définition de 'produit' selon la LRFP ?",
+        "answers": [
+            "Chose mobilière",
+            "Électricité",
+            "Immeubles",
+            "Services"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "La LRFP définit un produit comme toute chose mobilière, même si elle est incorporée dans un autre objet, ainsi que l'électricité."
+    },
+    {
+        "question": "14.1.3.2.4. Dans quel cas un producteur peut-il ne pas être tenu responsable selon la LRFP ?",
+        "answers": [
+            "Si le défaut n'était pas décelable avec les connaissances scientifiques de l'époque",
+            "Si le produit n'a pas été fabriqué pour la vente ou la distribution dans un but économique",
+            "Si le défaut est dû à la conformité avec des règles impératives des autorités publiques",
+            "Si le produit est vendu à un prix réduit"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "La LRFP prévoit certaines exceptions où le producteur peut ne pas être tenu responsable, notamment si le défaut n'était pas décelable avec les connaissances scientifiques et techniques de l'époque."
+    },
+    {
+        "question": "14.1.3.2.5. Quel est le montant de la franchise pour les dommages matériels selon la LRFP ?",
+        "answers": [
+            "900 francs",
+            "500 francs",
+            "1 200 francs",
+            "Aucun montant n'est fixé"
+        ],
+        "correct": 0,
+        "explanation": "La victime doit supporter les dommages matériels jusqu'à concurrence de 900 francs."
+    },
+    {
+        "question": "14.1.3.2.6. Quels sont les délais de prescription et de péremption prévus par la LRFP ?",
+        "answers": [
+            "Prescription : 3 ans à partir de la connaissance du dommage",
+            "Prescription : 5 ans",
+            "Péremption : 15 ans"
+        ],
+        "correct": 0,
+        "explanation": "Les prétentions en dommages-intérêts se prescrivent par trois ans à compter de la date à laquelle la victime a eu connaissance du dommage, et s'éteignent après dix ans à compter de la mise en circulation du produit."
+    },
+    {
+        "question": "14.1.3.2.7. Vrai ou Faux : Un produit est défectueux uniquement si un produit plus perfectionné a été mis en circulation après lui.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "Un produit ne peut être considéré comme défectueux par le seul fait qu'un produit plus perfectionné a été mis ultérieurement en circulation."
+    },
+    {
+        "question": "14.1.3.2.8. Vrai ou Faux : La LRFP interdit les clauses qui limitent la responsabilité des producteurs au détriment des victimes.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Toute convention qui limite ou exclut la responsabilité civile au détriment de la victime est considérée comme nulle."
+    },
+    {
+        "question": "14.1.3.2.9. Un fabricant de jouets est accusé par un client de vendre un produit défectueux qui aurait causé des blessures à un enfant. Le fabricant affirme que le défaut n'était pas détectable au moment de la mise en circulation en raison de l'état des connaissances scientifiques de l'époque. Quelle est la meilleure réponse à cette situation ?",
+        "answers": [
+            "Expliquer que la LRFP prévoit une exception à la responsabilité si le défaut n'était pas décelable avec les connaissances scientifiques et techniques disponibles au moment de la mise en circulation.",
+            "Vérifier si le produit est conforme aux règles impératives émanant des autorités publiques, ce qui pourrait également exonérer le fabricant.",
+            "Indiquer que le fabricant est toujours responsable, peu importe les circonstances.",
+            "Refuser de prendre en compte les exceptions prévues par la LRFP et demander au client de prouver le défaut."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "La LRFP prévoit des exceptions à la responsabilité, notamment si le défaut n'était pas décelable avec les connaissances scientifiques de l'époque ou si le produit était conforme à des règles impératives. Ces éléments doivent être vérifiés avant de conclure sur la responsabilité du fabricant."
+    },
+    {
+        "question": "14.1.3.2.10. Un consommateur souhaite intenter une action en justice contre un producteur pour un dommage causé par un produit défectueux. Cependant, le produit a été mis en circulation il y a plus de 10 ans. Quelle est la meilleure manière de répondre à cette demande ?",
+        "answers": [
+            "Informer le consommateur que les prétentions en dommages-intérêts s'éteignent après un délai de péremption de 10 ans à compter de la mise en circulation du produit.",
+            "Vérifier si une procédure judiciaire a été engagée avant l'expiration des 10 ans, ce qui pourrait maintenir les droits du consommateur.",
+            "Accepter la demande du consommateur sans vérifier les délais de péremption.",
+            "Indiquer que la LRFP ne prévoit aucun délai pour les actions en justice liées aux produits défectueux."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "La LRFP impose un délai de péremption de 10 ans à partir de la mise en circulation du produit. Passé ce délai, les prétentions en dommages-intérêts ne peuvent plus être exercées, sauf si une procédure judiciaire a été engagée avant l'expiration de ce délai."
+    },
+    {
+        "question": "14.1.3.3.1. Quelles sont les caractéristiques fondamentales d'un contrat ?",
+        "answers": [
+            "Autonomie de la volonté",
+            "Consentement",
+            "Exécution forcée",
+            "Nullité"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Voici quelques caractéristiques fondamentales des contrats : Autonomie de la volonté, Consentement, Objet."
+    },
+    {
+        "question": "14.1.3.3.2. Quel type de contrat implique une obligation réciproque entre deux parties ?",
+        "answers": [
+            "Contrat bilatéral",
+            "Contrat unilatéral",
+            "Contrat multilatéral",
+            "Contrat tacite"
+        ],
+        "correct": 0,
+        "explanation": "Les deux parties s'engagent réciproquement (ex. contrat de vente)."
+    },
+    {
+        "question": "14.1.3.3.3. Quelles sont les conditions nécessaires pour qu'une personne physique puisse conclure un contrat ?",
+        "answers": [
+            "Discernement",
+            "Majorité",
+            "Absence de mesure d'interdiction",
+            "Autonomie financière",
+            "Consentement forcé"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Pour conclure un contrat, une personne physique doit disposer de l'exercice des droits civils. Il y a trois conditions pour jouir des droits civils : discernement, majorité, absence de mesure d'interdiction."
+    },
+    {
+        "question": "14.1.3.3.4. Dans quel cas un contrat est-il considéré comme nul ?",
+        "answers": [
+            "Si l'objet est illicite",
+            "Si l'objet est impossible",
+            "Si l'objet est contraire aux bonnes mœurs",
+            "Si la forme prévue par la loi n'est pas respectée",
+            "Si le consentement est libre",
+            "Si l'objet est déterminé"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "explanation": "Le contrat est nul s'il a pour objet une chose impossible, illicite, contraire aux bonnes mœurs, ou s'il ne respecte pas la forme prévue par la loi."
+    },
+    {
+        "question": "14.1.3.3.5. Vrai ou Faux : Une personne morale peut conclure un contrat.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "En droit, on distingue les personnes morales (entreprises, associations) et les personnes physiques (vous, moi). Ces deux genres de personnes sont sujettes de droit."
+    },
+    {
+        "question": "14.1.3.4.1. Qu'est-ce qu'une chose fongible ?",
+        "answers": [
+            "Une chose interchangeable",
+            "Une chose unique",
+            "Une chose immatérielle",
+            "Une chose non échangeable"
+        ],
+        "correct": 0,
+        "explanation": "Chose fongible : elle est interchangeable , ex. une harasse de limonades Romanette."
+    },
+    {
+        "question": "14.1.3.4.2. Qui est responsable des frais de délivrance (mesure, pesage) dans une vente mobilière ?",
+        "answers": [
+            "Le vendeur",
+            "L'acheteur",
+            "Les deux parties",
+            "Aucun des deux"
+        ],
+        "correct": 0,
+        "explanation": "Frais de délivrance (mesure, pesage) à la charge du vendeur."
+    },
+    {
+        "question": "14.1.3.4.3. A quel moment a lieu le changement de propriétaire dans le cas d'une vente d'un bien mobilier ?",
+        "answers": [
+            "Lors du transfert légitime de la possession",
+            "Lors de la signature du contrat",
+            "Après le paiement complet",
+            "Après l'inscription au registre foncier"
+        ],
+        "correct": 0,
+        "explanation": "En principe, le transfert de la propriété a lieu au moment du transfert légitime de la possession. Cela signifie que le paiement ne joue pas de rôle."
+    },
+    {
+        "question": "14.1.3.4.4. Quelle est la durée de garantie pour un bien immobilier selon l'Art. 210 CO ?",
+        "answers": [
+            "Cinq ans",
+            "Deux ans",
+            "Une année",
+            "Dix ans"
+        ],
+        "correct": 0,
+        "explanation": "Durée de la garantie : l'Art. 210 CO prévoit une garantie de cinq ans pour un bien immobilier."
+    },
+    {
+        "question": "14.1.3.4.5. Que doit faire l'acheteur en cas de défauts constatés sur un bien acheté à distance ?",
+        "answers": [
+            "Informer le vendeur avant de renvoyer l'objet",
+            "Renvoyer directement l'objet",
+            "Ignorer les défauts",
+            "Demander une réduction de prix sans formalité"
+        ],
+        "correct": 0,
+        "explanation": "L'acheteur ne peut pas renvoyer l'objet directement mais doit tout d'abord en informer le vendeur (Art. 204 CO)."
+    },
+    {
+        "question": "14.1.3.4.6. Que peut demander l'acheteur si la moins-value d'un bien est égale au prix de vente ?",
+        "answers": [
+            "La résiliation de la vente",
+            "Une réduction de prix",
+            "Un remplacement du bien",
+            "Une prolongation de garantie"
+        ],
+        "correct": 0,
+        "explanation": "Si la moins-value est égale au prix de vente, l'acheteur ne peut demander que la résiliation (Art. 205 CO)."
+    },
+    {
+        "question": "14.1.3.4.7. Que se passe-t-il si l'acheteur ne vérifie pas l'état du bien dès réception ?",
+        "answers": [
+            "Le bien est considéré comme accepté",
+            "L'acheteur peut toujours demander une garantie",
+            "Le vendeur est automatiquement responsable",
+            "La vente est annulée"
+        ],
+        "correct": 0,
+        "explanation": "Lorsqu'il néglige de le faire, la chose est tenue pour acceptée, à moins qu'il ne s'agisse de défauts que l'acheteur ne pouvait découvrir à l'aide des vérifications usuelles (Art. 201 CO)."
+    },
+    {
+        "question": "14.1.3.4.8. Dans quel cas l'acheteur peut demander des dommages-intérêts en cas de demeure du vendeur ?",
+        "answers": [
+            "Si le vendeur ne respecte pas les délais de livraison",
+            "Si le vendeur livre un bien défectueux",
+            "Si le vendeur refuse de vendre",
+            "Si le vendeur demande un acompte"
+        ],
+        "correct": 0,
+        "explanation": "La demeure du vendeur est une situation où le vendeur ne respecte pas les délais de livraison convenus. L'acheteur peut réclamer des dommages-intérêts pour cause d'inexécution (Art. 190 CO)."
+    },
+    {
+        "question": "14.1.3.4.9. Que doit faire l'acheteur dans une vente à l'essai ?",
+        "answers": [
+            "Se prononcer dans un délai fixé par la convention ou l'usage",
+            "Accepter automatiquement le bien",
+            "Renvoyer le bien sans justification",
+            "Payer avant de se prononcer"
+        ],
+        "correct": 0,
+        "explanation": "Dans la vente à l'essai ou à l'examen, l'acheteur peut accepter ou renoncer à la chose. Il doit se prononcer dans un délai fixé par la convention ou par l'usage."
+    },
+    {
+        "question": "14.1.3.4.10. Que se passe-t-il si l'acheteur est en demeure de payer et que le contrat prévoit le paiement avant livraison ?",
+        "answers": [
+            "Le vendeur peut se départir du contrat sans autre formalité",
+            "Le vendeur doit livrer le bien malgré tout",
+            "L'acheteur devient propriétaire automatiquement",
+            "Le vendeur doit attendre un paiement ultérieur"
+        ],
+        "correct": 0,
+        "explanation": "Si la chose doit n'être livrée qu'après ou contre paiement du prix et que l'acheteur soit en demeure de payer, le vendeur peut se départir du contrat sans autre formalité (Art. 214 CO)."
+    },
+    {
+        "question": "14.1.3.4.11. Dans une vente sur échantillon, que représente l'échantillon ?",
+        "answers": [
+            "Une preuve sur la qualité attendue de la livraison",
+            "Un exemple de prix",
+            "Une garantie de conformité",
+            "Une obligation d'achat"
+        ],
+        "correct": 0,
+        "explanation": "Vente sur échantillon : l'échantillon constitue une preuve sur la qualité attendue de la livraison."
+    },
+    {
+        "question": "14.1.3.4.12. Vrai ou Faux : Le vendeur est responsable des défauts même s'il les ignorait.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Le vendeur est tenu de garantir l'acheteur tant en raison des qualités promises qu'en raison des défauts [...] Il répond de ces défauts, même s'il les ignorait (Art. 197 CO)."
+    },
+    {
+        "question": "14.1.3.4.13. Vrai ou Faux : L'envoi d'une chose non commandée est considéré comme une offre.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "Attention : l'envoi d'une chose non commandée n'est pas considéré comme une offre, le destinataire n'est pas tenu de la renvoyer ni de la retourner."
+    },
+    {
+        "question": "14.1.3.4.14. Vrai ou Faux : L'acheteur doit payer le prix convenu dès qu'il est en possession de la chose, sauf convention contraire.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Sauf convention contraire, le prix est exigible aussitôt que la chose est en possession de l'acheteur (Art. 213 CO)."
+    },
+    {
+        "question": "14.1.3.4.15. Un acheteur reçoit une livraison de marchandises et constate qu'une partie des produits est endommagée. Il souhaite retourner les produits immédiatement. Quelle est la meilleure démarche à suivre ?",
+        "answers": [
+            "Informer l'acheteur qu'il doit signaler les défauts au vendeur avant de retourner les produits.",
+            "Conseiller à l'acheteur de faire constater l'état des produits sans retard pour prouver les défauts.",
+            "Accepter le retour des produits sans formalité préalable.",
+            "Refuser toute responsabilité en expliquant que les défauts sont dus au transport."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Dans le cas d'une vente à distance, l'acheteur doit informer le vendeur des défauts avant de retourner les produits. Il est également tenu de faire constater l'état des produits rapidement pour prouver que les défauts existaient au moment de la réception. Cela garantit une gestion conforme et protège les droits des deux parties."
+    },
+    {
+        "question": "14.1.3.4.16. Un vendeur est en retard pour la livraison d'une commande importante. L'acheteur souhaite savoir quelles sont ses options pour gérer cette situation. Que lui conseillez-vous ?",
+        "answers": [
+            "Informer le vendeur immédiatement après l'échéance si l'acheteur souhaite demander la livraison malgré le retard.",
+            "Expliquer que l'acheteur peut réclamer des dommages-intérêts pour cause d'inexécution si le retard lui cause un préjudice.",
+            "Accepter le retard sans prendre de mesures, car cela fait partie des risques commerciaux.",
+            "Annuler automatiquement la commande sans informer le vendeur."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "En cas de demeure du vendeur, l'acheteur peut présumer qu'il renonce à la livraison et réclamer des dommages-intérêts pour cause d'inexécution. Cependant, si l'acheteur souhaite tout de même recevoir la livraison, il doit en informer le vendeur immédiatement après l'échéance. Ces options permettent à l'acheteur de protéger ses droits tout en respectant les obligations contractuelles."
+    },
+    {
+        "question": "14.1.3.5.1. Les propositions suivantes correspondent-elles à des baux ?",
+        "answers": [
+            "Un contrat par lequel le bailleur cède l'usage d'une chose à un locataire en échange d'un loyer.",
+            "Un contrat de vente entre un propriétaire et un acheteur.",
+            "Un contrat qui permet au locataire de devenir propriétaire après un certain temps.",
+            "Un contrat applicable également aux objets mobiliers.",
+            "Un contrat de location d'un local pour créer votre propre restaurant."
+        ],
+        "correct": [
+            0,
+            3,
+            4
+        ],
+        "explanation": ""
+    },
+    {
+        "question": "14.1.3.5.2. Dans quel cas les règles des baux d'habitation ne s'appliquent-elles pas ?",
+        "answers": [
+            "Pour les appartements de vacances loués pour une durée de trois mois ou moins.",
+            "Pour les locaux commerciaux.",
+            "Pour les logements de luxe.",
+            "Pour un appartement à loyer contrôlé par l'État."
+        ],
+        "correct": 0,
+        "explanation": "Les règles s'appliquent à la location de logements, sauf pour les appartements de vacances loués pour une durée de trois mois ou moins."
+    },
+    {
+        "question": "14.1.3.5.3. Quelles sont les obligations principales du bailleur envers le locataire ?",
+        "answers": [
+            "Délivrer la chose louée dans un état approprié à l'usage prévu.",
+            "Entretenir la chose louée pour la maintenir en bon état.",
+            "Informer le locataire des défauts ou problèmes concernant la chose louée.",
+            "Payer les frais accessoires du locataire."
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Le bailleur doit délivrer la chose louée à la date convenue, dans un état approprié à l'usage prévu. Il est également responsable de l'entretien de la chose louée et doit informer le locataire de tout défaut ou problème concernant la chose louée."
+    },
+    {
+        "question": "14.1.3.5.4. Quelles sont les protections offertes aux locataires contre les loyers abusifs ?",
+        "answers": [
+            "Le loyer ne peut pas dépasser les loyers usuels dans la localité.",
+            "Les locataires peuvent contester un loyer abusif devant l'autorité de conciliation.",
+            "Les locataires peuvent refuser de payer le loyer sans justification.",
+            "Les règles s'appliquent à tous les logements, y compris les logements de luxe."
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Les dispositions légales protègent les locataires contre les loyers abusifs. Cela signifie que le loyer ne peut pas être fixé à un niveau excessif par rapport aux loyers usuels dans la localité. Les locataires peuvent contester un loyer qu'ils jugent abusif devant l'autorité de conciliation."
+    },
+    {
+        "question": "14.1.3.5.5. Que doit faire un locataire s'il souhaite résilier son bail avant le terme ?",
+        "answers": [
+            "Présenter un nouveau locataire solvable.",
+            "Payer une pénalité au bailleur.",
+            "Informer le bailleur au moins 6 mois à l'avance.",
+            "Consigner le loyer auprès d'un service de l'État."
+        ],
+        "correct": 0,
+        "explanation": "Si le locataire désire résilier son bail avant le terme du contrat, il doit présenter un nouveau locataire solvable."
+    },
+    {
+        "question": "14.1.3.5.6. Dans quel cas un bailleur peut-il refuser le consentement pour des travaux réalisés par le locataire ?",
+        "answers": [
+            "Si les modifications nuisent à la structure du bien ou à son usage.",
+            "Si les travaux sont nécessaires pour l'entretien du bien.",
+            "Si le locataire a obtenu un consentement écrit.",
+            "Si les travaux sont mineurs et ne nécessitent pas d'autorisation."
+        ],
+        "correct": 0,
+        "explanation": "Le locataire peut réaliser des modifications ou des travaux dans le bien loué, mais cela nécessite généralement le consentement écrit du bailleur. Ce dernier ne peut refuser son consentement que pour des motifs justifiés, tels que des modifications qui pourraient nuire à la structure du bien ou à son usage."
+    },
+    {
+        "question": "14.1.3.5.7. Quels sont les délais de préavis pour résilier un bail d'habitation ?",
+        "answers": [
+            "Trois mois avant le terme du contrat, sauf si un autre délai a été convenu.",
+            "Six mois avant le terme du contrat.",
+            "Deux semaines avant la fin du mois.",
+            "Aucun délai n'est requis pour résilier un bail d'habitation."
+        ],
+        "correct": 0,
+        "explanation": "Généralement, un préavis de 3 mois par rapport au terme du contrat est requis (sauf si un délai plus long ou un autre terme ont été convenus)."
+    },
+    {
+        "question": "14.1.3.5.8. Vrai ou Faux : Le bailleur peut augmenter le loyer sans justification, à condition d'utiliser un formulaire officiel.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 1,
+        "explanation": "Le bailleur peut augmenter le loyer avant le prochain terme de résiliation, au moins 10 jours avant le délai de résiliation. Il doit utiliser un formulaire officiel et justifier cette augmentation."
+    },
+    {
+        "question": "14.1.3.5.9. Vrai ou Faux : Le locataire peut contester un congé qu'il juge injustifié auprès de l'autorité de conciliation.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Les locataires ont le droit de contester un congé qu'ils estiment injustifié auprès de l'autorité de conciliation dans un délai de 30 jours."
+    },
+    {
+        "question": "14.1.3.5.10. Un locataire vous informe qu'il souhaite résilier son bail d'habitation avant le terme du contrat. Il propose un nouveau locataire solvable pour reprendre le bail. Comment devez-vous gérer cette situation en tant que bailleur ?",
+        "answers": [
+            "Vérifier la solvabilité du nouveau locataire proposé et accepter la résiliation si les conditions sont remplies.",
+            "Refuser la résiliation du bail, car elle intervient avant le terme du contrat.",
+            "Accepter la résiliation sans vérifier la solvabilité du nouveau locataire.",
+            "Exiger une indemnité de résiliation du locataire actuel."
+        ],
+        "correct": 0,
+        "explanation": "En cas de résiliation anticipée d'un bail d'habitation, le locataire a l'obligation de proposer un nouveau locataire solvable. En tant que bailleur, vous devez vérifier la solvabilité du nouveau locataire. Si celui-ci remplit les conditions nécessaires, vous pouvez accepter la résiliation sans exiger d'indemnité supplémentaire. Refuser la résiliation ou ne pas vérifier la solvabilité du nouveau locataire serait contraire aux règles établies."
+    },
+    {
+        "question": "14.1.3.6.1. Quelles sont les obligations principales du fermier dans un bail à ferme ?",
+        "answers": [
+            "Exploiter le bien avec soin",
+            "Payer le fermage à temps",
+            "Maintenir le bien en bon état",
+            "Effectuer les grosses réparations",
+            "Payer les charges publiques"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ],
+        "explanation": "Le fermier doit exploiter le bien avec soin, payer le fermage à temps, et maintenir le bien en bon état."
+    },
+    {
+        "question": "14.1.3.6.2. Dans quel cas le bailleur peut-il résilier un bail à ferme avec effet immédiat ?",
+        "answers": [
+            "En cas de non-paiement du fermage après un délai accordé de 60 jours",
+            "En cas de manquements graves aux obligations contractuelles",
+            "Si le fermier demande une sous-location",
+            "Si le fermier effectue des petites réparations sans autorisation"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "En cas de retard dans le paiement du fermage, le bailleur peut fixer un délai de 60 jours pour le paiement. Si le paiement n'est pas effectué dans ce délai, le bailleur peut résilier le bail avec effet immédiat."
+    },
+    {
+        "question": "14.1.3.6.3. Quelles réparations sont à la charge du bailleur dans un bail à ferme ?",
+        "answers": [
+            "Les grosses réparations",
+            "Les réparations nécessaires pour maintenir le bien en bon état",
+            "Les petites réparations",
+            "Le remplacement des ustensiles usés"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Le bailleur doit exécuter les grosses réparations nécessaires pour maintenir le bien en bon état."
+    },
+    {
+        "question": "14.1.3.6.4. Quelles sont les conditions pour que le fermier puisse sous-louer le bien affermé ?",
+        "answers": [
+            "Obtenir le consentement du bailleur",
+            "Ne pas imposer des conditions abusives au sous-locataire",
+            "Effectuer des modifications essentielles avant la sous-location",
+            "Sous-louer sans informer le bailleur"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Le fermier peut sous-affermer ou sous-louer tout ou partie du bien avec le consentement du bailleur. Le bailleur ne peut refuser la sous-location que pour des raisons valables, telles que des conditions abusives ou des inconvénients majeurs pour lui."
+    },
+    {
+        "question": "14.1.3.6.5. Quels sont les droits du bailleur concernant les inspections du bien affermé ?",
+        "answers": [
+            "Inspecter le bien pour s'assurer qu'il est bien entretenu",
+            "Annoncer les inspections à l'avance",
+            "Réaliser des inspections sans prévenir le fermier",
+            "Modifier le bien lors des inspections"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Le bailleur a le droit d'inspecter le bien pour s'assurer qu'il est bien entretenu. Les inspections doivent être annoncées à l'avance et réalisées en tenant compte des intérêts du fermier."
+    },
+    {
+        "question": "14.1.3.6.6. Quels travaux le fermier peut-il effectuer sans le consentement écrit du bailleur ?",
+        "answers": [
+            "Les travaux nécessaires au bon entretien du bien",
+            "Les petites réparations",
+            "Les modifications essentielles",
+            "Les rénovations importantes"
+        ],
+        "correct": [
+            0,
+            1
+        ],
+        "explanation": "Le fermier est autorisé à effectuer des travaux nécessaires au bon entretien du bien, tant qu'ils ne dépassent pas le cadre de l'entretien courant."
+    },
+    {
+        "question": "14.1.3.6.7. Vrai ou Faux : Le bailleur est responsable des charges publiques et des contributions qui grèvent le bien affermé.",
+        "answers": [
+            "Vrai",
+            "Faux"
+        ],
+        "correct": 0,
+        "explanation": "Le bailleur supporte les charges publiques et les contributions qui grèvent le bien affermé."
+    },
+    {
+        "question": "14.1.3.6.8. Vous êtes bailleur d'une exploitation agricole sous bail à ferme. Lors d'une inspection annoncée, vous constatez que le fermier a apporté des modifications significatives à l'exploitation sans votre consentement écrit. Ces modifications incluent la construction d'une nouvelle structure pour le stockage. Quelle est la meilleure façon de gérer cette situation ?",
+        "answers": [
+            "Informer le fermier que les modifications nécessitent votre consentement écrit et demander des explications sur les travaux effectués.",
+            "Résilier immédiatement le bail sans discussion.",
+            "Ignorer la situation, car les modifications semblent bénéfiques pour l'exploitation.",
+            "Exiger que le fermier démolisse immédiatement la structure sans autre discussion."
+        ],
+        "correct": 0,
+        "explanation": "Dans le cadre d'un bail à ferme, le fermier ne peut pas apporter de modifications essentielles au bien sans le consentement écrit du bailleur. En tant que bailleur, il est important de rappeler cette obligation au fermier et de demander des explications sur les travaux effectués. Une discussion ouverte permet de clarifier la situation et d'évaluer si une régularisation est possible. Une résiliation immédiate ou une demande de démolition sans discussion ne respecte pas les principes de gestion contractuelle équitable."
+    }
+]
